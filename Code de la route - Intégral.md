@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2001-08-28
+Version Consolidée au 2001-10-01
 
 # Partie législative
 
@@ -11943,6 +11943,514 @@ bon fonctionnement de l'appareil ; le résultat en est immédiatement porté à 
 	  - Code de la santé publique - art. R3354-1 (V)
 
 
+#### Chapitre V : Conduite sous l'influence de substances ou plantes classées comme stupéfiants
+
+##### Section I : Dispositions générales
+
+###### Article R235-1
+
+En vue de procéder aux épreuves de dépistage et, le cas échéant, aux analyses et examens médicaux, cliniques et biologiques
+prévus par l'article L. 235-1, doit être regardé comme un accident mortel de la circulation au sens de la disposition
+législative précitée celui qui a eu des conséquences immédiatement mortelles. Dans cette hypothèse, les officiers ou les
+agents de police judiciaire font procéder aux épreuves et, le cas échéant, aux analyses et examens précités sur tout
+conducteur d'un véhicule impliqué dans ce type d'accident.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°2001-751 2001-08-27 art. 7 : application à Mayotte
+
+	**Créé par**:
+
+	  - Décret n°2001-751 du 27 août 2001 - art. 1 () JORF 28 août 2001 en vigueur le 1er octobre 2001
+
+	**Cité par**:
+
+	  - Décret n°2001-751 du 27 août 2001 - art. 4 (V)
+	  - Code de la route - art. R251 (Ab)
+	  - Code de la route. - art. R235-4 (M)
+	  - Code de la route. - art. R244-2 (VD)
+	  - Code de la route. - art. R245-2 (VD)
+
+	**Cite**:
+
+	  - Code de la route. - art. L235-1 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la route. - art. R412-17 (V)
+	  - Code de la route. - art. R421-9 (V)
+
+
+###### Article R235-2
+
+Le délai séparant, d'une part, l'heure de l'accident et, d'autre part, l'heure de l'épreuve de dépistage et le cas échéant
+des analyses et examens précités doit être le plus court possible.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°2001-751 2001-08-27 art. 7 : application à Mayotte
+
+	**Créé par**:
+
+	  - Décret n°2001-751 du 27 août 2001 - art. 1 () JORF 28 août 2001 en vigueur le 1er octobre 2001
+
+	**Cité par**:
+
+	  - Code de la route. - art. R245-2 (VD)
+
+
+##### Section 2 : Epreuves de dépistage
+
+###### Article R235-3
+
+Les épreuves de dépistage prévues par l'article L. 235-1 sont effectuées par un médecin, un biologiste, ou un étudiant en
+médecine autorisé à exercer à titre de remplaçant, dans les conditions fixées à l'article L. 4131-2 du code de la santé
+publique, requis à cet effet par un officier ou agent de police judiciaire qui leur fournit les matériels nécessaires au
+dépistage.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°2001-751 2001-08-27 art. 7 : application à Mayotte
+
+	**Créé par**:
+
+	  - Décret n°2001-751 du 27 août 2001 - art. 1 () JORF 28 août 2001 en vigueur le 1er octobre 2001
+
+	**Cité par**:
+
+	  - Arrêté du 5 septembre 2001 - art. 1 (Ab)
+	  - Arrêté du 5 septembre 2001 - art. 5 (Ab)
+	  - Arrêté du 13 décembre 2016 - art. 1 (V)
+	  - Arrêté du 13 décembre 2016 - art. 4 (V)
+	  - Arrêté du 27 février 2017 - art.
+	  - Code de la route. - art. R235-12 (VD)
+	  - Code de la route. - art. R243-2 (M)
+	  - Code de la route. - art. R244-2 (V)
+	  - Code de la route. - art. R245-2 (VD)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L4131-2 (M)
+	  - Code de la route. - art. L235-1 (M)
+
+
+###### Article R235-4
+
+Les épreuves de dépistage réalisées à la suite d'un recueil de liquide biologique sont effectuées conformément aux méthodes
+et dans les conditions prescrites par un arrêté du ministre chargé de la santé, après avis du directeur général de l'Agence
+française de sécurité sanitaire des produits de santé, qui précise notamment les critères de choix des réactifs et le modèle
+des fiches présentant les résultats. Ces fiches sont remises à l'officier ou l'agent de police judiciaire mentionné à
+l'article R. 235-1. Une copie de ces fiches est immédiatement remise aux conducteurs ayant subi les épreuves de dépistage.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°2001-751 2001-08-27 art. 7 : application à Mayotte
+
+	**Créé par**:
+
+	  - Décret n°2001-751 du 27 août 2001 - art. 1 () JORF 28 août 2001 en vigueur le 1er octobre 2001
+
+	**Cité par**:
+
+	  - Décret n°2001-751 du 27 août 2001 - art. 4 (V)
+	  - Arrêté du 5 septembre 2001 - art. 16 (Ab)
+	  - Arrêté du 13 décembre 2016 - art. 1 (V)
+	  - Code de la route. - art. R235-10 (V)
+	  - Code de la route. - art. R235-12 (VD)
+	  - Code de la route. - art. R235-6 (V)
+	  - Code de la route. - art. R235-8 (V)
+	  - Code de la route. - art. R242-7 (V)
+	  - Code de la route. - art. R245-2 (VD)
+	  - Code de procédure pénale - art. Annexe article A43-6 (VD)
+
+	**Cite**:
+
+	  - Code de la route. - art. R235-1 (M)
+
+
+##### Section 3 : Analyses et examens médicaux, cliniques et biologiques
+
+###### Article R235-5
+
+Les analyses et examens médicaux, cliniques et biologiques prévus à l'article L. 235-1 comportent les opérations suivantes :
+
+- examen clinique ;
+
+- prélèvement biologique ;
+
+- recherche et dosage des stupéfiants. En cas de résultat positif, au cours de cette dernière opération, sont recherchés,
+afin d'éliminer tout facteur de confusion dans l'appréciation du rôle des stupéfiants dans l'accident en cause, les
+médicaments psychoactifs pouvant avoir des effets sur la capacité de conduire des véhicules tels que mentionnés au p de
+l'article R. 5128-2 du code de la santé publique.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°2001-751 2001-08-27 art. 7 : application à Mayotte
+
+	**Créé par**:
+
+	  - Décret n°2001-751 du 27 août 2001 - art. 1 () JORF 28 août 2001 en vigueur le 1er octobre 2001
+
+	**Cité par**:
+
+	  - Arrêté du 5 septembre 2001 - art. 14 (Ab)
+	  - Arrêté du 13 décembre 2016 - art. 12 (V)
+	  - Arrêté du 13 décembre 2016 - art. 5 (V)
+	  - Code de la route. - art. R235-8 (M)
+	  - Code de la route. - art. R242-7 (V)
+	  - Code de la route. - art. R243-2 (M)
+	  - Code de la route. - art. R245-2 (VD)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R5128-2 (M)
+	  - Code de la route. - art. L235-1 (M)
+
+
+###### Article R235-6
+
+L'examen clinique et le prélèvement biologique sont effectués par un médecin ou un étudiant en médecine autorisé à exercer à
+titre de remplaçant, dans les conditions fixées à l'article L. 4131-2 du code de la santé publique, requis à cet effet par un
+officier ou un agent de police judiciaire. Le prélèvement biologique peut également être effectué par un biologiste requis
+dans les mêmes conditions.
+
+Ce praticien effectue le prélèvement biologique à l'aide d'un nécessaire mis à sa disposition par l'officier ou l'agent de
+police judiciaire ci-dessus mentionné, en se conformant aux méthodes prescrites par arrêté du ministre chargé de la santé
+pris après avis du directeur général de l'Agence française de sécurité sanitaire des produits de santé.
+
+Un officier ou un agent de police judiciaire assiste au prélèvement biologique.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°2001-751 2001-08-27 art. 7 : application à Mayotte
+
+	**Créé par**:
+
+	  - Décret n°2001-751 du 27 août 2001 - art. 1 () JORF 28 août 2001 en vigueur le 1er octobre 2001
+
+	**Cité par**:
+
+	  - Arrêté du 5 septembre 2001 - art. 6 (Ab)
+	  - Arrêté du 5 septembre 2001 - art. 7 (Ab)
+	  - Arrêté du 13 décembre 2016 - art. 5 (V)
+	  - Arrêté du 13 décembre 2016 - art. 6 (V)
+	  - Arrêté du 27 février 2017 - art.
+	  - Code de la route. - art. R235-12 (VD)
+	  - Code de la route. - art. R235-7 (V)
+	  - Code de la route. - art. R235-8 (V)
+	  - Code de la route. - art. R242-7 (V)
+	  - Code de la route. - art. R243-2 (M)
+	  - Code de la route. - art. R245-2 (VD)
+	  - Code de procédure pénale - art. Annexe article A43-6 (VD)
+	  - Code de procédure pénale - art. R117 (MMN)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L4131-2 (M)
+
+
+###### Article R235-7
+
+Le prélèvement biologique est réparti entre deux flacons étiquetés et scellés par un officier ou agent de police judiciaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°2001-751 2001-08-27 art. 7 : application à Mayotte
+
+	**Créé par**:
+
+	  - Décret n°2001-751 du 27 août 2001 - art. 1 () JORF 28 août 2001 en vigueur le 1er octobre 2001
+
+	**Cité par**:
+
+	  - Code de la route. - art. R235-9 (M)
+	  - Code de la route. - art. R243-2 (M)
+	  - Code de la route. - art. R244-2 (V)
+	  - Code de la route. - art. R245-2 (VD)
+
+
+###### Article R235-8
+
+En cas de décès du ou des conducteurs impliqués, le prélèvement des échantillons biologiques et l'examen du corps sont
+effectués soit dans les conditions fixées par les articles R. 235-5 et R. 235-6, soit par un médecin légiste au cours de
+l'autopsie judiciaire.
+
+Les méthodes particulières de prélèvement et de conservation des échantillons biologiques applicables en cas de décès du ou
+des conducteurs impliqués sont fixées par arrêté du ministre chargé de la santé, après avis du directeur général de l'Agence
+française de sécurité sanitaire des produits de santé.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°2001-751 2001-08-27 art. 7 : application à Mayotte
+
+	**Créé par**:
+
+	  - Décret n°2001-751 du 27 août 2001 - art. 1 () JORF 28 août 2001 en vigueur le 1er octobre 2001
+
+	**Cité par**:
+
+	  - Arrêté du 5 septembre 2001 - art. 9 (Ab)
+	  - Arrêté du 13 décembre 2016 - art. 8 (V)
+	  - Code de la route. - art. R245-2 (VD)
+
+	**Cite**:
+
+	  - Code de la route. - art. R235-5 (M)
+	  - Code de la route. - art. R235-6 (M)
+
+
+###### Article R235-9
+
+L'officier ou l'agent de police judiciaire adresse les deux échantillons biologiques prélevés, accompagnés des résultats des
+épreuves de dépistage, à un laboratoire ayant déclaré au préfet du lieu de son siège respecter les conditions d'expérience et
+d'équipement fixées par arrêté du ministre chargé de la santé, après avis du directeur général de l'Agence française de
+sécurité sanitaire des produits de santé. Il peut, au lieu du laboratoire, envoyer les échantillons et les résultats précités
+à un expert inscrit sous une rubrique spéciale, en toxicologie, sur la liste de la cour d'appel, dans les conditions prévues
+par l'article R. 32 du code des débits de boissons et des mesures contre l'alcoolisme et répondant aux conditions fixées par
+l'arrêté susvisé.
+
+Le laboratoire ou l'expert conserve un des deux flacons mentionnés à l'article R. 235-7 en vue d'une demande éventuelle d'un
+examen technique ou d'une expertise. Un arrêté du ministre chargé de la santé précise, après avis du directeur général de
+l'Agence française de sécurité sanitaire des produits de santé, les conditions dans lesquelles est conservé cet échantillon.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°2001-751 2001-08-27 art. 7 : application à Mayotte
+
+	**Créé par**:
+
+	  - Décret n°2001-751 du 27 août 2001 - art. 1 () JORF 28 août 2001 en vigueur le 1er octobre 2001
+
+	**Cité par**:
+
+	  - Arrêté du 13 décembre 2016 - art. 13 (V)
+	  - Code de la route. - art. R235-11 (V)
+	  - Code de la route. - art. R244-2 (V)
+	  - Code de la route. - art. R245-2 (VD)
+
+	**Cite**:
+
+	  - Code de la route. - art. R235-7 (M)
+	  - Code des débits de boissons R32
+
+
+###### Article R235-10
+
+La recherche et le dosage des produits stupéfiants et, le cas échéant, la recherche des médicaments psychoactifs sont
+pratiqués dans les conditions définies par arrêté du ministre chargé de la santé, après avis du directeur général de l'Agence
+française de sécurité sanitaire des produits de santé.
+
+Les résultats des analyses et examens médicaux, cliniques et biologiques sont consignés sur les fiches mentionnées à
+l'article R. 235-4. Ces fiches sont ensuite transmises à l'officier ou à l'agent de police judiciaire ayant assisté au
+prélèvement biologique.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°2001-751 2001-08-27 art. 7 : application à Mayotte
+
+	**Créé par**:
+
+	  - Décret n°2001-751 du 27 août 2001 - art. 1 () JORF 28 août 2001 en vigueur le 1er octobre 2001
+
+	**Cité par**:
+
+	  - Décret n°2001-751 du 27 août 2001 - art. 4 (V)
+	  - Arrêté du 5 septembre 2001 - art. 10 (Ab)
+	  - Arrêté du 13 décembre 2016 - art. 9 (V)
+	  - Code de la route. - art. R235-11 (M)
+	  - Code de la route. - art. R235-12 (VD)
+	  - Code de la route. - art. R242-7 (V)
+	  - Code de la route. - art. R244-2 (V)
+	  - Code de la route. - art. R245-2 (VD)
+
+	**Cite**:
+
+	  - Code de la route. - art. R235-4 (M)
+
+
+###### Article R235-11
+
+Le conducteur peut demander au procureur de la République, au juge d'instruction ou à la juridiction de jugement qu'il soit
+procédé à un examen technique ou à une expertise en application des articles 60, 77-1 et 156 du code de procédure pénale.
+
+En cas d'examen technique ou d'expertise, ceux-ci sont confiés à un autre laboratoire ou à un autre expert répondant aux
+conditions fixées par l'article R. 235-9. Celui-ci pratique l'expertise de contrôle en se conformant aux méthodes prescrites
+en application de l'article R. 235-10.
+
+La consignation et la transmission de ces résultats sont effectuées dans les conditions mentionnées à l'article R. 235-10.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°2001-751 2001-08-27 art. 7 : application à Mayotte
+
+	**Créé par**:
+
+	  - Décret n°2001-751 du 27 août 2001 - art. 1 () JORF 28 août 2001 en vigueur le 1er octobre 2001
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 156 (M)
+	  - CODE DE PROCEDURE PENALE - art. 60 (M)
+	  - CODE DE PROCEDURE PENALE - art. 77-1 (M)
+	  - Code de la route. - art. R235-10 (M)
+	  - Code de la route. - art. R235-9 (M)
+
+	**Cité par**:
+
+	  - Code de la route. - art. R235-12 (M)
+	  - Code de la route. - art. R235-6 (V)
+	  - Code de la route. - art. R242-7 (V)
+	  - Code de la route. - art. R245-2 (VD)
+
+
+##### Section 4 : Dispositions matérielles
+
+###### Article R235-12
+
+Les honoraires et indemnités de déplacement afférents aux épreuves de dépistage et aux examens cliniques, médicaux et
+biologiques prévus aux articles R. 235-4 et R. 235-6 sont calculés par référence aux articles R. 110, R. 111 et R. 117 (1°, c
+et e) du code de procédure pénale. Lorsqu'il est procédé à un examen clinique et à un prélèvement biologique, tant en
+application des dispositions de l'article R. 235-6 que des dispositions des articles R. 20 à R. 25 du code des débits de
+boissons et des mesures contre l'alcoolisme, il n'est dû qu'une seule indemnité de déplacement et les honoraires pour un seul
+acte.
+
+Les frais afférents aux examens de laboratoire prévus par les articles R. 235-10 et R. 235-11 relatifs à la recherche et au
+dosage des produits stupéfiants et, le cas échéant, les frais afférents à la recherche des médicaments psychoactifs sont
+fixés par référence aux 10° et 11° de l'article R. 118 du code de procédure pénale.
+
+Les frais afférents à l'acquisition des matériels de recueil et de dépistage prévus par l'article R. 235-3 sont fixés par
+arrêté conjoint du ministre de la justice et du ministre chargé du budget.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2001-751 du 27 août 2001 - art. 1 () JORF 28 août 2001 en vigueur le 1er octobre 2001
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. R110 (V)
+	  - CODE DE PROCEDURE PENALE - art. R111 (V)
+	  - CODE DE PROCEDURE PENALE - art. R117 (M)
+	  - CODE DE PROCEDURE PENALE - art. R118 (M)
+	  - Code de la route. - art. R235-10 (M)
+	  - Code de la route. - art. R235-11 (M)
+	  - Code de la route. - art. R235-3 (M)
+	  - Code de la route. - art. R235-4 (M)
+	  - Code de la route. - art. R235-6 (M)
+	  - Code des débits de boissons R20 à R25
+
+	**Cité par**:
+
+	  - Code de la route. - art. R235-13 (V)
+	  - Code de la route. - art. R242-7 (V)
+	  - Code de la route. - art. R245-2 (VD)
+
+	**Codifié par**:
+
+	  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°2001-751 2001-08-27 art. 7 : application à Mayotte
+
+
+###### Article R235-13
+
+Les dépenses visées à l'article précédent constituent des frais de justice criminelle, correctionnelle et de police.
+
+Le paiement de ces frais a lieu conformément aux dispositions du titre X du livre V du code de procédure pénale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°2001-751 2001-08-27 art. 7 : application à Mayotte
+
+	**Créé par**:
+
+	  - Décret n°2001-751 du 27 août 2001 - art. 1 () JORF 28 août 2001 en vigueur le 1er octobre 2001
+
+	**Cite**:
+
+	  - Code de la route. - art. R235-12 (M)
+
+	**Cité par**:
+
+	  - Code de la route. - art. R242-7 (V)
+	  - Code de la route. - art. R245-2 (VD)
+
+
 ### Titre IV : Dispositions relatives à l'outre-mer.
 
 #### Chapitre Ier : Dispositions particulières à la collectivité territoriale de Saint-Pierre-et-Miquelon.
@@ -12258,6 +12766,48 @@ Pour l'application à Mayotte de l'article R. 234-4, les mots "L. 3354-1" sont r
 	**Cite**:
 
 	  - Code de la route. - art. R234-4 (V)
+
+
+###### Article R242-7
+
+I. - Pour l'application de l'article R. 235-5 à Mayotte, les mots : "tels que mentionnés au p de l'article R. 5128-2 du code
+de la santé publique" sont supprimés.
+
+II. - Pour l'application de l'article R. 235-12 à Mayotte, le représentant de l'Etat fixe par arrêté :
+
+- les honoraires et indemnités de déplacement afférents aux épreuves de dépistage et aux examens cliniques, médicaux et
+biologiques prévus aux articles R. 235-4 et R. 235-6 ;
+
+- les frais afférents aux examens de laboratoire prévus par les articles R. 235-10 et R. 235-11 relatifs à la recherche et au
+dosage des produits stupéfiants et, le cas échéant, les frais afférents à la recherche des médicaments psychoactifs.
+
+III. - Pour son application à Mayotte, le deuxième alinéa de l'article R. 235-13 est ainsi rédigé :
+
+Le paiement de ces frais a lieu conformément à la réglementation en vigueur à Mayotte.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2001-616 du 11 juillet 2001 - art. 75 (V)
+
+	**Créé par**:
+
+	  - Décret n°2001-751 du 27 août 2001 - art. 2 () JORF 28 août 2001 en vigueur le 1er octobre 2001
+
+	**Cite**:
+
+	  - Code de la route. - art. R235-10 (M)
+	  - Code de la route. - art. R235-11 (M)
+	  - Code de la route. - art. R235-12 (M)
+	  - Code de la route. - art. R235-13 (M)
+	  - Code de la route. - art. R235-4 (M)
+	  - Code de la route. - art. R235-5 (M)
+	  - Code de la route. - art. R235-6 (M)
 
 
 #### Chapitre III : Dispositions applicables à la Nouvelle-Calédonie.
