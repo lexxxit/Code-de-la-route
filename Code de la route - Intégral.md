@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2003-06-13
+Version Consolidée au 2003-06-22
 
 # Partie législative
 
@@ -8818,6 +8818,9 @@ d) Les contraventions prévues par l'article R. 211-21-5 du code des assurances.
 Les agents mentionnés aux 3° et 4° de l'article L. 130-4 peuvent constater les contraventions aux dispositions concernant
 l'arrêt ou le stationnement des véhicules autres que celles prévues à l'article R. 417-9.
 
+Les agents mentionnés au 5° et au 10° de l'article L. 130-4 peuvent constater les mêmes contraventions lorsqu'elles sont
+commises respectivement dans les enceintes portuaires ou dans l'emprise des aérodromes.
+
 Les agents mentionnés au 5° de l'article L. 130-4 peuvent constater les mêmes contraventions lorsqu'elles sont commises dans
 les enceintes portuaires.
 
@@ -8825,7 +8828,7 @@ Les agents mentionnés au 3° de l'article L. 130-4 peuvent également constater
 211-21-5 du code des assurances.
 
 La liste des services publics urbains de transport en commun de voyageurs prévue au 4° de l'article L. 130-4 est fixée par
-arrêté conjoint du ministre chargé des transports, du ministre de l'intérieur et du ministre de la justice.
+arrêté préfectoral.
 
 **Liens relatifs à cet article**
 
@@ -8835,7 +8838,7 @@ arrêté conjoint du ministre chargé des transports, du ministre de l'intérieu
 
 	**Modifié par**:
 
-	  - Décret n°2002-1256 du 15 octobre 2002 - art. 6 () JORF 16 octobre 2002
+	  - Décret n°2003-536 du 20 juin 2003 - art. 1 () JORF 22 juin 2003
 
 	**Cite**:
 
@@ -8894,13 +8897,14 @@ ceux-ci ;
 
 ###### Article R130-6
 
-Les contrôleurs des transports terrestres peuvent constater par procès-verbal :
+Les fonctionnaires ou agents de l'Etat chargés du contrôle des transports terrestres placés sous l'autorité du ministre
+chargé des transports peuvent constater par procès-verbal :
 
-1° Les contraventions aux dispositions des articles R. 312-2 à R. 312-6, R. 312-10 à R. 312-14, R. 312-19 à R. 312-23, R.
-314-1, R. 317-1, R. 317-3, R. 317-4, R. 317-5, R. 317-24, R. 323-1, R. 323-2, R. 323-6, R. 323-23 à R. 323-25, R. 411-18, R.
-412-16, R. 433-1 à R. 433-4, et R. 433-6 ainsi que, lorsqu'elles sont commises par le conducteur d'un véhicule qui doit être
-équipé d'un appareil de contrôle dit chronotachygraphe, les contraventions aux dispositions relatives aux vitesses maximales
-autorisées par le présent code ;
+1° Les contraventions aux dispositions des articles R. 121-1 à R. 121-5, R. 312-2 à R. 312-6, R. 312-10 à R. 312-14, R.
+312-19 à R. 312-23, R. 314-1, R. 317-1, R. 317-3, R. 317-4, R. 317-5, R. 317-24, R. 323-1, R. 323-2, R. 323-6, R. 323-23 à R.
+323-26, R. 411-18, R. 412-16, R. 433-1 à R. 433-7 ainsi que, lorsqu'elles sont commises par le conducteur d'un véhicule qui
+doit être équipé d'un appareil de contrôle dit chronotachygraphe, les contraventions aux dispositions relatives aux vitesses
+maximales autorisées par le présent code ;.
 
 2° Toutes les autres contraventions prévues aux 1° et 2° de l'article R. 130-1 lorsqu'elles sont connexes à des infractions
 aux dispositions législatives et réglementaires en matière de coordination et d'harmonisation des transports ferroviaires et
@@ -8911,6 +8915,10 @@ routiers.
 	**Codifié par**:
 
 	  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+	**Modifié par**:
+
+	  - Décret n°2003-536 du 20 juin 2003 - art. 2 () JORF 22 juin 2003
 
 	**Cité par**:
 
@@ -8923,7 +8931,7 @@ routiers.
 
 	**Cite**:
 
-	  - Code de la route R312-2 à R312-6, R312-10 à R312-14, R312-19 à R312-23, R314-1, R317-1, R317-3, R317-4, R317-5, R317-24, R323-1, R323-2, R323-6, R323-23 à R323-25, R411-18, R412-16, R433-1 à R433-4, R130-1
+	  - Code de la route R121-1 à R121-5, R312-2 à R312-6, R312-10 à R312-14, R312-19 à R312-23, R314-1, R317-1, R317-3, R317-4, R317-5, R317-24, R323-1, R323-2, R323-6, R323-23 à R323-26, R411-18, R412-16, R433-1 à R433-7, R130-1
 	  - Code de la route. - art. R130-1 (M)
 	  - Code de la route. - art. R314-1 (V)
 	  - Code de la route. - art. R317-1 (V)
@@ -11891,8 +11899,8 @@ entraînent se cumule dans la limite de huit points.
 ###### Article R223-3
 
 I. - Lors de la constatation d'une infraction, l'auteur de celle-ci est informé que cette infraction est susceptible
-d'entraîner le retrait d'un certain nombre de points si elle est constatée par le paiement d'une amende forfaitaire ou par
-une condamnation définitive.
+d'entraîner le retrait d'un certain nombre de points si sa réalité est établie dans les conditions prévues à l'article L.
+223-1.
 
 II. - Il est informé également de l'existence d'un traitement automatisé des retraits et reconstitutions de points et de la
 possibilité pour lui d'accéder aux informations le concernant. Ces mentions figurent sur le document qui lui est remis par
@@ -11914,6 +11922,10 @@ titre de conduite dans un délai d'une semaine à compter de la réception de ce
 	**Codifié par**:
 
 	  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+	**Modifié par**:
+
+	  - Décret n°2003-536 du 20 juin 2003 - art. 3 () JORF 22 juin 2003
 
 	**Cité par**:
 
@@ -13230,11 +13242,11 @@ lorsque ces documents sont exigés par le présent code :
 
 2° La carte grise du véhicule et, le cas échéant, celle de la remorque si le poids total autorisé en charge (PTAC) de cette
 dernière excède 500 kilogrammes, ou de la semi-remorque s'il s'agit d'un véhicule articulé, ou les récépissés provisoires, ou
-les photocopies certifiées conformes des cartes grises dans les cas et dans les conditions prévues par un arrêté du ministre
-de la justice et du ministre de l'intérieur ;
+les photocopies des cartes grises dans les cas et dans les conditions prévues par un arrêté du ministre de la justice et du
+ministre de l'intérieur ;
 
-3° L'original ou la copie certifiée conforme du certificat constatant l'achèvement d'une formation de conducteur de transport
-par route quand celui-ci est exigé en application de l'article R. 221-6.
+3° L'original ou la copie du certificat constatant l'achèvement d'une formation de conducteur de transport par route quand
+celui-ci est exigé en application de l'article R. 221-6.
 
 II. - En cas de perte ou de vol du titre justifiant de l'autorisation de conduire le récépissé de déclaration de perte ou de
 vol tient lieu de titre pendant un délai de deux mois au plus.
@@ -13270,7 +13282,7 @@ prévue pour les contraventions de la quatrième classe.
 
 	**Modifié par**:
 
-	  - Décret n°2002-675 du 30 avril 2002 - art. 3 () JORF 2 mai 2002
+	  - Décret n°2003-536 du 20 juin 2003 - art. 4 () JORF 22 juin 2003
 
 	**Anciens textes**:
 
@@ -16187,7 +16199,7 @@ feux de route.
 III. - Tout tricycle à moteur ou quadricycle lourd à moteur, dont la largeur dépasse 1,30 mètre, doit être muni à l'avant de
 deux feux de route.
 
-IV. - Les dispositions du I ci-dessus ne sont pas applicables ni aux cyclomoteurs ni aux quadricycles légers à moteur qui,
+IV. - Les dispositions du I ci-dessus ne sont applicables ni aux cyclomoteurs ni aux quadricycles légers à moteur qui,
 toutefois, peuvent être munis d'un ou de deux feux de route.
 
 V. - Lorsqu'un cyclomoteur à trois roues ou un quadricycle léger à moteur, dont la largeur dépasse 1,30 mètre, est muni de
@@ -16207,6 +16219,10 @@ des feux de route, l'immobilisation peut être prescrite dans les conditions pr�
 	**Codifié par**:
 
 	  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+	**Modifié par**:
+
+	  - Décret n°2003-536 du 20 juin 2003 - art. 5 () JORF 22 juin 2003
 
 	**Anciens textes**:
 
@@ -17556,8 +17572,8 @@ Un arrêté du ministre chargé des transports définit les caractéristiques de
 ###### Article R313-35
 
 Le fait de détenir, d'utiliser, d'adapter, de placer, d'appliquer ou de transporter à un titre quelconque les timbres ou
-avertisseurs spéciaux réservés aux véhicules d'intérêt général est puni de l'amende prévue pour les contraventions de la
-quatrième classe.
+avertisseurs sonores spéciaux réservés aux véhicules d'intérêt général est puni de l'amende prévue pour les contraventions de
+la quatrième classe.
 
 Ces dispositifs peuvent être saisis et confisqués.
 
@@ -17566,6 +17582,10 @@ Ces dispositifs peuvent être saisis et confisqués.
 	**Codifié par**:
 
 	  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+	**Modifié par**:
+
+	  - Décret n°2003-536 du 20 juin 2003 - art. 6 () JORF 22 juin 2003
 
 	**Anciens textes**:
 
@@ -18253,11 +18273,13 @@ l'amende prévue pour les contraventions de la troisième classe.
 
 ###### Article R316-7
 
-Les organes de direction doivent présenter des garanties suffisantes de solidité. Dans le cas où leur fonctionnement fait
-appel à un fluide, ils doivent être conçus de telle sorte que le conducteur puisse garder le contrôle de son véhicule en cas
-de défaillance de l'un des organes utilisant le fluide.
+I. - Les organes de direction doivent présenter des garanties suffisantes de solidité.
 
-Le fait de contrevenir aux dispositions du présent article est puni de l'amende prévue pour les contraventions de la
+II. - Dans le cas où le fonctionnement des organes de direction fait appel à un fluide, ceux-ci doivent être conçus de telle
+sorte que le conducteur puisse garder le contrôle de son véhicule en cas de défaillance de l'un des organes utilisant le
+fluide. Les véhicules et matériels agricoles et de travaux publics ne sont pas soumis à cette obligation.
+
+III. - Le fait de contrevenir aux dispositions du présent article est puni de l'amende prévue pour les contraventions de la
 troisième classe.
 
 **Liens relatifs à cet article**
@@ -18266,15 +18288,15 @@ troisième classe.
 
 	  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
 
+	**Modifié par**:
+
+	  - Décret n°2003-536 du 20 juin 2003 - art. 7 () JORF 22 juin 2003
+
 	**Anciens textes**:
 
 	  - Code de la route - art. R239 (Ab)
 	  - Code de la route - art. R78-1 (Ab)
 	  - Code de la route R78-1, R239
-
-	**Liens**:
-
-	  - SPEC_APPLI: Code de la route. - art. R316-9 (V)
 
 
 ###### Article R316-8
@@ -18495,14 +18517,18 @@ publics ou privés ;
 2° Lorsque le conducteur ne peut présenter les documents dûment renseignés concernant les conditions de travail dans les
 transports publics et privés ;
 
-3° Lorsque l'appareil de contrôle permettant l'enregistrement de la vitesse a été l'objet d'une modification affectant son
-fonctionnement normal.
+3° En l'absence d'appareil de contrôle permettant l'enregistrement de la vitesse ou lorsque celui-ci a fait l'objet d'une
+modification ou d'une détérioration affectant son fonctionnement normal.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+	**Modifié par**:
+
+	  - Décret n°2003-536 du 20 juin 2003 - art. 8 () JORF 22 juin 2003
 
 	**Anciens textes**:
 
@@ -18518,10 +18544,6 @@ fonctionnement normal.
 	  - Code de la route. - art. R130-6 (V)
 	  - Code de la route. - art. R343-1-1 (V)
 	  - Code de la route. - art. R344-1-1 (V)
-
-	**Liens**:
-
-	  - SPEC_APPLI: Code de la route. - art. R317-7 (V)
 
 
 ###### Article R317-5
@@ -18651,14 +18673,16 @@ d'immatriculation reproduisant le numéro d'immatriculation du véhicule tracteu
 chargement sont telles que la plaque d'immatriculation du véhicule tracteur n'est pas visible pour un observateur placé à
 l'arrière.
 
+Chaque plaque doit être maintenue dans un état d'entretien permettant la lecture des inscriptions qu'elle comporte.
+
 Le ministre chargé des transports et le ministre de l'intérieur fixent par arrêté les caractéristiques et le mode de pose des
 plaques d'immatriculation.
 
 Le fait de faire circuler un véhicule à moteur ou une remorque sans qu'il soit muni des plaques ou inscriptions exigées par
 le présent article est puni de l'amende prévue pour les contraventions de la quatrième classe.
 
-Le fait de contrevenir aux dispositions du présent article relatives à l'entretien et aux dimensions des plaques
-d'immatriculation est puni de l'amende prévue pour les contraventions de la troisième classe.
+Le fait de contrevenir aux dispositions du présent article relatives à l'entretien, aux caractéristiques ou au mode de pose
+des plaques d'immatriculation est puni de l'amende prévue pour les contraventions de la troisième classe.
 
 L'immobilisation du véhicule peut être prescrite dans les conditions prévues aux articles L. 325-1 à L. 325-3.
 
@@ -18680,7 +18704,7 @@ L'immobilisation du véhicule peut être prescrite dans les conditions prévues 
 
 	**Modifié par**:
 
-	  - Décret n°2003-42 du 8 janvier 2003 - art. 1 () JORF 15 janvier 2003
+	  - Décret n°2003-536 du 20 juin 2003 - art. 9 () JORF 22 juin 2003
 
 	**Anciens textes**:
 
@@ -18765,9 +18789,9 @@ l'amende prévue pour les contraventions de la quatrième classe.
 
 ###### Article R317-10
 
-Tout véhicule ou matériel agricole ou de travaux publics soumis à réception doit porter, sur une plaque spéciale,
-l'indication du lieu et de la date de sa réception par la direction régionale de l'industrie, de la recherche et de
-l'environnement ou par l'autorité compétente d'un Etat membre de la Communauté européenne.
+Tout véhicule ou matériel agricole, à l'exception des tracteurs agricoles, ou de travaux publics soumis à réception doit
+porter, sur une plaque spéciale, l'indication du lieu et de la date de sa réception par la direction régionale de
+l'industrie, de la recherche et de l'environnement ou par l'autorité compétente d'un Etat membre de la Communauté européenne.
 
 Ces diverses inscriptions sont faites sous la responsabilité du constructeur.
 
@@ -18779,6 +18803,10 @@ quatrième classe.
 	**Codifié par**:
 
 	  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+	**Modifié par**:
+
+	  - Décret n°2003-536 du 20 juin 2003 - art. 10 () JORF 22 juin 2003
 
 	**Anciens textes**:
 
@@ -20246,7 +20274,7 @@ Les dispositions du présent article ne sont pas applicables aux véhicules de c
 Tout véhicule isolé ou élément de véhicule ayant subi des transformations notables est obligatoirement soumis à une nouvelle
 réception. Le propriétaire du véhicule ou de l'élément de véhicule doit demander cette nouvelle réception au préfet.
 
-Le ministre chargé des transports définit les transformations notables rendant nécessaires une nouvelle réception.
+Le ministre chargé des transports définit par arrêté les transformations notables rendant nécessaires une nouvelle réception.
 
 **Liens relatifs à cet article**
 
@@ -20266,14 +20294,14 @@ Le ministre chargé des transports définit les transformations notables rendant
 
 	  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
 
+	**Modifié par**:
+
+	  - Décret n°2003-536 du 20 juin 2003 - art. 11 () JORF 22 juin 2003
+
 	**Anciens textes**:
 
 	  - Code de la route - art. R106 (Ab)
 	  - Code de la route R106 (al. 8)
-
-	**Liens**:
-
-	  - SPEC_APPLI: Code de la route. - art. R321-2 (V)
 
 
 ###### Article R321-17
@@ -20597,6 +20625,11 @@ son identité et déclarer, selon le cas, l'adresse du domicile du locataire ou 
 Les dispositions du présent article ne sont applicables ni aux cyclomoteurs à trois roues non munis d'une carrosserie ni aux
 cyclomoteurs à deux roues.
 
+Les dispositions du présent article ne sont pas applicables aux machines agricoles automotrices et aux véhicules ou appareils
+agricoles remorqués, appartenant à une exploitation agricole, à une entreprise de travaux agricoles ou à une coopérative
+d'utilisation de matériel agricole, ainsi qu'aux véhicules ou appareils agricoles remorqués dont le poids total en charge est
+inférieur à 1,5 tonne.
+
 Un arrêté du ministre chargé des transports, pris après avis du ministre de l'intérieur, fixe les conditions d'application du
 présent article.
 
@@ -20621,6 +20654,10 @@ puni de l'amende prévue pour les contraventions de la quatrième classe.
 
 	  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
 
+	**Modifié par**:
+
+	  - Décret n°2003-536 du 20 juin 2003 - art. 12 () JORF 22 juin 2003
+
 	**Cité par**:
 
 	  - Arrêté du 14 octobre 2009 (V)
@@ -20633,10 +20670,6 @@ puni de l'amende prévue pour les contraventions de la quatrième classe.
 	  - Code de la route. - art. R322-5 (VD)
 	  - Code de la route. - art. R411-29 (VD)
 	  - Code des transports - art. R3122-1 (VD)
-
-	**Liens**:
-
-	  - SPEC_APPLI: Code de la route. - art. R322-14 (V)
 
 
 ###### Article R322-2
@@ -21582,7 +21615,7 @@ dans le département. Il en informe les ministres chargés des transports et de 
 
 ###### Article R323-7
 
-Le contrôle technique prévu au I de l'article R. 323-6 est effectuée par un contrôleur agréé par l'Etat exerçant ses
+Le contrôle technique prévu aux I et II de l'article R. 323-6 est effectuée par un contrôleur agréé par l'Etat exerçant ses
 fonctions, dans les conditions prévues par la présente section, dans un centre de contrôle rattaché ou non à un réseau de
 contrôle.
 
@@ -21609,9 +21642,9 @@ contrôle.
 
 	  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Code de la route. - art. R323-3 (V)
+	  - Décret n°2003-536 du 20 juin 2003 - art. 13 () JORF 22 juin 2003
 
 	**Cite**:
 
@@ -22421,15 +22454,16 @@ puni de l'amende prévue pour les contraventions de la quatrième classe.
 
 L'immobilisation peut être prescrite par les officiers et les agents de police judiciaire ainsi que les agents de police
 judiciaire adjoints mentionnés à l'article 21 du code de procédure pénale et les gardes champêtres lorsqu'ils constatent la
-nécessité de faire cesser sans délai une des infractions pour lesquelles cette mesure est prévue par le présent code.
+nécessité de faire cesser sans délai une des infractions pour lesquelles cette mesure est prévue par le présent code. 
 
 Elle peut être prescrite par les agents mentionnés au 2° de l'article L. 116-2 du code de la voirie routière lorsque
-l'infraction qui la motive est constatée dans les conditions prévues à l'article R. 130-5.
+l'infraction qui la motive est constatée dans les conditions prévues à l'article R. 130-5. 
 
-Elle peut également être prescrite, dans le champ de leur compétence, par les inspecteurs des transports, les contrôleurs des
-transports terrestres mentionnés à l'article 25 de la loi n° 52-401 du 14 avril 1952, modifié par le décret n° 65-714 du 21
-août 1965, les agents des douanes et les inspecteurs du travail lorsqu'il y a nécessité de faire cesser sans délai une
-infraction pour laquelle cette mesure est prévue par le présent code.
+Elle peut également être prescrite, dans le champ de leur compétence, par les inspecteurs des transports, fonctionnaires ou
+agents de l'Etat chargés du contrôle des transports terrestres placés sous l'autorité du ministre chargé des transports
+mentionnés à l'article 25 de la loi n° 52-401 du 14 avril 1952, modifié par le décret n° 65-714 du 21 août 1965, les agents
+des douanes et les inspecteurs du travail lorsqu'il y a nécessité de faire cesser sans délai une infraction pour laquelle
+cette mesure est prévue par le présent code. 
 
 Elle peut être en outre prescrite par les agents verbalisateurs mentionnés à l'article L. 362-5 du code de l'environnement.
 
@@ -22437,10 +22471,10 @@ Elle peut être en outre prescrite par les agents verbalisateurs mentionnés à 
 
 	**Cite**:
 
+	  - Loi n°52-401 du 14 avril 1952 (V)
 	  - Décret n°65-714 1965-08-21
-	  - Loi n°52-401 1952-04-14 art. 25
 	  - Code de la voirie routière - art. L116-2 (M)
-	  - CODE DE PROCEDURE PENALE - art. 21 (M)
+	  - Code de procédure pénale - art. 21 (V)
 	  - Code de l'environnement - art. L362-5 (V)
 	  - Code de la route. - art. R130-5 (V)
 
@@ -22450,7 +22484,7 @@ Elle peut être en outre prescrite par les agents verbalisateurs mentionnés à 
 
 	**Modifié par**:
 
-	  - Décret n°2002-1256 du 15 octobre 2002 - art. 7 () JORF 16 octobre 2002
+	  - Décret n°2003-536 du 20 juin 2003 - art. 14 () JORF 22 juin 2003
 
 	**Cité par**:
 
@@ -24277,14 +24311,23 @@ et L. 326-3 du code de la route par l'article 20 de la loi n° 2003-495 du 12 ju
 ###### Article R326-9
 
 Le second rapport d'expertise mentionné au troisième alinéa de l'article L. 326-11 et au troisième alinéa de l'article L.
-326-12 atteste que le véhicule n'a pas subi de transformation notable au sens du dernier alinéa de l'article R. 321-15, ni de
-transformation susceptible de modifier les caractéristiques indiquées sur la carte grise.
+326-12 atteste que le véhicule n'a pas subi de transformation notable au sens de l'article R. 321-16, ni de transformation
+susceptible de modifier les caractéristiques indiquées sur la carte grise.
+
+**Nota:**
+
+NOTA : Les articles L. 326-10 et L. 326-11 ont été transférés respectivement sous les articles L. 327-1 et L. 327-2 du code
+de la route par l'article 20 de la loi n° 2003-495 du 12 juin 2003.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+	**Modifié par**:
+
+	  - Décret n°2003-536 du 20 juin 2003 - art. 15 () JORF 22 juin 2003
 
 	**Anciens textes**:
 
@@ -24296,7 +24339,7 @@ transformation susceptible de modifier les caractéristiques indiquées sur la c
 
 	  - Code de la route. - art. L326-11 (T)
 	  - Code de la route. - art. L326-12 (T)
-	  - Code de la route. - art. R321-15 (V)
+	  - Code de la route. - art. R321-16 (M)
 
 	**Nouveaux textes**:
 
@@ -24604,10 +24647,10 @@ suivantes :
 
 1° Documents établissant l'état civil de l'intéressé ;
 
-2° Copie certifiée conforme, suivant le cas, du brevet professionnel d'expert en automobile prévu par le décret n° 74-472 du
-17 mai 1974 relatif aux experts en automobile ou du diplôme d'expert en automobile prévu par le décret n° 95-493 du 25 avril
-1995 portant création et règlement général du diplôme d'expert en automobile ou copie certifiée conforme de la reconnaissance
-de la qualité d'expert en automobile délivrée par application du décret n° 74-472 du 17 mai 1974 précité ;
+2° Copie, suivant le cas, du brevet professionnel d'expert en automobile prévu par le décret n° 74-472 du 17 mai 1974 relatif
+aux experts en automobile ou du diplôme d'expert en automobile prévu par le décret n° 95-493 du 25 avril 1995 portant
+création et règlement général du diplôme d'expert en automobile ou copie de la reconnaissance de la qualité d'expert en
+automobile délivrée par application du décret n° 74-472 du 17 mai 1974 précité ;
 
 3° Déclaration sur l'honneur suivant laquelle le demandeur affirme ne pas détenir de charge d'officier public ou ministériel
 ni exercer une activité incompatible avec la qualité d'expert en automobile conformément aux dispositions de l'article L.
@@ -24645,6 +24688,14 @@ sollicite la reconnaissance de sa qualification pour le contrôle des véhicules
 	**Codifié par**:
 
 	  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+	**Modifié par**:
+
+	  - Décret n°2003-536 du 20 juin 2003 - art. 16 () JORF 22 juin 2003
+
+	**Abrogé par**:
+
+	  - Décret n°2006-1808 du 23 décembre 2006 - art. 2 () JORF 31 décembre 2006
 
 	**Cité par**:
 
@@ -25129,6 +25180,46 @@ ministre chargé de l'outre-mer.
 	  - Code de la route. - art. R326-5 (V)
 
 
+###### Article R342-4
+
+Pour son application à Mayotte, l'article R. 325-3 est rédigé comme suit : 
+
+" Art. R. 325-3-L'immobilisation peut être prescrite par les officiers de police judiciaire, les gendarmes qui n'ont pas la
+qualité d'officier de police judiciaire, les adjoints de sécurité, les volontaires servant en qualité de militaires dans la
+gendarmerie et les agents du cadre de police mahoraise agréés par le représentant du Gouvernement et ayant prêté serment
+devant le procureur de la République, lorsqu'ils constatent la nécessité de faire cesser sans délai une des infractions pour
+lesquelles l'immobilisation peut être prévue. 
+
+Elle peut être prescrite par les fonctionnaires des ponts et chaussées, y compris les conducteurs de chantiers ou agents de
+travaux assermentés à cet effet. 
+
+Elle peut également être prescrite dans le cadre de leur compétence, par les inspecteurs des transports, fonctionnaires ou
+agents de l'Etat chargés du contrôle des transports terrestres placés sous l'autorité du ministre chargé des transports, les
+agents de douanes et les inspecteurs du travail lorsqu'il y a nécessité de faire cesser sans délai une infraction pour
+laquelle elle est prévue. 
+
+Elle peut en outre être prescrite par les ingénieurs, chefs de district et agents techniques des eaux et forêts. "
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°93-301 1993-03-08 art. 14
+	  - Décret n°93-301 du 8 mars 1993 - art. 14 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+	**Modifié par**:
+
+	  - Décret n°2003-536 du 20 juin 2003 - art. 14 () JORF 22 juin 2003
+
+	**Cite**:
+
+	  - Code de la route. - art. R325-3 (V)
+
+
 ###### Article R342-5
 
 Pour son application à Mayotte, l'article R. 327-20 est rédigé comme suit :
@@ -25155,58 +25246,6 @@ les listes d'aptitude prévues au premier alinéa de l'article R. 326-2."
 
 	  - Code de la route. - art. R326-2 (M)
 	  - Code de la route. - art. R327-20 (Ab)
-
-
-#### Chapitre II : Dispositions applicables dans la collectivité territoriale de Mayotte.
-
-###### Article R342-4
-
-Pour son application dans la collectivité territoriale de Mayotte, l'article R. 325-3 est rédigé comme suit :
-
-Art. R. 325-3. -     L'immobilisation peut être prescrite par les officiers de police judiciaire, les gendarmes qui n'ont pas
-la qualité d'officier de police judiciaire, les adjoints de sécurité, les volontaires servant en qualité de militaires dans
-la gendarmerie et les agents du cadre de police mahoraise agréés par le représentant du Gouvernement et ayant prêté serment
-devant le procureur de la République, lorsqu'ils constatent la nécessité de faire cesser sans délai une des infractions pour
-lesquelles l'immobilisation peut être prévue.
-
-Elle peut être prescrite par les fonctionnaires des ponts et chaussées, y compris les conducteurs de chantiers ou agents de
-travaux assermentés à cet effet.
-
-Elle peut également être prescrite dans le cadre de leur compétence par les inspecteurs des transports, les contrôleurs des
-transports terrestres, les agents de douanes et les inspecteurs du travail lorsqu'il y a nécessité de faire cesser sans délai
-une infraction pour laquelle elle est prévue.
-
-Elle peut en outre être prescrite par les ingénieurs, chefs de district et agents techniques des eaux et forêts.
-
-**Nota:**
-
-NOTA : Loi 2001-616 2001-07-11 art. 75 : dans tous les textes législatifs et réglementaires, la référence à la collectivité
-territoriale de Mayotte est remplacée par la référence à Mayotte, la référence à la collectivité territoriale est remplacée
-par la référence à la collectivité départementale et la référence au représentant du Gouvernement est remplacée par la
-référence au représentant de l'Etat.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°93-301 1993-03-08 art. 14
-	  - Décret n°93-301 du 8 mars 1993 - art. 14 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°2001-616 du 11 juillet 2001 - art. 75 (V)
-
-	**Modifié par**:
-
-	  - Décret n°2002-1256 du 15 octobre 2002 - art. 9 (V) JORF 16 octobre 2002
-
-	**Cite**:
-
-	  - Code de la route. - art. R325-3 (M)
 
 
 #### Chapitre III : Dispositions applicables à la Polynésie française
@@ -28978,8 +29017,9 @@ véhicules.
 
 ###### Article R413-8
 
-La vitesse des véhicules dont le poids total autorisé en charge ou le poids total roulant autorisé est supérieur à 3,5
-tonnes, à l'exception des véhicules de transport en commun, est limitée à :
+La vitesse des véhicules dont le poids total autorisé en charge est supérieur à 3,5 tonnes ou des ensembles de véhicules dont
+le poids total roulant autorisé est supérieur à 3,5 tonnes  à l'exception des véhicules de transport en commun, est limitée
+à :
 
 1° 110 km/h pour les véhicules dont le poids total est inférieur ou égal à 12 tonnes et à 90 km/h pour ceux dont le poids
 total est supérieur à 12 tonnes, sur les autoroutes ;
@@ -28999,6 +29039,10 @@ avec remorque dont le poids total est supérieur à 12 tonnes.
 
 	  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
 
+	**Modifié par**:
+
+	  - Décret n°2003-536 du 20 juin 2003 - art. 17 () JORF 22 juin 2003
+
 	**Anciens textes**:
 
 	  - Code de la route - art. R10-1 (Ab)
@@ -29007,11 +29051,6 @@ avec remorque dont le poids total est supérieur à 12 tonnes.
 	**Cité par**:
 
 	  - Code de la route. - art. R413-8-1 (V)
-
-	**Liens**:
-
-	  - SPEC_APPLI: Code de la route. - art. R432-1 (V)
-	  - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
 ###### Article R413-9
@@ -29542,7 +29581,7 @@ II. - Il ne peut entreprendre le dépassement d'un véhicule que si :
 
 3° Il n'est pas lui-même sur le point d'être dépassé.
 
-III. - Il doit, en outre, en cas de nécessité, avertir de son intention l'usager qu'il veut dépasser.
+III. - Il doit, en outre, avertir de son intention l'usager qu'il veut dépasser.
 
 IV. - Pour effectuer le dépassement, il doit se déporter suffisamment pour ne pas risquer de heurter l'usager qu'il veut
 dépasser. Il ne doit pas en tout cas s'en approcher latéralement à moins d'un mètre en agglomération et d'un mètre et demi
@@ -29560,7 +29599,7 @@ VII. - Cette contravention donne lieu de plein droit à la réduction de trois p
 
 **Nota:**
 
-NOTA : Décret 2003-293 art. 8 : Les dispositions des articles 2, 3, 4, 6 et 7 sont applicables à Mayotte.
+Décret 2003-293 art. 8 : Les dispositions des articles 2,3,4,6 et 7 sont applicables à Mayotte.
 
 **Liens relatifs à cet article**
 
@@ -29570,7 +29609,7 @@ NOTA : Décret 2003-293 art. 8 : Les dispositions des articles 2, 3, 4, 6 et 7 s
 
 	**Modifié par**:
 
-	  - Décret n°2003-293 du 31 mars 2003 - art. 2 () JORF 1er avril 2003
+	  - Décret n°2003-536 du 20 juin 2003 - art. 18 () JORF 22 juin 2003
 
 	**Anciens textes**:
 
@@ -29584,10 +29623,6 @@ NOTA : Décret 2003-293 art. 8 : Les dispositions des articles 2, 3, 4, 6 et 7 s
 	  - Code de la route. - art. R121-6 (V)
 	  - Code de la route. - art. R130-11 (V)
 	  - Code de la route. - art. R412-19 (V)
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2003-293 2002-12-23 art. 8
 
 
 ###### Article R414-5
@@ -30838,7 +30873,7 @@ de l'extrémité de la largeur hors tout du véhicule ;
 
 2° Dans tous les cas, en même temps que les feux de brouillard.
 
-III. - La circulation des motocyclettes avec à l'avant le ou leurs seuls feux de position allumés est interdite.
+III. (Dispositions abrogées)
 
 IV. - Le fait, pour tout conducteur, de contrevenir aux dispositions du présent article est puni de l'amende prévue pour les
 contraventions de la quatrième classe.
@@ -30849,16 +30884,15 @@ contraventions de la quatrième classe.
 
 	  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
 
+	**Modifié par**:
+
+	  - Décret n°2003-536 du 20 juin 2003 - art. 19 () JORF 22 juin 2003
+
 	**Anciens textes**:
 
 	  - Code de la route - art. R232 (Ab)
 	  - Code de la route - art. R40 (Ab)
 	  - Code de la route R40 I, R232 (al. 1 et 8)
-
-	**Liens**:
-
-	  - SPEC_APPLI: Code de la route. - art. R432-1 (V)
-	  - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
 ###### Article R416-9
@@ -31585,6 +31619,8 @@ II. - Est considéré comme gênant la circulation publique, l'arrêt ou le stat
 
 1° Sur les trottoirs, les passages ou accotements réservés à la circulation des piétons ;
 
+1° bis Sur les bandes et pistes cyclables ainsi qu'en bordure des bandes cyclables ;
+
 2° Sur les emplacements réservés à l'arrêt ou au stationnement des véhicules de transport public de voyageurs, des taxis ou
 des véhicules affectés à un service public ;
 
@@ -31645,6 +31681,10 @@ aux articles L. 325-1 à L. 325-3.
 
 	  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
 
+	**Modifié par**:
+
+	  - Décret n°2003-536 du 20 juin 2003 - art. 20 () JORF 22 juin 2003
+
 	**Anciens textes**:
 
 	  - Code général des collectivités territoriales L2213-2 3
@@ -31658,11 +31698,6 @@ aux articles L. 325-1 à L. 325-3.
 	**Cite**:
 
 	  - Code de la route L325-1 à L325-3
-
-	**Liens**:
-
-	  - SPEC_APPLI: Code de la route. - art. R432-1 (V)
-	  - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
 ###### Article R417-11
@@ -32491,7 +32526,7 @@ prévue pour les contraventions de la quatrième classe.
 
 I. - Lorsqu'une voie ferrée est établie sur une route ou la traverse à niveau, la priorité de passage appartient aux
 matériels circulant normalement sur cette voie ferrée, à l'exception des véhicules de transport public assujettis à suivre,
-de façon permanente, une trajectoire déterminée par un ou des rails matériels et empruntant l'assiette des routes, dont les
+de façon permanente, une trajectoire déterminée par un ou des rails matériels et empruntant l'assiette des routes dont les
 conducteurs doivent respecter les signalisations comportant des prescriptions absolues et les indications données par les
 agents réglant la circulation.
 
@@ -32502,20 +32537,22 @@ fermeture ou d'ouverture. Lorsqu'un passage à niveau n'est muni ni de barrière
 aucun usager ne doit s'y engager sans s'être assuré qu'aucun train n'approche. Lorsqu'une traversée est gardée, l'usager de
 la route doit obéir aux injonctions du garde et ne pas entraver, le cas échéant, la fermeture des barrières.
 
-III. - Tout usager doit, à l'approche d'un train, dégager immédiatement la voie ferrée de manière à lui livrer passage.
+III. - Tout conducteur doit, à l'approche d'un train, dégager immédiatement la voie ferrée de manière à lui livrer passage.
 
 IV. - Les conducteurs de troupeaux doivent notamment prendre toute mesure leur permettant d'interrompre très rapidement le
 franchissement par leurs animaux du passage à niveau.
 
 V. - En cas d'immobilisation forcée d'un véhicule ou d'un troupeau, son conducteur doit prendre toutes les mesures en son
-pouvoir pour faire cesser le plus rapidement possible l'obstruction de la voie ferrée ou, à défaut, d'y parvenir, pour que
-les agents responsables du chemin de fer soient prévenus sans délai de l'existence du danger.
+pouvoir pour faire cesser le plus rapidement possible l'obstruction de la voie ferrée ou, à défaut d'y parvenir, pour que les
+agents responsables du chemin de fer soient prévenus sans délai de l'existence du danger.
 
 VI. - Le fait, pour tout conducteur, de contrevenir aux dispositions du présent article est puni de l'amende prévue pour les
 contraventions de la quatrième classe.
 
-VII. - Le fait, pour tout piéton, de contrevenir aux dispositions des I ou III du présent article est puni de l'amende prévue
-pour les contraventions de la première classe.
+VII. - Tout conducteur coupable d'infraction aux dispositions du présent article encourt également la peine complémentaire de
+suspension, pour une durée de trois ans au plus, du permis de conduire, cette suspension pouvant être limitée à la conduite
+en dehors de l'activté professionnelle. Cette contravention donne lieu de plein droit à la réduction de quatre points du
+permis de conduire.
 
 **Liens relatifs à cet article**
 
@@ -32530,21 +32567,16 @@ pour les contraventions de la première classe.
 
 	  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
 
+	**Modifié par**:
+
+	  - Décret n°2003-536 du 20 juin 2003 - art. 21 () JORF 22 juin 2003
+
 	**Anciens textes**:
 
 	  - Code de la route - art. R232 (Ab)
 	  - Code de la route - art. R237 (Ab)
 	  - Code de la route - art. R29 (Ab)
 	  - Code de la route R29, R232 (al. 1 et 12), R237
-
-	**Liens**:
-
-	  - SPEC_APPLI: Code de la route. - art. R432-1 (V)
-	  - SPEC_APPLI: Code de la route. - art. R432-2 (M)
-
-	**Modifié par**:
-
-	  - Décret n°2003-425 2003-05-07 art. 68 II JORF 11 mai 2003
 
 
 ###### Article R422-4
