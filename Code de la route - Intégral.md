@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2003-02-04
+Version Consolidée au 2003-03-19
 
 # Partie législative
 
@@ -3070,11 +3070,18 @@ internationaux en vigueur ;
 5° Aux militaires de la gendarmerie ou aux fonctionnaires de la police nationale habilités à effectuer des contrôles routiers
 en application des dispositions du présent code ;
 
+5° bis Aux agents de police judiciaire adjoints et aux gardes champêtres, aux seules fins d'identifier les auteurs des
+infractions au présent code qu'ils sont habilités à constater ;
+
 6° Aux autorités administratives civiles ou militaires pour les personnes employées ou susceptibles d'être employées comme
 conducteur de véhicule à moteur ;
 
 7° Aux entreprises d'assurances pour les personnes dont elles garantissent ou sont appelées à garantir la responsabilité
 encourue du fait des dommages causés par les véhicules à moteur.
+
+**Nota:**
+
+NOTA - Loi 2003-329 article 131 : Les articles ... 77, ... 86 à 89, 91 ... sont applicables à Mayotte.
 
 **Liens relatifs à cet article**
 
@@ -3093,6 +3100,10 @@ encourue du fait des dommages causés par les véhicules à moteur.
 
 	  - Ordonnance 2000-930 2000-09-22 JORF 24 septembre 2000
 	  - Loi n°2003-495 2003-06-12 art. 38 JORF 13 juin 2003
+
+	**Modifié par**:
+
+	  - Loi n°2003-239 2003-03-18 art. 86 1° JORF 19 mars 2003
 
 	**Anciens textes**:
 
@@ -5404,14 +5415,20 @@ Les véhicules dont la circulation ou le stationnement en infraction aux disposi
 police ou à la réglementation relative à l'assurance obligatoire des véhicules à moteur compromettent la sécurité ou le droit
 à réparation des usagers de la route, la tranquillité ou l'hygiène publique, l'esthétique des sites et des paysages classés,
 la conservation ou l'utilisation normale des voies ouvertes à la circulation publique et de leurs dépendances, notamment par
-les véhicules de transport en commun, peuvent, dans les cas et conditions précisés par le décret prévu aux articles L. 325-3
-et L. 325-11, être immobilisés, mis en fourrière, retirés de la circulation et, le cas échéant, aliénés ou livrés à la
-destruction.
+les véhicules de transport en commun, peuvent à la demande et sous la responsabilité du maire ou de l'officier de police
+judiciaire territorialement compétent, même sans l'accord du propriétaire du véhicule, dans les cas et conditions précisés
+par le décret prévu aux articles L. 325-3 et L. 325-11, être immobilisés, mis en fourrière, retirés de la circulation et, le
+cas échéant, aliénés ou livrés à la destruction.
 
-Peuvent également être immobilisés, mis en fourrière, retirés de la circulation et, le cas échéant, aliénés ou livrés à la
-destruction les véhicules qui, se trouvant sur les voies ouvertes à la circulation publique ou sur leurs dépendances, sont
-privés d'éléments indispensables à leur utilisation normale et insusceptibles de réparation immédiate à la suite de
-dégradations ou de vols.
+Peuvent également, à la demande et sous la responsabilité du maire ou de l'officier de police judiciaire territorialement
+compétent, même sans l'accord du propriétaire du véhicule, être immobilisés, mis en fourrière, retirés de la circulation et,
+le cas échéant, aliénés ou livrés à la destruction les véhicules qui, se trouvant sur les voies ouvertes à la circulation
+publique ou sur leurs dépendances, sont privés d'éléments indispensables à leur utilisation normale et insusceptibles de
+réparation immédiate à la suite de dégradations ou de vols.
+
+**Nota:**
+
+NOTA - Loi 2003-329 article 131 : Les articles ... 77, ... 86 à 89, 91 ... sont applicables à Mayotte.
 
 **Liens relatifs à cet article**
 
@@ -5542,7 +5559,7 @@ dégradations ou de vols.
 
 	**Modifié par**:
 
-	  - Loi n°2001-1062 du 15 novembre 2001 - art. 17 () JORF 16 novembre 2001
+	  - Loi n°2003-239 2003-03-18 art. 87 1°, 2° JORF 19 mars 2003
 
 	**Anciens textes**:
 
@@ -5563,13 +5580,25 @@ véhicule, manoeuvrer ou faire manoeuvrer tous appareils. Ils peuvent conduire l
 présence, vers le lieu de mise en fourrière en utilisant, le cas échéant, les moyens autonomes de propulsion dont le véhicule
 est muni.
 
-Dans ce cas, l'assureur du propriétaire du véhicule est tenu de garantir dans les limites du contrat la réparation du dommage
-causé au tiers, sauf recours, s'il y a lieu, contre la collectivité publique qui, par son fait, a causé le dommage ayant
-donné lieu à la responsabilité de l'assureur et sans qu'une majoration de prime puisse en résulter pour le propriétaire. Il
-est statué sur ce recours ainsi que sur toute action en responsabilité en cas de non-assurance du véhicule dans les
-conditions prévues par l'article 1er de la loi n° 57-1424 du 31 décembre 1957 attribuant aux tribunaux judiciaires compétence
-pour statuer sur les actions en responsabilité des dommages causés par tout véhicule et dirigées contre une personne morale
-de droit public.
+La mise en fourrière peut également être prescrite par l'agent de police judiciaire adjoint, chef de la police municipale ou
+qui occupe ces fonctions, territorialement compétent. Pour l'application de cette disposition et sur prescription de l'agent
+de police judiciaire adjoint, chef de la police municipale ou qui occupe ces fonctions, les agents de police municipale
+habilités à constater par procès-verbal les contraventions à la police de la circulation routière peuvent, en cas de besoin,
+ouvrir ou faire ouvrir les portes du véhicule, manoeuvrer ou faire manoeuvrer tous appareils. Ils peuvent conduire le
+véhicule ou le faire conduire, en leur présence, vers le lieu de mise en fourrière en utilisant, le cas échéant, les moyens
+autonomes de propulsion dont le véhicule est muni.
+
+Dans les cas prévus aux alinéas précédents, l'assureur du propriétaire du véhicule est tenu de garantir dans les limites du
+contrat la réparation du dommage causé au tiers, sauf recours, s'il y a lieu, contre la collectivité publique qui, par son
+fait, a causé le dommage ayant donné lieu à la responsabilité de l'assureur et sans qu'une majoration de prime puisse en
+résulter pour le propriétaire. Il est statué sur ce recours ainsi que sur toute action en responsabilité en cas de non-
+assurance du véhicule dans les conditions prévues par l'article 1er de la loi n° 57-1424 du 31 décembre 1957 attribuant aux
+tribunaux judiciaires compétence pour statuer sur les actions en responsabilité des dommages causés par tout véhicule et
+dirigées contre une personne morale de droit public.
+
+**Nota:**
+
+NOTA - Loi 2003-329 article 131 : Les articles ... 77, ... 86 à 89, 91 ... sont applicables à Mayotte.
 
 **Liens relatifs à cet article**
 
@@ -5598,6 +5627,11 @@ de droit public.
 
 	  - Ordonnance 2000-930 2000-09-22 JORF 24 septembre 2000
 	  - Loi n°2003-495 2003-06-12 art. 38 JORF 13 juin 2003
+
+	**Modifié par**:
+
+	  - Loi n°2003-239 2003-03-18 art. 89 1°, 2° JORF 19 mars 2003
+	  - Loi n°2006-10 du 5 janvier 2006 - art. 12 (V)
 
 	**Anciens textes**:
 
@@ -5944,9 +5978,11 @@ route.
 
 Un décret en Conseil d'Etat fixe les conditions d'application du présent article.
 
-Peuvent également, à la demande et sous la responsabilité du maître des lieux publics ou privés où ne s'applique pas le
-présent code, être mis en fourrière et, le cas échéant, aliénés ou livrés à la destruction les véhicules privés d'éléments
-indispensables à leur utilisation normale et insusceptibles de réparation immédiate, à la suite de dégradations ou de vols.
+Peuvent également, même sans l'accord du propriétaire du véhicule, à la demande du maire ou de l'officier de police
+judiciaire territorialement compétent, agissant sur initiative et sous la responsabilité du maître des lieux publics ou
+privés où ne s'applique pas le présent code, être mis en fourrière et, le cas échéant, aliénés ou livrés à la destruction les
+véhicules privés d'éléments indispensables à leur utilisation normale et insusceptibles de réparation immédiate, à la suite
+de dégradations ou de vols.
 
 **Liens relatifs à cet article**
 
@@ -5966,7 +6002,38 @@ indispensables à leur utilisation normale et insusceptibles de réparation imm�
 
 	**Modifié par**:
 
-	  - Loi n°2001-1062 du 15 novembre 2001 - art. 17 () JORF 16 novembre 2001
+	  - Loi n°2003-239 2003-03-18 art. 87 3° JORF 19 mars 2003
+	  - Loi n°2003-239 du 18 mars 2003 - art. 87
+
+
+###### Article L325-13
+
+Le maire, le président d'un établissement public de coopération intercommunale ou le président du conseil général ont chacun
+la faculté d'instituer un ou plusieurs services publics de fourrières pour automobiles relevant de leur autorité respective.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_SOURCE: Directive 97-66 CEE 1997-12-15
+
+	**Anciens textes**:
+
+	  - Loi n°70-1301 du 31 décembre 1970 - art. 3 (Ab)
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-930 2000-09-22 JORF 24 septembre 2000
+	  - Loi n°2003-495 2003-06-12 art. 38 JORF 13 juin 2003
+
+	**Créé par**:
+
+	  - Loi n°2003-239 du 18 mars 2003 - art. 88 () JORF 19 mars 2003
+	  - Loi n°2003-239 du 18 mars 2003 - art. 88
 
 
 #### Chapitre 6 : Retrait de la circulation des véhicules accidentés.
@@ -6420,6 +6487,9 @@ pénale ;
 4° Aux militaires de la gendarmerie ou aux fonctionnaires de la police nationale habilités à effectuer des contrôles routiers
 en application des dispositions du présent code ;
 
+4° bis Aux agents de police judiciaire adjoints et aux gardes champêtres, aux seules fins d'identifier les auteurs des
+infractions au présent code qu'ils sont habilités à constater ;
+
 5° Aux fonctionnaires habilités à constater des infractions au présent code, aux seules fins d'identifier les auteurs de ces
 infractions ;
 
@@ -6436,6 +6506,10 @@ charge l'indemnisation d'une des victimes.
 
 II. - Les entreprises d'assurances doivent fournir à l'appui de leur demande tous éléments utiles permettant de vérifier la
 réalité du sinistre.
+
+**Nota:**
+
+NOTA - Loi 2003-329 article 131 : Les articles ... 77, ... 86 à 89, 91 ... sont applicables à Mayotte.
 
 **Liens relatifs à cet article**
 
@@ -6463,14 +6537,9 @@ réalité du sinistre.
 	  - Ordonnance 2000-930 2000-09-22 JORF 24 septembre 2000
 	  - Loi n°2003-495 2003-06-12 art. 38 JORF 13 juin 2003
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°2001-1062 2001-11-15 art. 71 I : application à Mayotte
-	  - TXT_SOURCE: Directive 97-66 CEE 1997-12-15
-
 	**Modifié par**:
 
-	  - Loi n°2001-1062 du 15 novembre 2001 - art. 18 () JORF 16 novembre 2001
+	  - Loi n°2003-239 2003-03-18 art. 86 2° JORF 19 mars 2003
 
 	**Cite**:
 
@@ -6776,14 +6845,16 @@ Les articles L. 325-1, L. 325-2, L. 325-6 à L. 325-11 sont applicables à la Po
 localement, aux règlements de police ou à la réglementation relative à l'assurance obligatoire des véhicules à moteur,
 compromettent la sécurité ou le droit à réparation des usagers de la route, la tranquillité ou l'hygiène publique,
 l'esthétique des sites et paysages classés, la conservation ou l'utilisation normale des voies ouvertes à la circulation
-publique et de leurs dépendances, notamment par les véhicules de transport en commun, peuvent, dans les cas et conditions
-précisés par le décret prévu à l'article L. 325-11, être immobilisés, mis en fourrière, retirés de la circulation et, le cas
-échéant, aliénés ou livrés à la destruction.
+publique et de leurs dépendances, notamment par les véhicules de transport en commun, peuvent, à la demande et sous la
+responsabilité du maire ou de l'officier de police judiciaire territorialement compétent, même sans l'accord du propriétaire
+du véhicule dans les cas et conditions précisés par le décret prévu à l'article L. 325-11, être immobilisés, mis en
+fourrière, retirés de la circulation et, le cas échéant, aliénés ou livrés à la destruction.
 
-Peuvent également être immobilisés, mis en fourrière, retirés de la circulation et, le cas échéant, aliénés ou livrés à la
-destruction les véhicules qui, se trouvant sur les voies ouvertes à la circulation publique ou sur leurs dépendances, sont
-privés d'éléments indispensables à leur utilisation normale et insusceptibles de réparation immédiate à la suite de
-dégradations ou de vols."
+Peuvent également à la demande et sous la responsabilité du maire ou de l'officier de police judiciaire territorialement
+compétent, même sans l'accord du propriétaire du véhicule être immobilisés, mis en fourrière, retirés de la circulation et,
+le cas échéant, aliénés ou livrés à la destruction les véhicules qui, se trouvant sur les voies ouvertes à la circulation
+publique ou sur leurs dépendances, sont privés d'éléments indispensables à leur utilisation normale et insusceptibles de
+réparation immédiate à la suite de dégradations ou de vols."
 
 "Art. L. 325-2 - Pour l'application de l'article L. 325-1 et sur prescription de l'officier de police judiciaire
 territorialement compétent, les fonctionnaires de police en tenue et les militaires de la gendarmerie habilités à constater
@@ -6792,10 +6863,19 @@ ouvrir les portes du véhicule, manoeuvrer ou faire manoeuvrer tous appareils. I
 conduire, en leur présence, vers le lieu de mise en fourrière en utilisant, le cas échéant, les moyens autonomes de
 propulsion dont le véhicule est muni.
 
-Dans ce cas, l'assureur du propriétaire du véhicule est tenu de garantir, dans les limites du contrat, la réparation du
-dommage causé au tiers sauf recours, s'il y a lieu, contre la collectivité publique qui, par son fait, a causé le dommage
-ayant donné lieu à la responsabilité de l'assureur et sans qu'une majoration de prime puisse en résulter pour le
-propriétaire."
+La mise en fourrière peut également être prescrite par un chef de service de police municipale territorialement compétent ou
+l'agent de police judiciaire adjoint qui occupe les fonctions de chef de la police municipale. Pour l'application de cette
+disposition et sur prescription du chef de service de police municipale territorialement compétent ou de l'agent de police
+judiciaire adjoint qui occupe les fonctions de chef de la police municipale, les agents de police municipale habilités à
+constater par procès-verbal les contraventions à la police de la circulation routière peuvent, en cas de besoin, ouvrir ou
+faire ouvrir les portes du véhicule, manoeuvrer ou faire manoeuvrer tous appareils. Ils peuvent conduire le véhicule ou le
+faire conduire, en leur présence, vers le lieu de mise en fourrière en utilisant, le cas échéant, les moyens autonomes de
+propulsion dont le véhicule est muni.
+
+Dans les cas prévus aux alinéas précédents, l'assureur du propriétaire du véhicule est tenu de garantir, dans les limites du
+contrat, la réparation du dommage causé au tiers sauf recours, s'il y a lieu, contre la collectivité publique qui, par son
+fait, a causé le dommage ayant donné lieu à la responsabilité de l'assureur et sans qu'une majoration de prime puisse en
+résulter pour le propriétaire."
 
 "Art. L. 325-6 - Les véhicules dont l'état ne permet pas la circulation dans des conditions normales de sécurité ne peuvent
 être retirés de la fourrière que par des réparateurs chargés par les propriétaires d'effectuer les travaux reconnus
@@ -6867,7 +6947,8 @@ NOTA - Loi n° 2001-1062 article 71 III : ces dispositions sont applicables en P
 
 	**Modifié par**:
 
-	  - Loi n°2001-1062 du 15 novembre 2001 - art. 17 () JORF 16 novembre 2001
+	  - Loi n°2003-239 du 18 mars 2003 - art. 138 () JORF 19 mars 2003
+	  - Loi n°2003-239 du 18 mars 2003 - art. 139 () JORF 19 mars 2003
 
 	**Cite**:
 
