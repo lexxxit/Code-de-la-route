@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2002-09-10
+Version Consolidée au 2002-10-16
 
 # Partie législative
 
@@ -7534,14 +7534,12 @@ routière ;
 	  - Code de la route. - art. R130-6 (VD)
 
 
-###### Article R130-2
+###### Article R130-1-1
 
-Les agents de police judiciaire adjoints mentionnés au 2° de l'article 21 du code de procédure pénale peuvent constater par
-procès-verbal, lorsqu'elles sont commises à l'intérieur du territoire communal sur les voies autres que les autoroutes, les
-contraventions aux articles R. 644-2 et R. 653-1 du code pénal commises à l'occasion de la conduite d'un véhicule, les
-contraventions aux dispositions du présent code à l'exception de celles commises par les piétons et celles prévues aux
-articles R. 221-18, R. 222-2, R. 222-3, R. 234-1, R. 314-2, R. 317-29, R. 321-4 (alinéas 1 à 4), R. 411-32, R. 412-17, R.
-412-51, R. 412-52, R. 413-15 s'agissant de la mise en vente ou de la vente.
+Les agents de police judiciaire adjoints mentionnés aux 1°, 1 bis et 1 ter de l'article 21 du code de procédure pénale
+peuvent constater par procès-verbal les contraventions aux dispositions du présent code, à l'exception de celles prévues aux
+articles R. 121-1 à R. 121-5, R. 221-18, R. 234-1, R. 314-2, R. 317-29, R. 321-4 (alinéas 1 à 4) et R. 413-15 pour ce qui
+concerne la mise en vente ou la vente.
 
 **Liens relatifs à cet article**
 
@@ -7551,11 +7549,91 @@ articles R. 221-18, R. 222-2, R. 222-3, R. 234-1, R. 314-2, R. 317-29, R. 321-4 
 
 	**Liens**:
 
-	  - SPEC_APPLI: Décret n°2001-751 2001-08-27 art. 7 : application à Mayotte
+	  - SPEC_APPLI: Décret n°2002-1256 2002-10-15 art. 9 I : application à Mayotte
+
+	**Créé par**:
+
+	  - Décret n°2002-1256 du 15 octobre 2002 - art. 2 () JORF 16 octobre 2002
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 21 (M)
+	  - Code de la route R121-1 à R121-5, R221-18, R234-1, R314-2, R317-29, R321-4, R413-15
+	  - Code de la route. - art. R221-18 (V)
+	  - Code de la route. - art. R234-1 (M)
+	  - Code de la route. - art. R314-2 (V)
+	  - Code de la route. - art. R317-29 (Ab)
+	  - Code de la route. - art. R321-4 (V)
+	  - Code de la route. - art. R413-15 (M)
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. R15-33-29-3 (V)
+
+
+###### Article R130-1-2
+
+Les agents de police judiciaire adjoints mentionnés au 1° quater de l'article 21 du code de procédure pénale peuvent
+constater par procès-verbal, lorsqu'elles sont commises à l'intérieur du territoire de la ville de Paris, les contraventions
+aux dispositions du présent code, à l'exception de celles prévues aux articles R. 121-1 à R. 121-5, R. 221-18, R. 222-2, R.
+222-3, R. 234-1, R. 314-2, R. 317-29, R. 321-4 (alinéas 1 à 4), R. 411-32, R. 412-17, R. 412-51, R. 412-52 et R. 413-15 pour
+ce qui concerne la mise en vente ou la vente.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+	**Créé par**:
+
+	  - Décret n°2002-1256 du 15 octobre 2002 - art. 3 () JORF 16 octobre 2002
+
+	**Cité par**:
+
+	  - Code de la sécurité intérieure - art. R532-1 (VD)
+	  - Code général des collectivités territoriales - art. R2512-15-12 (VT)
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 21 (M)
+	  - Code de la route R121-1 à R121-5, R221-18, R222-2, R222-3, R234-1, R314-2, R317-29, R321-4, R411-32, R412-17, R412-51, R412-52, R413-15
+	  - Code de la route. - art. R221-18 (V)
+	  - Code de la route. - art. R222-2 (V)
+	  - Code de la route. - art. R222-3 (M)
+	  - Code de la route. - art. R234-1 (M)
+	  - Code de la route. - art. R314-2 (V)
+	  - Code de la route. - art. R317-29 (Ab)
+	  - Code de la route. - art. R321-4 (V)
+	  - Code de la route. - art. R411-32 (V)
+	  - Code de la route. - art. R412-17 (V)
+	  - Code de la route. - art. R412-51 (V)
+	  - Code de la route. - art. R412-52 (V)
+	  - Code de la route. - art. R413-15 (M)
+
+
+###### Article R130-2
+
+Les agents de police judiciaire adjoints mentionnés au 2° de l'article 21 du code de procédure pénale peuvent constater par
+procès-verbal, lorsqu'elles sont commises à l'intérieur du territoire communal sur les voies autres que les autoroutes, les
+contraventions aux articles R. 644-2 et R. 653-1 du code pénal commises à l'occasion de la conduite d'un véhicule, les
+contraventions aux dispositions du présent code à l'exception de celles prévues aux articles R. 121-1 à R. 121-5, R. 221-18,
+R. 222-2, R. 222-3, R. 234-1, R. 314-2, R. 317-29, R. 321-4 (alinéas 1 à 4), R. 411-32, R. 412-17, R. 412-51, R. 412-52, R.
+413-15 s'agissant de la mise en vente ou de la vente.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°2002-1256 2002-10-15 art. 9 I : application à Mayotte
 
 	**Modifié par**:
 
-	  - Décret n°2001-751 du 27 août 2001 - art. 6 () JORF 28 août 2001
+	  - Décret n°2002-1256 du 15 octobre 2002 - art. 4 () JORF 16 octobre 2002
 
 	**Cité par**:
 
@@ -7567,6 +7645,7 @@ articles R. 221-18, R. 222-2, R. 222-3, R. 234-1, R. 314-2, R. 317-29, R. 321-4 
 	  - Code pénal - art. R644-2 (V)
 	  - Code pénal - art. R653-1 (V)
 	  - CODE DE PROCEDURE PENALE - art. 21 (M)
+	  - Code de la route R121-1 à R121-5, R221-18, R222-2, R222-3, R234-1, R314-2, R317-29, R321-4, R411-32, R412-17, R412-51, R412-52, R413-15
 	  - Code de la route. - art. R221-18 (V)
 	  - Code de la route. - art. R222-2 (V)
 	  - Code de la route. - art. R222-3 (M)
@@ -7588,14 +7667,33 @@ articles R. 221-18, R. 222-2, R. 222-3, R. 234-1, R. 314-2, R. 317-29, R. 321-4 
 
 ###### Article R130-3
 
-Les gardes champêtres des communes peuvent constater les contraventions de police prévues aux articles R. 644-2 et R. 653-1
-du code pénal, lorsqu'il s'agit de contraventions se rapportant à la circulation routière.
+Les gardes champêtres peuvent constater par procès-verbal si elles sont commises à l'intérieur du territoire communal et sur
+des voies autres que les autoroutes :
+
+a) Les contraventions de police prévues aux articles R. 644-2 et R. 653-1 du code pénal lorsqu'il s'agit de contraventions se
+rapportant à la circulation routière ;
+
+b) Les contraventions aux dispositions du présent code mentionnées aux articles R. 211-2, R. 221-1, R. 221-10, R. 221-11, R.
+233-1, R. 313-13, R. 313-22, R. 313-23, R. 317-8, R. 321-4 (5e alinéa), R. 322-1, R. 322-3 à R. 322-9, R. 323-1, R. 325-2, R.
+326-1, R. 411-18, R. 411-22, R. 411-23, R. 411-28, R. 411-30, R. 412-1 à R. 412-3, R. 412-7, R. 412-9 (5e alinéa), R. 412-19,
+R. 412-27, R. 412-28, R. 412-30, R. 412-48, R. 412-49, R. 413-5, R. 413-14, R. 413-17, R. 413-18, R. 415-6, R. 416-5 à R.
+416-9, R. 416-11 à R. 416-14, R. 416-17, R. 416-19, R. 416-20, R. 416-20, R. 417-1 à R. 417-13, R. 422-3 (VI), R. 431-1, R.
+431-2 et R. 431-10 ;
+
+c) Les contraventions au présent code mentionnées à l'article R. 413-15 en ce qui concerne la détention, l'usage ou le
+transport ;
+
+d) Les contraventions prévues par l'article R. 211-21-5 du code des assurances.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+	**Modifié par**:
+
+	  - Décret n°2002-1256 du 15 octobre 2002 - art. 5 () JORF 16 octobre 2002
 
 	**Cité par**:
 
@@ -7607,6 +7705,48 @@ du code pénal, lorsqu'il s'agit de contraventions se rapportant à la circulati
 
 	  - Code pénal - art. R644-2 (V)
 	  - Code pénal - art. R653-1 (V)
+	  - Code des assurances - art. R211-21-5 (V)
+	  - Code de la route R211-2, R221-1, R221-10, R221-11, R233-1, R313-13, R313-22, R313-23, R317-8, R321-4, R322-1, R322-3 à R322-9, R323-1, R325-2, R326-1, R411-18, R411-22, R411-23, R411-28, R411-30, R412-1 à R412-3, R412-7, R412-9, R412-19, R412-27, R41
+	  - Code de la route. - art. R211-2 (M)
+	  - Code de la route. - art. R221-1 (M)
+	  - Code de la route. - art. R221-10 (M)
+	  - Code de la route. - art. R221-11 (M)
+	  - Code de la route. - art. R233-1 (M)
+	  - Code de la route. - art. R313-13 (V)
+	  - Code de la route. - art. R313-22 (V)
+	  - Code de la route. - art. R313-23 (V)
+	  - Code de la route. - art. R317-8 (M)
+	  - Code de la route. - art. R321-4 (V)
+	  - Code de la route. - art. R322-1 (M)
+	  - Code de la route. - art. R323-1 (V)
+	  - Code de la route. - art. R325-2 (V)
+	  - Code de la route. - art. R326-1 (M)
+	  - Code de la route. - art. R411-18 (V)
+	  - Code de la route. - art. R411-22 (M)
+	  - Code de la route. - art. R411-23 (V)
+	  - Code de la route. - art. R411-28 (V)
+	  - Code de la route. - art. R411-30 (M)
+	  - Code de la route. - art. R412-19 (M)
+	  - Code de la route. - art. R412-27 (V)
+	  - Code de la route. - art. R412-28 (V)
+	  - Code de la route. - art. R412-30 (M)
+	  - Code de la route. - art. R412-48 (V)
+	  - Code de la route. - art. R412-49 (V)
+	  - Code de la route. - art. R412-7 (M)
+	  - Code de la route. - art. R412-9 (M)
+	  - Code de la route. - art. R413-14 (M)
+	  - Code de la route. - art. R413-15 (M)
+	  - Code de la route. - art. R413-17 (V)
+	  - Code de la route. - art. R413-18 (V)
+	  - Code de la route. - art. R413-5 (M)
+	  - Code de la route. - art. R415-6 (V)
+	  - Code de la route. - art. R416-17 (M)
+	  - Code de la route. - art. R416-19 (V)
+	  - Code de la route. - art. R416-20 (V)
+	  - Code de la route. - art. R422-3 (M)
+	  - Code de la route. - art. R431-1 (M)
+	  - Code de la route. - art. R431-10 (V)
+	  - Code de la route. - art. R431-2 (Ab)
 
 	**Anciens textes**:
 
@@ -7616,14 +7756,14 @@ du code pénal, lorsqu'il s'agit de contraventions se rapportant à la circulati
 
 ###### Article R130-4
 
-Les agents mentionnés aux 2°, 3° et 4° de l'article L. 130-4 peuvent constater les contraventions aux dispositions concernant
+Les agents mentionnés aux 3° et 4° de l'article L. 130-4 peuvent constater les contraventions aux dispositions concernant
 l'arrêt ou le stationnement des véhicules autres que celles prévues à l'article R. 417-9.
 
 Les agents mentionnés au 5° de l'article L. 130-4 peuvent constater les mêmes contraventions lorsqu'elles sont commises dans
 les enceintes portuaires.
 
-Les agents mentionnés aux 2° et 3° de l'article L. 130-4 peuvent également constater les contraventions prévues par l'article
-R. 211-21-5 du code des assurances.
+Les agents mentionnés au 3° de l'article L. 130-4 peuvent également constater les contraventions prévues par l'article R.
+211-21-5 du code des assurances.
 
 La liste des services publics urbains de transport en commun de voyageurs prévue au 4° de l'article L. 130-4 est fixée par
 arrêté conjoint du ministre chargé des transports, du ministre de l'intérieur et du ministre de la justice.
@@ -7633,6 +7773,10 @@ arrêté conjoint du ministre chargé des transports, du ministre de l'intérieu
 	**Codifié par**:
 
 	  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+	**Modifié par**:
+
+	  - Décret n°2002-1256 du 15 octobre 2002 - art. 6 () JORF 16 octobre 2002
 
 	**Cite**:
 
@@ -7824,7 +7968,10 @@ qualité de militaires dans la gendarmerie ;
 nationale ;
 
 3° Certains personnels militaires des unités de circulation de l'arme du train pour assurer l'acheminement des véhicules
-militaires.
+militaires ;
+
+4° Les agents de police municipale, les agents de surveillance de Paris et les gardes champêtres à l'intérieur du territoire
+communal, sur les voies autres que les autoroutes.
 
 II. - Pour l'application du 3° du I ci-dessus, les modalités de l'habilitation et la définition des catégories de personnels
 habilités font l'objet d'un arrêté conjoint du ministre de l'intérieur, du ministre de la justice, du ministre chargé des
@@ -7835,6 +7982,10 @@ armées et du ministre chargé des transports.
 	**Codifié par**:
 
 	  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+	**Modifié par**:
+
+	  - Décret n°2002-1256 du 15 octobre 2002 - art. 8 () JORF 16 octobre 2002
 
 	**Anciens textes**:
 
@@ -7988,18 +8139,15 @@ les mots "à l'article L. 142-4."
 	  - Code de la route. - art. R130-5 (V)
 
 
-#### Chapitre II : Dispositions applicables dans la collectivité territoriale de Mayotte.
-
 ###### Article R142-6
 
-Pour l'application de l'article R. 130-10, le ministre chargé de l'outre-mer signe l'arrêté ministériel prévu au II de cet
-article.
+Pour l'application de l'article R. 130-10 :
 
-**Nota:**
+a) Le 4° est ainsi rédigé :
 
-NOTA : Loi 2001-616 2001-07-11 art. 75 : dans tous les textes législatifs et réglementaires, la référence à la collectivité
-territoriale de Mayotte est remplacée par la référence à Mayotte et la référence à la collectivité territoriale est remplacée
-par la référence à la collectivité départementale.
+"4° Les agents de police municipale à l'intérieur du territoire communal"
+
+b) Le ministre chargé de l'outre-mer signe l'arrêté prévu au II de cet article.
 
 **Liens relatifs à cet article**
 
@@ -8016,9 +8164,9 @@ par la référence à la collectivité départementale.
 
 	  - SPEC_APPLI: Loi n°2001-616 du 11 juillet 2001 - art. 75 (V)
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code de la route. - art. R130-10 (M)
+	  - Décret n°2002-1256 du 15 octobre 2002 - art. 9 (V) JORF 16 octobre 2002
 
 
 ## Livre II : Le conducteur.
@@ -21141,8 +21289,8 @@ puni de l'amende prévue pour les contraventions de la quatrième classe.
 ###### Article R325-3
 
 L'immobilisation peut être prescrite par les officiers et les agents de police judiciaire ainsi que les agents de police
-judiciaire adjoints mentionnés au 2° de l'article 21 du code de procédure pénale lorsqu'ils constatent la nécessité de faire
-cesser sans délai une des infractions pour lesquelles cette mesure est prévue par le présent code.
+judiciaire adjoints mentionnés à l'article 21 du code de procédure pénale et les gardes champêtres lorsqu'ils constatent la
+nécessité de faire cesser sans délai une des infractions pour lesquelles cette mesure est prévue par le présent code.
 
 Elle peut être prescrite par les agents mentionnés au 2° de l'article L. 116-2 du code de la voirie routière lorsque
 l'infraction qui la motive est constatée dans les conditions prévues à l'article R. 130-5.
@@ -21158,8 +21306,8 @@ Elle peut être en outre prescrite par les agents verbalisateurs mentionnés à 
 
 	**Cite**:
 
-	  - Loi n°52-401 1952-04-14 art. 25
 	  - Décret n°65-714 1965-08-21
+	  - Loi n°52-401 1952-04-14 art. 25
 	  - Code de la voirie routière - art. L116-2 (M)
 	  - CODE DE PROCEDURE PENALE - art. 21 (M)
 	  - Code de l'environnement - art. L362-5 (V)
@@ -21168,6 +21316,10 @@ Elle peut être en outre prescrite par les agents verbalisateurs mentionnés à 
 	**Codifié par**:
 
 	  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+	**Modifié par**:
+
+	  - Décret n°2002-1256 du 15 octobre 2002 - art. 7 () JORF 16 octobre 2002
 
 	**Cité par**:
 
@@ -23881,9 +24033,10 @@ les listes d'aptitude prévues au premier alinéa de l'article R. 326-2."
 Pour son application dans la collectivité territoriale de Mayotte, l'article R. 325-3 est rédigé comme suit :
 
 Art. R. 325-3. -     L'immobilisation peut être prescrite par les officiers de police judiciaire, les gendarmes qui n'ont pas
-la qualité d'officier de police judiciaire et les agents du cadre de police mahoraise agréés par le représentant du
-Gouvernement et ayant prêté serment devant le procureur de la République, lorsqu'ils constatent la nécessité de faire cesser
-sans délai une des infractions pour lesquelles l'immobilisation peut être prévue.
+la qualité d'officier de police judiciaire, les adjoints de sécurité, les volontaires servant en qualité de militaires dans
+la gendarmerie et les agents du cadre de police mahoraise agréés par le représentant du Gouvernement et ayant prêté serment
+devant le procureur de la République, lorsqu'ils constatent la nécessité de faire cesser sans délai une des infractions pour
+lesquelles l'immobilisation peut être prévue.
 
 Elle peut être prescrite par les fonctionnaires des ponts et chaussées, y compris les conducteurs de chantiers ou agents de
 travaux assermentés à cet effet.
@@ -23915,6 +24068,10 @@ référence au représentant de l'Etat.
 	**Liens**:
 
 	  - SPEC_APPLI: Loi n°2001-616 du 11 juillet 2001 - art. 75 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2002-1256 du 15 octobre 2002 - art. 9 (V) JORF 16 octobre 2002
 
 	**Cite**:
 
@@ -23974,6 +24131,9 @@ Pendant tout le temps de l'immobilisation, le véhicule demeure sous la garde ju
 Art. R. 325-3. -     L'immobilisation peut être prescrite par les officiers ou agents de police judiciaire habilités à
 constater les contraventions de police de la circulation routière lorsqu'ils constatent la nécessité de faire cesser sans
 délai une des infractions prévues à l'article R. 343-3.
+
+L'immobilisation peut également être prescrite dans les conditions définies à l'alinéa précédent par les adjoints de sécurité
+ainsi que par les volontaires servant en qualité de militaires dans la gendarmerie.
 
 Art. R. 325-4. -     Lorsque la décision d'immobilisation résulte de l'une des situations visées aux 1°, 2° et 10° de
 l'article R. 343-3, le véhicule peut poursuivre sa route dès qu'un conducteur qualifié, proposé par le conducteur ou
@@ -24045,6 +24205,10 @@ d'immobilisation remise au conducteur.
 	**Codifié par**:
 
 	  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+	**Modifié par**:
+
+	  - Décret n°2002-1256 du 15 octobre 2002 - art. 10 () JORF 16 octobre 2002
 
 	**Cite**:
 
