@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2003-07-10
+Version Consolidée au 2003-07-12
 
 # Partie législative
 
@@ -9450,7 +9450,8 @@ conduite.
 ###### Article R211-5
 
 I. - L'apprentissage anticipé de la conduite est un apprentissage particulier dispensé en vue de l'obtention de la catégorie
-B du permis de conduire.
+B du permis de conduire. Cet apprentissage ne peut être effectué après annulation ou invalidation du permis de conduire de
+cette catégorie.
 
 II. - Il comprend deux périodes :
 
@@ -9466,11 +9467,19 @@ d'un accompagnateur titulaire de la catégorie B du permis de conduire depuis tr
 
 IV. - Un arrêté du ministre chargé des transports fixe les conditions d'application du présent article.
 
+**Nota:**
+
+Nota : Décret 2003-642 du 11 juillet 2003 art. 9 : application à Mayotte.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+	**Modifié par**:
+
+	  - Décret n°2003-642 du 11 juillet 2003 - art. 4 () JORF 12 juillet 2003
 
 	**Cité par**:
 
@@ -9743,10 +9752,10 @@ infractions suivantes :
 
 I. - Délits d'atteinte à la personne humaine prévus par le code pénal :
 
-- atteinte involontaire à la vie (art. 221-6) ;
+- atteinte involontaire à la vie (art. 221-6-1) ;
 
-- atteinte à l'intégrité physique ou psychique de la personne (art. 222-9 à 222-13, 222-14 [3° et 4°], 222-19 et 222-20,
-222-27 à 222-33) ;
+- atteinte à l'intégrité physique ou psychique de la personne (art. 222-9 à 222-13, 222-14 [3° et 4°], 222-19-1 et 222-20-1,
+222-2 à 222-33) ;
 
 - mise en danger de la vie d'autrui (art. 223-1) ;
 
@@ -9811,9 +9820,10 @@ V. - Délits prévus par le code du travail :
 VI. - Délits prévus par le code de la route :
 
 - conduite sous l'empire d'un état alcoolique ou en état d'ivresse, délit de fuite, refus de se soumettre aux vérifications
-destinées à établir la preuve de l'état alcoolique, refus d'obtempérer ou obstacle à l'immobilisation du véhicule, grand
-excès de vitesse en récidive, organisation de courses de véhicules à moteur sans autorisation (art. L. 224-5, L. 231-1, L.
-233-1, L. 234-1, L. 234-8, L. 411-7 et L. 413-1) ;
+destinées à établir la preuve de l'état alcoolique, conduite après usage de stupéfiants, refus de se soumettre aux
+vérifications destinées à établir la preuve de l'usage de stupéfiants, refus d'obtempérer ou obstacle à l'immobilisation du
+véhicule, grand excès de vitesse en récidive, organisation de courses de véhicules à moteur sans autorisation (art. L. 224-5,
+L. 231-1, L. 233-1, L. 234-1, L. 234-8, L. 235-1, L. 235-3, L. 411-7 et L. 413-1) ;
 
 - entrave à la circulation (art. L. 412-1) ;
 
@@ -9822,8 +9832,8 @@ des véhicules de transports routiers, absence à bord du véhicule du transport
 détournement d'un véhicule confisqué (art. L. 234-12 (III), L. 317-1 à L. 317-4, L. 325-4 et L. 325-5) ;
 
 - conduite en récidive d'un véhicule sans être titulaire du permis de conduire correspondant à la catégorie du véhicule
-considéré, conduite d'un véhicule malgré la rétention, la suspension ou l'annulation du permis de conduire (art. L. 221-2 et
-L. 224-16) ;
+considéré, conduite d'un véhicule malgré la rétention, l'invalidation, la suspension ou l'annulation du permis de conduire
+(art. L. 221-2, L. 223-5 et L. 224-16) ;
 
 - enseignement de la conduite des véhicules terrestres à moteur sans autorisation ou en violation d'une mesure de suspension
 (art. L. 212-4) ;
@@ -9833,9 +9843,19 @@ administrative (art. L. 225-7 et L. 330-6) ;
 
 - usage d'un faux nom ou d'une fausse qualité pour obtenir des renseignements sur un conducteur (art. L. 225-8 et L. 330-7).
 
+- délits liés à la commercialisation de dispositifs ayant pour objet d'augmenter la puissance du moteur d'un cyclomoteur
+(art. L. 317-5 à L. 317-8) ;
+
+- délits liés à la commercialisation de dispositifs destinés à déceler la présence ou à perturber le fonctionnement des
+systèmes de constatation des infractions à la circulation routière (art. L. 413-2 à L. 413-5).
+
 VII. - Délit prévu par le code de la santé publique :
 
 - usage de manière illicite de l'une des substances ou plantes classées comme stupéfiants (art. L. 3424-1).
+
+**Nota:**
+
+Décret 2003-642 du 11 juillet 2003 art. 9 : application à Mayotte.
 
 **Liens relatifs à cet article**
 
@@ -9878,6 +9898,10 @@ VII. - Délit prévu par le code de la santé publique :
 	**Codifié par**:
 
 	  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+	**Modifié par**:
+
+	  - Décret n°2003-642 du 11 juillet 2003 - art. 5 () JORF 12 juillet 2003
 
 	**Anciens textes**:
 
@@ -10597,29 +10621,45 @@ cet arrondissement, lorsque cette dérogation est de nature à améliorer sensib
 
 ###### Article R221-1
 
-Nul ne peut conduire un véhicule ou un ensemble de véhicules, pour la conduite duquel le permis de conduire est exigé par le
-présent code, s'il n'est titulaire de la catégorie du permis de conduire correspondante, en état de validité et délivrée par
-le préfet du département de sa résidence ou par le préfet du département dans lequel les examens ont été subis. Par
+I- Nul ne peut conduire un véhicule ou un ensemble de véhicules, pour la conduite duquel le permis de conduire est exigé par
+le présent code, s'il n'est titulaire de la catégorie du permis de conduire correspondante, en état de validité et délivrée
+par le préfet du département de sa résidence ou par le préfet du département dans lequel les examens ont été subis. Par
 dérogation à l'article R. 110-1, ces dispositions sont également applicables à la conduite sur les voies non ouvertes à la
 circulation publique, sauf dispositions différentes prévues aux articles R. 221-16 à R. 221-18.
 
 La possession du permis de conduire ne dispense pas son titulaire du respect des dispositions prises en ce qui concerne les
 conditions de travail dans les transports en vue de la sécurité routière.
 
-Le fait de conduire un véhicule sans être titulaire de la catégorie du permis de conduire exigée pour le véhicule considéré
-ou après avoir reçu l'injonction prévue à l'article L. 223-5 est puni de l'amende prévue pour les contraventions de la
-cinquième classe.
+II- Sauf dans le cas des personnes justifiant qu'elles apprennent à conduire dans les conditions prévues par les articles R.
+211-3 à R. 211-5, le fait de conduire un véhicule sans être titulaire de la catégorie du permis de conduire exigée pour le
+véhicule considéré est puni de l'amende prévue pour les contraventions de la cinquième classe.
 
-L'immobilisation peut être prescrite dans les conditions prévues aux articles L. 325-1 à L. 325-3.
+III- L'immobilisation peut être prescrite dans les conditions prévue aux articles L. 325-1 à L. 325-3.
 
-Les dispositions des deux alinéas précédents ne sont pas applicables aux personnes justifiant qu'elles apprennent à conduire,
-dans les conditions prévues par les articles R. 211-3 à R. 211-5.
+IV- Toute personne coupable de l'infraction prévue au présent article encourt également les peines complémentaires
+suivantes :
+
+1°- L'interdiction de conduire certains véhicules terrestres à moteur, y compris ceux pour la conduite desquels le permis de
+conduire n'est pas exigé, pour une durée de trois ans au plus ;
+
+2°- L'obligation d'accomplir, à ses frais, un stage de sensibilisation à la sécurité routière ;
+
+3°- L'obligation d'accomplir un travail d'intérêt général pour une durée de vingt à cent vingt heures.
+
+**Nota:**
+
+Nota : Décret 2003-642 du 11 juillet 2003 art. 9 : application à Mayotte.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+	**Modifié par**:
+
+	  - Décret n°2003-642 du 11 juillet 2003 - art. 2 () JORF 12 juillet 2003
+	  - Décret n°2003-642 du 11 juillet 2003 - art. 5 () JORF 12 juillet 2003
 
 	**Cité par**:
 
@@ -10638,13 +10678,8 @@ dans les conditions prévues par les articles R. 211-3 à R. 211-5.
 
 	**Cite**:
 
-	  - Code de la route R110-1, R221-16 à R221-18, L223-5, L325-1 à L325-3, R211-3 à R211-5
-	  - Code de la route. - art. L223-5 (M)
+	  - Code de la route R110-1, R221-16 à R221-18, R211-3 à R211-5, L325-1 à L325-3
 	  - Code de la route. - art. R110-1 (V)
-
-	**Liens**:
-
-	  - SPEC_APPLI: Code de la route. - art. R221-21 (V)
 
 
 ###### Article R221-3
@@ -11876,74 +11911,6 @@ Le permis de conduire est affecté d'un nombre initial de douze points.
 	  - Code de la route R255
 
 
-###### Article R223-2
-
-Dans le cas où plusieurs contraventions sont commises simultanément, le retrait de points qu'elles entraînent se cumule dans
-la limite de six points.
-
-Dans le cas où plusieurs infractions dont au moins un délit sont commises simultanément le retrait de points qu'elles
-entraînent se cumule dans la limite de huit points.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
-
-	**Anciens textes**:
-
-	  - Code de la route - art. R257 (Ab)
-	  - Code de la route R257
-
-
-###### Article R223-3
-
-I. - Lors de la constatation d'une infraction, l'auteur de celle-ci est informé que cette infraction est susceptible
-d'entraîner le retrait d'un certain nombre de points si sa réalité est établie dans les conditions prévues à l'article L.
-223-1.
-
-II. - Il est informé également de l'existence d'un traitement automatisé des retraits et reconstitutions de points et de la
-possibilité pour lui d'accéder aux informations le concernant. Ces mentions figurent sur le document qui lui est remis par
-l'agent verbalisateur ou communiqué par les services de police ou de gendarmerie. Le droit d'accès aux informations ci-dessus
-mentionnées s'exerce dans les conditions fixées par les articles L. 225-1 à L. 225-9.
-
-III. - Lorsque le ministre de l'intérieur constate que la réalité d'une infraction entraînant retrait de points est établie
-dans les conditions prévues par les alinéas 3 et 4 de l'article L. 223-1, il réduit en conséquence le nombre de points
-affecté au permis de conduire de l'auteur de cette infraction et en informe ce dernier par lettre simple. Le ministre de
-l'intérieur constate et notifie à l'intéressé, dans les mêmes conditions, les reconstitutions de points auxquelles il a droit
-en vertu des alinéas 1 et 3 de l'article L. 223-6.
-
-IV. - En cas de retrait de la totalité des points, le préfet du département ou l'autorité compétente du territoire ou de la
-collectivité territoriale d'outre-mer, du lieu de résidence, enjoint à l'intéressé, par lettre recommandée, de restituer son
-titre de conduite dans un délai d'une semaine à compter de la réception de cette lettre.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
-
-	**Modifié par**:
-
-	  - Décret n°2003-536 du 20 juin 2003 - art. 3 () JORF 22 juin 2003
-
-	**Cité par**:
-
-	  - Décret n°2010-569 du 28 mai 2010 - art. 2 (V)
-	  - Code de la route. - art. R223-4 (M)
-
-	**Anciens textes**:
-
-	  - Code de la route - art. R258 (Ab)
-	  - Code de la route R258
-
-	**Cite**:
-
-	  - Code de la route L225-1 à L225-9, L223-1, L223-6
-	  - Code de la route. - art. L223-1 (M)
-	  - Code de la route. - art. L223-6 (M)
-
-
 ###### Article R223-4
 
 Lorsqu'elle est adressée à un conducteur titulaire du permis de conduire depuis moins de deux ans, auteur d'une infraction
@@ -11980,105 +11947,6 @@ professionnelle.
 
 	  - Code de la route. - art. L223-6 (M)
 	  - Code de la route. - art. R223-3 (M)
-
-
-###### Article R223-5
-
-La formation spécifique prévue par le second alinéa de l'article L. 223-6 est destinée à éviter la réitération des
-comportements dangereux. Elle est organisée sous la forme d'un stage d'une durée minimale de seize heures réparties sur deux
-jours.
-
-Les personnes physiques ou morales qui se proposent de dispenser cette formation doivent obtenir préalablement un agrément du
-préfet du département, ou de l'autorité compétente du territoire ou de la collectivité territoriale d'outre-mer, du lieu
-d'implantation de leur activité, qui vérifie que les obligations définies par les articles R. 223-5 à R. 223-8 pourront être
-respectées. Elles établissent à cet effet un dossier dont la teneur est précisée par arrêté conjoint du ministre l'intérieur
-et du ministre chargé des transports.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
-
-	**Cité par**:
-
-	  - Arrêté du 26 juin 2012 - art. 1 (V)
-	  - Code de la route. - art. R212-1 (V)
-	  - Code de la route. - art. R213-2 (VD)
-	  - Code de la route. - art. R223-10 (Ab)
-	  - Code de la route. - art. R223-11 (Ab)
-	  - Code de la route. - art. R223-12 (Ab)
-	  - Code de la route. - art. R223-5 (V)
-	  - Code de la route. - art. R223-6 (V)
-	  - Code de la route. - art. R223-7 (V)
-	  - Code de la route. - art. R223-8 (M)
-	  - Code de la route. - art. R223-9 (Ab)
-	  - Code pénal - art. R131-11-1 (V)
-
-	**Anciens textes**:
-
-	  - Code de la route - art. R259 (Ab)
-	  - Code de la route R259
-
-	**Cite**:
-
-	  - Code de la route L223-6, R223-5 à R223-8
-	  - Code de la route. - art. L223-6 (M)
-
-
-###### Article R223-6
-
-I. - La formation doit comprendre :
-
-1° Un enseignement portant sur les facteurs généraux de l'insécurité routière ;
-
-2° Un ou plusieurs enseignements spécialisés dont l'objet est d'approfondir l'analyse de situations ou de facteurs
-générateurs d'accidents de la route.
-
-II. - Le programme de ces enseignements est fixé par l'arrêté mentionné à l'article R. 223-5.
-
-III. - Cette formation peut inclure un entretien avec un psychologue et un enseignement pratique de conduite.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
-
-	**Anciens textes**:
-
-	  - Code de la route - art. R260 (Ab)
-	  - Code de la route R260
-
-	**Cite**:
-
-	  - Code de la route. - art. R223-5 (M)
-
-
-###### Article R223-7
-
-La conduite et l'animation de chaque stage sont assurées par des formateurs reconnus aptes par le préfet. Ces formateurs
-doivent, pour certains d'entre eux, être titulaires d'un diplôme spécifique de formateur à la conduite automobile et, pour
-d'autres, être titulaires d'un diplôme permettant de faire usage du titre de psychologue.
-
-Pour être reconnus aptes, ces formateurs doivent suivre une préparation spécifique à l'animation des stages. L'arrêté
-interministériel mentionné à l'article R. 223-5 précise le contenu et les modalités de cette préparation ainsi que la liste
-des diplômes dont la possession est exigée des formateurs.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
-
-	**Anciens textes**:
-
-	  - Code de la route - art. R261 (Ab)
-	  - Code de la route R261
-
-	**Cite**:
-
-	  - Code de la route. - art. R223-5 (M)
 
 
 ###### Article R223-8
@@ -12126,6 +11994,204 @@ conjoint du ministre de l'intérieur, du ministre chargé du budget et du minist
 	  - Code de la route. - art. R223-5 (M)
 
 
+##### Section 1 : Principes généraux.
+
+###### Article R223-2
+
+Dans le cas où plusieurs infractions entraînant retrait de points sont commises simultanément, les retraits de points se
+cumulent dans la limite de huit points.
+
+**Nota:**
+
+Décret 2003-642 du 11 juillet 2003 art. 9 : application à Mayotte.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+	**Modifié par**:
+
+	  - Décret n°2003-642 2003-07-11 art. 4 III, IV JORF 12 juillet 2003
+	  - Décret n°2003-642 du 11 juillet 2003 - art. 4 () JORF 12 juillet 2003
+
+	**Anciens textes**:
+
+	  - Code de la route - art. R257 (Ab)
+	  - Code de la route R257
+
+
+###### Article R223-3
+
+I. - Lors de la constatation d'une infraction entraînant retrait de points, l'auteur de celle-ci est informé qu'il encourt un
+retrait de points si la réalité de l'infraction est établie dans les conditions définies à l'article L. 223-1.
+
+II. - Il est informé également de l'existence d'un traitement automatisé des retraits et reconstitutions de points et de la
+possibilité pour lui d'accéder aux informations le concernant. Ces mentions figurent sur le document qui lui est remis ou
+adressé par le service verbalisateur. Le droit d'accès aux informations ci-dessus mentionnées s'exerce dans les conditions
+fixées par les articles L. 225-1 à L. 225-9.
+
+III. - Lorsque le ministre de l'intérieur constate que la réalité d'une infraction entraînant retrait de points est établie
+dans les conditions prévues par le quatrième alinéa de l'article L. 223-1, il réduit en conséquence le nombre de points
+affecté au permis de conduire de l'auteur de cette infraction et en informe ce dernier par lettre simple. Le ministre de
+l'intérieur constate et notifie à l'intéressé, dans les mêmes conditions, les reconstitutions de points obtenues en
+application des alinéas 1 et 3 de l'article L. 223-6.
+
+IV. - Lorsque le nombre de points est nul, le préfet du département ou l'autorité compétente du territoire ou de la
+collectivité territoriale d'outre-mer, du lieu de résidence, enjoint à l'intéressé, par lettre recommandée, de restituer son
+titre de conduite dans un délai d'une semaine à compter de la réception de cette lettre.
+
+**Nota:**
+
+Nota : Décret 2003-642 du 11 juillet 2003 art. 9 : application à Mayotte.    NOTA : La présente version de cet article est en
+vigueur jusqu'au 1er janvier 2008.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+	**Modifié par**:
+
+	  - Décret n°2003-642 2003-07-11 art. 4 III, IV JORF 12 juillet 2003
+	  - Décret n°2003-642 du 11 juillet 2003 - art. 4 () JORF 12 juillet 2003
+
+	**Cité par**:
+
+	  - Décret n°2010-569 du 28 mai 2010 - art. 2 (V)
+	  - Code de la route. - art. R223-4 (M)
+
+	**Anciens textes**:
+
+	  - Code de la route - art. R258 (Ab)
+	  - Code de la route R258
+
+	**Cite**:
+
+	  - Code de la route L223-1, L225-1 à L225-9, L223-6
+	  - Code de la route. - art. L223-1 (M)
+	  - Code de la route. - art. L223-6 (M)
+
+
+##### Section 2 : Des stages.
+
+###### Article R223-5
+
+I- La formation spécifique prévue par le deuxième alinéa de l'article L. 223-6 est destinée à éviter la réitération des
+comportements dangereux. Elle est organisée sous la forme d'un stage d'une durée minimale de seize heures réparties sur deux
+jours consécutifs.
+
+II- Les personnes physiques ou morales qui se proposent de dispense cette formation doivent obtenir préalablement un agrément
+du préfet du département, ou de l'autorité compétente du territoire ou de la collectivité territoriale d'outre-mer, du lieu
+d'implantation de leur activité, qui vérifie que les obligations définies par les articles R. 223-5 à R. 223-8 pourront être
+respectées. Elles établissent à cet effet un dossier dont la teneur est précisée par arrêté conjoint du ministre l'intérieur
+et du ministre chargé des transports.
+
+**Nota:**
+
+Décret 2003-642 du 11 juillet 2003 art. 9 : application à Mayotte.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+	**Modifié par**:
+
+	  - Décret n°2003-642 2003-07-11 art. 4 V, VI JORF 12 juillet 2003
+	  - Décret n°2003-642 du 11 juillet 2003 - art. 4 () JORF 12 juillet 2003
+
+	**Cité par**:
+
+	  - Arrêté du 26 juin 2012 - art. 1 (V)
+	  - Code de la route. - art. R212-1 (V)
+	  - Code de la route. - art. R213-2 (VD)
+	  - Code de la route. - art. R223-10 (Ab)
+	  - Code de la route. - art. R223-11 (Ab)
+	  - Code de la route. - art. R223-12 (Ab)
+	  - Code de la route. - art. R223-5 (V)
+	  - Code de la route. - art. R223-6 (V)
+	  - Code de la route. - art. R223-7 (V)
+	  - Code de la route. - art. R223-8 (M)
+	  - Code de la route. - art. R223-9 (Ab)
+	  - Code pénal - art. R131-11-1 (V)
+
+	**Anciens textes**:
+
+	  - Code de la route - art. R259 (Ab)
+	  - Code de la route R259
+
+
+###### Article R223-6
+
+I. - La formation doit comprendre :
+
+1° Un enseignement portant sur les facteurs généraux de l'insécurité routière ;
+
+2° Un ou plusieurs enseignements spécialisés dont l'objet est d'approfondir l'analyse de situations ou de facteurs
+générateurs d'accidents de la route.
+
+II. - Le programme de ces enseignements est fixé par l'arrêté mentionné à l'article R. 223-5.
+
+III. - Cette formation peut inclure un entretien avec un psychologue et un enseignement pratique de conduite.
+
+**Nota:**
+
+Décret 2003-642 du 11 juillet 2003 art. 9 : application à Mayotte.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+	**Modifié par**:
+
+	  - Décret n°2003-642 du 11 juillet 2003 - art. 4 () JORF 12 juillet 2003
+
+	**Anciens textes**:
+
+	  - Code de la route - art. R260 (Ab)
+	  - Code de la route R260
+
+	**Cite**:
+
+	  - Code de la route. - art. R223-5 (M)
+
+
+###### Article R223-7
+
+La conduite et l'animation de chaque stage sont assurées par des formateurs reconnus aptes par le préfet. Ces formateurs
+doivent, pour certains d'entre eux, être titulaires d'un diplôme spécifique de formateur à la conduite automobile et, pour
+d'autres, être titulaires d'un diplôme permettant de faire usage du titre de psychologue.
+
+Pour être reconnus aptes, ces formateurs doivent suivre une préparation spécifique à l'animation des stages. L'arrêté
+interministériel mentionné à l'article R. 223-5 précise le contenu et les modalités de cette préparation ainsi que la liste
+des diplômes dont la possession est exigée des formateurs.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+	**Modifié par**:
+
+	  - Décret n°2003-642 du 11 juillet 2003 - art. 4 () JORF 12 juillet 2003
+
+	**Anciens textes**:
+
+	  - Code de la route - art. R261 (Ab)
+	  - Code de la route R261
+
+	**Cite**:
+
+	  - Code de la route. - art. R223-5 (M)
+
+
 ###### Article R223-9
 
 I. - Afin de permettre le contrôle des obligations mentionnées aux articles R. 223-5 à R. 223-8, les délégués au permis de
@@ -12142,19 +12208,23 @@ accueillis et la liste des formateurs employés ;
 2° Pour l'année en cours, le programme, le contenu et le calendrier prévisionnels des stages et la liste des formateurs
 pressentis.
 
+**Nota:**
+
+Décret 2003-642 du 11 juillet 2003 art. 9 : application à Mayotte.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
 
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2001-1095 2001-11-15 art. 2 : application à Mayotte
-
 	**Modifié par**:
 
-	  - Décret n°2001-1095 du 15 novembre 2001 - art. 1 () JORF 22 novembre 2001
+	  - Décret n°2003-642 du 11 juillet 2003 - art. 4 () JORF 12 juillet 2003
+
+	**Abrogé par**:
+
+	  - Décret n°2009-1678 du 29 décembre 2009 - art. 23
 
 	**Anciens textes**:
 
@@ -12163,8 +12233,8 @@ pressentis.
 
 	**Cite**:
 
-	  - Code de la route R223-5 à R223-8, R223-5
-	  - Code de la route. - art. R223-5 (M)
+	  - Code de la route.
+	  - Code de la route. - art. R223-5
 
 
 ###### Article R223-10
@@ -12174,11 +12244,23 @@ cet agrément par les articles R. 223-5 à R. 223-9 ont été méconnues. Cette 
 personne intéressée a été mise à même de présenter des observations écrites et, le cas échéant, sur sa demande, des
 observations orales.
 
+**Nota:**
+
+Décret 2003-642 du 11 juillet 2003 art. 9 : application à Mayotte.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+	**Modifié par**:
+
+	  - Décret n°2003-642 du 11 juillet 2003 - art. 4 () JORF 12 juillet 2003
+
+	**Abrogé par**:
+
+	  - Décret n°2009-1678 du 29 décembre 2009 - art. 23
 
 	**Anciens textes**:
 
@@ -12187,8 +12269,8 @@ observations orales.
 
 	**Cite**:
 
-	  - Code de la route R223-5, R223-5 à R223-9
-	  - Code de la route. - art. R223-5 (M)
+	  - Code de la route.
+	  - Code de la route. - art. R223-5
 
 
 ###### Article R223-11
@@ -12206,11 +12288,23 @@ II. - Ce comité, placé sous la présidence du préfet ou de son représentant,
 
 4° D'un fonctionnaire responsable de la formation des conducteurs désigné par le ministre chargé des transports.
 
+**Nota:**
+
+Nota : Décret 2003-642 du 11 juillet 2003 art. 9 : application à Mayotte.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+	**Modifié par**:
+
+	  - Décret n°2003-642 du 11 juillet 2003 - art. 4 () JORF 12 juillet 2003
+
+	**Abrogé par**:
+
+	  - Décret n°2006-665 du 7 juin 2006 - art. 31 () JORF 8 juin 2006
 
 	**Anciens textes**:
 
@@ -12230,11 +12324,23 @@ toutes questions relatives au déroulement de la formation spécifique.
 Le préfet peut en outre inviter à participer, avec voix consultative, aux travaux du comité mentionnés ci-dessus des
 personnes titulaires de l'agrément prévu à l'article R. 223-5 ainsi que des formateurs.
 
+**Nota:**
+
+Nota : Décret 2003-642 du 11 juillet 2003 art. 9 : application à Mayotte.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+	**Modifié par**:
+
+	  - Décret n°2003-642 du 11 juillet 2003 - art. 4 () JORF 12 juillet 2003
+
+	**Abrogé par**:
+
+	  - Décret n°2006-665 du 7 juin 2006 - art. 31 () JORF 8 juin 2006
 
 	**Anciens textes**:
 
@@ -12264,11 +12370,19 @@ stagiaires.
 
 Un arrêté du ministre chargé des transports précise le contenu détaillé des épreuves et les modalités de l'examen.
 
+**Nota:**
+
+Décret 2003-642 du 11 juillet 2003 art. 9 : application à Mayotte.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+	**Modifié par**:
+
+	  - Décret n°2003-642 du 11 juillet 2003 - art. 4 () JORF 12 juillet 2003
 
 	**Anciens textes**:
 
@@ -12276,39 +12390,7 @@ Un arrêté du ministre chargé des transports précise le contenu détaillé de
 	  - Code de la route R246-1
 
 
-##### Section 2 : Des stages.
-
-###### Article R223-14
-
-Tout conducteur dont le permis de conduire a perdu sa validité en application de l'article L. 223-1 et qui sollicite un
-nouveau permis doit subir à nouveau les épreuves prévues à l'article R. 221-3.
-
-Toutefois, pour les conducteurs titulaires du permis de conduire depuis au moins trois ans à la date de la perte de validité
-du permis, l'épreuve pratique est supprimée sous réserve qu'ils sollicitent un nouveau permis moins de trois mois après la
-date à laquelle ils sont autorisés à le faire.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
-
-	**Abrogé par**:
-
-	  - Décret n°2003-642 du 11 juillet 2003 - art. 4 () JORF 12 juillet 2003
-
-	**Anciens textes**:
-
-	  - Code de la route - art. R130 (Ab)
-	  - Code de la route R130
-
-	**Cite**:
-
-	  - Code de la route. - art. L223-1 (M)
-	  - Code de la route. - art. R221-3 (V)
-
-
-#### Chapitre IV : Interdiction de délivrance, rétention, suspension et annulation
+#### Chapitre IV : Interdiction de délivrance, rétention, suspension, annulation, invalidation
 
 ##### Section 1 : Rétention et suspension administratives après constatation d'une infraction.
 
@@ -12318,11 +12400,19 @@ Dans les cas prévus à l'article L. 224-1, la décision de rétention du permis
 la remise matérielle de ce titre, donne lieu à l'établissement d'un avis de rétention dont un exemplaire est immédiatement
 remis au conducteur ou à l'accompagnateur de l'élève conducteur.
 
+**Nota:**
+
+Décret 2003-642 du 11 juillet 2003 art. 9 : application à Mayotte.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+	**Modifié par**:
+
+	  - Décret n°2003-642 du 11 juillet 2003 - art. 4 () JORF 12 juillet 2003
 
 	**Anciens textes**:
 
@@ -12339,11 +12429,19 @@ remis au conducteur ou à l'accompagnateur de l'élève conducteur.
 L'avis de rétention indique notamment au conducteur ou à l'accompagnateur de l'élève conducteur à quel service il devra
 s'adresser pour se voir restituer son permis de conduire.
 
+**Nota:**
+
+Décret 2003-642 du 11 juillet 2003 art. 9 : application à Mayotte.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+	**Modifié par**:
+
+	  - Décret n°2003-642 du 11 juillet 2003 - art. 4 () JORF 12 juillet 2003
 
 	**Anciens textes**:
 
@@ -12359,11 +12457,19 @@ conducteur ou de l'accompagnateur de l'élève conducteur dans les bureaux du se
 Toutefois, si la période de rétention expire entre dix-huit et vingt-deux heures, le délai de mise à disposition est prorogé
 jusqu'à midi le jour suivant.
 
+**Nota:**
+
+Décret 2003-642 du 11 juillet 2003 art. 9 : application à Mayotte.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+	**Modifié par**:
+
+	  - Décret n°2003-642 du 11 juillet 2003 - art. 4 () JORF 12 juillet 2003
 
 	**Anciens textes**:
 
@@ -12385,11 +12491,19 @@ Lorsqu'une mesure de suspension a été prise en application de l'article L. 224
 directement s'il se présente au service indiqué dans l'avis de rétention, soit par lettre recommandée avec accusé de
 réception.
 
+**Nota:**
+
+Décret 2003-642 du 11 juillet 2003 art. 9 : application à Mayotte.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+	**Modifié par**:
+
+	  - Décret n°2003-642 du 11 juillet 2003 - art. 4 () JORF 12 juillet 2003
 
 	**Anciens textes**:
 
@@ -12407,11 +12521,19 @@ réception.
 Si, après vérification, l'état alcoolique du conducteur ou de l'accompagnateur de l'élève conducteur n'est pas établi, son
 permis de conduire est remis sans délai à sa disposition.
 
+**Nota:**
+
+Décret 2003-642 du 11 juillet 2003 art. 9 : application à Mayotte.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+	**Modifié par**:
+
+	  - Décret n°2003-642 du 11 juillet 2003 - art. 4 () JORF 12 juillet 2003
 
 	**Anciens textes**:
 
@@ -12433,11 +12555,23 @@ les mesures prévues aux articles L. 224-7 et L. 224-8.
 La commission siégeant au chef-lieu du département ou au chef-lieu de l'arrondissement est dénommée commission de suspension
 du permis de conduire.
 
+**Nota:**
+
+Nota : Décret 2003-642 du 11 juillet 2003 art. 9 : application à Mayotte.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+	**Modifié par**:
+
+	  - Décret n°2003-642 du 11 juillet 2003 - art. 4 () JORF 12 juillet 2003
+
+	**Abrogé par**:
+
+	  - Décret n°2006-665 du 7 juin 2006 - art. 31 () JORF 8 juin 2006
 
 	**Anciens textes**:
 
@@ -12448,10 +12582,6 @@ du permis de conduire.
 
 	  - Code de la route. - art. L224-7 (M)
 	  - Code de la route. - art. L224-8 (M)
-
-	**Liens**:
-
-	  - SPEC_APPLI: Code de la route. - art. R224-18 (M)
 
 	**Cité par**:
 
@@ -12465,20 +12595,28 @@ d'arrondissement ou d'un groupe d'arrondissements, la commission est présidée 
 la commission. En cas d'empêchement du préfet ou du sous-préfet compétent, la commission est présidée par un fonctionnaire
 désigné par le préfet ou le sous-préfet.
 
+**Nota:**
+
+Nota : Décret 2003-642 du 11 juillet 2003 art. 9 : application à Mayotte.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
 
+	**Modifié par**:
+
+	  - Décret n°2003-642 du 11 juillet 2003 - art. 4 () JORF 12 juillet 2003
+
+	**Abrogé par**:
+
+	  - Décret n°2006-665 du 7 juin 2006 - art. 31 () JORF 8 juin 2006
+
 	**Anciens textes**:
 
 	  - Code de la route - art. R268-1 (Ab)
 	  - Code de la route R268-1
-
-	**Liens**:
-
-	  - SPEC_APPLI: Code de la route. - art. R224-18 (M)
 
 
 ###### Article R224-8
@@ -12502,11 +12640,23 @@ préfet compétent pour une durée de deux ans renouvelable.
 III. - Lorsque la nature de l'affaire l'exige, la commission peut faire appel à un médecin membre de la commission médicale
 d'examen du permis de conduire. Ce médecin a dans ce cas voix délibérative.
 
+**Nota:**
+
+Nota : Décret 2003-642 du 11 juillet 2003 art. 9 : application à Mayotte.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+	**Modifié par**:
+
+	  - Décret n°2003-642 du 11 juillet 2003 - art. 4 () JORF 12 juillet 2003
+
+	**Abrogé par**:
+
+	  - Décret n°2006-665 du 7 juin 2006 - art. 31 () JORF 8 juin 2006
 
 	**Anciens textes**:
 
@@ -12519,10 +12669,6 @@ d'examen du permis de conduire. Ce médecin a dans ce cas voix délibérative.
 	  - Code de la route. - art. R241-3 (Ab)
 	  - Code de la route. - art. R242-5 (Ab)
 
-	**Liens**:
-
-	  - SPEC_APPLI: Code de la route. - art. R224-18 (M)
-
 
 ###### Article R224-9
 
@@ -12530,11 +12676,23 @@ La commission désigne en outre, en son sein, parmi les représentants des usage
 l'article L. 224-8. En cas d'empêchement, ce délégué peut être remplacé par des suppléants désignés dans les mêmes
 conditions, dans un ordre déterminé.
 
+**Nota:**
+
+Nota : Décret 2003-642 du 11 juillet 2003 art. 9 : application à Mayotte.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+	**Modifié par**:
+
+	  - Décret n°2003-642 du 11 juillet 2003 - art. 4 () JORF 12 juillet 2003
+
+	**Abrogé par**:
+
+	  - Décret n°2006-665 du 7 juin 2006 - art. 31 () JORF 8 juin 2006
 
 	**Anciens textes**:
 
@@ -12544,10 +12702,6 @@ conditions, dans un ordre déterminé.
 	**Cite**:
 
 	  - Code de la route. - art. L224-8 (M)
-
-	**Liens**:
-
-	  - SPEC_APPLI: Code de la route. - art. R224-18 (M)
 
 
 ###### Article R224-10
@@ -12560,20 +12714,28 @@ La commission ou le délégué permanent ne peut émettre d'avis sur une affaire
 La commission siège valablement dès lors qu'en sus de son président elle comprend au moins un représentant de chacune des
 trois catégories énumérées à l'article R. 224-8.
 
+**Nota:**
+
+Nota : Décret 2003-642 du 11 juillet 2003 art. 9 : application à Mayotte.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
 
+	**Modifié par**:
+
+	  - Décret n°2003-642 du 11 juillet 2003 - art. 4 () JORF 12 juillet 2003
+
+	**Abrogé par**:
+
+	  - Décret n°2006-665 du 7 juin 2006 - art. 31 () JORF 8 juin 2006
+
 	**Anciens textes**:
 
 	  - Code de la route - art. R268-4 (Ab)
 	  - Code de la route R268-4
-
-	**Liens**:
-
-	  - SPEC_APPLI: Code de la route. - art. R224-18 (M)
 
 	**Cite**:
 
@@ -12593,20 +12755,28 @@ formule, hors de la présence de l'intéressé, de son mandataire ou de son cons
 président peut décider que le vote aura lieu à bulletin secret. S'il ne le fait pas, en cas de partage des voix, sa voix est
 prépondérante.
 
+**Nota:**
+
+Nota : Décret 2003-642 du 11 juillet 2003 art. 9 : application à Mayotte.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
 
+	**Modifié par**:
+
+	  - Décret n°2003-642 du 11 juillet 2003 - art. 4 () JORF 12 juillet 2003
+
+	**Abrogé par**:
+
+	  - Décret n°2006-665 du 7 juin 2006 - art. 31 () JORF 8 juin 2006
+
 	**Anciens textes**:
 
 	  - Code de la route - art. R268-5 (Ab)
 	  - Code de la route R268-5
-
-	**Liens**:
-
-	  - SPEC_APPLI: Code de la route. - art. R224-18 (M)
 
 
 ###### Article R224-12
@@ -12622,11 +12792,19 @@ ou l'annulation du permis de conduire ou le changement de catégorie du titre, c
 articles R. 221-12 à R. 221-14 indépendamment de la décision judiciaire qui a pu ou pourra intervenir. Dans le cas où la
 décision judiciaire n'est pas encore intervenue, l'arrêté du préfet est communiqué sans délai au parquet.
 
+**Nota:**
+
+Nota : Décret 2003-642 du 11 juillet 2003 art. 9 : application à Mayotte.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+	**Modifié par**:
+
+	  - Décret n°2003-642 du 11 juillet 2003 - art. 4 () JORF 12 juillet 2003
 
 	**Anciens textes**:
 
@@ -12637,10 +12815,6 @@ décision judiciaire n'est pas encore intervenue, l'arrêté du préfet est comm
 
 	  - Code de la route R221-13, R221-12 à R221-14
 	  - Code de la route. - art. R221-13 (M)
-
-	**Liens**:
-
-	  - SPEC_APPLI: Code de la route. - art. R224-18 (M)
 
 	**Cité par**:
 
@@ -12657,11 +12831,23 @@ soumettre l'affaire à la commission. Cette saisine est de droit si l'intéress�
 notification de la suspension. Le préfet prend, sur avis de cette commission, une décision confirmant, modifiant ou
 rapportant la mesure initiale.
 
+**Nota:**
+
+Nota : Décret 2003-642 du 11 juillet 2003 art. 9 : application à Mayotte.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+	**Modifié par**:
+
+	  - Décret n°2003-642 du 11 juillet 2003 - art. 4 () JORF 12 juillet 2003
+
+	**Abrogé par**:
+
+	  - Décret n°2006-665 du 7 juin 2006 - art. 31 () JORF 8 juin 2006
 
 	**Anciens textes**:
 
@@ -12672,10 +12858,6 @@ rapportant la mesure initiale.
 
 	  - Code de la route. - art. L224-8 (M)
 
-	**Liens**:
-
-	  - SPEC_APPLI: Code de la route. - art. R224-18 (M)
-
 
 ###### Article R224-14
 
@@ -12684,20 +12866,24 @@ Le permis de conduire suspendu est conservé par l'administration pendant la dur
 La suspension et le retrait du permis de conduire s'appliquent à toutes les catégories dont le conducteur ou l'accompagnateur
 de l'élève conducteur est titulaire.
 
+**Nota:**
+
+Décret 2003-642 du 11 juillet 2003 art. 9 : application à Mayotte.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
 
+	**Modifié par**:
+
+	  - Décret n°2003-642 du 11 juillet 2003 - art. 4 () JORF 12 juillet 2003
+
 	**Anciens textes**:
 
 	  - Code de la route - art. R270 (Ab)
 	  - Code de la route R270
-
-	**Liens**:
-
-	  - SPEC_APPLI: Code de la route. - art. R224-18 (M)
 
 
 ###### Article R224-15
@@ -12705,20 +12891,24 @@ de l'élève conducteur est titulaire.
 Lorsque l'intéressé n'a pas de domicile connu ou qu'il a quitté celui-ci, la convocation à comparaître et la notification de
 la décision sont valablement adressées au maire du lieu de l'infraction en vue de leur affichage à la mairie.
 
+**Nota:**
+
+Nota : Décret 2003-642 du 11 juillet 2003 art. 9 : application à Mayotte.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
 
+	**Modifié par**:
+
+	  - Décret n°2003-642 du 11 juillet 2003 - art. 4 () JORF 12 juillet 2003
+
 	**Anciens textes**:
 
 	  - Code de la route - art. R271 (Ab)
 	  - Code de la route R271
-
-	**Liens**:
-
-	  - SPEC_APPLI: Code de la route. - art. R224-18 (M)
 
 
 ###### Article R224-16
@@ -12726,11 +12916,19 @@ la décision sont valablement adressées au maire du lieu de l'infraction en vue
 En vue de l'application de l'alinéa 4 de l'article L. 224-9, tout arrêté du préfet portant suspension du permis de conduire
 est transmis sans délai en copie au procureur de la République dans le ressort duquel l'infraction a été commise.
 
+**Nota:**
+
+Décret 2003-642 du 11 juillet 2003 art. 9 : application à Mayotte.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+	**Modifié par**:
+
+	  - Décret n°2003-642 du 11 juillet 2003 - art. 4 () JORF 12 juillet 2003
 
 	**Anciens textes**:
 
@@ -12741,10 +12939,6 @@ est transmis sans délai en copie au procureur de la République dans le ressort
 
 	  - Code de la route. - art. L224-9 (V)
 
-	**Liens**:
-
-	  - SPEC_APPLI: Code de la route. - art. R224-18 (M)
-
 
 ###### Article R224-17
 
@@ -12753,20 +12947,24 @@ définitive prononcée pour une infraction punie par le présent code de la pein
 conduire ou pour l'une des infractions d'atteinte involontaire à la vie ou à l'intégrité physique ou psychique de la personne
 commise à l'occasion de la conduite d'un véhicule.
 
+**Nota:**
+
+Décret 2003-642 du 11 juillet 2003 art. 9 : application à Mayotte.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
 
+	**Modifié par**:
+
+	  - Décret n°2003-642 du 11 juillet 2003 - art. 4 () JORF 12 juillet 2003
+
 	**Anciens textes**:
 
 	  - Code de la route - art. R273 (Ab)
 	  - Code de la route R273
-
-	**Liens**:
-
-	  - SPEC_APPLI: Code de la route. - art. R224-18 (M)
 
 
 ###### Article R224-18
@@ -12774,11 +12972,19 @@ commise à l'occasion de la conduite d'un véhicule.
 Les articles R. 224-6 à R. 224-17 sont applicables à la mesure d'interdiction de délivrance du permis de conduire prévue à
 l'article L. 224-7.
 
+**Nota:**
+
+Nota : Décret 2003-642 du 11 juillet 2003 art. 9 : application à Mayotte.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+	**Modifié par**:
+
+	  - Décret n°2003-642 du 11 juillet 2003 - art. 4 () JORF 12 juillet 2003
 
 	**Anciens textes**:
 
@@ -12811,6 +13017,10 @@ l'article L. 224-7.
 Si le préfet n'ordonne pas une suspension du permis de conduire, il peut adresser un avertissement à l'auteur de toute
 contravention punie par le présent code de la peine complémentaire de suspension du permis de conduire.
 
+**Nota:**
+
+Décret 2003-642 du 11 juillet 2003 art. 9 : application à Mayotte.
+
 **Liens relatifs à cet article**
 
 	**Cité par**:
@@ -12821,29 +13031,43 @@ contravention punie par le présent code de la peine complémentaire de suspensi
 
 	  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
 
+	**Modifié par**:
+
+	  - Décret n°2003-642 du 11 juillet 2003 - art. 4 () JORF 12 juillet 2003
+
 	**Anciens textes**:
 
 	  - Code de la route - art. R274-1 (Ab)
 	  - Code de la route R274-1
 
 
-##### Section 2 : Interdiction de délivrance, suspension et annulation judiciaires.
+##### Section 2 : Interdiction de délivrance, suspension et annulation judiciaires, invalidation.
 
 ###### Article R224-20
 
-En cas de condamnation pour une infraction prévue par le présent code ou par les articles 221-6 et 222-19 du code pénal
-commise à l'occasion de la conduite d'un véhicule, tout conducteur dont le permis de conduire a été annulé et qui sollicite
-un nouveau permis doit subir à nouveau les épreuves prévues à l'article R. 221-3.
+Tout conducteur dont le permis de conduire a perdu sa validité en application de l'article L. 223-1 ou a été annulé à la
+suite d'une condamnation pour une infraction prévue par le présent code ou par les articles 221-6-1, 222-19-1 ou 222-20-1 du
+code pénal, et qui sollicite un nouveau permis doit subir à nouveau les épreuves prévues à l'article R. 221-3.
 
-Toutefois, pour les conducteurs titulaires du permis de conduire depuis au moins trois ans à la date de son annulation
-assortie d'une interdiction de solliciter un nouveau permis d'une durée inférieure à un an, l'épreuve pratique est supprimée
-sous réserve qu'ils sollicitent un nouveau permis moins de trois mois après la date à laquelle ils sont autorisés à le faire.
+Toutefois, pour les conducteurs titulaires du permis de conduire depuis trois ans ou plus à la date de la perte de validité
+du permis ou à la date de son annulation, et auxquels il est interdit de solliciter un nouveau permis pendant une durée
+inférieure à un an, l'épreuve pratique est supprimée sous réserve qu'ils sollicitent un nouveau permis moins de trois mois
+après la date à laquelle ils sont autorisés à le faire.
+
+**Nota:**
+
+Nota : Décret 2003-642 du 11 juillet 2003 art. 9 : application à Mayotte.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+	**Modifié par**:
+
+	  - Décret n°2003-642 2003-07-11 art. 4 IX, X, XI JORF 12 juillet 2003
+	  - Décret n°2003-642 du 11 juillet 2003 - art. 4 () JORF 12 juillet 2003
 
 	**Cité par**:
 
@@ -12852,8 +13076,10 @@ sous réserve qu'ils sollicitent un nouveau permis moins de trois mois après la
 
 	**Cite**:
 
-	  - Code pénal - art. 221-6 (M)
-	  - Code pénal - art. 222-19 (M)
+	  - Code pénal - art. 221-6-1 (V)
+	  - Code pénal - art. 222-19-1 (V)
+	  - Code pénal - art. 222-20-1 (V)
+	  - Code de la route. - art. L223-1 (M)
 	  - Code de la route. - art. R221-3 (V)
 
 	**Anciens textes**:
@@ -12870,6 +13096,10 @@ l'appui de sa demande un certificat délivré par la commission médicale d'exam
 affection incompatible avec la délivrance du permis de conduire de la catégorie sollicitée et qu'il a satisfait à un examen
 psychotechnique.
 
+**Nota:**
+
+Décret 2003-642 du 11 juillet 2003 art. 9 : application à Mayotte.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
@@ -12879,6 +13109,11 @@ psychotechnique.
 	**Codifié par**:
 
 	  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+	**Modifié par**:
+
+	  - Décret n°2003-642 2003-07-11 art. 4 IX, X JORF 12 juillet 2003
+	  - Décret n°2003-642 du 11 juillet 2003 - art. 4 () JORF 12 juillet 2003
 
 	**Cité par**:
 
@@ -12896,6 +13131,10 @@ Dans l'affirmative, elle provoque un examen psychotechnique de l'intéressé.
 Cet examen, qui porte notamment sur les tests prescrits par la commission, est subi dans un centre de sélection
 psychotechnique agréé par le préfet. Les résultats en sont communiqués à la commission.
 
+**Nota:**
+
+Décret 2003-642 du 11 juillet 2003 art. 9 : application à Mayotte.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
@@ -12905,6 +13144,11 @@ psychotechnique agréé par le préfet. Les résultats en sont communiqués à l
 	**Codifié par**:
 
 	  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+	**Modifié par**:
+
+	  - Décret n°2003-642 2003-07-11 art. 4 IX, X JORF 12 juillet 2003
+	  - Décret n°2003-642 du 11 juillet 2003 - art. 4 () JORF 12 juillet 2003
 
 	**Cité par**:
 
@@ -12926,6 +13170,10 @@ l'article R. 224-21.
 
 Si le résultat est défavorable, la commission établit un certificat concluant à l'inaptitude du candidat.
 
+**Nota:**
+
+Décret 2003-642 du 11 juillet 2003 art. 9 : application à Mayotte.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
@@ -12935,6 +13183,11 @@ Si le résultat est défavorable, la commission établit un certificat concluant
 	**Codifié par**:
 
 	  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+	**Modifié par**:
+
+	  - Décret n°2003-642 2003-07-11 art. 4 IX, X JORF 12 juillet 2003
+	  - Décret n°2003-642 du 11 juillet 2003 - art. 4 () JORF 12 juillet 2003
 
 	**Cite**:
 
@@ -12946,11 +13199,20 @@ Si le résultat est défavorable, la commission établit un certificat concluant
 Après une mesure de suspension, la licence de circulation, délivrée antérieurement au 1er avril 1958, n'est pas restituée.
 Elle est remplacée par le permis de conduire mentionnant la catégorie correspondante.
 
+**Nota:**
+
+Décret 2003-642 du 11 juillet 2003 art. 9 : application à Mayotte.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+	**Modifié par**:
+
+	  - Décret n°2003-642 2003-07-11 art. 4 IX, X JORF 12 juillet 2003
+	  - Décret n°2003-642 du 11 juillet 2003 - art. 4 () JORF 12 juillet 2003
 
 	**Anciens textes**:
 
@@ -13393,24 +13655,24 @@ dans le nouvel article R233-3 du code de la route.
 
 ###### Article R234-1
 
-Même en l'absence de tout signe d'ivresse manifeste, le fait de conduire un véhicule sous l'empire d'un état alcoolique
+I - Même en l'absence de tout signe d'ivresse manifeste, le fait de conduire un véhicule sous l'empire d'un état alcoolique
 caractérisé par une concentration d'alcool dans le sang égale ou supérieure à 0,50 gramme par litre ou par une concentration
 d'alcool dans l'air expiré égale ou supérieure à 0,25 milligramme par litre, sans atteindre les seuils fixés à l'article L.
 234-1 est puni de l'amende prévue pour les contraventions de la quatrième classe.
 
-L'immobilisation peut être prescrite dans les conditions prévues aux articles L. 325-1 à L. 325-3.
+II - L'immobilisation peut être prescrite dans les conditions prévue aux articles L. 325-1 à L. 325-3.
 
-Toute personne coupable de cette infraction encourt également la peine complémentaire de suspension du permis de conduire
-pour une durée de trois ans au plus, cette suspension pouvant être limitée à la conduite en dehors de l'activité
+III - Toute personne coupable de cette infraction encourt également l peine complémentaire de suspension du permis de
+conduire pour une durée de trois ans au plus, cette suspension pouvant être limitée à la conduite en dehors de l'activité
 professionnelle.
 
-Cette contravention donne lieu de plein droit à la réduction de trois points du permis de conduire.
+IV - Cette contravention donne lieu de plein droit à la réduction de six points du permis de conduire.
 
-Les dispositions du présent article sont applicables à l'accompagnateur d'un élève conducteur.
+V - Les dispositions du présent article sont applicables à l'accompagnateur d'un élève conducteur.
 
 **Nota:**
 
-NOTA : Décret 2003-293 art. 8 : Les dispositions des articles 2, 3, 4, 6 et 7 sont applicables à Mayotte.
+Nota : Décret 2003-642 du 11 juillet 2003 art. 9 : application à Mayotte.
 
 **Liens relatifs à cet article**
 
@@ -13420,7 +13682,7 @@ NOTA : Décret 2003-293 art. 8 : Les dispositions des articles 2, 3, 4, 6 et 7 s
 
 	**Modifié par**:
 
-	  - Décret n°2003-293 du 31 mars 2003 - art. 2 () JORF 1er avril 2003
+	  - Décret n°2003-642 du 11 juillet 2003 - art. 6 () JORF 12 juillet 2003
 
 	**Cité par**:
 
@@ -13450,10 +13712,6 @@ NOTA : Décret 2003-293 art. 8 : Les dispositions des articles 2, 3, 4, 6 et 7 s
 
 	  - Code de la route L234-1, L325-1 à L325-3
 	  - Code de la route. - art. L234-1 (M)
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2003-293 2002-12-23 art. 8
 
 
 ###### Article R234-2
@@ -19343,53 +19601,6 @@ puni de l'amende prévue pour les contraventions de la troisième classe.
 	  - SPEC_APPLI: Code de la route. - art. R317-27 (V)
 
 
-###### Article R317-29
-
-La fabrication, l'importation, la détention en vue de la vente, la vente, la distribution à titre gratuit des dispositifs
-ayant pour objet d'augmenter la puissance du moteur des cyclomoteurs sont interdites.
-
-Toute transformation par des professionnels des moteurs de cyclomoteurs en vue d'en augmenter la puissance est également
-interdite.
-
-Au sens du présent article, on entend par importation l'entrée sur le territoire douanier de marchandises non communautaires.
-
-Le fait de contrevenir aux dispositions du présent article est puni de l'amende prévue pour les contraventions de la
-cinquième classe.
-
-La récidive de cette contravention est réprimée conformément à l'article 132-11 du code pénal.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°92-987 1992-09-10 art. 1, art. 2, art. 3
-	  - Décret n°92-987 du 10 septembre 1992 - art. 1 (Ab)
-	  - Décret n°92-987 du 10 septembre 1992 - art. 2 (Ab)
-	  - Décret n°92-987 du 10 septembre 1992 - art. 3 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
-
-	**Abrogé par**:
-
-	  - Décret n°2003-642 du 11 juillet 2003 - art. 5 () JORF 12 juillet 2003
-
-	**Cite**:
-
-	  - Code pénal - art. 132-11 (M)
-
-	**Cité par**:
-
-	  - Code de la route. - art. R130-1-1 (M)
-	  - Code de la route. - art. R130-1-2 (M)
-	  - Code de la route. - art. R130-2 (M)
-
-	**Liens**:
-
-	  - SPEC_APPLI: Code de la route. - art. R317-27 (V)
-
-
 #### Chapitre VIII : Energie, émissions polluantes et nuisances.
 
 ###### Article R318-1
@@ -21274,32 +21485,6 @@ certificat mentionné à l'article L. 322-2 attestant l'absence d'une opposition
 	  - Code de la route. - art. L322-2 (V)
 
 
-###### Article R322-16
-
-Lorsque, en application de l'article L. 322-1, le comptable du Trésor demande au procureur de la République près le tribunal
-de grande instance compétent au chef-lieu du département de faire opposition au transfert de la carte grise, ce dernier lui
-adresse l'opposition validée par ses soins. Le comptable du Trésor en informe le préfet.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
-
-	**Abrogé par**:
-
-	  - Décret n°2003-642 du 11 juillet 2003 - art. 5 () JORF 12 juillet 2003
-
-	**Anciens textes**:
-
-	  - Code de la route - art. R299 (Ab)
-	  - Code de la route R299
-
-	**Cite**:
-
-	  - Code de la route. - art. L322-1 (M)
-
-
 ###### Article R322-17
 
 Dans le cas d'opposition au transfert, le comptable du Trésor remet, sur sa demande, au titulaire du certificat
@@ -21328,10 +21513,15 @@ par carte de paiement ou remise à un comptable du Trésor d'un chèque certifi�
 ###### Article R322-18
 
 La levée de l'opposition intervient, soit à la suite du règlement au comptable du Trésor des amendes pour lesquelles il a été
-fait opposition, soit lorsque l'intéressé a formé une réclamation dans les conditions prévues par l'article 530 du code de
-procédure pénale, et qu'il justifie avoir adressé la déclaration mentionnée à l'article R. 322-7.
+fait opposition, soit lorsque l'intéressé a formé une réclamation selon les modalités et dans les délais prévus par les
+articles 529-10 et 530 du code de procédure pénale à peine d'irrecevabilité, et qu'il justifie avoir adressé la déclaration
+mentionnée à l'article R. 322-7.
 
 Dès qu'il a été informé de la levée de l'opposition, le préfet délivre le certificat de non-opposition.
+
+**Nota:**
+
+Décret 2003-642 du 11 juillet 2003 art. 9 : application à Mayotte.
 
 **Liens relatifs à cet article**
 
@@ -21339,8 +21529,13 @@ Dès qu'il a été informé de la levée de l'opposition, le préfet délivre le
 
 	  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
 
+	**Modifié par**:
+
+	  - Décret n°2003-642 du 11 juillet 2003 - art. 5 () JORF 12 juillet 2003
+
 	**Cite**:
 
+	  - CODE DE PROCEDURE PENALE - art. 529-10 (M)
 	  - CODE DE PROCEDURE PENALE - art. 530 (M)
 	  - Code de la route. - art. R322-7 (M)
 
@@ -22348,15 +22543,28 @@ seront applicables."
 
 Toute personne coupable de l'infraction prévue à l'article R. 211-45 du code des assurances encourt également la peine
 complémentaire de suspension, pour une durée de trois ans au plus, du permis de conduire, cette suspension pouvant être
-limitée à la conduite en dehors de l'activité professionnelle.
+limitée à la conduite en dehors de l'activité professionnelle et celle de travail d'intérêt général pour une durée de vingt à
+cent vingt heures.
 
 L'immobilisation peut être prescrite dans les conditions prévues aux articles L. 325-1 à L. 325-3.
+
+**Nota:**
+
+Nota : Décret 2003-642 du 11 juillet 2003 art. 9 : application à Mayotte.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+	**Modifié par**:
+
+	  - Décret n°2003-642 du 11 juillet 2003 - art. 2 () JORF 12 juillet 2003
+
+	**Abrogé par**:
+
+	  - Décret n°2005-320 du 30 mars 2005 - art. 4 () JORF 6 avril 2005
 
 	**Cite**:
 
@@ -27269,16 +27477,27 @@ Décret 2003-293 art. 8 : Les dispositions des articles 2,3,4,6 et 7 sont applic
 
 ###### Article R412-7
 
-Tout conducteur doit, sauf en cas de nécessité absolue, faire circuler son véhicule exclusivement sur la chaussée.
+I- Tout conducteur doit, sauf en cas de nécessité absolue, faire circuler son véhicule exclusivement sur la chaussée.
 
-Le fait, pour tout conducteur, de faire circuler son véhicule en dehors de la chaussée ou sur une chaussée exclusivement
-réservée à d'autres usagers est puni de l'amende prévue pour les contraventions de la deuxième classe.
+II. - Lorsque, sur la chaussée, une voie de circulation réservée à certaines catégories de véhicules est matérialisée, les
+conducteurs d'autres catégories de véhicules ne doivent pas circuler sur cette voie.
+
+III. - Le fait, pour tout conducteur, de faire circuler son véhicule en dehors de la chaussée ou sur une voie de circulation
+réservée à d'autres catégories de véhicules est puni de l'amende prévue pour les contraventions de la 4e classe.
+
+**Nota:**
+
+Nota : Décret 2003-642 du 11 juillet 2003 art. 9 : application à Mayotte.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+	**Modifié par**:
+
+	  - Décret n°2003-642 du 11 juillet 2003 - art. 6 () JORF 12 juillet 2003
 
 	**Cité par**:
 
@@ -27293,11 +27512,6 @@ réservée à d'autres usagers est puni de l'amende prévue pour les contraventi
 	  - Code de la route - art. R233-3 (Ab)
 	  - Code de la route - art. R43 (Ab)
 	  - Code de la route R43 (al. 1), R233-3 (al. 1)
-
-	**Liens**:
-
-	  - SPEC_APPLI: Code de la route. - art. R432-1 (V)
-	  - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
 ###### Article R412-8
@@ -29211,30 +29425,32 @@ contraventions de la cinquième classe, en cas de dépassement de la vitesse max
 quatrième classe, dans les autres cas.
 
 II. - Toute personne coupable de l'infraction de dépassement de la vitesse maximale autorisée de 30 km/h ou plus encourt
-également la peine complémentaire de suspension, pour une durée de trois ans au plus, du permis de conduire, cette suspension
-pouvant être limitée à la conduite en dehors de l'activité professionnelle.
+également les peines complémentaires suivantes :
 
-III. - Toute contravention prévue au présent article donne lieu de plein droit à une réduction du nombre de points du permis
+1° La suspension, pour une durée de trois ans au plus, du permis de conduire, cette suspension pouvant être limitée à la
+conduite en dehors de l'activité professionnelle ;
+
+2° L'interdiction de conduire certains véhicules terrestres à moteur, y compris ceux pour la conduite desquels le permis de
+conduire n'est pas exigé, pour une durée de trois ans au plus ;
+
+3° L'obligation d'accomplir, à ses frais, un stage de sensibilisation à la sécurité routière.
+
+III. - Toute contravention prévue au présent article donne lieu, de plein droit à une réduction du nombre de points du permis
 de conduire dans les conditions suivantes :
 
-1° Pour tout conducteur, en cas de dépassement de la vitesse maximale autorisée de 40 km/h ou plus, réduction de quatre
+1° En cas de dépassement de la vitesse maximale autorisée de 40 km/h ou plus, réduction de quatre points ;
+
+2° En cas de dépassement de la vitesse maximale autorisée compris entre 30 km/h et moins de 40 km/h, réduction de trois
 points ;
 
-2° Pour tout conducteur, à l'exception de ceux titulaires depuis moins de deux ans du permis de conduire, en cas de
-dépassement de la vitesse maximale autorisée :
+3° En cas de dépassement de la vitesse maximale autorisée compris entre 20 km/h et moins de 30 km/h, réduction de deux
+points ;
 
-a) Compris entre 30 km/h et moins de 40 km/h, réduction de trois points, 
-
-b) Compris entre 20 km/h et moins de 30 km/h, réduction de deux points, 
-
-c) De moins de 20 km/h, réduction d'un point ;
-
-3° Pour tout conducteur titulaire depuis moins de deux ans du permis de conduire, en cas de dépassement de la vitesse
-maximale autorisée de moins de 40 km/h, réduction de trois points.
+4° En cas de dépassement de la vitesse maximale autorisée de moins de 20 km/h, réduction d'un point.
 
 **Nota:**
 
-NOTA : Décret 2003-293 art. 8 : Les dispositions des articles 2, 3, 4, 6 et 7 sont applicables à Mayotte.
+Nota : Décret 2003-642 du 11 juillet 2003 art. 9 : application à Mayotte.
 
 **Liens relatifs à cet article**
 
@@ -29244,7 +29460,8 @@ NOTA : Décret 2003-293 art. 8 : Les dispositions des articles 2, 3, 4, 6 et 7 s
 
 	**Modifié par**:
 
-	  - Décret n°2003-293 du 31 mars 2003 - art. 2 () JORF 1er avril 2003
+	  - Décret n°2003-642 du 11 juillet 2003 - art. 2 () JORF 12 juillet 2003
+	  - Décret n°2003-642 du 11 juillet 2003 - art. 4 () JORF 12 juillet 2003
 
 	**Anciens textes**:
 
@@ -29263,32 +29480,46 @@ NOTA : Décret 2003-293 art. 8 : Les dispositions des articles 2, 3, 4, 6 et 7 s
 	  - Code de procédure pénale - art. A37-11 (VD)
 	  - Code de procédure pénale - art. A37-4 (V)
 
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2003-293 2002-12-23 art. 8
-
 
 ###### Article R413-15
 
-Le fait de mettre en vente, de vendre, de détenir, d'utiliser, d'adapter, de placer, d'appliquer ou de transporter, à un
-titre quelconque, un appareil, dispositif ou produit destiné soit à déceler la présence, soit à perturber le fonctionnement
-d'instruments servant à la constatation des infractions à la législation ou à la réglementation de la circulation routière
-est puni de l'amende prévue pour les contraventions de la cinquième classe.
+I. - Le fait de détenir ou de transporter un appareil, dispositif ou produit de nature ou présenté comme étant de nature à
+déceler la présence ou perturber le fonctionnement d'appareils, instruments ou systèmes servant à la constatation des
+infractions à la législation ou à la réglementation de la circulation routière ou de permettre de se soustraire à la
+constatation desdites infractions est puni de l'amende prévue pour les contraventions de la cinquième classe.
 
-Cet appareil, ce dispositif ou ce produit est saisi et confisqué.
+Le fait de faire usage d'un appareil, dispositif ou produit de même nature est puni des mêmes peines.
 
-En outre, lorsque l'appareil, le dispositif ou le produit est placé, adapté ou appliqué sur un véhicule, celui-ci peut être
-saisi et confisqué.
+II. - Cet appareil, ce dispositif ou ce produit est saisi. Lorsque l'appareil, le dispositif ou le produit est placé, adapté
+ou appliqué sur un véhicule, ce véhicule peut également être saisi.
 
-Toute personne coupable de l'infraction prévue au présent article encourt également la peine complémentaire de suspension,
-pour une durée de trois ans au plus, du permis de conduire, cette suspension pouvant être limitée à la conduite en dehors de
-l'activité professionnelle.
+III. - Toute personne coupable de l'infraction prévue au présent article encourt également les peines complémentaires
+suivantes :
+
+1° La peine complémentaire de suspension, pour une durée de trois ans au plus, du permis de conduire, cette suspension
+pouvant être limitée à la conduite en dehors de l'activité professionnelle ;
+
+2° La confiscation du véhicule, lorsque le dispositif qui a servi ou était destiné à commettre l'infraction est placé, adapté
+ou appliqué sur un véhicule.
+
+Toute condamnation donne lieu de plein droit à la confiscation du dispositif qui a servi ou était destiné à commettre
+l'infraction.
+
+IV. - Cette contravention donne lieu de plein droit à la réduction de deux points du permis de conduire.
+
+**Nota:**
+
+Décret 2003-642 du 11 juillet 2003 art. 9 : application à Mayotte.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+	**Modifié par**:
+
+	  - Décret n°2003-642 du 11 juillet 2003 - art. 5 () JORF 12 juillet 2003
 
 	**Anciens textes**:
 
@@ -29303,11 +29534,6 @@ l'activité professionnelle.
 	  - Code de la route. - art. R130-1-2 (V)
 	  - Code de la route. - art. R130-2 (V)
 	  - Code de la route. - art. R130-3 (V)
-
-	**Liens**:
-
-	  - SPEC_APPLI: Code de la route. - art. R432-1 (V)
-	  - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
 ###### Article R413-16
@@ -31637,8 +31863,7 @@ dégagement de ce dernier ;
 
 7° Au droit des bouches d'incendie et des accès à des installations souterraines ;
 
-8° Sur les emplacements réservés aux véhicules arborant un macaron Grand Invalide de Guerre (GIG) ou Grand Invalide Civil
-(GIC) ou une carte de stationnement de modèle communautaire pour personne handicapée ;
+8° (abrogé) ;
 
 9° Sur les bandes d'arrêt d'urgence, sauf cas de nécessité absolue ;
 
@@ -31662,6 +31887,10 @@ V. - Lorsque le conducteur ou le propriétaire du véhicule est absent ou refuse
 cesser le stationnement gênant, l'immobilisation et la mise en fourrière peuvent être prescrites dans les conditions prévues
 aux articles L. 325-1 à L. 325-3.
 
+**Nota:**
+
+Nota : Décret 2003-642 du 11 juillet 2003 art. 9 : application à Mayotte.
+
 **Liens relatifs à cet article**
 
 	**Cité par**:
@@ -31683,7 +31912,7 @@ aux articles L. 325-1 à L. 325-3.
 
 	**Modifié par**:
 
-	  - Décret n°2003-536 du 20 juin 2003 - art. 20 () JORF 22 juin 2003
+	  - Décret n°2003-642 du 11 juillet 2003 - art. 6 () JORF 12 juillet 2003
 
 	**Anciens textes**:
 
@@ -31702,25 +31931,37 @@ aux articles L. 325-1 à L. 325-3.
 
 ###### Article R417-11
 
-I. - Est également considéré comme gênant, tout arrêt ou stationnement d'un véhicule sur les chaussées, voies, pistes,
-bandes, trottoirs ou accotements réservés à la circulation des véhicules de transports publics de voyageurs, des taxis ou des
-véhicules d'intérêt général prioritaires.
+I.-Est également considéré comme gênant tout arrêt ou stationnement : 
 
-II. - Il en est de même, dans les zones touristiques délimitées par l'autorité investie du pouvoir de police, pour le
-stationnement ou l'arrêt d'un véhicule ou ensemble de véhicules de plus de 20 mètres carrés de surface maximale.
+1° D'un véhicule sur les chaussées, voies, pistes, bandes, trottoirs ou accotements réservés à la circulation des véhicules
+de transports publics de voyageurs, des taxis ou des véhicules d'intérêt général prioritaires ; 
 
-III. - Tout arrêt ou stationnement gênant prévu par le présent article est puni de l'amende prévue pour les contraventions de
-la quatrième classe.
+2° D'un véhicule ou ensemble de véhicules de plus de 20 mètres carrés de surface maximale dans les zones touristiques
+délimitées par l'autorité investie du pouvoir de police ; 
 
-IV. - Lorsque le conducteur ou le titulaire du certificat d'immatriculation est absent ou refuse, malgré l'injonction des
+3° D'un véhicule sur les emplacements réservés aux véhicules portant une carte de stationnement de modèle communautaire pour
+personne handicapée, ou un macaron grand invalide de guerre (GIG) ou grand invalide civil (GIC). 
+
+II.-Tout arrêt ou stationnement gênant prévu par le présent article est puni de l'amende prévue pour les contraventions de la
+quatrième classe. 
+
+III.-Lorsque le conducteur ou le titulaire du certificat d'immatriculation est absent ou refuse, malgré l'injonction des
 agents, de faire cesser le stationnement gênant, l'immobilisation et la mise en fourrière peuvent être prescrites dans les
 conditions prévues aux articles L. 325-1 à L. 325-3.
+
+**Nota:**
+
+Décret 2003-642 du 11 juillet 2003 art. 9 : application à Mayotte.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+	**Modifié par**:
+
+	  - Décret n°2003-642 du 11 juillet 2003 - art. 6 () JORF 12 juillet 2003
 
 	**Cité par**:
 
@@ -31738,12 +31979,7 @@ conditions prévues aux articles L. 325-1 à L. 325-3.
 
 	**Cite**:
 
-	  - Code de la route L325-1 à L325-3
-
-	**Liens**:
-
-	  - SPEC_APPLI: Code de la route. - art. R432-1 (V)
-	  - SPEC_APPLI: Code de la route. - art. R432-2 (M)
+	  - Code de la route. - art. L325-1 (V)
 
 
 ###### Article R417-12
