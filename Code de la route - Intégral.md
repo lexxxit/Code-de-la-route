@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2001-12-30
+Version Consolidée au 2002-01-01
 
 # Partie législative
 
@@ -1196,7 +1196,7 @@ subordonné à la délivrance d'une autorisation administrative.
 
 I. - Le fait d'enseigner, à titre onéreux, la conduite des véhicules à moteur d'une catégorie donnée et la sécurité routière
 sans être titulaire de l'autorisation prévue à l'article L. 212-1 ou en violation d'une mesure de suspension provisoire de
-celle-ci est puni d'un an d'emprisonnement et de 100 000 F d'amende.
+celle-ci est puni d'un an d'emprisonnement et de 15 000 euros d'amende.
 
 II. - Les personnes physiques coupables de l'infraction prévue à l'alinéa précédent encourent également les peines
 complémentaires suivantes :
@@ -1210,6 +1210,10 @@ a été commise, suivant les modalités prévues par l'article 131-27 du code p�
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 	**Codifié par**:
 
 	  - Ordonnance 2000-930 2000-09-22 JORF 24 septembre 2000
@@ -1222,16 +1226,15 @@ a été commise, suivant les modalités prévues par l'article 131-27 du code p�
 	  - Code de la route. - art. R212-4 (V)
 	  - Code de la voirie routière - art. L118-4 (V)
 
-	**Cite**:
-
-	  - Code pénal - art. 131-27 (V)
-	  - Code pénal - art. 131-35 (M)
-	  - Code de la route. - art. L212-1 (AbD)
-
 	**Anciens textes**:
 
 	  - Code de la route - art. L29-3 (Ab)
 	  - Code de la route L29-3
+
+	**Liens**:
+
+	  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
+	  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
 
 
 #### Chapitre 3 : Etablissements d'enseignement.
@@ -1507,7 +1510,7 @@ méconnaissance des dispositions de l'article L. 213-2.
 I. - Le fait d'exploiter un établissement d'enseignement de la conduite des véhicules à moteur d'une catégorie donnée et de
 la sécurité routière ou de formation des candidats pour l'exercice de la profession d'enseignant sans avoir obtenu l'agrément
 prévu à l'article L. 213-1 ou en violation d'une mesure de suspension provisoire de celui-ci est puni d'un an
-d'emprisonnement et de 100 000 F d'amende.
+d'emprisonnement et de 15 000 euros d'amende.
 
 Est puni des mêmes peines le fait d'employer un enseignant qui n'est pas titulaire de l'autorisation prévue à l'article L.
 212-1.
@@ -1544,6 +1547,10 @@ l'infraction a été commise, suivant les modalités prévues par l'article 131-
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 	**Codifié par**:
 
 	  - Ordonnance 2000-930 2000-09-22 JORF 24 septembre 2000
@@ -1567,6 +1574,11 @@ l'infraction a été commise, suivant les modalités prévues par l'article 131-
 	**Cité par**:
 
 	  - Code de la route. - art. R212-4 (V)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
+	  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
 
 
 ###### Article L213-7
@@ -1692,7 +1704,7 @@ la conduite d'un cyclomoteur.
 
 I. - Le fait, pour toute personne en état de récidive au sens de l'article 132-11 du code pénal, de conduire un véhicule sans
 être titulaire du permis de conduire correspondant à la catégorie du véhicule considéré est puni de deux ans d'emprisonnement
-et de 25 000 F d'amende.
+et de 3 750 euros d'amende.
 
 II. - Toute personne coupable de l'infraction prévue au présent article encourt également les peines complémentaires
 suivantes :
@@ -1704,10 +1716,6 @@ l'enfance délinquante ;
 2° La peine de jours-amende dans les conditions fixées aux articles 131-5 et 131-25 du code pénal.
 
 III. - L'immobilisation peut être prescrite, dans les conditions prévues aux articles L. 325-1 à L. 325-3.
-
-**Nota:**
-
-NOTA : L'ordonnance 2000-930 est entrée en vigueur le 1er juin 2001.
 
 **Liens relatifs à cet article**
 
@@ -1744,6 +1752,10 @@ NOTA : L'ordonnance 2000-930 est entrée en vigueur le 1er juin 2001.
 	  - Code pénal - art. 221-8 (V)
 	  - Code pénal - art. 222-44 (V)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 	**Codifié par**:
 
 	  - Ordonnance 2000-930 2000-09-22 JORF 24 septembre 2000
@@ -1752,10 +1764,8 @@ NOTA : L'ordonnance 2000-930 est entrée en vigueur le 1er juin 2001.
 	**Liens**:
 
 	  - SPEC_APPLI: Ordonnance 2000-1255 2000-12-21 art. 2 : Ordonnance applicable à Mayotte
-
-	**Modifié par**:
-
-	  - Ordonnance n°2000-1255 du 21 décembre 2000 - art. 1 () JORF 23 décembre 2000 en vigueur le 1er juin 2001
+	  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
+	  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
 
 	**Anciens textes**:
 
@@ -1924,7 +1934,7 @@ remise de son permis au préfet et sous réserve d'être reconnu apte après un 
 frais.
 
 III. - Le fait de refuser de se soumettre à l'injonction prévue au premier alinéa du présent article est puni de deux ans
-d'emprisonnement et de 30 000 F d'amende.
+d'emprisonnement et de 4 500 euros d'amende.
 
 IV. - Toute personne coupable de ce délit encourt également les peines complémentaires suivantes :
 
@@ -1968,6 +1978,10 @@ l'enfance délinquante ;
 	  - Code des transports - art. R3211-27 (VD)
 	  - Code général des collectivités territoriales - art. Annexe IV-I (V)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 	**Codifié par**:
 
 	  - Ordonnance 2000-930 2000-09-22 JORF 24 septembre 2000
@@ -1982,6 +1996,11 @@ l'enfance délinquante ;
 	  - Code de la route - art. L14 (Ab)
 	  - Code de la route - art. L19 (Ab)
 	  - Code de la route L1-1 (al. 2), L1-2, L11-1 (al. 1 et 2), L11-5, L14 (al. 1 et 2), L19 (al. 4)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
+	  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
 
 
 ###### Article L223-6
@@ -2273,7 +2292,7 @@ l'immobilisation peuvent prendre toute mesure destinée à placer le véhicule e
 ###### Article L224-5
 
 I. - Le fait, pour tout conducteur d'un véhicule, de faire obstacle à l'immobilisation de celui-ci est puni de trois mois
-d'emprisonnement et de 25 000 F d'amende.
+d'emprisonnement et de 3 750 euros d'amende.
 
 II. - Toute personne coupable de ce délit encourt également les peines complémentaires suivantes :
 
@@ -2298,6 +2317,10 @@ III. - Ce délit donne lieu de plein droit à la réduction de la moitié du nom
 	  - Code pénal - art. 131-8 (M)
 	  - Code pénal 131-8, 131-22 à 131-24, 131-5, 131-25
 
+	**Modifié par**:
+
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 	**Codifié par**:
 
 	  - Ordonnance 2000-930 2000-09-22 JORF 24 septembre 2000
@@ -2317,6 +2340,11 @@ III. - Ce délit donne lieu de plein droit à la réduction de la moitié du nom
 	  - Code de la route - art. L14 (Ab)
 	  - Code de la route - art. L4 (Ab)
 	  - Code de la route L1-1 (al. 2), L1-2, L4, L11-1 (al. 1 et 2), L11-2 (al. 1), L14 (al. 1 et 2)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
+	  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
 
 
 ###### Article L224-6
@@ -2633,8 +2661,8 @@ reconnu apte après un examen médical et psychotechnique effectué à ses frais
 
 I. - Le fait pour toute personne, malgré la notification qui lui aura été faite d'une décision prononçant à son encontre la
 suspension, la rétention, l'annulation ou l'interdiction d'obtenir la délivrance du permis de conduire, de conduire un
-véhicule à moteur pour la conduite duquel une telle pièce est nécessaire est puni de deux ans d'emprisonnement et de 30 000 F
-d'amende.
+véhicule à moteur pour la conduite duquel une telle pièce est nécessaire est puni de deux ans d'emprisonnement et de 4 500
+euros d'amende.
 
 II. - Toute personne coupable du délit prévu au présent article encourt également les peines complémentaires suivantes :
 
@@ -2684,6 +2712,10 @@ de conduire.
 	  - Code pénal - art. 221-8 (V)
 	  - Code pénal - art. 222-44 (V)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 	**Codifié par**:
 
 	  - Ordonnance 2000-930 2000-09-22 JORF 24 septembre 2000
@@ -2700,16 +2732,21 @@ de conduire.
 	  - Code de la route - art. R278 (Ab)
 	  - Code de la route L1-1 (al. 2), L1-2, L11-1 (al. 1 et 2), L11-2 (al. 1), L14 (al. 1 et 2), L19 (al. 1), R278 2°
 
+	**Liens**:
+
+	  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
+	  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
+
 
 ###### Article L224-17
 
 I. - Le fait, pour toute personne ayant reçu la notification d'une décision prononçant à son encontre la suspension ou
 l'annulation du permis de conduire, de refuser de restituer le permis suspendu ou annulé à l'agent de l'autorité chargé de
-l'exécution de cette décision est puni de deux ans d'emprisonnement et de 30 000 F d'amende.
+l'exécution de cette décision est puni de deux ans d'emprisonnement et de 4 500 euros d'amende.
 
 II. - Le fait pour toute personne, pendant la période pour laquelle une décision de rétention du permis de conduire lui a été
 notifiée en application de l'article L. 224-1, de refuser de restituer le permis de conduire est puni de deux ans
-d'emprisonnement et de 30 000 F d'amende.
+d'emprisonnement et de 4 500 euros d'amende.
 
 III. - Toute personne coupable de l'un des délits prévus au présent article encourt également les peines complémentaires
 suivantes :
@@ -2743,6 +2780,10 @@ permis de conduire.
 	  - Code pénal 131-8, 131-22 à 131-24, 131-5, 131-25
 	  - Code de la route. - art. L224-1 (M)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 	**Codifié par**:
 
 	  - Ordonnance 2000-930 2000-09-22 JORF 24 septembre 2000
@@ -2762,11 +2803,16 @@ permis de conduire.
 
 	  - Code de la sécurité intérieure - art. R546-2 (VD)
 
+	**Liens**:
+
+	  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
+	  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
+
 
 ###### Article L224-18
 
 I. - Le fait pour toute personne, par une fausse déclaration, d'obtenir ou de tenter d'obtenir le permis de conduire est puni
-de deux ans d'emprisonnement et de 30 000 F d'amende.
+de deux ans d'emprisonnement et de 4 500 euros d'amende.
 
 II. - Toute personne coupable de ce délit encourt également les peines complémentaires suivantes :
 
@@ -2791,6 +2837,10 @@ III. - Ce délit donne lieu de plein droit à la réduction de la moitié du nom
 	  - Code pénal - art. 131-8 (M)
 	  - Code pénal 131-8, 131-22 à 131-24, 131-5, 131-25
 
+	**Modifié par**:
+
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 	**Codifié par**:
 
 	  - Ordonnance 2000-930 2000-09-22 JORF 24 septembre 2000
@@ -2809,6 +2859,11 @@ III. - Ce délit donne lieu de plein droit à la réduction de la moitié du nom
 	**Cité par**:
 
 	  - Code de la sécurité intérieure - art. R546-2 (VD)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
+	  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
 
 
 #### Chapitre  5 : Enregistrement et communication des informations relatives au permis de conduire.
@@ -3149,14 +3204,13 @@ Les dispositions relatives au délit de fuite commis par le conducteur d'un véh
 
 " Art. 434-10. - Le fait, pour tout conducteur d'un véhicule ou engin terrestre, fluvial ou maritime, sachant qu'il vient de
 causer ou d'occasionner un accident, de ne pas s'arrêter et de tenter ainsi d'échapper à la responsabilité pénale ou civile
-qu'il peut avoir encourue est puni de deux ans d'emprisonnement et de 200 000 F d'amende.
+qu'il peut avoir encourue est puni de deux ans d'emprisonnement et de 30 000 euros d'amende.
 
-Lorsqu'il y a lieu à l'application des articles 221-6 et 222-19, les peines prévues par ces articles sont portées au double.
-"
+Lorsqu'il y a lieu à l'application des articles 221-6 et 222-19, les peines prévues par ces articles sont portées au double."
 
 " Art. 434-45. - Les personnes physiques coupables du délit prévu par l'article 434-10 encourent également la suspension,
 pour une durée de cinq ans au plus, du permis de conduire, cette suspension pouvant être limitée à la conduite en dehors de
-l'activité professionnelle. "
+l'activité professionnelle."
 
 **Liens relatifs à cet article**
 
@@ -3171,6 +3225,10 @@ l'activité professionnelle. "
 	  - Code des transports - art. R1422-7 (VD)
 	  - Code des transports - art. R3113-26 (VD)
 	  - Code des transports - art. R3211-27 (VD)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 	**Codifié par**:
 
@@ -3298,7 +3356,7 @@ Les délits d'atteinte involontaire à la vie ou à l'intégrité d'une personne
 
 I. - Le fait pour tout conducteur d'omettre d'obtempérer à une sommation de s'arrêter émanant d'un fonctionnaire ou agent
 chargé de constater les infractions et muni des insignes extérieurs et apparents de sa qualité est puni de trois mois
-d'emprisonnement et de 25 000 F d'amende.
+d'emprisonnement et de 3 750 euros d'amende.
 
 II. - Toute personne coupable de ce délit encourt également les peines complémentaires suivantes :
 
@@ -3342,6 +3400,10 @@ III. - Ce délit donne lieu de plein droit à la réduction de la moitié du nom
 	  - Code des transports - art. R3211-27 (VD)
 	  - Code général des collectivités territoriales - art. Annexe IV-I (V)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 	**Codifié par**:
 
 	  - Ordonnance 2000-930 2000-09-22 JORF 24 septembre 2000
@@ -3357,11 +3419,16 @@ III. - Ce délit donne lieu de plein droit à la réduction de la moitié du nom
 	  - Code de la route - art. L4 (Ab)
 	  - Code de la route L1-1 (al. 2), L1-2, L4, L11-1 (al. 1 et 2), L11-2 (al. 1), L14 (al. 1 et 2)
 
+	**Liens**:
+
+	  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
+	  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
+
 
 ###### Article L233-2
 
 I. - Le fait pour tout conducteur de refuser de se soumettre à toutes vérifications prescrites concernant son véhicule ou sa
-personne est puni de trois mois d'emprisonnement et de 25 000 F d'amende.
+personne est puni de trois mois d'emprisonnement et de 3 750 euros d'amende.
 
 II. - Toute personne coupable de ce délit encourt également les peines complémentaires suivantes :
 
@@ -3399,6 +3466,10 @@ III. - Ce délit donne lieu de plein droit à la réduction de la moitié du nom
 	  - Code de la sécurité intérieure - art. R546-2 (VD)
 	  - Code des transports - art. R3113-26 (VD)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 	**Codifié par**:
 
 	  - Ordonnance 2000-930 2000-09-22 JORF 24 septembre 2000
@@ -3413,6 +3484,11 @@ III. - Ce délit donne lieu de plein droit à la réduction de la moitié du nom
 	  - Code de la route - art. L4 (Ab)
 	  - Code de la route L1-1 (al. 2), L1-2, L4, L11-1 (al. 1 et 2), L14 (al. 1 et 2)
 
+	**Liens**:
+
+	  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
+	  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
+
 
 #### Chapitre 4 : Conduite sous l'influence de l'alcool.
 
@@ -3420,8 +3496,8 @@ III. - Ce délit donne lieu de plein droit à la réduction de la moitié du nom
 
 I. - Même en l'absence de tout signe d'ivresse manifeste, le fait de conduire un véhicule sous l'empire d'un état alcoolique
 caractérisé par une concentration d'alcool dans le sang égale ou supérieure à 0,80 gramme par litre ou par une concentration
-d'alcool dans l'air expiré égale ou supérieure à 0,40 milligramme par litre est puni de deux ans d'emprisonnement et de 30
-000 F d'amende.
+d'alcool dans l'air expiré égale ou supérieure à 0,40 milligramme par litre est puni de deux ans d'emprisonnement et de 4 500
+euros d'amende.
 
 II. - Le fait de conduire un véhicule en état d'ivresse manifeste est puni des mêmes peines.
 
@@ -3477,6 +3553,10 @@ V. - Les dispositions du présent article sont applicables à l'accompagnateur d
 	  - Code pénal - art. 221-8 (V)
 	  - Code pénal - art. 222-44 (V)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 	**Codifié par**:
 
 	  - Ordonnance 2000-930 2000-09-22 JORF 24 septembre 2000
@@ -3499,6 +3579,8 @@ V. - Les dispositions du présent article sont applicables à l'accompagnateur d
 
 	  - PILOTE_SUIVEUR: Code de la route. - art. L244-1 (V)
 	  - PILOTE_SUIVEUR: Code de la route. - art. L245-1 (V)
+	  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
+	  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
 
 
 ###### Article L234-2
@@ -3742,7 +3824,7 @@ vérifications prévues aux articles L. 234-3 à L. 234-6.
 ###### Article L234-8
 
 I. - Le fait de refuser de se soumettre aux vérifications prévues par les articles L. 234-4 à L. 234-6 est puni de deux ans
-d'emprisonnement et de 30 000 F d'amende.
+d'emprisonnement et de 4 500 euros d'amende.
 
 II. - Toute personne coupable de ce délit encourt également les peines complémentaires suivantes :
 
@@ -3796,6 +3878,10 @@ IV. - La suspension du permis de conduire prévue au présent article ne peut ê
 	  - Code pénal - art. 221-8 (V)
 	  - Code pénal - art. 222-44 (V)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 	**Codifié par**:
 
 	  - Ordonnance 2000-930 2000-09-22 JORF 24 septembre 2000
@@ -3816,6 +3902,8 @@ IV. - La suspension du permis de conduire prévue au présent article ne peut ê
 
 	  - PILOTE_SUIVEUR: Code de la route. - art. L244-1 (V)
 	  - PILOTE_SUIVEUR: Code de la route. - art. L245-1 (V)
+	  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
+	  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
 
 
 ###### Article L234-9
@@ -3874,7 +3962,7 @@ L. 234-5.
 ###### Article L234-10
 
 Le fait de refuser de se soumettre aux vérifications prévues par l'article L. 234-9 est puni de deux ans d'emprisonnement et
-de 30 000 F d'amende.
+de 4 500 euros d'amende.
 
 Toute personne coupable de ce délit encourt également la peine complémentaire de suspension, pour une durée de trois ans au
 plus, du permis de conduire, cette suspension pouvant être limitée à la conduite en dehors de l'activité professionnelle.
@@ -3883,10 +3971,18 @@ Ce délit donne lieu de plein droit à la réduction de la moitié du nombre de 
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 	**Codifié par**:
 
 	  - Ordonnance 2000-930 2000-09-22 JORF 24 septembre 2000
 	  - Loi n°2003-495 2003-06-12 art. 38 JORF 13 juin 2003
+
+	**Abrogé par**:
+
+	  - Loi n°2003-495 du 12 juin 2003 - art. 32 () JORF 13 juin 2003
 
 	**Anciens textes**:
 
@@ -3904,6 +4000,11 @@ Ce délit donne lieu de plein droit à la réduction de la moitié du nombre de 
 	**Cite**:
 
 	  - Code de la route. - art. L234-9 (V)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
+	  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
 
 
 ###### Article L234-11
@@ -4063,7 +4164,7 @@ s'il conduisait sous l'influence de substances ou plantes classées comme stupé
 Les résultats de ce ces analyses sont transmis au procureur de la République du lieu de l'accident.
 
 Le fait de refuser de se soumettre aux analyses et examens médicaux, cliniques et biologiques prévus par le présent article
-est puni de deux ans d'emprisonnement et de 30 000 F d'amende.
+est puni de deux ans d'emprisonnement et de 4 500 euros d'amende.
 
 Toute personne coupable de ce délit encourt également la peine complémentaire de suspension, pour une durée de trois ans au
 plus, du permis de conduire, cette suspension pouvant être limitée à la conduite en dehors de l'activité professionnelle.
@@ -4096,6 +4197,10 @@ Un décret en Conseil d'Etat détermine les conditions d'application du présent
 	  - Code pénal - art. 221-8 (V)
 	  - Code pénal - art. 222-44 (V)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 	**Codifié par**:
 
 	  - Ordonnance 2000-930 2000-09-22 JORF 24 septembre 2000
@@ -4105,10 +4210,8 @@ Un décret en Conseil d'Etat détermine les conditions d'application du présent
 
 	  - SPEC_APPLI: Loi n°2001-1062 2001-11-15 art. 71 I : application à Mayotte
 	  - TXT_SOURCE: Directive 97-66 CEE 1997-12-15
-
-	**Modifié par**:
-
-	  - Loi n°2001-1062 du 15 novembre 2001 - art. 21 () JORF 16 novembre 2001
+	  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
+	  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
 
 	**Anciens textes**:
 
@@ -4189,54 +4292,54 @@ Pour l'application des dispositions du présent livre à Mayotte, les termes én
 
 Les articles L. 234-1 à L. 234-11 sont applicables à la Nouvelle-Calédonie dans la rédaction suivante :
 
-" Art. L. 234-1. - I. - Même en l'absence de tout signe d'ivresse manifeste, le fait de conduire un véhicule sous l'empire
-d'un état alcoolique caractérisé par une concentration d'alcool dans le sang égale ou supérieure à 0,80 gramme par litre ou
-par une concentration d'alcool dans l'air expiré égale ou supérieure à 0,40 milligramme par litre est puni de deux ans
-d'emprisonnement et de 30 000 F d'amende.
+Art. L. 234-1. - I. - Même en l'absence de tout signe d'ivresse manifeste, le fait de conduire un véhicule sous l'empire d'un
+état alcoolique caractérisé par une concentration d'alcool dans le sang égale ou supérieure à 0,80 gramme par litre ou par
+une concentration d'alcool dans l'air expiré égale ou supérieure à 0,40 milligramme par litre est puni de deux ans
+d'emprisonnement et de 4 500 euros d'amende.
 
-II. - Le fait de conduire un véhicule en état d'ivresse manifeste est puni des mêmes peines. "
+II. - Le fait de conduire un véhicule en état d'ivresse manifeste est puni des mêmes peines.
 
-" Art. L. 234-2. - Toute personne coupable de l'un des délits prévus à l'article L. 234-1 encourt également les peines
+Art. L. 234-2. - Toute personne coupable de l'un des délits prévus à l'article L. 234-1 encourt également les peines
 complémentaires suivantes :
 
 1° La peine de travail d'intérêt général selon des modalités prévues à l'article 131-8 du code pénal et selon les conditions
 prévues aux articles 131-22 à 131-24 du même code et à l'article 20-5 de l'ordonnance n° 45-174 du 2 février 1945 relative à
 l'enfance délinquante ;
 
-2° La peine de jours-amende dans les conditions fixées aux articles 131-5 et 131-25 du code pénal. "
+2° La peine de jours-amende dans les conditions fixées aux articles 131-5 et 131-25 du code pénal.
 
-" Art. L. 234-3. - Les officiers ou agents de police judiciaire soumettent à des épreuves de dépistage de l'imprégnation
+Art. L. 234-3. - Les officiers ou agents de police judiciaire soumettent à des épreuves de dépistage de l'imprégnation
 alcoolique par l'air expiré l'auteur présumé de l'une des infractions prévues par les dispositions applicables localement
 susceptibles d'entraîner une suspension du permis de conduire, ou le conducteur impliqué dans un accident de la circulation
 ayant occasionné un dommage corporel.
 
 Ils peuvent soumettre aux mêmes épreuves tout conducteur impliqué dans un quelconque accident de la circulation ou l'auteur
 présumé de l'une des infractions aux prescriptions applicables localement relatives à la vitesse des véhicules et au port de
-la ceinture de sécurité ou du casque. "
+la ceinture de sécurité ou du casque.
 
-" Art. L. 234-4. - Lorsque les épreuves de dépistage permettent de présumer l'existence d'un état alcoolique ou lorsque le
+Art. L. 234-4. - Lorsque les épreuves de dépistage permettent de présumer l'existence d'un état alcoolique ou lorsque le
 conducteur refuse de les subir, les officiers ou agents de police judiciaire font procéder aux vérifications destinées à
 établir la preuve de l'état alcoolique.
 
 Ces vérifications sont faites soit au moyen d'analyses et examens médicaux, cliniques et biologiques, soit au moyen d'un
 appareil permettant de déterminer la concentration d'alcool par l'analyse de l'air expiré, à la condition que cet appareil
-soit conforme à un type homologué. "
+soit conforme à un type homologué.
 
-" Art. L. 234-5. - Lorsque les vérifications sont faites au moyen d'analyses et examens médicaux, cliniques et biologiques,
-un échantillon est conservé.
+Art. L. 234-5. - Lorsque les vérifications sont faites au moyen d'analyses et examens médicaux, cliniques et biologiques, un
+échantillon est conservé.
 
 Lorsqu'elles sont faites au moyen d'un appareil permettant de déterminer la concentration d'alcool par l'analyse de l'air
 expiré, un second contrôle peut être immédiatement effectué, après vérification du bon fonctionnement de l'appareil ; ce
-contrôle est de droit lorsqu'il est demandé par l'intéressé. "
+contrôle est de droit lorsqu'il est demandé par l'intéressé.
 
-" Art. L. 234-6. - L'auteur présumé de conduite en état d'ivresse manifeste peut être soumis directement aux vérifications
-destinées à établir l'état alcoolique. "
+Art. L. 234-6. - L'auteur présumé de conduite en état d'ivresse manifeste peut être soumis directement aux vérifications
+destinées à établir l'état alcoolique.
 
-" Art. L. 234-7. - Un décret en Conseil d'Etat détermine les conditions dans lesquelles sont effectuées les opérations de
-dépistage et les vérifications prévues aux articles L. 234-3 à L. 234-6. "
+Art. L. 234-7. - Un décret en Conseil d'Etat détermine les conditions dans lesquelles sont effectuées les opérations de
+dépistage et les vérifications prévues aux articles L. 234-3 à L. 234-6.
 
-" Art. L. 234-8. - I. - Le fait de refuser de se soumettre aux vérifications prévues par les articles L. 234-4 à L. 234-6 est
-puni de deux ans d'emprisonnement et de 30 000 F d'amende.
+Art. L. 234-8. - I. - Le fait de refuser de se soumettre aux vérifications prévues par les articles L. 234-4 à L. 234-6 est
+puni de deux ans d'emprisonnement et de 4 500 euros d'amende.
 
 II. - Toute personne coupable de ce délit encourt également les peines complémentaires suivantes :
 
@@ -4244,9 +4347,9 @@ II. - Toute personne coupable de ce délit encourt également les peines complé
 prévues aux articles 131-22 à 131-24 du même code et à l'article 20-5 de l'ordonnance n° 45-174 du 2 février 1945 relative à
 l'enfance délinquante ;
 
-2° La peine de jours-amende dans les conditions fixées aux articles 131-5 et 131-25 du code pénal. "
+2° La peine de jours-amende dans les conditions fixées aux articles 131-5 et 131-25 du code pénal.
 
-" Art. L. 234-9. - Les officiers de police judiciaire, soit sur instruction du procureur de la République, soit à leur
+Art. L. 234-9. - Les officiers de police judiciaire, soit sur instruction du procureur de la République, soit à leur
 initiative, et, sur l'ordre et sous la responsabilité des officiers de police judiciaire, les agents de police judiciaire
 peuvent, même en l'absence d'infraction préalable ou d'accident, soumettre toute personne qui conduit un véhicule à des
 épreuves de dépistage de l'imprégnation alcoolique par l'air expiré.
@@ -4262,10 +4365,10 @@ au moyen d'analyses et examens médicaux, cliniques et biologiques, dans les con
 L. 234-5."
 
 " Art. L. 234-10. - Le fait de refuser de se soumettre aux vérifications prévues par l'article L. 234-9 est puni de deux ans
-d'emprisonnement et de 30 000 F d'amende. "
+d'emprisonnement et de 4 500 euros d'amende. " 
 
 " Art. L. 234-11. - Les peines prévues aux articles 221-6 et 222-19 du code pénal sont portées au double en cas de commission
-simultanée d'une des infractions prévues aux articles L. 234-1 et L. 234-8.
+simultanée d'une des infractions prévues aux articles L. 234-1 et L. 234-8. 
 
 Les peines prévues à l'article 222-19 du code pénal sont applicables si l'atteinte à l'intégrité physique ou psychique de la
 personne n'a pas entraîné une incapacité totale de travail pendant plus de trois mois en cas de commission simultanée d'une
@@ -4296,66 +4399,75 @@ des infractions prévues aux articles L. 234-1 et L. 234-8."
 	  - Loi n°95-97 du 1 février 1995 - art. 3 (Ab)
 	  - Loi n°95-97 du 1 février 1995 - art. 4 (Ab)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 	**Codifié par**:
 
 	  - Ordonnance 2000-930 2000-09-22 JORF 24 septembre 2000
 	  - Loi n°2003-495 2003-06-12 art. 38 JORF 13 juin 2003
+
+	**Liens**:
+
+	  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
+	  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
 
 
 #### Chapitre 4 : Dispositions applicables à la Polynésie française.
 
 ###### Article L244-1
 
-Les articles L. 234-1 à L. 234-11 sont applicables à la Polynésie française, dans la rédaction suivante :
+Les articles L. 234-1 à L. 234-9 sont applicables à la Polynésie française, dans la rédaction suivante :
 
-" Art. L. 234-1. - I. - Même en l'absence de tout signe d'ivresse manifeste, le fait de conduire un véhicule sous l'empire
+"Art. L. 234-1. - I. - Même en l'absence de tout signe d'ivresse manifeste, le fait de conduire un véhicule sous l'empire
 d'un état alcoolique caractérisé par une concentration d'alcool dans le sang égale ou supérieure à 0,80 gramme par litre ou
 par une concentration d'alcool dans l'air expiré égale ou supérieure à 0,40 milligramme par litre est puni de deux ans
-d'emprisonnement et de 30 000 F d'amende.
+d'emprisonnement et de 4 500 euros d'amende.
 
-II. - Le fait de conduire un véhicule en état d'ivresse manifeste est puni des mêmes peines. "
+II. - Le fait de conduire un véhicule en état d'ivresse manifeste est puni des mêmes peines."
 
-" Art. L. 234-2. - Toute personne coupable de l'un des délits prévus à l'article L. 234-1 encourt également les peines
+"Art. L. 234-2. - Toute personne coupable de l'un des délits prévus à l'article L. 234-1 encourt également les peines
 complémentaires suivantes :
 
 1° La peine de travail d'intérêt général selon des modalités prévues à l'article 131-8 du code pénal et selon les conditions
 prévues aux articles 131-22 à 131-24 du même code et à l'article 20-5 de l'ordonnance n° 45-174 du 2 février 1945 relative à
 l'enfance délinquante ;
 
-2° La peine de jours-amende dans les conditions fixées aux articles 131-5 et 131-25 du code pénal. "
+2° La peine de jours-amende dans les conditions fixées aux articles 131-5 et 131-25 du code pénal."
 
-" Art. L. 234-3. - Les officiers ou agents de police judiciaire soumettent à des épreuves de dépistage de l'imprégnation
+"Art. L. 234-3. - Les officiers ou agents de police judiciaire soumettent à des épreuves de dépistage de l'imprégnation
 alcoolique par l'air expiré l'auteur présumé de l'une des infractions prévues par les dispositions applicables localement
 susceptibles d'entraîner une suspension du permis de conduire, ou le conducteur impliqué dans un accident de la circulation
 ayant occasionné un dommage corporel.
 
 Ils peuvent soumettre aux mêmes épreuves tout conducteur impliqué dans un quelconque accident de la circulation ou l'auteur
 présumé de l'une des infractions aux prescriptions applicables localement relatives à la vitesse des véhicules et au port de
-la ceinture de sécurité ou du casque. "
+la ceinture de sécurité ou du casque."
 
-" Art. L. 234-4. - Lorsque les épreuves de dépistage permettent de présumer l'existence d'un état alcoolique ou lorsque le
+"Art. L. 234-4. - Lorsque les épreuves de dépistage permettent de présumer l'existence d'un état alcoolique ou lorsque le
 conducteur refuse de les subir, les officiers ou agents de police judiciaire font procéder aux vérifications destinées à
 établir la preuve de l'état alcoolique.
 
 Ces vérifications sont faites soit au moyen d'analyses et examens médicaux, cliniques et biologiques, soit au moyen d'un
 appareil permettant de déterminer la concentration d'alcool par l'analyse de l'air expiré à la condition que cet appareil
-soit conforme à un type homologué. "
+soit conforme à un type homologué."
 
-" Art. L. 234-5. - Lorsque les vérifications sont faites au moyen d'analyses et examens médicaux, cliniques et biologiques,
-un échantillon est conservé.
+"Art. L. 234-5. - Lorsque les vérifications sont faites au moyen d'analyses et examens médicaux, cliniques et biologiques, un
+échantillon est conservé.
 
 Lorsqu'elles sont faites au moyen d'un appareil permettant de déterminer la concentration d'alcool par l'analyse de l'air
 expiré, un second contrôle peut être immédiatement effectué, après vérification du bon fonctionnement de l'appareil ; ce
-contrôle est de droit lorsqu'il est demandé par l'intéressé. "
+contrôle est de droit lorsqu'il est demandé par l'intéressé."
 
-" Art. L. 234-6. - L'auteur présumé de conduite en état d'ivresse manifeste peut être soumis directement aux vérifications
-destinées à établir l'état alcoolique. "
+"Art. L. 234-6. - L'auteur présumé de conduite en état d'ivresse manifeste peut être soumis directement aux vérifications
+destinées à établir l'état alcoolique."
 
-" Art. L. 234-7. - Un décret en Conseil d'Etat détermine les conditions dans lesquelles sont effectuées les opérations de
+"Art. L. 234-7. - Un décret en Conseil d'Etat détermine les conditions dans lesquelles sont effectuées les opérations de
 dépistage et les vérifications prévues aux articles L. 234-3 à L. 234-6."
 
-" Art. L. 234-8. - I. - Le fait de refuser de se soumettre aux vérifications prévues par les articles L. 234-4 à L. 234-6 est
-puni de deux ans d'emprisonnement et de 30 000 F d'amende.
+"Art. L. 234-8. - I. - Le fait de refuser de se soumettre aux vérifications prévues par les articles L. 234-4 à L. 234-6 ou
+aux vérifications prévues par l'article L. 234-9 est puni de deux ans d'emprisonnement et de 4 500 euros d'amende.
 
 II. - Toute personne coupable de ce délit encourt également les peines complémentaires suivantes :
 
@@ -4363,9 +4475,9 @@ II. - Toute personne coupable de ce délit encourt également les peines complé
 prévues aux articles 131-22 à 131-24 du même code et à l'article 20-5 de l'ordonnance n° 45-174 du 2 février 1945 relative à
 l'enfance délinquante ;
 
-2° La peine de jours-amende dans les conditions fixées aux articles 131-5 et 131-25 du code pénal. "
+2° La peine de jours-amende dans les conditions fixées aux articles 131-5 et 131-25 du code pénal."
 
-" Art. L. 234-9. - Les officiers de police judiciaire, soit sur instruction du procureur de la République, soit à leur
+"Art. L. 234-9. - Les officiers de police judiciaire, soit sur instruction du procureur de la République, soit à leur
 initiative, et sur l'ordre et sous la responsabilité des officiers de police judiciaire, les agents de police judiciaire
 peuvent, même en l'absence d'infraction préalable ou d'accident, soumettre toute personne qui conduit un véhicule à des
 épreuves de dépistage de l'imprégnation alcoolique par l'air expiré.
@@ -4380,33 +4492,7 @@ officiers ou agents de police judiciaire font procéder aux vérifications desti
 au moyen d'analyses et examens médicaux, cliniques et biologiques, dans les conditions prévues par les articles L. 234-4 et
 L. 234-5."
 
-" Art. L. 234-10. - Le fait de refuser de se soumettre aux vérifications prévues par l'article L. 234-9 est puni de deux ans
-d'emprisonnement et de 30 000 F d'amende. "
-
-" Art. L. 234-11. - Les peines prévues aux articles 221-6 et 222-19 du code pénal sont portées au double en cas de commission
-simultanée d'une des infractions prévues aux articles L. 234-1 et L. 234-8.
-
-Les peines prévues à l'article 222-19 du code pénal sont applicables si l'atteinte à l'intégrité physique ou psychique de la
-personne n'a pas entraîné une incapacité totale de travail pendant plus de trois mois en cas de commission simultanée d'une
-des infractions prévues aux articles L. 234-1 et L. 234-8."
-
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Ordonnance n°45-174 du 2 février 1945 - art. 20-5 (M)
-	  - Code pénal - art. 131-25 (M)
-	  - Code pénal - art. 131-5 (M)
-	  - Code pénal - art. 131-8 (M)
-	  - Code pénal - art. 221-6 (M)
-	  - Code pénal - art. 222-19 (M)
-	  - Code pénal 131-8, 131-22 à 131-24, 131-5, 131-25, 221-6, 222-19
-	  - Code de la route L234-1 à L234-11, L234-1, L234-3 à L234-6, L234-4 à L234-6, L234-4, L234-5, L234-9, L234-8
-	  - Code de la route. - art. L234-1 (M)
-	  - Code de la route. - art. L234-4 (M)
-	  - Code de la route. - art. L234-5 (V)
-	  - Code de la route. - art. L234-8 (M)
-	  - Code de la route. - art. L234-9 (V)
 
 	**Anciens textes**:
 
@@ -4415,66 +4501,75 @@ des infractions prévues aux articles L. 234-1 et L. 234-8."
 	  - Loi n°95-97 du 1 février 1995 - art. 3 (Ab)
 	  - Loi n°95-97 du 1 février 1995 - art. 4 (Ab)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 	**Codifié par**:
 
 	  - Ordonnance 2000-930 2000-09-22 JORF 24 septembre 2000
 	  - Loi n°2003-495 2003-06-12 art. 38 JORF 13 juin 2003
+
+	**Liens**:
+
+	  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
+	  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
 
 
 #### Chapitre 5 : Dispositions applicables au territoire des îles Wallis-et-Futuna.
 
 ###### Article L245-1
 
-Les articles L. 234-1 à L. 234-11 sont applicables au territoire des îles Wallis-et-Futuna dans la rédaction suivante :
+Les articles L. 234-1 à L. 234-9 sont applicables au territoire des îles Wallis-et-Futuna dans la rédaction suivante :
 
-" Art. L. 234-1. - I. - Même en l'absence de tout signe d'ivresse manifeste, le fait de conduire un véhicule sous l'empire
+"Art. L. 234-1. - I. - Même en l'absence de tout signe d'ivresse manifeste, le fait de conduire un véhicule sous l'empire
 d'un état alcoolique caractérisé par une concentration d'alcool dans le sang égale ou supérieure à 0,80 gramme par litre ou
 par une concentration d'alcool dans l'air expiré égale ou supérieure à 0,40 milligramme par litre est puni de deux ans
-d'emprisonnement et de 30 000 F d'amende.
+d'emprisonnement et de 4 500 euros d'amende.
 
-II. - Le fait de conduire un véhicule en état d'ivresse manifeste est puni des mêmes peines. "
+II. - Le fait de conduire un véhicule en état d'ivresse manifeste est puni des mêmes peines."
 
-" Art. L. 234-2. - Toute personne coupable de l'un des délits prévus à l'article L. 234-1 encourt également les peines
+"Art. L. 234-2. - Toute personne coupable de l'un des délits prévus à l'article L. 234-1 encourt également les peines
 complémentaires suivantes :
 
 1° La peine de travail d'intérêt général selon des modalités prévues à l'article 131-8 du code pénal et selon les conditions
 prévues aux articles 131-22 à 131-24 du même code et à l'article 20-5 de l'ordonnance n° 45-174 du 2 février 1945 relative à
 l'enfance délinquante ;
 
-2° La peine de jours-amende dans les conditions fixées aux articles 131-5 et 131-25 du code pénal. "
+2° La peine de jours-amende dans les conditions fixées aux articles 131-5 et 131-25 du code pénal."
 
-" Art. L. 234-3. - Les officiers ou agents de police judiciaire soumettent à des épreuves de dépistage de l'imprégnation
+"Art. L. 234-3. - Les officiers ou agents de police judiciaire soumettent à des épreuves de dépistage de l'imprégnation
 alcoolique par l'air expiré l'auteur présumé de l'une des infractions prévues aux dispositions applicables localement
 susceptibles d'entraîner une suspension du permis de conduire, ou le conducteur impliqué dans un accident de la circulation
 ayant occasionné un dommage corporel.
 
 Ils peuvent soumettre aux mêmes épreuves tout conducteur impliqué dans un quelconque accident de la circulation ou l'auteur
 présumé de l'une des infractions aux prescriptions applicables localement relatives à la vitesse des véhicules et au port de
-la ceinture de sécurité ou du casque. "
+la ceinture de sécurité ou du casque."
 
-" Art. L. 234-4. - Lorsque les épreuves de dépistage permettent de présumer l'existence d'un état alcoolique ou lorsque le
+"Art. L. 234-4. - Lorsque les épreuves de dépistage permettent de présumer l'existence d'un état alcoolique ou lorsque le
 conducteur refuse de les subir, les officiers ou agents de police judiciaire font procéder aux vérifications destinées à
 établir la preuve de l'état alcoolique.
 
 Ces vérifications sont faites soit au moyen d'analyses et examens médicaux, cliniques et biologiques, soit au moyen d'un
 appareil permettant de déterminer la concentration d'alcool par l'analyse de l'air expiré à la condition que cet appareil
-soit conforme à un type homologué. "
+soit conforme à un type homologué."
 
-" Art. L. 234-5. - Lorsque les vérifications sont faites au moyen d'analyses et examens médicaux, cliniques et biologiques,
-un échantillon est conservé.
+"Art. L. 234-5. - Lorsque les vérifications sont faites au moyen d'analyses et examens médicaux, cliniques et biologiques, un
+échantillon est conservé.
 
 Lorsqu'elles sont faites au moyen d'un appareil permettant de déterminer la concentration d'alcool par l'analyse de l'air
 expiré, un second contrôle peut être immédiatement effectué, après vérification du bon fonctionnement de l'appareil ; ce
 contrôle est de droit lorsqu'il est demandé par l'intéressé.
 
-" Art. L. 234-6. - L'auteur présumé de conduite en état d'ivresse manifeste peut être soumis directement aux vérifications
-destinées à établir l'état alcoolique. "
+"Art. L. 234-6. - L'auteur présumé de conduite en état d'ivresse manifeste peut être soumis directement aux vérifications
+destinées à établir l'état alcoolique."
 
-" Art. L. 234-7. - Un décret en Conseil d'Etat détermine les conditions dans lesquelles sont effectuées les opérations de
-dépistage et les vérifications prévues aux articles L. 234-3 à L. 234-6. "
+"Art. L. 234-7. - Un décret en Conseil d'Etat détermine les conditions dans lesquelles sont effectuées les opérations de
+dépistage et les vérifications prévues aux articles L. 234-3 à L. 234-6."
 
-" Art. L. 234-8. - I. - Le fait de refuser de se soumettre aux vérifications prévues par les articles L. 234-4 à L. 234-6 est
-puni de deux ans d'emprisonnement et de 30 000 F d'amende.
+"Art. L. 234-8. - I. - Le fait de refuser de se soumettre aux vérifications prévues par les articles L. 234-4 à L. 234-6 ou
+aux vérifications prévues par l'article L. 234-9 est puni de deux ans d'emprisonnement et de 4 500 euros d'amende.
 
 II. - Toute personne coupable de ce délit encourt également les peines complémentaires suivantes :
 
@@ -4482,9 +4577,9 @@ II. - Toute personne coupable de ce délit encourt également les peines complé
 prévues aux articles 131-22 à 131-24 du même code et à l'article 20-5 de l'ordonnance n° 45-174 du 2 février 1945 relative à
 l'enfance délinquante ;
 
-2° La peine de jours-amende dans les conditions fixées aux articles 131-5 et 131-25 du code pénal. "
+2° La peine de jours-amende dans les conditions fixées aux articles 131-5 et 131-25 du code pénal."
 
-" Art. L. 234-9. - Les officiers de police judiciaire, soit sur instruction du procureur de la République, soit à leur
+"Art. L. 234-9. - Les officiers de police judiciaire, soit sur instruction du procureur de la République, soit à leur
 initiative, et, sur l'ordre et sous la responsabilité des officiers de police judiciaire, les agents de police judiciaire
 peuvent, même en l'absence d'infraction préalable ou d'accident, soumettre toute personne qui conduit un véhicule à des
 épreuves de dépistage de l'imprégnation alcoolique par l'air expiré.
@@ -4499,31 +4594,7 @@ officiers ou agents de police judiciaire font procéder aux vérifications desti
 au moyen d'analyses et examens médicaux, cliniques et biologiques, dans les conditions prévues par les articles L. 234-4 à L.
 234-6."
 
-" Art. L. 234-10. - Le fait de refuser de se soumettre aux vérifications prévues par l'article L. 234-9 est puni de deux ans
-d'emprisonnement et de 30 000 F d'amende. "
-
-" Art. L. 234-11. - Les peines prévues aux articles 221-6 et 222-19 du code pénal sont portées au double en cas de commission
-simultanée d'une des infractions prévues aux articles L. 234-1 et L. 234-8.
-
-Les peines prévues à l'article 222-19 du code pénal sont applicables si l'atteinte à l'intégrité physique ou psychique de la
-personne n'a pas entraîné une incapacité totale de travail pendant plus de trois mois en cas de commission simultanée d'une
-des infractions prévues aux articles L. 234-1 et L. 234-8."
-
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Ordonnance n°45-174 du 2 février 1945 - art. 20-5 (M)
-	  - Code pénal - art. 131-25 (M)
-	  - Code pénal - art. 131-5 (M)
-	  - Code pénal - art. 131-8 (M)
-	  - Code pénal - art. 221-6 (M)
-	  - Code pénal - art. 222-19 (M)
-	  - Code pénal 131-8, 131-22 à 131-24, 131-5, 131-25, 221-6, 222-19
-	  - Code de la route L234-1 à L234-11, L234-1, L234-3 à L234-6, L234-4 à L234-6, L234-9, L234-8
-	  - Code de la route. - art. L234-1 (M)
-	  - Code de la route. - art. L234-8 (M)
-	  - Code de la route. - art. L234-9 (V)
 
 	**Anciens textes**:
 
@@ -4532,10 +4603,19 @@ des infractions prévues aux articles L. 234-1 et L. 234-8."
 	  - Loi n°95-97 du 1 février 1995 - art. 3 (Ab)
 	  - Loi n°95-97 du 1 février 1995 - art. 4 (Ab)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 	**Codifié par**:
 
 	  - Ordonnance 2000-930 2000-09-22 JORF 24 septembre 2000
 	  - Loi n°2003-495 2003-06-12 art. 38 JORF 13 juin 2003
+
+	**Liens**:
+
+	  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
+	  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
 
 
 ## Livre 3 : Le véhicule
@@ -4587,7 +4667,7 @@ Des décrets en Conseil d'Etat déterminent les conditions d'application du pré
 Le fait, pour le responsable de l'exploitation d'un véhicule de transport routier soumis à une obligation de limitation de
 vitesse par construction, de ne pas respecter cette obligation, de modifier, ou, en tant que commettant, de faire ou de
 laisser modifier le dispositif de limitation de vitesse par construction afin de permettre au véhicule de dépasser sa vitesse
-maximale autorisée, est puni d'un an d'emprisonnement et de 200 000 F d'amende.
+maximale autorisée, est puni d'un an d'emprisonnement et de 30 000 euros d'amende.
 
 Le préposé est passible des mêmes peines lorsque l'infraction résulte de son fait personnel.
 
@@ -4610,6 +4690,10 @@ conformité ou réparé. Un décret en Conseil d'Etat fixe les conditions d'appl
 	  - Code des transports - art. R3113-26 (VD)
 	  - Code des transports - art. R3211-27 (VD)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 	**Codifié par**:
 
 	  - Ordonnance 2000-930 2000-09-22 JORF 24 septembre 2000
@@ -4621,12 +4705,17 @@ conformité ou réparé. Un décret en Conseil d'Etat fixe les conditions d'appl
 	  - Code de la route - art. L9-1 (Ab)
 	  - Code de la route L9-1, L14 (al. 1 et 2)
 
+	**Liens**:
+
+	  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
+	  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
+
 
 ###### Article L317-2
 
 I. - Le fait de faire usage d'une plaque ou d'une inscription, exigée par les règlements en vigueur et apposée sur un
 véhicule à moteur ou une remorque, portant un numéro, un nom ou un domicile faux ou supposé est puni de cinq ans
-d'emprisonnement et de 25 000 F d'amende.
+d'emprisonnement et de 3 750 euros d'amende.
 
 II. - Toute personne coupable de cette infraction encourt également les peines complémentaires suivantes :
 
@@ -4638,6 +4727,10 @@ conduite en dehors de l'activité professionnelle ;
 III. - Ce délit donne lieu de plein droit à la réduction de la moitié du nombre de points initial du permis de conduire.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 	**Codifié par**:
 
@@ -4652,12 +4745,18 @@ III. - Ce délit donne lieu de plein droit à la réduction de la moitié du nom
 	  - Code de la route - art. L9 (Ab)
 	  - Code de la route L9 (al. 1, 2 et 5), L11 (al. 1, 2, 5 et 6), L11-2 (al. 1), L14 (al. 1 et 2)
 
+	**Liens**:
+
+	  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
+	  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
+
 
 ###### Article L317-3
 
 I. - Le fait de faire circuler, sur les voies ouvertes à la circulation publique un véhicule à moteur ou une remorque sans
 que ce véhicule soit muni des plaques ou inscriptions exigées par les règlements et, en outre, de déclarer un numéro, un nom
-ou un domicile autre que le sien ou que celui du propriétaire est puni de cinq ans d'emprisonnement et de 25 000 F d'amende.
+ou un domicile autre que le sien ou que celui du propriétaire est puni de cinq ans d'emprisonnement et de 3 750 euros
+d'amende.
 
 II. - Toute personne coupable de cette infraction encourt également les peines complémentaires suivantes :
 
@@ -4669,6 +4768,10 @@ conduite en dehors de l'activité professionnelle ;
 III. - Ce délit donne lieu de plein droit à la réduction de la moitié du nombre de points initial du permis de conduire.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 	**Codifié par**:
 
@@ -4683,12 +4786,17 @@ III. - Ce délit donne lieu de plein droit à la réduction de la moitié du nom
 	  - Code de la route - art. L9 (Ab)
 	  - Code de la route L9 (al. 1, 3 et 5), L11-1 (al. 1 et 2), L11-2 (al. 1), L14 (al. 1 et 2)
 
+	**Liens**:
+
+	  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
+	  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
+
 
 ###### Article L317-4
 
 I. - Le fait de mettre en circulation un véhicule à moteur ou une remorque muni d'une plaque ou d'une inscription ne
-correspondant pas à la qualité de ce véhicule ou à celle de l'utilisateur est puni de cinq ans d'emprisonnement et de 25 000
-F d'amende.
+correspondant pas à la qualité de ce véhicule ou à celle de l'utilisateur est puni de cinq ans d'emprisonnement et de 3 750
+euros d'amende.
 
 II. - Toute personne coupable de cette infraction encourt également les peines complémentaires suivantes :
 
@@ -4705,6 +4813,10 @@ III. - Ce délit donne lieu de plein droit à la réduction de la moitié du nom
 
 	  - Arrêté du 29 juin 1992 - art. 3 (V)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 	**Codifié par**:
 
 	  - Ordonnance 2000-930 2000-09-22 JORF 24 septembre 2000
@@ -4717,6 +4829,11 @@ III. - Ce délit donne lieu de plein droit à la réduction de la moitié du nom
 	  - Code de la route - art. L14 (Ab)
 	  - Code de la route - art. L9 (Ab)
 	  - Code de la route L9 (al. 1, 4 et 5), L11-1 (al. 1 et 2), L11-2 (al. 1), L14 (al. 1 et 2)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
+	  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
 
 
 #### Chapitre 8 : Energie, émissions polluantes et nuisances.
@@ -6705,9 +6822,13 @@ Sur les voies ouvertes à la circulation publique, l'organisation de courses de 
 de l'autorité investie du pouvoir de police.
 
 Le fait d'organiser une course de véhicules à moteur sans avoir obtenu l'autorisation prévue par le présent article est puni
-de six mois d'emprisonnement et de 120 000 F d'amende.
+de six mois d'emprisonnement et de 18 000 euros d'amende.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 	**Codifié par**:
 
@@ -6726,6 +6847,11 @@ de six mois d'emprisonnement et de 120 000 F d'amende.
 	  - Code de la route - art. L5 (Ab)
 	  - Code de la route L5
 
+	**Liens**:
+
+	  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
+	  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
+
 
 #### Chapitre 2 : Conduite des véhicules et circulation des piétons.
 
@@ -6733,7 +6859,7 @@ de six mois d'emprisonnement et de 120 000 F d'amende.
 
 Le fait, en vue d'entraver ou de gêner la circulation, de placer ou de tenter de placer, sur une voie ouverte à la
 circulation publique, un objet faisant obstacle au passage des véhicules ou d'employer, ou de tenter d'employer un moyen
-quelconque pour y mettre obstacle, est puni de deux ans d'emprisonnement et de 30 000 F d'amende.
+quelconque pour y mettre obstacle, est puni de deux ans d'emprisonnement et de 4 500 euros d'amende.
 
 Toute personne coupable de l'une des infractions prévues au présent article encourt également la peine complémentaire de
 suspension, pour une durée de trois ans au plus, du permis de conduire, cette suspension pouvant être limitée à la conduite
@@ -6757,6 +6883,10 @@ permis de conduire.
 	  - Code des transports - art. R3113-26 (VD)
 	  - Code des transports - art. R3211-27 (VD)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 	**Codifié par**:
 
 	  - Ordonnance 2000-930 2000-09-22 JORF 24 septembre 2000
@@ -6776,12 +6906,17 @@ permis de conduire.
 
 	  - Code de la route L325-1 à L325-3
 
+	**Liens**:
+
+	  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
+	  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
+
 
 #### Chapitre 3 : Vitesse.
 
 ###### Article L413-1
 
-Est puni de trois mois d'emprisonnement et de 25 000 F d'amende tout conducteur d'un véhicule à moteur qui, déjà condamné
+Est puni de trois mois d'emprisonnement et de 3 750 euros d'amende tout conducteur d'un véhicule à moteur qui, déjà condamné
 définitivement pour un dépassement de la vitesse maximale autorisée égal ou supérieur à 50 km/h, commet la même infraction
 dans le délai d'un an à compter de la date à laquelle cette condamnation est devenue définitive.
 
@@ -6804,6 +6939,10 @@ Ce délit donne lieu de plein droit à la réduction de la moitié du nombre de 
 	  - Code pénal - art. 221-8 (V)
 	  - Code pénal - art. 222-44 (V)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 	**Codifié par**:
 
 	  - Ordonnance 2000-930 2000-09-22 JORF 24 septembre 2000
@@ -6816,6 +6955,11 @@ Ce délit donne lieu de plein droit à la réduction de la moitié du nombre de 
 	  - Code de la route - art. L14 (Ab)
 	  - Code de la route - art. L4-1 (Ab)
 	  - Code de la route L4-1, L11-1 (al. 1 et 2), L11-2 (al. 1), L14 (al. 1 et 2)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
+	  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
 
 
 #### Chapitre 7 : Arrêt et stationnement.
