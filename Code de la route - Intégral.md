@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2002-04-13
+Version Consolidée au 2002-04-18
 
 # Partie législative
 
@@ -25186,6 +25186,33 @@ L'immobilisation du véhicule peut être prescrite dans les conditions prévues 
 	  - Code de la route. - art. R442-2 (M)
 
 
+###### Article R411-21-1
+
+Pour prévenir un danger pour les usagers de la voie ou en raison de l'établissement d'un chantier, l'autorité investie du
+pouvoir de police peut ordonner la fermeture temporaire d'une route.
+
+Le fait pour tout conducteur de ne pas respecter l'interdiction de circuler sur une route dont la fermeture a été ordonnée en
+application du premier alinéa du présent article est puni de l'amende prévue pour les contraventions de la quatrième classe.
+
+Toute personne coupable de cette infraction encourt également la peine complémentaire de suspension, pour une durée de trois
+ans au plus, du permis de conduire, cette suspension pouvant être limitée à la conduite en dehors de l'activité
+professionnelle.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°2002-530 2002-04-11 art. 5 : application à Mayotte
+
+	**Créé par**:
+
+	  - Décret n°2002-530 du 11 avril 2002 - art. 4 () JORF 18 avril 2002
+
+
 ###### Article R411-22
 
 L'autorisation de circulation des autobus articulés comportant plus d'une section articulée et des ensembles formés par un
@@ -26418,11 +26445,20 @@ moins possible la marche normale des autres véhicules, pour préparer un change
 Le fait, pour tout conducteur, de contrevenir aux dispositions du présent article est puni de l'amende prévue pour les
 contraventions de la deuxième classe.
 
+Toutefois, ce fait est puni de l'amende prévue pour les contraventions de la cinquième classe lorsque, sur la chaussée, une
+voie de circulation au moins est couverte de neige ou de verglas sur tout ou partie de sa surface. Dans ce cas, toute
+personne coupable de l'infraction encourt également la peine complémentaire de suspension, pour une durée de trois ans au
+plus, du permis de conduire, cette suspension pouvant être limitée à la conduite en dehors de l'activité professionnelle.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+	**Modifié par**:
+
+	  - Décret n°2002-530 du 11 avril 2002 - art. 2 () JORF 18 avril 2002
 
 	**Anciens textes**:
 
@@ -28463,6 +28499,38 @@ réduction de deux points du permis de conduire.
 
 	  - SPEC_APPLI: Code de la route. - art. R432-1 (V)
 	  - SPEC_APPLI: Code de la route. - art. R432-2 (M)
+
+
+###### Article R414-17
+
+Lorsque, sur la chaussée, une voie de circulation au moins est couverte de neige ou de verglas sur tout ou partie de sa
+surface :
+
+I. - 1° Le dépassement ou le changement de file est interdit à tout conducteur d'un véhicule dont le poids total autorisé en
+charge excède 3,5 tonnes ou à tout conducteur d'un ensemble de véhicules dont la longueur excède 7 mètres ;
+
+2° Le dépassement des engins de service hivernal en action sur la chaussée est interdit à tout véhicule.
+
+II. - Le fait de contrevenir au I du présent article est puni de l'amende prévue pour les contraventions de la quatrième
+classe.
+
+III. - Toute personne coupable de cette infraction encourt également la peine complémentaire de suspension, pour une durée de
+trois ans au plus, du permis de conduire, cette suspension pouvant être limitée à la conduite en dehors de l'activité
+professionnelle.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+	**Créé par**:
+
+	  - Décret n°2002-530 du 11 avril 2002 - art. 1 () JORF 18 avril 2002
+
+	**Cité par**:
+
+	  - Code de la route. - art. R442-2 (V)
 
 
 #### Chapitre V : Intersections et priorité de passage.
@@ -32791,6 +32859,41 @@ par la référence à la collectivité départementale.
 	  - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
+###### Article R442-2
+
+Les dispositions réglementaires du présent livre sont applicables à Mayotte, à l'exception des articles R. 411-1, R. 411-20,
+R. 411-21, R. 414-17.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°93-301 1993-03-08 art. 1
+	  - Décret n°93-301 du 8 mars 1993 - art. 1 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2001-616 du 11 juillet 2001 - art. 75 (V)
+	  - SPEC_APPLI: Code de la route. - art. R432-1 (V)
+	  - SPEC_APPLI: Code de la route. - art. R432-2 (M)
+
+	**Modifié par**:
+
+	  - Décret n°2002-530 du 11 avril 2002 - art. 3 () JORF 18 avril 2002
+
+	**Cite**:
+
+	  - Code de la route R411-1, R414-17, R411-20, R411-21, 75
+	  - Code de la route. - art. R411-1 (V)
+	  - Code de la route. - art. R411-20 (V)
+	  - Code de la route. - art. R411-21 (V)
+	  - Code de la route. - art. R414-17 (V)
+
+
 ###### Article R442-3
 
 Les règles relatives aux modalités d'application de l'article L. 131-3 du code des communes applicable à Mayotte concernant
@@ -32928,42 +33031,5 @@ Le ministre chargé de l'outre-mer signe les arrêtés prévus par les articles 
 	  - Code de la route. - art. R433-1 (V)
 	  - Code de la route. - art. R433-4 (V)
 	  - Code de la route. - art. R433-5 (V)
-
-
-#### Chapitre II : Dispositions applicables dans la collectivité territoriale de Mayotte.
-
-###### Article R442-2
-
-Les dispositions réglementaires du présent livre sont applicables dans la collectivité territoriale de Mayotte, à l'exception
-des articles R. 411-1, R. 411-20, R. 411-21.
-
-**Nota:**
-
-NOTA : Loi 2001-616 2001-07-11 art. 75 : dans tous les textes législatifs et réglementaires, la référence à la collectivité
-territoriale de Mayotte est remplacée par la référence à Mayotte et la référence à la collectivité territoriale est remplacée
-par la référence à la collectivité départementale.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°93-301 1993-03-08 art. 1
-	  - Décret n°93-301 du 8 mars 1993 - art. 1 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°2001-616 du 11 juillet 2001 - art. 75 (V)
-	  - SPEC_APPLI: Code de la route. - art. R432-1 (V)
-	  - SPEC_APPLI: Code de la route. - art. R432-2 (M)
-
-	**Cite**:
-
-	  - Code de la route. - art. R411-1 (V)
-	  - Code de la route. - art. R411-20 (V)
-	  - Code de la route. - art. R411-21 (V)
 
 
