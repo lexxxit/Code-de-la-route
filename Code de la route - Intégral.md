@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2004-01-09
+Version Consolidée au 2004-02-05
 
 # Partie législative
 
@@ -9072,8 +9072,8 @@ militaires ;
 communal, sur les voies autres que les autoroutes.
 
 II. - Pour l'application du 3° du I ci-dessus, les modalités de l'habilitation et la définition des catégories de personnels
-habilités font l'objet d'un arrêté conjoint du ministre de l'intérieur, du ministre de la justice, du ministre chargé des
-armées et du ministre chargé des transports.
+habilités font l'objet d'un arrêté conjoint du ministre de l'intérieur, du ministre de la justice, du ministre de la défense
+et du ministre chargé des transports.
 
 **Liens relatifs à cet article**
 
@@ -9083,7 +9083,7 @@ armées et du ministre chargé des transports.
 
 	**Modifié par**:
 
-	  - Décret n°2002-1256 du 15 octobre 2002 - art. 8 () JORF 16 octobre 2002
+	  - Décret n°2004-106 du 29 janvier 2004 - art. 10 (V) JORF 5 février 2004
 
 	**Anciens textes**:
 
@@ -9682,8 +9682,8 @@ véhicules terrestres à moteur de la catégorie B :
 2° La carte professionnelle et le certificat d'aptitude professionnelle et pédagogique (CAPP) ;
 
 3° Le brevet de spécialiste de l'armée de terre (BSAT), mention instruction élémentaire de conduite, ou les diplômes
-militaires reconnus équivalents à celui-ci par arrêté conjoint du ministre chargé des transports et du ministre chargé des
-armées ;
+militaires reconnus équivalents à celui-ci par arrêté conjoint du ministre chargé des transports et du ministre de la
+défense ;
 
 4° Les diplômes d'enseignement de la conduite délivrés dans les territoires d'outre-mer et dans les collectivités
 territoriales de Mayotte et de Saint-Pierre-et-Miquelon.
@@ -9764,6 +9764,10 @@ effet par arrêté conjoint du ministre chargé des Transports et du ministre ch
 	  - TXT_SOURCE: Arrêté du 19 décembre 2001
 	  - TXT_SOURCE: Arrêté du 19 décembre 2001 - art. 1 ()
 	  - TXT_SOURCE: Arrêté du 19 décembre 2001 - art. 2 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2004-106 du 29 janvier 2004 - art. 10 (V) JORF 5 février 2004
 
 	**Anciens textes**:
 
@@ -10453,7 +10457,7 @@ II. - Sont membres de droit :
 
 3° Le ministre chargé de l'éducation ou son représentant ;
 
-4° Le ministre chargé des armées ou son représentant ;
+4° Le ministre de la défense ou son représentant ;
 
 5° Le ministre chargé du travail ou son représentant ;
 
@@ -10484,6 +10488,14 @@ chargé des transports.
 	**Codifié par**:
 
 	  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+	**Modifié par**:
+
+	  - Décret n°2004-106 du 29 janvier 2004 - art. 10 (V) JORF 5 février 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2006-672 du 8 juin 2006 - art. 17 (V), art. 18 (V)
 
 
 ###### Article D214-3
@@ -11765,11 +11777,11 @@ sollicité l'échange de son permis de conduire est puni de l'amende prévue pou
 
 Les titulaires du permis de conduire en cours de validité délivré dans les conditions prévues aux articles R. 221-1, R.
 221-3, R. 222-1 à R. 222-3, R. 222-7 ou R. 222-8 sont habilités, pour la catégorie définie à l'article R. 221-4 au titre de
-laquelle le permis leur a été délivré, à conduire les véhicules du ministère chargé des armées ou des établissements publics
-qui en dépendent.
+laquelle le permis leur a été délivré, à conduire les véhicules du ministère de la défense ou des établissements publics qui
+en dépendent. 
 
-Pour les véhicules du ministère chargé des armées ne relevant d'aucune de ces catégories ou pour certains types de conduite
-nécessaires aux besoins des armées, un arrêté du ministre chargé des armées fixe les conditions dans lesquelles un brevet
+Pour les véhicules du ministère de la défense ne relevant d'aucune de ces catégories ou pour certains types de conduite
+nécessaires aux besoins des armées, un arrêté du ministre de la défense fixe les conditions dans lesquelles un brevet
 militaire de conduite peut leur être attribué.
 
 **Liens relatifs à cet article**
@@ -11782,6 +11794,10 @@ militaire de conduite peut leur être attribué.
 
 	  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
 
+	**Modifié par**:
+
+	  - Décret n°2004-106 du 29 janvier 2004 - art. 10 (V) JORF 5 février 2004
+
 	**Cité par**:
 
 	  - Arrêté du 22 avril 2008 - art. 1 (V)
@@ -11791,12 +11807,12 @@ militaire de conduite peut leur être attribué.
 
 	**Cite**:
 
-	  - Code de la route R221-1, R221-3, R222-1 à R222-3, R222-7, R222-8, R221-4
-	  - Code de la route. - art. R221-1 (M)
+	  - Code de la route. - art. R221-1 (V)
 	  - Code de la route. - art. R221-3 (V)
-	  - Code de la route. - art. R221-4 (M)
-	  - Code de la route. - art. R222-7 (M)
-	  - Code de la route. - art. R222-8 (M)
+	  - Code de la route. - art. R221-4 (V)
+	  - Code de la route. - art. R222-1 (V)
+	  - Code de la route. - art. R222-7 (V)
+	  - Code de la route. - art. R222-8 (V)
 
 
 ###### Article R222-5
@@ -11823,7 +11839,7 @@ Le personnel militaire non détenteur de l'une des catégories du permis de cond
 ###### Article R222-6
 
 Le brevet militaire de conduite est délivré au personnel militaire qui a satisfait à un examen comportant, outre celles
-exigées par le présent code, des épreuves définies par arrêté du ministre chargé des armées.
+exigées par le présent code, des épreuves définies par arrêté du ministre de la défense.
 
 **Liens relatifs à cet article**
 
@@ -11835,13 +11851,17 @@ exigées par le présent code, des épreuves définies par arrêté du ministre 
 
 	  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
 
+	**Modifié par**:
+
+	  - Décret n°2004-106 du 29 janvier 2004 - art. 10 (V) JORF 5 février 2004
+
 
 ###### Article R222-7
 
 Tout titulaire d'un brevet militaire de conduite, validé par l'autorité militaire, peut, sans être tenu de subir les examens
 prévus au premier alinéa de l'article R. 221-3 obtenir la délivrance de la ou des catégories du permis de conduire
 correspondantes selon les modalités définies par arrêté du ministre chargé des transports, après avis du ministre de
-l'intérieur et du ministre chargé des armées.
+l'intérieur et du ministre de la défense.
 
 **Liens relatifs à cet article**
 
@@ -11867,6 +11887,10 @@ l'intérieur et du ministre chargé des armées.
 
 	  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
 
+	**Modifié par**:
+
+	  - Décret n°2004-106 du 29 janvier 2004 - art. 10 (V) JORF 5 février 2004
+
 	**Cité par**:
 
 	  - Décret n°2014-1292 du 23 octobre 2014 - art. (V)
@@ -11875,7 +11899,7 @@ l'intérieur et du ministre chargé des armées.
 
 	**Cite**:
 
-	  - Code de la route. - art. R221-3 (V)
+	  - Code du tourisme. - art. R221-3 (VD)
 
 
 ###### Article R222-8
@@ -13389,8 +13413,8 @@ routiers en application des dispositions du présent code sont autorisés, dans 
 L. 225-5, à accéder directement aux informations prévues par ces articles.
 
 Des arrêtés conjoints selon le cas soit du ministre de l'intérieur et du ministre de la justice, soit du ministre de
-l'intérieur et du ministre chargé des armées définissent les modalités techniques et financières de l'accès à ces
-informations ouvert par voie téléinformatique aux autorités judiciaires et aux militaires de la gendarmerie.
+l'intérieur et du ministre de la défense définissent les modalités techniques et financières de l'accès à ces informations
+ouvert par voie téléinformatique aux autorités judiciaires et aux militaires de la gendarmerie.
 
 **Liens relatifs à cet article**
 
@@ -13405,6 +13429,10 @@ informations ouvert par voie téléinformatique aux autorités judiciaires et au
 	**Codifié par**:
 
 	  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+	**Modifié par**:
+
+	  - Décret n°2004-106 du 29 janvier 2004 - art. 10 (V) JORF 5 février 2004
 
 	**Anciens textes**:
 
@@ -13749,14 +13777,18 @@ Nota : Décret 2003-642 du 11 juillet 2003 art. 9 : application à Mayotte.
 
 Les opérations de dépistage de l'imprégnation alcoolique par l'air expiré, prévues par les articles L. 234-3 à L. 234-5 et L.
 234-9 sont effectuées au moyen d'un appareil conforme à un type homologué selon des modalités définies par arrêté du ministre
-chargé de la santé publique, après avis du ministre chargé des transports, du ministre de l'intérieur et du ministre chargé
-des armées.
+chargé de la santé publique, après avis du ministre chargé des transports, du ministre de l'intérieur et du ministre de la
+défense.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+	**Modifié par**:
+
+	  - Décret n°2004-106 du 29 janvier 2004 - art. 10 (V) JORF 5 février 2004
 
 	**Cité par**:
 
@@ -14705,7 +14737,7 @@ fixés à l'article L. 234-1 est puni de l'amende prévue pour les contravention
 "Art. R. 234-2. - Les opérations de dépistage de l'imprégnation alcoolique par l'air expiré, prévues par les articles L.
 234-3 à L. 234-5 et L. 234-9 sont effectuées au moyen d'un appareil conforme à un type homologué selon des modalités définies
 par arrêté du ministre chargé de la santé publique, après avis du ministre chargé des transports, du ministre de l'intérieur
-et du ministre chargé des armées."
+et du ministre de la défense."
 
 "Art. R. 234-4. - Lorsque, pour procéder aux vérifications prévues par les articles L. 234-4, L. 234-5 et L. 234-9,
 l'officier ou l'agent de police judiciaire fait usage d'un appareil homologué permettant de déterminer le taux d'alcool par
@@ -14732,6 +14764,10 @@ bon fonctionnement de l'appareil ; le résultat en est immédiatement porté à 
 	**Codifié par**:
 
 	  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+	**Modifié par**:
+
+	  - Décret n°2004-106 du 29 janvier 2004 - art. 10 (V) JORF 5 février 2004
 
 	**Cite**:
 
@@ -14760,7 +14796,7 @@ L'immobilisation peut être prescrite dans les conditions prévues aux articles 
 "Art. R. 234-2. - Les opérations de dépistage de l'imprégnation alcoolique par l'air expiré, prévues par les articles L.
 234-3 à L. 234-5 et L. 234-9 sont effectuées au moyen d'un appareil conforme à un type homologué selon des modalités définies
 par arrêté du ministre chargé de la santé publique, après avis du ministre chargé des transports, du ministre de l'intérieur
-et du ministre chargé des armées."
+et du ministre de la défense."
 
 "Art. R. 234-4. - Lorsque, pour procéder aux vérifications prévues par les articles L. 234-4, L. 234-5 et L. 234-9,
 l'officier ou l'agent de police judiciaire fait usage d'un appareil homologué permettant de déterminer le taux d'alcool par
@@ -14781,6 +14817,10 @@ bon fonctionnement de l'appareil ; le résultat en est immédiatement porté à 
 	**Codifié par**:
 
 	  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+	**Modifié par**:
+
+	  - Décret n°2004-106 du 29 janvier 2004 - art. 10 (V) JORF 5 février 2004
 
 	**Cite**:
 
@@ -14811,7 +14851,7 @@ fixés à l'article L. 234-1 est puni de l'amende prévue pour les contravention
 "Art. R. 234-2. - Les opérations de dépistage de l'imprégnation alcoolique par l'air expiré, prévues par les articles L.
 234-3 à L. 234-5 et L. 234-9 sont effectuées au moyen d'un appareil conforme à un type homologué selon des modalités définies
 par arrêté du ministre chargé de la santé publique, après avis du ministre chargé des transports, du ministre de l'intérieur
-et du ministre chargé des armées."
+et du ministre de la défense."
 
 "Art. R. 234-4. - Lorsque, pour procéder aux vérifications prévues par les articles L. 234-4, L. 234-5 et L. 234-9,
 l'officier ou l'agent de police judiciaire fait usage d'un appareil homologué permettant de déterminer le taux d'alcool par
@@ -14842,6 +14882,10 @@ bon fonctionnement de l'appareil ; le résultat en est immédiatement porté à 
 	**Codifié par**:
 
 	  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+	**Modifié par**:
+
+	  - Décret n°2004-106 du 29 janvier 2004 - art. 10 (V) JORF 5 février 2004
 
 	**Cite**:
 
@@ -23396,8 +23440,8 @@ distinctif sur celui-ci ;
 
 2° Dresse, si possible contradictoirement en présence du propriétaire ou du conducteur du véhicule et du préposé à
 l'enlèvement, un état sommaire, extérieur et intérieur, du véhicule, sans l'ouvrir, au moyen d'une fiche descriptive dont le
-modèle est fixé par arrêté du ministre de l'intérieur et du ministre chargé des armées, avant que la mise en fourrière
-reçoive un commencement d'exécution ;
+modèle est fixé par arrêté du ministre de l'intérieur et du ministre de la défense, avant que la mise en fourrière reçoive un
+commencement d'exécution ;
 
 3° Remet à ce propriétaire ou ce conducteur, s'il est présent, un double de la fiche relative à l'état du véhicule et, le cas
 échéant, la fiche de circulation provisoire prévue à l'article R. 325-6 ;
@@ -23410,6 +23454,10 @@ du certificat d'immatriculation et de l'heure d'appel du véhicule d'enlèvement
 	**Codifié par**:
 
 	  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+	**Modifié par**:
+
+	  - Décret n°2004-106 du 29 janvier 2004 - art. 10 (V) JORF 5 février 2004
 
 	**Anciens textes**:
 
@@ -24060,8 +24108,8 @@ véhicule en état de circuler dans des conditions normales de sécurité ainsi 
 centre agréé.
 
 Cette autorisation provisoire de sortie de fourrière, dont le modèle est fixé par arrêté du ministre de l'intérieur et du
-ministre chargé des armées, qui tient lieu de pièce de circulation et qui est limitée au temps des parcours nécessaires et
-des opérations précitées, peut prescrire un itinéraire et des conditions de sécurité.
+ministre de la défense, qui tient lieu de pièce de circulation et qui est limitée au temps des parcours nécessaires et des
+opérations précitées, peut prescrire un itinéraire et des conditions de sécurité.
 
 Le réparateur doit remettre au propriétaire du véhicule une facture détaillée certifiant l'exécution des travaux prescrits en
 application du 2° du I de l'article R. 325-30.
@@ -24071,6 +24119,10 @@ application du 2° du I de l'article R. 325-30.
 	**Codifié par**:
 
 	  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+	**Modifié par**:
+
+	  - Décret n°2004-106 du 29 janvier 2004 - art. 10 (V) JORF 5 février 2004
 
 	**Cité par**:
 
@@ -24690,14 +24742,18 @@ conditionnent la délivrance à ce dernier d'un nouveau certificat d'immatricula
 Les dispositions de la présente section ne sont applicables qu'aux véhicules dont le poids total autorisé en charge n'excède
 pas 3,5 tonnes, à l'exclusion des véhicules à deux ou trois roues, des quadricycles à moteur et des véhicules militaires.
 
-Un arrêté du ministre chargé des transports, pris après avis du ministre chargé des armées et du ministre de l'intérieur,
-fixe les modalités d'application des dispositions de la présente section.
+Un arrêté du ministre chargé des transports, pris après avis du ministre de la défense et du ministre de l'intérieur, fixe
+les modalités d'application des dispositions de la présente section.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+	**Modifié par**:
+
+	  - Décret n°2004-106 du 29 janvier 2004 - art. 10 (V) JORF 5 février 2004
 
 	**Cité par**:
 
@@ -24717,6 +24773,10 @@ fixe les modalités d'application des dispositions de la présente section.
 	  - SPEC_APPLI: Code de la route. - art. R326-2 (M)
 	  - SPEC_APPLI: Code de la route. - art. R326-3 (M)
 	  - SPEC_APPLI: Code de la route. - art. R326-4 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la route. - art. R327-5 (M)
 
 
 ##### Section 2 : Véhicules économiquement irréparables.
@@ -25471,15 +25531,19 @@ présent code sont autorisés, dans les conditions fixées aux articles L. 330-2
 informations visées par ces articles.
 
 Des arrêtés conjoints, selon le cas, soit du ministre chargé des transports et du ministre de l'intérieur, soit du ministre
-chargé des armées et du ministre de l'intérieur, soit du ministre chargé de l'industrie et du ministre de l'intérieur
-définissent les modalités de l'accès à ces informations ouvert par voie téléinformatique aux services du ministre chargé des
-transports et du ministre chargé de l'industrie et aux militaires de la gendarmerie.
+de la défense et du ministre de l'intérieur, soit du ministre chargé de l'industrie et du ministre de l'intérieur définissent
+les modalités de l'accès à ces informations ouvert par voie téléinformatique aux services du ministre chargé des transports
+et du ministre chargé de l'industrie et aux militaires de la gendarmerie.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+	**Modifié par**:
+
+	  - Décret n°2004-106 du 29 janvier 2004 - art. 10 (V) JORF 5 février 2004
 
 	**Cité par**:
 
@@ -27388,8 +27452,7 @@ garanties prévues par le décret susvisé.
 L'autorité administrative compétente pour exercer le pouvoir de police en matière de circulation routière peut réglementer la
 circulation, l'interdire temporairement en cas de nécessité et prévoir que l'épreuve, la course ou la compétition sportive
 bénéficie d'une priorité de passage portée à la connaissance des usagers par une signalisation appropriée, définie par arrêté
-du ministre de l'intérieur, du ministre chargé des armées, du ministre chargé des transports et du ministre chargé des
-sports.
+du ministre de l'intérieur, du ministre de la défense, du ministre chargé des transports et du ministre chargé des sports.
 
 Le fait de contrevenir aux restrictions de circulation édictées en vertu du présent article à l'occasion des épreuves,
 courses ou compétitions sportives est puni de l'amende prévue pour les contraventions de la quatrième classe.
@@ -27399,6 +27462,10 @@ courses ou compétitions sportives est puni de l'amende prévue pour les contrav
 	**Codifié par**:
 
 	  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+	**Modifié par**:
+
+	  - Décret n°2004-106 du 29 janvier 2004 - art. 10 (V) JORF 5 février 2004
 
 	**Anciens textes**:
 
@@ -27414,11 +27481,6 @@ courses ou compétitions sportives est puni de l'amende prévue pour les contrav
 	  - Code du sport. - art. A331-27 (Ab)
 	  - Code du sport. - art. A331-37 (V)
 	  - Code du sport. - art. A331-38 (VD)
-
-	**Liens**:
-
-	  - SPEC_APPLI: Code de la route. - art. R432-1 (V)
-	  - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
 ###### Article R411-31
@@ -34193,7 +34255,7 @@ usagers.
 
 Sur autoroute, la circulation des véhicules militaires se déplaçant en colonnes ou dont les caractéristiques ne sont pas
 conformes à celles des véhicules civils autorisés à circuler sur ces voies est admise dans les conditions fixées par arrêté
-du ministre chargé des transports et du ministre chargé des armées.
+du ministre chargé des transports et du ministre de la défense.
 
 **Liens relatifs à cet article**
 
@@ -34201,15 +34263,14 @@ du ministre chargé des transports et du ministre chargé des armées.
 
 	  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
 
+	**Modifié par**:
+
+	  - Décret n°2004-106 du 29 janvier 2004 - art. 10 (V) JORF 5 février 2004
+
 	**Anciens textes**:
 
 	  - Code de la route - art. R43-8 (Ab)
 	  - Code de la route R43-8
-
-	**Liens**:
-
-	  - SPEC_APPLI: Code de la route. - art. R432-1 (V)
-	  - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
 ###### Article R432-7
