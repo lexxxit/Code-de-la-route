@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2002-08-06
+Version Consolidée au 2002-09-10
 
 # Partie législative
 
@@ -963,45 +963,6 @@ Législative du code de la route, les actes pris en application de ladite ordonn
 	  - Code de la route. - art. R142-5 (V)
 
 
-###### Article L142-5
-
-Pour l'application dans la collectivité territoriale de Mayotte du présent code, il est ajouté à l'article L. 130-4 un 10°
-ainsi rédigé :
-
-10° Les fonctionnaires de la police de Mayotte dans les conditions prévues à l'article 879-1 du code de procédure pénale.
-
-**Nota:**
-
-NOTA : L'ordonnance 2000-930 est entrée en vigueur le 1er juin 2001.
-
-NOTA : Loi 2001-616 2001-07-11 art. 75 : dans tous les textes législatifs et réglementaires, la référence à la collectivité
-territoriale de Mayotte est remplacée par la référence à Mayotte et la référence à la collectivité territoriale est remplacée
-par la référence à la collectivité départementale.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-930 2000-09-22 JORF 24 septembre 2000
-	  - Loi n°2003-495 2003-06-12 art. 38 JORF 13 juin 2003
-
-	**Liens**:
-
-	  - SPEC_APPLI: Ordonnance 2000-1255 2000-12-21 art. 2 : Ordonnance applicable à Mayotte
-	  - SPEC_APPLI: Loi n°2001-616 du 11 juillet 2001 - art. 75 (V)
-	  - TXT_SOURCE: Code de la route. - art. L130-4 (MMN)
-	  - TXT_ASSOCIE: Code de la route. - art. L130-4 (V)
-
-	**Créé par**:
-
-	  - Ordonnance n°2000-1255 du 21 décembre 2000 - art. 1 () JORF 23 décembre 2000 en vigueur le 1er juin 2001
-
-	**Cite**:
-
-	  - CODE DE PROCEDURE PENALE - art. 879-1 (M)
-	  - Code de la route. - art. L130-4 (MMN)
-
-
 #### Chapitre 2 : Dispositions applicables à Mayotte.
 
 ###### Article L142-2
@@ -1061,6 +1022,40 @@ par la référence à la collectivité départementale.
 	**Abrogé par**:
 
 	  - Loi n°2013-1029 du 15 novembre 2013 - art. 23
+
+
+###### Article L142-5
+
+Outre les agents cités à l'article L. 130-4, les agents de police de Mayotte mis à la disposition de l'Etat, dans les
+conditions prévues à l'article 879-1 du code de procédure pénale, ont compétence pour constater par procès-verbal les
+contraventions prévues par la partie Réglementaire du présent code ou par d'autres dispositions réglementaires dans la mesure
+où elles se rattachent à la sécurité et à la circulation routières. La liste des contraventions que ces agents sont habilités
+à constater est fixée par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-930 2000-09-22 JORF 24 septembre 2000
+	  - Loi n°2003-495 2003-06-12 art. 38 JORF 13 juin 2003
+
+	**Modifié par**:
+
+	  - Loi n°2002-1138 du 9 septembre 2002 - art. 67 () JORF 10 septembre 2002
+
+	**Abrogé par**:
+
+	  - Loi n°2011-525 du 17 mai 2011 - art. 136
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 879-1
+	  - Code de la route. - art. L130-4
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code de la route. - art. L130-4 (MMN)
+	  - TXT_ASSOCIE: Code de la route. - art. L130-4 (V)
 
 
 ## Livre 2 : Le conducteur
