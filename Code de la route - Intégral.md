@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2005-04-01
+Version Consolidée au 2005-04-06
 
 # Partie législative
 
@@ -9037,14 +9037,14 @@ est puni de l'amende prévue pour les contraventions de la cinquième classe.
 ###### Article R130-1
 
 Les personnels assermentés de l'office national des forêts peuvent constater, lorsqu'elles sont commises sur les chemins
-forestiers ouverts à la circulation publique, les contraventions prévues par :
+forestiers ouverts à la circulation publique, les contraventions prévues par : 
 
-1° Le présent code ;
+1° Le présent code ; 
 
 2° Les articles R. 644-2 et R. 653-1 du code pénal, lorsqu'il s'agit de contraventions se rapportant à la circulation
-routière ;
+routière ; 
 
-3° Les articles R. 625-2 et R. 625-3 du code pénal, commises à l'occasion de la conduite d'un véhicule ;
+3° L'article R. 625-3 du code pénal, lorsqu'il s'agit de contraventions commises à l'occasion de la conduite d'un véhicule ; 
 
 4° L'article R. 211-21-5 du code des assurances relatif à l'affichage sur les véhicules d'un certificat d'assurance.
 
@@ -9054,10 +9054,13 @@ routière ;
 
 	  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
 
+	**Modifié par**:
+
+	  - Décret n°2005-320 du 30 mars 2005 - art. 1 () JORF 6 avril 2005
+
 	**Cite**:
 
-	  - Code pénal - art. R625-2 (M)
-	  - Code pénal - art. R625-3 (M)
+	  - Code pénal - art. R625-3 (V)
 	  - Code pénal - art. R644-2 (V)
 	  - Code pénal - art. R653-1 (V)
 	  - Code des assurances - art. R211-21-5 (V)
@@ -9077,8 +9080,9 @@ routière ;
 
 Les agents de police judiciaire adjoints mentionnés aux 1°, 1 bis et 1 ter de l'article 21 du code de procédure pénale
 peuvent constater par procès-verbal les contraventions aux dispositions du présent code, à l'exception de celles prévues aux
-articles R. 121-1 à R. 121-5, R. 221-18, R. 234-1, R. 314-2, R. 317-29, R. 321-4 (alinéas 1 à 4) et R. 413-15 pour ce qui
-concerne la mise en vente ou la vente.
+articles R. 121-1 à R. 121-5, R. 221-18, 
+R. 234-1, 
+R. 314-2, R. 321-4 (alinéas 1 à 4) et R. 413-15.
 
 **Liens relatifs à cet article**
 
@@ -9086,24 +9090,19 @@ concerne la mise en vente ou la vente.
 
 	  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Décret n°2002-1256 2002-10-15 art. 9 I : application à Mayotte
-
-	**Créé par**:
-
-	  - Décret n°2002-1256 du 15 octobre 2002 - art. 2 () JORF 16 octobre 2002
+	  - Décret n°2005-320 du 30 mars 2005 - art. 1 () JORF 6 avril 2005
 
 	**Cite**:
 
-	  - CODE DE PROCEDURE PENALE - art. 21 (M)
-	  - Code de la route R121-1 à R121-5, R221-18, R234-1, R314-2, R317-29, R321-4, R413-15
+	  - Code de procédure pénale - art. 21 (V)
+	  - Code de la route. - art. R121-1 (V)
 	  - Code de la route. - art. R221-18 (V)
-	  - Code de la route. - art. R234-1 (M)
+	  - Code de la route. - art. R234-1 (V)
 	  - Code de la route. - art. R314-2 (V)
-	  - Code de la route. - art. R317-29 (Ab)
 	  - Code de la route. - art. R321-4 (V)
-	  - Code de la route. - art. R413-15 (M)
+	  - Code de la route. - art. R413-15 (V)
 
 	**Cité par**:
 
@@ -9115,8 +9114,7 @@ concerne la mise en vente ou la vente.
 Les agents de police judiciaire adjoints mentionnés au 1° quater de l'article 21 du code de procédure pénale peuvent
 constater par procès-verbal, lorsqu'elles sont commises à l'intérieur du territoire de la ville de Paris, les contraventions
 aux dispositions du présent code, à l'exception de celles prévues aux articles R. 121-1 à R. 121-5, R. 221-18, R. 222-2, R.
-222-3, R. 234-1, R. 314-2, R. 317-29, R. 321-4 (alinéas 1 à 4), R. 411-32, R. 412-17, R. 412-51, R. 412-52 et R. 413-15 pour
-ce qui concerne la mise en vente ou la vente.
+222-3, R. 234-1, R. 314-2, R. 321-4 (alinéas 1 à 4), R. 411-32, R. 412-17, R. 412-51, R. 412-52 et R. 413-15.
 
 **Liens relatifs à cet article**
 
@@ -9124,9 +9122,9 @@ ce qui concerne la mise en vente ou la vente.
 
 	  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2002-1256 du 15 octobre 2002 - art. 3 () JORF 16 octobre 2002
+	  - Décret n°2005-320 du 30 mars 2005 - art. 1 () JORF 6 avril 2005
 
 	**Cité par**:
 
@@ -9135,20 +9133,17 @@ ce qui concerne la mise en vente ou la vente.
 
 	**Cite**:
 
-	  - CODE DE PROCEDURE PENALE - art. 21 (M)
-	  - Code de la route R121-1 à R121-5, R221-18, R222-2, R222-3, R234-1, R314-2, R317-29, R321-4, R411-32, R412-17, R412-51, R412-52, R413-15
+	  - Code de procédure pénale - art. 21 (V)
+	  - Code de la route. - art. R121-1 (V)
 	  - Code de la route. - art. R221-18 (V)
-	  - Code de la route. - art. R222-2 (V)
-	  - Code de la route. - art. R222-3 (M)
-	  - Code de la route. - art. R234-1 (M)
+	  - Code de la route. - art. R222-3 (VT)
+	  - Code de la route. - art. R234-1 (V)
 	  - Code de la route. - art. R314-2 (V)
-	  - Code de la route. - art. R317-29 (Ab)
 	  - Code de la route. - art. R321-4 (V)
 	  - Code de la route. - art. R411-32 (V)
 	  - Code de la route. - art. R412-17 (V)
 	  - Code de la route. - art. R412-51 (V)
-	  - Code de la route. - art. R412-52 (V)
-	  - Code de la route. - art. R413-15 (M)
+	  - Code de la route. - art. R413-15 (V)
 
 
 ###### Article R130-2
@@ -9157,8 +9152,7 @@ Les agents de police judiciaire adjoints mentionnés au 2° de l'article 21 du c
 procès-verbal, lorsqu'elles sont commises à l'intérieur du territoire communal sur les voies autres que les autoroutes, les
 contraventions aux articles R. 644-2 et R. 653-1 du code pénal commises à l'occasion de la conduite d'un véhicule, les
 contraventions aux dispositions du présent code à l'exception de celles prévues aux articles R. 121-1 à R. 121-5, R. 221-18,
-R. 222-2, R. 222-3, R. 234-1, R. 314-2, R. 317-29, R. 321-4 (alinéas 1 à 4), R. 411-32, R. 412-17, R. 412-51, R. 412-52, R.
-413-15 s'agissant de la mise en vente ou de la vente.
+R. 222-2, R. 222-3, R. 234-1, R. 314-2, R. 321-4 (alinéas 1 à 4), R. 411-32, R. 412-17, R. 412-51, R. 412-52, R. 413-15.
 
 **Liens relatifs à cet article**
 
@@ -9166,37 +9160,14 @@ R. 222-2, R. 222-3, R. 234-1, R. 314-2, R. 317-29, R. 321-4 (alinéas 1 à 4), R
 
 	  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
 
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2002-1256 2002-10-15 art. 9 I : application à Mayotte
-
 	**Modifié par**:
 
-	  - Décret n°2002-1256 du 15 octobre 2002 - art. 4 () JORF 16 octobre 2002
+	  - Décret n°2005-320 du 30 mars 2005 - art. 1 () JORF 6 avril 2005
 
 	**Cité par**:
 
 	  - Code de la sécurité intérieure - art. R511-1 (VD)
 	  - Code général des collectivités territoriales - art. R2212-15 (VT)
-
-	**Cite**:
-
-	  - Code pénal - art. R644-2 (V)
-	  - Code pénal - art. R653-1 (V)
-	  - CODE DE PROCEDURE PENALE - art. 21 (M)
-	  - Code de la route R121-1 à R121-5, R221-18, R222-2, R222-3, R234-1, R314-2, R317-29, R321-4, R411-32, R412-17, R412-51, R412-52, R413-15
-	  - Code de la route. - art. R221-18 (V)
-	  - Code de la route. - art. R222-2 (V)
-	  - Code de la route. - art. R222-3 (M)
-	  - Code de la route. - art. R234-1 (M)
-	  - Code de la route. - art. R314-2 (V)
-	  - Code de la route. - art. R317-29 (Ab)
-	  - Code de la route. - art. R321-4 (V)
-	  - Code de la route. - art. R411-32 (V)
-	  - Code de la route. - art. R412-17 (V)
-	  - Code de la route. - art. R412-51 (V)
-	  - Code de la route. - art. R412-52 (V)
-	  - Code de la route. - art. R413-15 (M)
 
 	**Anciens textes**:
 
@@ -9207,20 +9178,20 @@ R. 222-2, R. 222-3, R. 234-1, R. 314-2, R. 317-29, R. 321-4 (alinéas 1 à 4), R
 ###### Article R130-3
 
 Les gardes champêtres peuvent constater par procès-verbal si elles sont commises à l'intérieur du territoire communal et sur
-des voies autres que les autoroutes :
+des voies autres que les autoroutes : 
 
 a) Les contraventions de police prévues aux articles R. 644-2 et R. 653-1 du code pénal lorsqu'il s'agit de contraventions se
-rapportant à la circulation routière ;
+rapportant à la circulation routière ; 
 
-b) Les contraventions aux dispositions du présent code mentionnées aux articles R. 211-2, R. 221-1, R. 221-10, R. 221-11, R.
-233-1, R. 313-13, R. 313-22, R. 313-23, R. 317-8, R. 321-4 (5e alinéa), R. 322-1, R. 322-3 à R. 322-9, R. 323-1, R. 325-2, R.
-326-1, R. 411-18, R. 411-22, R. 411-23, R. 411-28, R. 411-30, R. 412-1 à R. 412-3, R. 412-7, R. 412-9 (5e alinéa), R. 412-19,
-R. 412-27, R. 412-28, R. 412-30, R. 412-48, R. 412-49, R. 413-5, R. 413-14, R. 413-17, R. 413-18, R. 415-6, R. 416-5 à R.
-416-9, R. 416-11 à R. 416-14, R. 416-17, R. 416-19, R. 416-20, R. 416-20, R. 417-1 à R. 417-13, R. 422-3 (VI), R. 431-1, R.
-431-2 et R. 431-10 ;
+b) Les contraventions aux dispositions du présent code mentionnées aux articles R. 211-2, R. 221-1, R. 233-1, R. 313-13, R.
+313-22, R. 313-23, R. 317-8, R. 321-4 (5e alinéa), R. 322-1, R. 322-3 à R. 322-9, R. 323-1, R. 325-2, R. 326-1, R. 411-18, R.
+411-22, R. 411-23, R. 411-28, R. 411-30, R. 412-1 à R. 412-3, R. 412-7, R. 412-9 (5e alinéa), R. 412-19, R. 412-27, R.
+412-28, R. 412-30, R. 412-48, R. 412-49, R. 413-5, R. 413-14, R. 413-17, R. 413-18, R. 415-6, R. 416-5 à R. 416-9, R. 416-11
+à R. 416-14, R. 416-17, R. 416-19, R. 416-20, R. 416-20, R. 417-1 à R. 417-13, R. 422-3 (VI), R. 431-1, R. 431-2 et R.
+431-10 ; 
 
 c) Les contraventions au présent code mentionnées à l'article R. 413-15 en ce qui concerne la détention, l'usage ou le
-transport ;
+transport ; 
 
 d) Les contraventions prévues par l'article R. 211-21-5 du code des assurances.
 
@@ -9232,7 +9203,7 @@ d) Les contraventions prévues par l'article R. 211-21-5 du code des assurances.
 
 	**Modifié par**:
 
-	  - Décret n°2002-1256 du 15 octobre 2002 - art. 5 () JORF 16 octobre 2002
+	  - Décret n°2005-320 du 30 mars 2005 - art. 1 () JORF 6 avril 2005
 
 	**Cité par**:
 
@@ -9245,11 +9216,9 @@ d) Les contraventions prévues par l'article R. 211-21-5 du code des assurances.
 	  - Code pénal - art. R644-2 (V)
 	  - Code pénal - art. R653-1 (V)
 	  - Code des assurances - art. R211-21-5 (V)
-	  - Code de la route R211-2, R221-1, R221-10, R221-11, R233-1, R313-13, R313-22, R313-23, R317-8, R321-4, R322-1, R322-3 à R322-9, R323-1, R325-2, R326-1, R411-18, R411-22, R411-23, R411-28, R411-30, R412-1 à R412-3, R412-7, R412-9, R412-19, R412-27, R41
+	  - Code de la route R211-2, R221-1, R233-1, R313-13, R313-22, R313-23, R317-8, R321-4, R322-1, R322-3 à R322-9, R323-1, R325-2, R326-1, R411-18, R411-22, R411-23, R411-28, R411-30, R412-1 à R412-3, R412-7, R412-9, R412-19, R412-27, R412-28, R412-30, R41
 	  - Code de la route. - art. R211-2 (M)
 	  - Code de la route. - art. R221-1 (M)
-	  - Code de la route. - art. R221-10 (M)
-	  - Code de la route. - art. R221-11 (M)
 	  - Code de la route. - art. R233-1 (M)
 	  - Code de la route. - art. R313-13 (V)
 	  - Code de la route. - art. R313-22 (V)
@@ -11132,34 +11101,33 @@ cet arrondissement, lorsque cette dérogation est de nature à améliorer sensib
 
 ###### Article R221-1
 
-I- Nul ne peut conduire un véhicule ou un ensemble de véhicules, pour la conduite duquel le permis de conduire est exigé par
-le présent code, s'il n'est titulaire de la catégorie du permis de conduire correspondante, en état de validité et délivrée
-par le préfet du département de sa résidence ou par le préfet du département dans lequel les examens ont été subis. Par
-dérogation à l'article R. 110-1, ces dispositions sont également applicables à la conduite sur les voies non ouvertes à la
-circulation publique, sauf dispositions différentes prévues aux articles R. 221-16 à R. 221-18.
+I.-Nul ne peut conduire un véhicule ou un ensemble de véhicules, pour la conduite duquel le permis de conduire est exigé par
+le présent code, s'il n'est titulaire de la catégorie correspondante du permis de conduire en état de validité et s'il ne
+respecte les restrictions d'usage mentionnées sur ce titre. 
 
-La possession du permis de conduire ne dispense pas son titulaire du respect des dispositions prises en ce qui concerne les
-conditions de travail dans les transports en vue de la sécurité routière.
+Par dérogation à l'article R. 110-1, ces dispositions sont également applicables à la conduite sur les voies non ouvertes à
+la circulation publique, sauf dans le cas prévu à l'article R. 221-16. 
 
-II- Sauf dans le cas des personnes justifiant qu'elles apprennent à conduire dans les conditions prévues par les articles R.
-211-3 à R. 211-5, le fait de conduire un véhicule sans être titulaire de la catégorie du permis de conduire exigée pour le
-véhicule considéré est puni de l'amende prévue pour les contraventions de la cinquième classe.
+II.-Le permis de conduire est délivré à tout candidat qui a satisfait aux épreuves d'examen prévues au présent chapitre par
+le préfet du département de sa résidence ou par le préfet du département dans lequel ces épreuves ont été subies. 
 
-III- L'immobilisation peut être prescrite dans les conditions prévue aux articles L. 325-1 à L. 325-3.
+III.-Le fait de conduire un véhicule sans respecter les conditions de validité ou les restrictions d'usage du permis de
+conduire est puni de l'amende prévue pour les contraventions de la quatrième classe. 
 
-IV- Toute personne coupable de l'infraction prévue au présent article encourt également les peines complémentaires
-suivantes :
+IV.-L'immobilisation du véhicule peut être prescrite dans les conditions prévues aux articles L. 325-1 à L. 325-3. 
 
-1°- L'interdiction de conduire certains véhicules terrestres à moteur, y compris ceux pour la conduite desquels le permis de
-conduire n'est pas exigé, pour une durée de trois ans au plus ;
+V.-Toute personne coupable de l'une des infractions prévues au présent article encourt également les peines complémentaires
+suivantes : 
 
-2°- L'obligation d'accomplir, à ses frais, un stage de sensibilisation à la sécurité routière ;
+1° La suspension, pour une durée de trois ans au plus, du permis de conduire, cette suspension pouvant être limitée à la
+conduite en dehors de l'activité professionnelle ; 
 
-3°- L'obligation d'accomplir un travail d'intérêt général pour une durée de vingt à cent vingt heures.
+2° L'interdiction de conduire certains véhicules terrestres à moteur, y compris ceux pour la conduite desquels le permis de
+conduire n'est pas exigé, pour une durée de trois ans au plus ; 
 
-**Nota:**
+3° L'obligation d'accomplir, à ses frais, un stage de sensibilisation à la sécurité routière. 
 
-Nota : Décret 2003-642 du 11 juillet 2003 art. 9 : application à Mayotte.
+VI.-La contravention prévue au III donne lieu de plein droit à la réduction de trois points du permis de conduire.
 
 **Liens relatifs à cet article**
 
@@ -11169,8 +11137,7 @@ Nota : Décret 2003-642 du 11 juillet 2003 art. 9 : application à Mayotte.
 
 	**Modifié par**:
 
-	  - Décret n°2003-642 du 11 juillet 2003 - art. 2 () JORF 12 juillet 2003
-	  - Décret n°2003-642 du 11 juillet 2003 - art. 5 () JORF 12 juillet 2003
+	  - Décret n°2005-320 du 30 mars 2005 - art. 2 () JORF 6 avril 2005
 
 	**Cité par**:
 
@@ -11189,7 +11156,7 @@ Nota : Décret 2003-642 du 11 juillet 2003 art. 9 : application à Mayotte.
 
 	**Cite**:
 
-	  - Code de la route R110-1, R221-16 à R221-18, R211-3 à R211-5, L325-1 à L325-3
+	  - Code de la route. - art. L325-1 (V)
 	  - Code de la route. - art. R110-1 (V)
 
 
@@ -11509,22 +11476,26 @@ son titulaire soit en possession de la catégorie D du permis de conduire.
 
 ###### Article R221-8
 
-La catégorie A du permis de conduire, obtenue avant le 1er mars 1980, ou les catégories A 2 ou A 3, obtenues entre le 1er
-mars 1980 et le 31 décembre 1984, autorise la conduite de toutes les motocyclettes.
+I. - La catégorie A du permis de conduire, obtenue avant le 1er mars 1980, ou les catégories A 2 ou A 3, obtenues entre le
+1er mars 1980 et le 31 décembre 1984, autorise la conduite de toutes les motocyclettes.
 
 Une licence de circulation, délivrée avant le 1er avril 1958, une catégorie quelconque du permis obtenue avant le 1er mars
 1980, ou la catégorie A 1 du permis obtenue entre le 1er mars 1980 et le 31 décembre 1984, autorise la conduite des
 motocyclettes dont la cylindrée n'excède pas 125 cm3, mises en circulation pour la première fois avant le 31 décembre 1984,
 et celle des motocyclettes légères.
 
-La catégorie B du permis de conduire autorise la conduite des motocyclettes légères, sous réserve qu'elle ait été délivrée
-depuis au moins deux ans.
+II. - La catégorie B du permis de conduire, délivrée depuis au moins deux ans, autorise la conduite, sur le territoire
+national, des véhicules relevant de la sous-catégorie A1.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+	**Modifié par**:
+
+	  - Décret n°2005-320 du 30 mars 2005 - art. 3 () JORF 6 avril 2005
 
 	**Cité par**:
 
@@ -11537,10 +11508,6 @@ depuis au moins deux ans.
 
 	  - Code de la route - art. R125-1 (Ab)
 	  - Code de la route R125-1
-
-	**Liens**:
-
-	  - SPEC_APPLI: Code de la route. - art. R221-21 (V)
 
 
 ###### Article R221-9
@@ -11620,14 +11587,15 @@ III. - La catégorie B du permis de conduire ne permet la conduite :
 que si le conducteur est en possession d'une attestation délivrée par le préfet après vérification médicale de l'aptitude
 physique.
 
-IV. - Le fait de conduire un véhicule sans respecter l'une des conditions de validité de la catégorie du permis de conduire
-prévues au présent article est puni de l'amende prévue pour les contraventions de la troisième classe.
-
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+	**Modifié par**:
+
+	  - Décret n°2005-320 du 30 mars 2005 - art. 3 () JORF 6 avril 2005
 
 	**Cité par**:
 
@@ -11657,10 +11625,6 @@ prévues au présent article est puni de l'amende prévue pour les contravention
 
 	  - Code de la route. - art. R221-19 (V)
 
-	**Liens**:
-
-	  - SPEC_APPLI: Code de la route. - art. R221-21 (V)
-
 
 ###### Article R221-11
 
@@ -11685,10 +11649,6 @@ IV. - Les catégories A et B du permis de conduire délivrées pour la conduite 
 compte du handicap du conducteur sont toutefois délivrées sans limitation de durée si le certificat médical favorable à
 l'attribution de ces catégories établit que l'intéressé est atteint d'une invalidité ou d'une infirmité incurable, définitive
 ou stabilisée.
-
-V. - Le fait de conduire un véhicule sans avoir déposé une demande de prorogation de validité de la catégorie du permis de
-conduire prévue par le présent article ou sans avoir obtenu cette prorogation est puni de l'amende prévue pour les
-contraventions de la troisième classe.
 
 **Liens relatifs à cet article**
 
@@ -11716,6 +11676,10 @@ contraventions de la troisième classe.
 
 	  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
 
+	**Modifié par**:
+
+	  - Décret n°2005-320 du 30 mars 2005 - art. 3 () JORF 6 avril 2005
+
 	**Anciens textes**:
 
 	  - Code de la route - art. R127 (Ab)
@@ -11725,10 +11689,6 @@ contraventions de la troisième classe.
 	**Cite**:
 
 	  - Code de la route. - art. R221-10 (M)
-
-	**Liens**:
-
-	  - SPEC_APPLI: Code de la route. - art. R221-21 (V)
 
 
 ###### Article R221-12
@@ -12023,29 +11983,35 @@ incapacités susceptibles de donner lieu à l'application des articles R. 221-12
 
 ###### Article R221-20
 
-Les dispositions du présent chapitre ne sont pas applicables aux conducteurs des véhicules et appareils agricoles ou
+I.-Les dispositions du présent chapitre ne sont pas applicables aux conducteurs des véhicules et appareils agricoles ou
 forestiers, attachés à une exploitation agricole ou forestière, à une entreprise de travaux agricoles ou à une coopérative
-d'utilisation de matériel agricole.
+d'utilisation de matériel agricole. 
 
-Tout conducteur d'un véhicule ou appareil agricole appartenant à une exploitation agricole, à une entreprise de travaux
-agricoles ou à une coopérative d'utilisation de matériel agricole doit être âgé d'au moins seize ans.
+II.-Tout conducteur d'un véhicule ou appareil agricole appartenant à une exploitation agricole, à une entreprise de travaux
+agricoles ou à une coopérative d'utilisation de matériel agricole doit être âgé d'au moins seize ans. 
 
-Tout conducteur de machine agricole automotrice ou d'ensemble comprenant un matériel remorqué, lorsque la largeur de ceux-ci
-excède 2,50 mètres, d'ensemble comprenant un véhicule tracteur et plusieurs remorques ou matériels remorqués, d'ensemble
-comprenant une remorque transportant du personnel et appartenant à une exploitation agricole, à une entreprise de travaux
-agricoles ou à une coopérative d'utilisation de matériel agricole, doit être âgé d'au moins dix-huit ans.
+III.-Tout conducteur de machine agricole automotrice ou d'ensemble comprenant un matériel remorqué, lorsque la largeur de
+ceux-ci excède 2,50 mètres, d'ensemble comprenant un véhicule tracteur et plusieurs remorques ou matériels remorqués,
+d'ensemble comprenant une remorque transportant du personnel et appartenant à une exploitation agricole, à une entreprise de
+travaux agricoles ou à une coopérative d'utilisation de matériel agricole, doit être âgé d'au moins dix-huit ans. 
 
-Les conditions d'application aux départements d'outre-mer du présent article sont déterminées par arrêté du ministre chargé
-de l'outre-mer, pris sur avis du ministre chargé des transports et du ministre chargé de l'agriculture.
+IV.-Les conditions d'application aux départements d'outre-mer du présent article sont déterminées par arrêté du ministre
+chargé de l'outre-mer, pris sur avis du ministre chargé des transports et du ministre chargé de l'agriculture. 
 
-Le fait de conduire un véhicule ou ensemble de véhicules mentionné au présent article sans respecter les conditions d'âge
-prévues aux deuxième et troisième alinéas est puni de l'amende prévue pour les contraventions de la deuxième classe.
+V.-Le fait de conduire un véhicule ou un ensemble de véhicules mentionnés au présent article sans respecter les conditions
+d'âge prévues aux II et III est puni de l'amende prévue pour les contraventions de la quatrième classe. 
+
+VI.-L'immobilisation peut être prescrite dans les conditions prévues aux articles L. 325-1 à L. 325-3.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+	**Modifié par**:
+
+	  - Décret n°2005-320 du 30 mars 2005 - art. 3 () JORF 6 avril 2005
 
 	**Anciens textes**:
 
@@ -12054,13 +12020,13 @@ prévues aux deuxième et troisième alinéas est puni de l'amende prévue pour 
 	  - Code de la route - art. R233 (Ab)
 	  - Code de la route R167-1, R167-2, R233 (al. 1 et 2)
 
+	**Cite**:
+
+	  - Code de la route. - art. L325-1 (V)
+
 	**Cité par**:
 
 	  - Code de la route. - art. R130-6 (VD)
-
-	**Liens**:
-
-	  - SPEC_APPLI: Code de la route. - art. R221-21 (V)
 
 
 ###### Article R221-21
@@ -12210,16 +12176,18 @@ Tout permis de conduire national, en cours de validité, délivré par un Etat n
 l'acquisition de la résidence normale de son titulaire. Pendant ce délai, il peut être échangé contre le permis français,
 sans que son titulaire soit tenu de subir les examens prévus au premier alinéa de l'article R. 221-3 Les conditions de cette
 reconnaissance et de cet échange sont définies par arrêté du ministre chargé des transports, après avis du ministre de la
-justice, du ministre de l'intérieur et du ministre chargé des affaires étrangères.
-
-Le fait de conduire un véhicule, dans le cas prévu au présent article, après l'expiration du délai d'un an sans avoir
-sollicité l'échange de son permis de conduire est puni de l'amende prévue pour les contraventions de la quatrième classe.
+justice, du ministre de l'intérieur et du ministre chargé des affaires étrangères. Au terme de ce délai, ce permis n'est plus
+reconnu et son titulaire perd tout droit de conduire un véhicule pour la conduite duquel le permis de conduire est exigé.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+	**Modifié par**:
+
+	  - Décret n°2005-320 du 30 mars 2005 - art. 3 () JORF 6 avril 2005
 
 	**Cité par**:
 
@@ -12238,7 +12206,7 @@ sollicité l'échange de son permis de conduire est puni de l'amende prévue pou
 
 	**Cite**:
 
-	  - Code de la route. - art. R221-3 (V)
+	  - Code de la route. - art. R221-3 (VT)
 
 
 ###### Article R222-4
@@ -12709,10 +12677,10 @@ l'issue de celle-ci, une attestation de stage à toute personne qui l'a suivi en
 représentant de l'Etat dans le département du lieu du stage, ou à l'autorité compétente de la collectivité d'outre-mer, dans
 un délai de quinze jours à compter de la fin de cette formation.
 
-II.- -La délivrance de l'attestation de stage donne droit à la récupération de quatre points dans la limite du plafond
-affecté au permis de conduire de son titulaire. Une nouvelle reconstitution de points, après une formation spécifique, n'est
-possible qu'au terme d'un délai de deux ans. La délivrance de l'attestation de stage sensibilisation à la sécurité routière
-effectué dans le cadre des dispositions de l'article 131-35-1 du code pénal ne donne pas droit à récupération de points.
+II. - L'attestation délivrée à l'issue du stage effectué en application des dispositions de l'alinéa 2 de l'article L. 223-6
+donne droit à la récupération de quatre points dans la limite du plafond affecté au permis de conduire de son titulaire. Une
+nouvelle reconstitution de points, après une formation spécifique effectuée en application des mêmes dispositions, n'est
+possible qu'au terme d'un délai de deux ans.
 
 III. - L'autorité administrative mentionnée au I ci-dessus procède à la reconstitution du nombre de points dans un délai d'un
 mois à compter de la réception de l'attestation et notifie cette reconstitution à l'intéressé par lettre simple. La
@@ -12725,32 +12693,20 @@ acquittée, les pièces nécessaires à son remboursement.
 L'attestation de suivi de stage et les pièces nécessaires au remboursement de l'amende payée sont définies par arrêté
 conjoint du ministre de l'intérieur, du ministre chargé du budget et du ministre chargé des transports.
 
-**Nota:**
-
-Nota : Décret 2003-642 du 11 juillet 2003 art. 9 : application à Mayotte.
-
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
 
-	**Modifié par**:
-
-	  - Décret n°2003-642 2003-07-11 art. 4 V, VII, art. 7 I, JORF 12 juillet 2003 en vigueur le 1er mars 2004
-	  - Décret n°2003-642 du 11 juillet 2003 - art. 4 () JORF 12 juillet 2003 en vigueur le 1er mars 2004
-	  - Décret n°2003-642 du 11 juillet 2003 - art. 7 (V) JORF 12 juillet 2003 en vigueur le 1er mars 2004
-
 	**Cité par**:
 
 	  - Décret n°2003-642 du 11 juillet 2003 - art. 7 (V)
 	  - Arrêté du 25 février 2004 - art. 1 (V)
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code pénal - art. 131-35-1 (M)
-	  - Code de la route. - art. R223-4 (M)
-	  - Code de la route. - art. R223-5 (M)
+	  - Décret n°2005-320 2005-03-30 art. 6 JORF 6 avril 2005
 
 	**Anciens textes**:
 
@@ -14023,44 +13979,6 @@ disparition des traces susceptibles d'être utilisées pour établir les respons
 
 	  - Code de la route - art. R53-3 (Ab)
 	  - Code de la route R53-3
-
-
-#### Chapitre II : Atteintes involontaires aux personnes.
-
-###### Article R232-1
-
-La contravention d'atteinte involontaire à l'intégrité d'une personne prévue à l'article R. 625-2 du code pénal commise à
-l'occasion de la conduite d'un véhicule à moteur donne lieu de plein droit à la réduction de quatre points du permis de
-conduire.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Arrêté du 24 février 1994 - art. 1 (V)
-	  - Code de la route - art. R232 (M)
-	  - Code de la route - art. R249-1 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
-
-	**Abrogé par**:
-
-	  - Décret n°2005-320 du 30 mars 2005 - art. 1 () JORF 6 avril 2005
-
-	**Cite**:
-
-	  - Code pénal - art. R625-2 (M)
-
-	**Anciens textes**:
-
-	  - Code de la route - art. R256 (Ab)
-	  - Code de la route R256 2°
-
-	**Nouveaux textes**:
-
-	  - Code de la route. - art. R413-14 (V)
 
 
 #### Chapitre III : Comportement en cas de contrôle routier.
@@ -23567,76 +23485,6 @@ des transports.
 	  - Code de la route. - art. R323-24 (M)
 
 
-#### Chapitre IV : Assurance.
-
-###### Article R324-1
-
-Les règles pénales relatives à l'obligation d'assurance sont fixées à l'article R. 211-45 du code des assurances ci-après
-reproduit :
-
-"Art. R. 211-45. - Sera punie des peines d'emprisonnement et d'amende prévues pour les contraventions de la 5è classe toute
-personne qui, contrevenant aux dispositions de l'article L. 211-1 du présent code, aura mis ou maintenu en circulation un
-véhicule terrestre à moteur ainsi que ses remorques ou semi-remorques sans être couverte par une assurance garantissant sa
-responsabilité civile.
-
-En cas de récidive, les peines d'emprisonnement et d'amende prévues pour la récidive des contraventions de la 5è classe
-seront applicables."
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
-
-	**Abrogé par**:
-
-	  - Décret n°2005-320 du 30 mars 2005 - art. 4 () JORF 6 avril 2005
-
-	**Cite**:
-
-	  - Code des assurances - art. R211-45 (Ab)
-	  - Code de la route. - art. L211-1 (V)
-
-
-###### Article R324-2
-
-Toute personne coupable de l'infraction prévue à l'article R. 211-45 du code des assurances encourt également la peine
-complémentaire de suspension, pour une durée de trois ans au plus, du permis de conduire, cette suspension pouvant être
-limitée à la conduite en dehors de l'activité professionnelle et celle de travail d'intérêt général pour une durée de vingt à
-cent vingt heures.
-
-L'immobilisation peut être prescrite dans les conditions prévues aux articles L. 325-1 à L. 325-3.
-
-**Nota:**
-
-Nota : Décret 2003-642 du 11 juillet 2003 art. 9 : application à Mayotte.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
-
-	**Modifié par**:
-
-	  - Décret n°2003-642 du 11 juillet 2003 - art. 2 () JORF 12 juillet 2003
-
-	**Abrogé par**:
-
-	  - Décret n°2005-320 du 30 mars 2005 - art. 4 () JORF 6 avril 2005
-
-	**Cite**:
-
-	  - Code des assurances - art. R211-45 (Ab)
-	  - Code de la route L325-1 à L325-3
-
-	**Anciens textes**:
-
-	  - Code de la route - art. R266 (Ab)
-	  - Code de la route - art. R278 (Ab)
-	  - Code de la route R299 9°, R278 11°
-
-
 #### Chapitre V : Immobilisation et mise en fourrière
 
 ##### Section 1 : Dispositions générales.
@@ -23645,6 +23493,9 @@ Nota : Décret 2003-642 du 11 juillet 2003 art. 9 : application à Mayotte.
 
 L'immobilisation, la mise en fourrière, le retrait de la circulation et la destruction prévus à l'article L. 325-1 peuvent
 être décidés dans les cas et les conditions définis au présent code.
+
+L'immobilisation et la mise en fourrière peuvent également être ordonnées conformément aux dispositions de l'article L.
+325-1-1.
 
 Ces mesures ne font pas obstacle aux saisies ordonnées par l'autorité judiciaire.
 
@@ -23656,6 +23507,10 @@ Elles ne s'appliquent pas aux véhicules participant à des opérations de maint
 
 	  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
 
+	**Modifié par**:
+
+	  - Décret n°2005-320 du 30 mars 2005 - art. 5 () JORF 6 avril 2005
+
 	**Anciens textes**:
 
 	  - Code de la route - art. R275 (Ab)
@@ -23664,6 +23519,33 @@ Elles ne s'appliquent pas aux véhicules participant à des opérations de maint
 	**Cite**:
 
 	  - Code de la route. - art. L325-1 (M)
+	  - Code de la route. - art. L325-1-1 (M)
+
+	**Cité par**:
+
+	  - Code de la route. - art. R343-1 (V)
+	  - Code de la route. - art. R344-1 (V)
+
+
+###### Article R325-1-1
+
+Lorsque la juridiction prononce la confiscation d'un véhicule immobilisé et mis en fourrière en application de l'article L.
+325-1-1, le service des domaines chargé de son aliénation informe préalablement le candidat acquéreur que le montant des
+frais d'enlèvement et de garde en fourrière seront à sa charge.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+	**Créé par**:
+
+	  - Décret n°2005-320 du 30 mars 2005 - art. 5 () JORF 6 avril 2005
+
+	**Cite**:
+
+	  - Code de la route. - art. L325-1-1 (M)
 
 	**Cité par**:
 
