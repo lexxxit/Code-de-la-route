@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2005-02-25
+Version Consolidée au 2005-02-26
 
 # Partie législative
 
@@ -19462,12 +19462,16 @@ prévue pour les contraventions de la troisième classe.
 
 ###### Article R317-6
 
-Limitation par construction de la vitesse des véhicules.
+Les véhicules de transport en commun de personnes d'un poids total autorisé en charge supérieur à 10 tonnes mis en
+circulation pour la première fois à partir du 1er janvier 1985 doivent être construits ou équipés de telle manière que leur
+vitesse maximale ne puisse pas dépasser 100 km/h.
 
-Tout véhicule de transport de marchandises d'un poids total autorisé en charge supérieur à 12 tonnes et tout véhicule de
-transport en commun d'un poids total autorisé en charge supérieur à 10 tonnes doivent être construits ou équipés de telle
-manière que sa vitesse maximale ne puisse pas dépasser respectivement 85 km/h et 100 km/h. Un arrêté du ministre chargé des
-transports fixe les modalités techniques de cette disposition.
+Les autres véhicules d'un poids total autorisé en charge supérieur à 12 tonnes mis en circulation pour la première fois à
+partir du 1er octobre 1984 et les véhicules de transport de matières dangereuses mis en circulation pour la première fois à
+partir du 1er mai 1980 doivent être construits ou équipés de telle manière que leur vitesse maximale ne puisse pas dépasser
+90 km/h.
+
+Un arrêté du ministre chargé des transports fixe les modalités d'application de ces dispositions.
 
 **Liens relatifs à cet article**
 
@@ -19483,14 +19487,43 @@ transports fixe les modalités techniques de cette disposition.
 	  - Arrêté du 9 mai 2007 - art. 1 (V)
 	  - Arrêté du 9 mars 2017 - art. 5
 
+	**Modifié par**:
+
+	  - Décret n°2005-186 du 25 février 2005 - art. 1 () JORF 26 février 2005
+
 	**Anciens textes**:
 
 	  - Code de la route - art. R78 (Ab)
 	  - Code de la route R78 (al. 16 et 17)
 
-	**Liens**:
 
-	  - SPEC_APPLI: Code de la route. - art. R317-7 (V)
+###### Article R317-6-1
+
+I. - Les véhicules de transport en commun de personnes d'un poids total autorisé en charge inférieur ou égal à 10 tonnes et
+les autres véhicules d'un poids total autorisé en charge supérieur à 3,5 tonnes et inférieur ou égal à 12 tonnes, conformes
+aux valeurs limites d'émissions polluantes définies par arrêté du ministre chargé des transports et mis en circulation pour
+la première fois à compter du 1er octobre 2001, doivent, au plus tard le 1er janvier 2007, être construits ou équipés de
+telle manière que leur vitesse maximale ne puisse pas dépasser respectivement 100 km/h et 90 km/h.
+
+II. - Un arrêté du ministre chargé des transports fixe les modalités d'application de ces dispositions.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Arrêté du 23 novembre 1992 - art. 2 (M)
+	  - Arrêté du 27 juillet 2004 - art. 7 (VD)
+	  - Arrêté du 17 octobre 2005 - art. 1 (V)
+	  - Arrêté du 17 octobre 2005 - art. 3 (V)
+	  - Arrêté du 9 mars 2017 - art. 5
+
+	**Codifié par**:
+
+	  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+	**Créé par**:
+
+	  - Décret n°2005-186 du 25 février 2005 - art. 2 () JORF 26 février 2005
 
 
 ###### Article R317-7
