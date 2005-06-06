@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2005-04-06
+Version Consolidée au 2005-06-07
 
 # Partie législative
 
@@ -3177,10 +3177,14 @@ conduire dont la délivrance est sollicitée.
 
 ###### Article L225-3
 
-Le titulaire du permis de conduire a droit à la communication du relevé intégral des mentions le concernant. Il ne peut en
-obtenir copie.
+Le titulaire du permis de conduire a droit à la communication du relevé intégral des mentions le concernant. Cette
+communication s'exerce dans les conditions prévues par la loi n° 78-753 du 17 juillet 1978.
 
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°78-753 du 17 juillet 1978 (V)
 
 	**Cité par**:
 
@@ -3196,6 +3200,10 @@ obtenir copie.
 
 	  - Ordonnance 2000-930 2000-09-22 JORF 24 septembre 2000
 	  - Loi n°2003-495 2003-06-12 art. 38 JORF 13 juin 2003
+
+	**Modifié par**:
+
+	  - Ordonnance n°2005-650 du 6 juin 2005 - art. 11 () JORF 7 juin 2005
 
 	**Anciens textes**:
 
