@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2005-11-20
+Version Consolidée au 2005-12-28
 
 # Partie législative
 
@@ -35108,16 +35108,22 @@ les autoroutes, par le préfet ou, sur délégation de celui-ci, par le directeu
 ###### Article R433-1
 
 I. - Le transport ou la circulation de marchandises, engins ou véhicules présentant un caractère exceptionnel en raison de
-leurs dimensions ou de leur masse, lesquelles ne respectent pas les limites réglementaires, doit faire l'objet d'une
-autorisation préalable. Ces dispositions s'appliquent aux catégories de véhicules suivantes :
+leurs dimensions ou de leur masse excédant les limites réglementaires, doit faire l'objet d'une autorisation préalable. Ces
+dispositions s'appliquent aux catégories de véhicules suivantes :
 
 1° Véhicule à moteur ou remorque transportant ou destiné au transport de charges indivisibles ;
 
-2° Véhicule ou matériel agricole ou de travaux publics ;
+2° Véhicule, matériel agricole ou forestier ou leur ensemble, machine agricole automotrice, machine ou instrument agricole
+remorqué dont les dimensions, y compris les outillages portés amovibles, dépassent une longueur de 25 mètres ou une largeur
+de 4,50 mètres ;
 
-3° Ensemble forain comprenant une seule remorque ;
+3° Véhicule à moteur ou remorque à usage forain ;
 
-4° Véhicule ou engin spécial.
+4° Ensemble forain dont la longueur est supérieure à 30 mètres ;
+
+5° Véhicule ou engin spécial ;
+
+6° Véhicule ou matériel de travaux publics.
 
 II. - Au sens du présent article on entend par charge indivisible une charge qui ne peut, aux fins de transport par route,
 être divisée en plusieurs chargements sans frais ou risque de dommages importants et qui ne peut, du fait de ses dimensions
@@ -35166,6 +35172,10 @@ l'immobilisation du véhicule peut être prescrite dans les conditions prévues 
 
 	  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
 
+	**Modifié par**:
+
+	  - Décret n°2005-1655 du 26 décembre 2005 - art. 2 () JORF 28 décembre 2005
+
 	**Cite**:
 
 	  - Code pénal - art. 132-11 (M)
@@ -35177,11 +35187,6 @@ l'immobilisation du véhicule peut être prescrite dans les conditions prévues 
 	  - Code de la route - art. R278 (Ab)
 	  - Code de la route - art. R48 (Ab)
 	  - Code de la route R48, R238-2, R278 4°
-
-	**Liens**:
-
-	  - SPEC_APPLI: Code de la route. - art. R432-1 (V)
-	  - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
 ###### Article R433-2
@@ -35236,13 +35241,9 @@ dispositions s'appliquent exclusivement aux catégories de véhicules ou de marc
 
 2° Bois en grume ;
 
-3° Machine, instrument et ensemble agricoles ;
+3° Matériel et engin de travaux publics ;
 
-4° Matériel et engin de travaux publics ;
-
-5° Ensemble forain ;
-
-6° Conteneur.
+4° Conteneur.
 
 II. - Le cas échéant, pour les besoins de l'exploitation, ce déplacement peut s'effectuer au-delà du département, mais
 seulement dans les départements limitrophes et sous réserve que des mesures similaires aient été arrêtées dans ces
@@ -35275,6 +35276,10 @@ du véhicule peut être prescrite dans les conditions prévues aux articles L. 3
 	  - Code de la route. - art. R322-2 (V)
 	  - Code de la route. - art. R433-5 (VD)
 
+	**Modifié par**:
+
+	  - Décret n°2005-1655 du 26 décembre 2005 - art. 3 () JORF 28 décembre 2005
+
 	**Cite**:
 
 	  - Code pénal - art. 132-11 (M)
@@ -35286,11 +35291,6 @@ du véhicule peut être prescrite dans les conditions prévues aux articles L. 3
 	  - Code de la route - art. R278 (Ab)
 	  - Code de la route - art. R50 (Ab)
 	  - Code de la route R50, R238-2, R278
-
-	**Liens**:
-
-	  - SPEC_APPLI: Code de la route. - art. R432-1 (V)
-	  - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
 ###### Article R433-4
@@ -35653,6 +35653,97 @@ classe.
 
 	  - SPEC_APPLI: Code de la route. - art. R432-1 (V)
 	  - SPEC_APPLI: Code de la route. - art. R432-2 (M)
+
+
+#### Chapitre V : Autres véhicules
+
+##### Section 1 : Véhicules et matériels agricoles ou forestiers
+
+###### Article R435-1
+
+I. - La circulation des véhicules et matériels agricoles ou forestiers et de leurs ensembles dont les dimensions, y compris
+les outillages portés amovibles, dépassent les limites réglementaires définies au chapitre II du livre III du présent code,
+et celle des machines agricoles automotrices et des machines et instruments agricoles remorqués d'une largeur supérieure à
+2,55 mètres, est soumise, lorsque leur longueur n'excède pas 25 mètres et leur largeur 4,50 mètres, à des règles
+particulières fixées par arrêté conjoint du ministre chargé des transports, du ministre de l'intérieur et du ministre de la
+défense.
+
+Cet arrêté précise notamment :
+
+1° Les périodes et les itinéraires d'interdiction de circulation ;
+
+2° Les dispositifs spécifiques de signalisation ;
+
+3° Les conditions et les modalités d'accompagnement.
+
+II. - Le fait de contrevenir aux dispositions du présent article et à celles prises pour son application est puni de l'amende
+prévue pour les contraventions de la quatrième classe.
+
+III. - L'immobilisation du véhicule peut être prescrite dans les conditions prévues aux articles L. 325-1 à L. 325-3.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+	**Créé par**:
+
+	  - Décret n°2005-1655 du 26 décembre 2005 - art. 1 () JORF 28 décembre 2005
+
+	**Cité par**:
+
+	  - Arrêté du 4 mai 2006 - art. 1 (V)
+	  - Arrêté du 4 mai 2006 - art. 17-3 (V)
+	  - Arrêté du 19 juillet 2006 - art. 2 (V)
+	  - Code de la route. - art. R130-6 (VD)
+
+	**Cite**:
+
+	  - Code de la route L325-1 à L325-3
+
+
+##### Section 2 : Ensembles forains
+
+###### Article R436-1
+
+I. - La circulation des ensembles forains transportant des équipements ou animaux destinés à la présentation d'une attraction
+foraine, dont la longueur dépasse les limites réglementaires définies au chapitre II du livre III du présent code sans
+excéder 30 mètres, est soumise à des règles particulières fixées par un arrêté conjoint du ministre chargé des transports, du
+ministre de l'intérieur et du ministre de la défense. Chacun des éléments composant cet ensemble doit respecter les limites
+réglementaires précitées.
+
+Cet arrêté précise notamment :
+
+1° Les périodes et les itinéraires d'interdiction de circulation ;
+
+2° Les dispositifs spécifiques de signalisation ;
+
+3° Les conditions et les modalités d'accompagnement.
+
+II. - Le fait de contrevenir aux dispositions du présent article et à celles prises pour son application est puni de l'amende
+prévue pour les contraventions de la quatrième classe.
+
+III. - L'immobilisation du véhicule peut être prescrite dans les conditions prévues aux articles L. 325-1 à L. 325-3.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+	**Créé par**:
+
+	  - Décret n°2005-1655 du 26 décembre 2005 - art. 1 () JORF 28 décembre 2005
+
+	**Cité par**:
+
+	  - Arrêté du 4 mai 2006 - art. 1 (V)
+	  - Arrêté du 4 mai 2006 - art. 17-5 (V)
+
+	**Cite**:
+
+	  - Code de la route L325-1 à L325-3
 
 
 ### Titre IV : Dispositions relatives à l'outre-mer.
