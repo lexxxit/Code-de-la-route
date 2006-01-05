@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2006-01-01
+Version Consolidée au 2006-01-06
 
 # Partie législative
 
@@ -786,12 +786,13 @@ l'article 21 du code de procédure pénale."
 
 ###### Article L130-6
 
-Les infractions prévues par les articles L. 224-5, L. 233-2, L. 317-1 et L. 413-1 peuvent être constatées par les
-fonctionnaires ou agents de l'Etat chargés du contrôle des transports terrestres placés sous l'autorité du ministre chargé
-des transports lorsqu'elles sont commises au moyen de véhicules affectés au transport routier de voyageurs ou de
-marchandises.
+Les infractions prévues par les articles L. 233-2, 
+L. 317-1, 
+L. 325-3-1 et L. 413-1 peuvent être constatées par les fonctionnaires ou agents de l'Etat chargés du contrôle des transports
+terrestres placés sous l'autorité du ministre chargé des transports lorsqu'elles sont commises au moyen de véhicules affectés
+au transport routier de voyageurs ou de marchandises. 
 
-Ces fonctionnaires ont accès à l'appareil de contrôle, dit "chronotachygraphe", et à toutes ses composantes afin d'en
+Ces fonctionnaires ont accès à l'appareil de contrôle, dit " chronotachygraphe ", et à toutes ses composantes afin d'en
 vérifier l'intégrité, sur les véhicules soumis à l'obligation d'en être équipés.
 
 **Liens relatifs à cet article**
@@ -808,7 +809,7 @@ vérifier l'intégrité, sur les véhicules soumis à l'obligation d'en être é
 
 	**Modifié par**:
 
-	  - Loi n°2003-495 du 12 juin 2003 - art. 24 () JORF 13 juin 2003
+	  - Loi n°2006-10 du 5 janvier 2006 - art. 12 (V)
 
 	**Anciens textes**:
 
@@ -817,10 +818,10 @@ vérifier l'intégrité, sur les véhicules soumis à l'obligation d'en être é
 
 	**Cite**:
 
-	  - Code de la route. - art. L224-5 (M)
-	  - Code de la route. - art. L233-2 (M)
-	  - Code de la route. - art. L317-1 (M)
-	  - Code de la route. - art. L413-1 (M)
+	  - Code de la route. - art. L233-2 (V)
+	  - Code de la route. - art. L317-1 (V)
+	  - Code de la route. - art. L325-3-1 (V)
+	  - Code de la route. - art. L413-1 (V)
 
 
 ###### Article L130-7
@@ -2507,69 +2508,6 @@ l'immobilisation peuvent prendre toute mesure destinée à placer le véhicule e
 
 	  - Code de la route - art. L18-1 (Ab)
 	  - Code de la route L18-1 (al. 3)
-
-
-###### Article L224-5
-
-I. - Le fait, pour tout conducteur d'un véhicule, de faire obstacle à l'immobilisation de celui-ci est puni de trois mois
-d'emprisonnement et de 3 750 euros d'amende.
-
-II. - Toute personne coupable de ce délit encourt également les peines complémentaires suivantes :
-
-1° La suspension, pour une durée de trois ans au plus, du permis de conduire, cette suspension pouvant être limitée à la
-conduite en dehors de l'activité professionnelle ;
-
-2° La peine de travail d'intérêt général selon les modalités prévues à l'article 131-8 du code pénal et selon les conditions
-prévues aux articles 131-22 à 131-24 du même code et à l'article 20-5 de l'ordonnance n° 45-174 du 2 février 1945 relative à
-l'enfance délinquante ;
-
-3° La peine de jours-amende dans les conditions fixées aux articles 131-5 et 131-25 du code pénal.
-
-III. - Ce délit donne lieu de plein droit à la réduction de la moitié du nombre maximal de points du permis de conduire.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Ordonnance n°45-174 du 2 février 1945 - art. 20-5 (M)
-	  - Code pénal - art. 131-25 (M)
-	  - Code pénal - art. 131-5 (M)
-	  - Code pénal - art. 131-8 (M)
-	  - Code pénal 131-8, 131-22 à 131-24, 131-5, 131-25
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-930 2000-09-22 JORF 24 septembre 2000
-	  - Loi n°2003-495 2003-06-12 art. 38 JORF 13 juin 2003
-
-	**Modifié par**:
-
-	  - Loi n°2003-495 du 12 juin 2003 - art. 11 (V) JORF 13 juin 2003
-
-	**Abrogé par**:
-
-	  - Loi n°2006-10 du 5 janvier 2006 - art. 12 (V) JORF 6 janvier 2006
-	  - Loi n°2006-10 du 5 janvier 2006 - art. 12 (V)
-
-	**Cité par**:
-
-	  - Code de l'environnement - art. L224-1 (M)
-	  - Code de la route. - art. L130-6 (M)
-
-	**Anciens textes**:
-
-	  - Code de la route - art. L1-1 (Ab)
-	  - Code de la route - art. L1-2 (Ab)
-	  - Code de la route - art. L11-1 (Ab)
-	  - Code de la route - art. L11-2 (Ab)
-	  - Code de la route - art. L14 (Ab)
-	  - Code de la route - art. L4 (Ab)
-	  - Code de la route L1-1 (al. 2), L1-2, L4, L11-1 (al. 1 et 2), L11-2 (al. 1), L14 (al. 1 et 2)
-
-	**Liens**:
-
-	  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
-	  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
 
 
 ###### Article L224-6
@@ -5574,12 +5512,14 @@ III. - Ce délit donne lieu de plein droit à la réduction de la moitié du nom
 
 ###### Article L317-5
 
-I. - Le fait de fabriquer, d'importer, d'exporter, d'exposer, d'offrir, de mettre en vente, de vendre, de proposer à la
-location ou d'inciter à acheter ou à utiliser un dispositif ayant pour objet d'augmenter la puissance du moteur d'un
-cyclomoteur au-delà de la puissance maximale autorisée est puni de deux ans d'emprisonnement et de 30 000 euros d'amende.
+I. - Le fait pour un professionnel de fabriquer, d'importer, d'exporter, d'exposer, d'offrir, de mettre en vente, de vendre,
+de proposer à la location ou d'inciter à acheter ou à utiliser un dispositif ayant pour objet de dépasser les limites
+réglementaires fixées en matière de vitesse, de cylindrée ou de puissance maximale du moteur d'un cyclomoteur, d'une
+motocyclette ou d'un quadricycle à moteur est puni de deux ans d'emprisonnement et de 30 000 euros d'amende.
 
-II. - Le fait, pour un professionnel, de transformer un moteur de cyclomoteur en vue d'en augmenter la puissance, au-delà de
-la puissance maximale autorisée, est puni des mêmes peines.
+II. - Le fait pour un professionnel de réaliser, sur un cyclomoteur, une motocyclette ou un quadricycle à moteur, des
+transformations ayant pour effet de dépasser les limites réglementaires fixées en matière de vitesse, de cylindrée ou de
+puissance maximale du moteur est puni des mêmes peines.
 
 III. - Le dispositif prévu au I est saisi. Lorsque le dispositif est placé, adapté ou appliqué sur un véhicule, ce véhicule
 peut également être saisi.
@@ -5591,9 +5531,9 @@ peut également être saisi.
 	  - Ordonnance 2000-930 2000-09-22 JORF 24 septembre 2000
 	  - Loi n°2003-495 2003-06-12 art. 38 JORF 13 juin 2003
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2003-495 du 12 juin 2003 - art. 18 () JORF 13 juin 2003
+	  - Loi n°2006-10 du 5 janvier 2006 - art. 11 (V)
 
 	**Cité par**:
 
@@ -5627,12 +5567,16 @@ La tentative des délits prévus par l'article L. 317-5 est punie des mêmes pei
 ###### Article L317-7
 
 Les personnes physiques coupables des infractions prévues par l'article L. 317-5 encourent également les peines
-complémentaires suivantes :
+complémentaires suivantes : 
 
-1° La suspension, pour une durée de trois ans au plus, du permis de conduire ;
+1° La suspension, pour une durée de trois ans au plus, du permis de conduire ; 
 
 2° La confiscation du véhicule, lorsque le dispositif qui a servi ou était destiné à commettre l'infraction est placé, adapté
-ou appliqué sur un véhicule.
+ou appliqué sur un véhicule ; 
+
+3° L'interdiction, suivant les modalités prévues par l'article 131-27 du code pénal, d'exercer l'activité professionnelle ou
+sociale dans l'exercice ou à l'occasion de l'exercice de laquelle l'infraction a été commise, pour une durée de cinq ans au
+plus. 
 
 Toute condamnation pour le délit prévu à l'article L. 317-5 donne lieu de plein droit à la confiscation du dispositif qui a
 servi ou était destiné à commettre l'infraction.
@@ -5644,13 +5588,14 @@ servi ou était destiné à commettre l'infraction.
 	  - Ordonnance 2000-930 2000-09-22 JORF 24 septembre 2000
 	  - Loi n°2003-495 2003-06-12 art. 38 JORF 13 juin 2003
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2003-495 du 12 juin 2003 - art. 18 () JORF 13 juin 2003
+	  - Loi n°2006-10 du 5 janvier 2006 - art. 11 (V)
 
 	**Cite**:
 
-	  - Code de la route. - art. L317-5 (M)
+	  - Code pénal - art. 131-27 (V)
+	  - Code de la route. - art. L317-5 (V)
 
 
 ###### Article L317-8
@@ -5849,6 +5794,125 @@ L. 325-1 à L. 325-3 et L. 325-6 à L. 325-9 sont applicables aux véhicules en 
 
 
 ### Titre 2 : Dispositions administratives
+
+#### Chapitre 1er : Réception et homologation.
+
+###### Article L321-1
+
+Le fait d'importer, d'exposer, d'offrir, de mettre en vente, de vendre, de proposer à la location ou d'inciter à acheter ou à
+utiliser un cyclomoteur, une motocyclette ou un quadricycle à moteur qui n'a pas fait l'objet d'une réception ou qui n'est
+plus conforme à celle-ci est puni de deux ans d'emprisonnement et de 30 000 euros d'amende. Le véhicule peut être saisi.
+
+Un décret détermine les conditions dans lesquelles il peut être dérogé aux dispositions du présent article pour tout véhicule
+destiné à participer à une course ou épreuve sportive.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-930 2000-09-22 JORF 24 septembre 2000
+	  - Loi n°2003-495 2003-06-12 art. 38 JORF 13 juin 2003
+
+	**Créé par**:
+
+	  - Loi n°2006-10 du 5 janvier 2006 - art. 11 (V)
+
+	**Cité par**:
+
+	  - Code de la route. - art. D321-5-1 (V)
+	  - Code de la route. - art. D321-5-2 (V)
+	  - Code de la route. - art. L321-2 (V)
+	  - Code de la route. - art. L321-3 (V)
+	  - Code de la route. - art. L321-4 (V)
+	  - Code de la route. - art. R212-4 (V)
+
+
+###### Article L321-2
+
+La tentative des délits prévus par l'article L. 321-1 est punie des mêmes peines.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-930 2000-09-22 JORF 24 septembre 2000
+	  - Loi n°2003-495 2003-06-12 art. 38 JORF 13 juin 2003
+
+	**Créé par**:
+
+	  - Loi n°2006-10 du 5 janvier 2006 - art. 11 (V) JORF 6 janvier 2006
+
+	**Cite**:
+
+	  - Code de la route. - art. L321-1 (V)
+
+	**Cité par**:
+
+	  - Code de la route. - art. R212-4 (V)
+
+
+###### Article L321-3
+
+Les personnes physiques coupables des infractions prévues par l'article L. 321-1 encourent également les peines
+complémentaires suivantes : 
+
+1° La suspension, pour une durée de trois ans au plus, du permis de conduire ; 
+
+2° La confiscation de la chose qui a servi ou était destinée à commettre l'infraction, ou de la chose qui en est le
+produit ; 
+
+3° L'interdiction, suivant les modalités prévues par l'article 131-27 du code pénal, d'exercer l'activité professionnelle ou
+sociale dans l'exercice ou à l'occasion de l'exercice de laquelle l'infraction a été commise, pour une durée de cinq ans au
+plus.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-930 2000-09-22 JORF 24 septembre 2000
+	  - Loi n°2003-495 2003-06-12 art. 38 JORF 13 juin 2003
+
+	**Créé par**:
+
+	  - Loi n°2006-10 du 5 janvier 2006 - art. 11 (V) JORF 6 janvier 2006
+
+	**Cite**:
+
+	  - Code pénal - art. 131-27 (V)
+	  - Code de la route. - art. L321-1 (V)
+
+
+###### Article L321-4
+
+Les personnes morales peuvent être déclarées responsables pénalement, dans les conditions prévues par l'article 121-2 du code
+pénal, des infractions définies à l'article L. 321-1 du présent code. Les peines encourues par les personnes morales sont :
+
+1° L'amende, suivant les modalités prévues par l'article 131-38 du code pénal ;
+
+2° Les peines mentionnées aux 4°, 5°, 6°, 8° et 9° de l'article 131-39 du même code.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-930 2000-09-22 JORF 24 septembre 2000
+	  - Loi n°2003-495 2003-06-12 art. 38 JORF 13 juin 2003
+
+	**Créé par**:
+
+	  - Loi n°2006-10 du 5 janvier 2006 - art. 11 (V) JORF 6 janvier 2006
+
+	**Cite**:
+
+	  - Code pénal - art. 121-2 (M)
+	  - Code pénal - art. 131-38 (M)
+	  - Code pénal - art. 131-39 (MMN)
+	  - Code de la route. - art. L321-1 (M)
+
+	**Cité par**:
+
+	  - Code de la route. - art. L321-4 (V)
+
 
 #### Chapitre 2 : Immatriculation.
 
@@ -6241,9 +6305,10 @@ réparation immédiate à la suite de dégradations ou de vols.
 
 ###### Article L325-1-1
 
-En cas de constatation d'un délit prévu par le présent code ou le code pénal pour lequel la peine de confiscation du véhicule
-est encourue, l'officier ou l'agent de police judiciaire peut, avec l'autorisation préalable du procureur de la République
-donnée par tout moyen, faire procéder à l'immobilisation et à la mise en fourrière du véhicule.
+En cas de constatation d'un délit ou d'une contravention de la cinquième classe prévu par le présent code ou le code pénal
+pour lequel la peine de confiscation du véhicule est encourue, l'officier ou l'agent de police judiciaire peut, avec
+l'autorisation préalable du procureur de la République donnée par tout moyen, faire procéder à l'immobilisation et à la mise
+en fourrière du véhicule.
 
 Si la juridiction ne prononce pas la peine de confiscation du véhicule, celui-ci est restitué à son propriétaire, sous
 réserve des dispositions du troisième alinéa. Si la confiscation est ordonnée, le véhicule est remis au service des domaines
@@ -6254,8 +6319,6 @@ Si la juridiction prononce la peine d'immobilisation du véhicule, celui-ci n'es
 durée de l'immobilisation fixée par la juridiction contre paiement des frais d'enlèvement et de garde en fourrière, qui sont
 à la charge de ce dernier.
 
-Un décret en Conseil d'Etat détermine, en tant que de besoin, les conditions d'application du présent article.
-
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -6263,9 +6326,9 @@ Un décret en Conseil d'Etat détermine, en tant que de besoin, les conditions d
 	  - Ordonnance 2000-930 2000-09-22 JORF 24 septembre 2000
 	  - Loi n°2003-495 2003-06-12 art. 38 JORF 13 juin 2003
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2004-204 du 9 mars 2004 - art. 60 () JORF 10 mars 2004
+	  - Loi n°2006-10 du 5 janvier 2006 - art. 12 (V)
 
 	**Cité par**:
 
@@ -6282,12 +6345,12 @@ Un décret en Conseil d'Etat détermine, en tant que de besoin, les conditions d
 
 ###### Article L325-2
 
-Pour l'application de l'article L. 325-1 et sur prescription de l'officier de police judiciaire territorialement compétent,
-les fonctionnaires de police en tenue et les militaires de la gendarmerie habilités à constater par procès-verbaux les
-contraventions à la police de la circulation routière peuvent, en cas de besoin, ouvrir ou faire ouvrir les portes du
-véhicule, manoeuvrer ou faire manoeuvrer tous appareils. Ils peuvent conduire le véhicule ou le faire conduire, en leur
-présence, vers le lieu de mise en fourrière en utilisant, le cas échéant, les moyens autonomes de propulsion dont le véhicule
-est muni.
+Pour l'application des articles L. 325-1 et L. 325-1-1 et sur prescription de l'officier de police judiciaire
+territorialement compétent, les fonctionnaires de police en tenue et les militaires de la gendarmerie habilités à constater
+par procès-verbaux les contraventions à la police de la circulation routière peuvent, en cas de besoin, ouvrir ou faire
+ouvrir les portes du véhicule, manoeuvrer ou faire manoeuvrer tous appareils. Ils peuvent conduire le véhicule ou le faire
+conduire, en leur présence, vers le lieu de mise en fourrière en utilisant, le cas échéant, les moyens autonomes de
+propulsion dont le véhicule est muni.
 
 La mise en fourrière peut également être prescrite par l'agent de police judiciaire adjoint, chef de la police municipale ou
 qui occupe ces fonctions, territorialement compétent. Pour l'application de cette disposition et sur prescription de l'agent
@@ -6305,16 +6368,14 @@ assurance du véhicule dans les conditions prévues par l'article 1er de la loi 
 tribunaux judiciaires compétence pour statuer sur les actions en responsabilité des dommages causés par tout véhicule et
 dirigées contre une personne morale de droit public.
 
-**Nota:**
-
-NOTA - Loi 2003-329 article 131 : Les articles ... 77, ... 86 à 89, 91 ... sont applicables à Mayotte.
-
 **Liens relatifs à cet article**
 
 	**Cite**:
 
 	  - Loi n°57-1424 du 31 décembre 1957 - art. 1 (V)
+	  - Code de la route L325-1, L325-1-1, 131, 77, 86 à 89, 91
 	  - Code de la route. - art. L325-1 (M)
+	  - Code de la route. - art. L325-1-1 (M)
 
 	**Cité par**:
 
@@ -6339,8 +6400,7 @@ NOTA - Loi 2003-329 article 131 : Les articles ... 77, ... 86 à 89, 91 ... sont
 
 	**Modifié par**:
 
-	  - Loi n°2003-239 2003-03-18 art. 89 1°, 2° JORF 19 mars 2003
-	  - Loi n°2006-10 du 5 janvier 2006 - art. 12 (V)
+	  - Loi n°2006-10 du 5 janvier 2006 - art. 12 (V) JORF 6 janvier 2006
 
 	**Anciens textes**:
 
@@ -6349,13 +6409,12 @@ NOTA - Loi 2003-329 article 131 : Les articles ... 77, ... 86 à 89, 91 ... sont
 
 	**Liens**:
 
-	  - SPEC_APPLI: Code de la route. - art. L318-4 (V)
 	  - PILOTE_SUIVEUR: Code de la route. - art. L343-1 (V)
 
 
 ###### Article L325-3
 
-Un décret en Conseil d'Etat détermine les conditions d'application des articles L. 325-1 et L. 325-2.
+Un décret en Conseil d'Etat détermine les conditions d'application des articles L. 325-1 à L. 325-2. 
 
 Il détermine notamment les clauses devant obligatoirement figurer dans le contrat type susceptible d'être passé entre les
 collectivités publiques intéressées et les entreprises aptes à effectuer la démolition des véhicules à moteur.
@@ -6376,18 +6435,62 @@ collectivités publiques intéressées et les entreprises aptes à effectuer la 
 	  - Ordonnance 2000-930 2000-09-22 JORF 24 septembre 2000
 	  - Loi n°2003-495 2003-06-12 art. 38 JORF 13 juin 2003
 
+	**Modifié par**:
+
+	  - Loi n°2006-10 du 5 janvier 2006 - art. 12 (V)
+
 	**Anciens textes**:
 
 	  - Code de la route - art. L25-7 (Ab)
-	  - Code de la route L25-7
 
-	**Liens**:
 
-	  - SPEC_APPLI: Code de la route. - art. L318-4 (V)
+###### Article L325-3-1
+
+I.-Le fait, pour tout conducteur d'un véhicule, de faire obstacle à l'immobilisation de celui-ci ou à un ordre d'envoi en
+fourrière est puni de trois mois d'emprisonnement et de 3 750 EUR d'amende. 
+
+II.-Toute personne physique coupable de ce délit encourt également les peines complémentaires suivantes : 
+
+1° La suspension, pour une durée de trois ans au plus, du permis de conduire, cette suspension pouvant être limitée à la
+conduite en dehors de l'activité professionnelle ; 
+
+2° La peine de travail d'intérêt général selon les modalités prévues à l'article 131-8 du code pénal et selon les conditions
+prévues aux articles 131-22 à 131-24 du même code et à l'article 20-5 de l'ordonnance n° 45-174 du 2 février 1945 relative à
+l'enfance délinquante ; 
+
+3° La peine de jours-amende dans les conditions fixées aux articles 131-5 et 131-25 du code pénal. 
+
+III.-Ce délit donne lieu de plein droit à la réduction de la moitié du nombre maximal de points du permis de conduire.
+
+**Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Code de la route. - art. L325-2 (M)
+	  - Ordonnance n°45-174 du 2 février 1945 - art. 20-5 (V)
+	  - Code pénal - art. 131-22 (V)
+	  - Code pénal - art. 131-25 (V)
+	  - Code pénal - art. 131-5 (V)
+	  - Code pénal - art. 131-8 (V)
+
+	**Cité par**:
+
+	  - Décret n°85-891 du 16 août 1985 - art. 6 (VT)
+	  - Décret n°90-200 du 5 mars 1990 - art. 6 (Ab)
+	  - Décret n°99-752 du 30 août 1999 - art. 2 (V)
+	  - Code de la route. - art. L130-6 (V)
+	  - Code de la route. - art. R212-4 (V)
+	  - Code des transports - art. R1422-7 (VD)
+	  - Code des transports - art. R3113-26 (VD)
+	  - Code des transports - art. R3211-27 (VD)
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-930 2000-09-22 JORF 24 septembre 2000
+	  - Loi n°2003-495 2003-06-12 art. 38 JORF 13 juin 2003
+
+	**Créé par**:
+
+	  - Loi n°2006-10 du 5 janvier 2006 - art. 12 (V)
 
 
 ###### Article L325-4
@@ -6468,14 +6571,15 @@ temps considérée, en incluant les périodes de temps de conduite et de repos e
 
 ###### Article L325-6
 
-Les véhicules dont l'état ne permet pas la circulation dans les conditions normales de sécurité ne peuvent être retirés de la
-fourrière que par des réparateurs chargés par les propriétaires d'effectuer les travaux reconnus indispensables.
+Les véhicules dont l'état ne permet pas la circulation dans les conditions normales de sécurité ou qui ne sont plus conformes
+à leur réception ne peuvent être retirés de la fourrière que par des réparateurs chargés par les propriétaires d'effectuer
+les travaux reconnus indispensables à leur remise en état ou en conformité.
 
 Ils ne peuvent ensuite être restitués à leurs propriétaires qu'après vérification de la bonne exécution des travaux.
 
 En cas de désaccord sur l'état du véhicule, un expert est désigné dans des conditions fixées par décret en Conseil d'Etat.
-S'il constate que le véhicule n'est pas en état de circuler dans des conditions normales de sécurité, il détermine les
-travaux à effectuer avant sa remise au propriétaire.
+S'il constate que le véhicule n'est pas en état de circuler dans des conditions normales de sécurité ou qu'il nécessite une
+mise en conformité à la réception, il détermine les travaux à effectuer avant sa remise au propriétaire.
 
 **Liens relatifs à cet article**
 
@@ -6483,6 +6587,10 @@ travaux à effectuer avant sa remise au propriétaire.
 
 	  - Ordonnance 2000-930 2000-09-22 JORF 24 septembre 2000
 	  - Loi n°2003-495 2003-06-12 art. 38 JORF 13 juin 2003
+
+	**Modifié par**:
+
+	  - Loi n°2006-10 du 5 janvier 2006 - art. 11 (V)
 
 	**Cité par**:
 
@@ -6501,7 +6609,6 @@ travaux à effectuer avant sa remise au propriétaire.
 
 	**Liens**:
 
-	  - SPEC_APPLI: Code de la route. - art. L318-4 (V)
 	  - PILOTE_SUIVEUR: Code de la route. - art. L343-1 (V)
 
 
@@ -7338,14 +7445,18 @@ chargé des transports pour l'exercice de leurs compétences ;
 biens dans la réalisation desquels un véhicule à moteur, ainsi que ses remorques, est impliqué et aux organismes assimilés à
 ces entreprises dès lors que ces informations ont pour seul but d'identifier les biens et les personnes impliqués dans un
 accident de la circulation à condition qu'au moins un des véhicules soit assuré par le demandeur ou que ce dernier ait en
-charge l'indemnisation d'une des victimes.
+charge l'indemnisation d'une des victimes ;
+
+9° Aux autorités étrangères extérieures à l'Union européenne et à l'Espace économique européen avec lesquelles existe un
+accord d'échange d'informations relatives à l'identification du titulaire du certificat d'immatriculation ;
+
+10° Aux services compétents en matière d'immatriculation des Etats membres de l'Union européenne et aux autres Etats parties
+à l'accord sur l'Espace économique européen, dans le cadre des dispositions prévoyant un échange d'informations relatives à
+l'immatriculation d'un véhicule précédemment immatriculé dans un autre de ces Etats, ou au titre de la répression de la
+criminalité visant les véhicules et ayant des incidences transfrontalières.
 
 II. - Les entreprises d'assurances doivent fournir à l'appui de leur demande tous éléments utiles permettant de vérifier la
 réalité du sinistre.
-
-**Nota:**
-
-NOTA - Loi 2003-329 article 131 : Les articles ... 77, ... 86 à 89, 91 ... sont applicables à Mayotte.
 
 **Liens relatifs à cet article**
 
@@ -7375,7 +7486,7 @@ NOTA - Loi 2003-329 article 131 : Les articles ... 77, ... 86 à 89, 91 ... sont
 
 	**Modifié par**:
 
-	  - Loi n°2003-239 2003-03-18 art. 86 2° JORF 19 mars 2003
+	  - Loi n°2006-10 du 5 janvier 2006 - art. 13 () JORF 6 janvier 2006
 
 	**Cite**:
 
@@ -7681,99 +7792,102 @@ L. 213-1, L. 214-1 et L. 214-2. "
 
 ###### Article L343-1
 
-Les articles L. 325-1, L. 325-2, L. 325-6 à L. 325-11 sont applicables à la Polynésie française, dans la rédaction suivante :
+Les articles L. 325-1, L. 325-2, L. 325-6 à L. 325-11 sont applicables à la Polynésie française, dans la rédaction
+suivante : 
 
-"Art. L. 325-1 - Les véhicules dont la circulation ou le stationnement, en infraction aux dispositions applicables
-localement, aux règlements de police ou à la réglementation relative à l'assurance obligatoire des véhicules à moteur,
-compromettent la sécurité ou le droit à réparation des usagers de la route, la tranquillité ou l'hygiène publique,
-l'esthétique des sites et paysages classés, la conservation ou l'utilisation normale des voies ouvertes à la circulation
-publique et de leurs dépendances, notamment par les véhicules de transport en commun, peuvent, à la demande et sous la
-responsabilité du maire ou de l'officier de police judiciaire territorialement compétent, même sans l'accord du propriétaire
-du véhicule dans les cas et conditions précisés par le décret prévu à l'article L. 325-11, être immobilisés, mis en
-fourrière, retirés de la circulation et, le cas échéant, aliénés ou livrés à la destruction.
+" Art.L. 325-1-Les véhicules dont la circulation ou le stationnement, en infraction aux dispositions applicables localement,
+aux règlements de police ou à la réglementation relative à l'assurance obligatoire des véhicules à moteur, compromettent la
+sécurité ou le droit à réparation des usagers de la route, la tranquillité ou l'hygiène publique, l'esthétique des sites et
+paysages classés, la conservation ou l'utilisation normale des voies ouvertes à la circulation publique et de leurs
+dépendances, notamment par les véhicules de transport en commun, peuvent, à la demande et sous la responsabilité du maire ou
+de l'officier de police judiciaire territorialement compétent, même sans l'accord du propriétaire du véhicule dans les cas et
+conditions précisés par le décret prévu à l'article L. 325-11, être immobilisés, mis en fourrière, retirés de la circulation
+et, le cas échéant, aliénés ou livrés à la destruction. 
 
 Peuvent également à la demande et sous la responsabilité du maire ou de l'officier de police judiciaire territorialement
 compétent, même sans l'accord du propriétaire du véhicule être immobilisés, mis en fourrière, retirés de la circulation et,
 le cas échéant, aliénés ou livrés à la destruction les véhicules qui, se trouvant sur les voies ouvertes à la circulation
 publique ou sur leurs dépendances, sont privés d'éléments indispensables à leur utilisation normale et insusceptibles de
-réparation immédiate à la suite de dégradations ou de vols."
+réparation immédiate à la suite de dégradations ou de vols. " 
 
-"Art. L. 325-2 - Pour l'application de l'article L. 325-1 et sur prescription de l'officier de police judiciaire
+" Art.L. 325-2-Pour l'application des articles L. 325-1 et L. 325-1-1 et sur prescription de l'officier de police judiciaire
 territorialement compétent, les fonctionnaires de police en tenue et les militaires de la gendarmerie habilités à constater
 par procès-verbaux les contraventions à la police de la circulation routière peuvent, en cas de besoin, ouvrir ou faire
 ouvrir les portes du véhicule, manoeuvrer ou faire manoeuvrer tous appareils. Ils peuvent conduire le véhicule ou le faire
 conduire, en leur présence, vers le lieu de mise en fourrière en utilisant, le cas échéant, les moyens autonomes de
-propulsion dont le véhicule est muni.
+propulsion dont le véhicule est muni. 
 
-La mise en fourrière peut également être prescrite par un chef de service de police municipale territorialement compétent ou
-l'agent de police judiciaire adjoint qui occupe les fonctions de chef de la police municipale. Pour l'application de cette
-disposition et sur prescription du chef de service de police municipale territorialement compétent ou de l'agent de police
-judiciaire adjoint qui occupe les fonctions de chef de la police municipale, les agents de police municipale habilités à
-constater par procès-verbal les contraventions à la police de la circulation routière peuvent, en cas de besoin, ouvrir ou
-faire ouvrir les portes du véhicule, manoeuvrer ou faire manoeuvrer tous appareils. Ils peuvent conduire le véhicule ou le
-faire conduire, en leur présence, vers le lieu de mise en fourrière en utilisant, le cas échéant, les moyens autonomes de
-propulsion dont le véhicule est muni.
+La mise en fourrière peut également être prescrite par l'agent de police judiciaire adjoint, chef de la police municipale ou
+qui occupe ces fonctions, territorialement compétent. Pour l'application de cette disposition et sur prescription de l'agent
+de police judiciaire adjoint, chef de la police municipale ou qui occupe ces fonctions, les agents de police municipale
+habilités à constater par procès-verbal les contraventions à la police de la circulation routière peuvent, en cas de besoin,
+ouvrir ou faire ouvrir les portes du véhicule, manoeuvrer ou faire manoeuvrer tous appareils. Ils peuvent conduire le
+véhicule ou le faire conduire, en leur présence, vers le lieu de mise en fourrière en utilisant, le cas échéant, les moyens
+autonomes de propulsion dont le véhicule est muni. 
 
-Dans les cas prévus aux alinéas précédents, l'assureur du propriétaire du véhicule est tenu de garantir, dans les limites du
-contrat, la réparation du dommage causé au tiers sauf recours, s'il y a lieu, contre la collectivité publique qui, par son
+Dans les cas prévus aux alinéas précédents, l'assureur du propriétaire du véhicule est tenu de garantir dans les limites du
+contrat la réparation du dommage causé au tiers, sauf recours, s'il y a lieu, contre la collectivité publique qui, par son
 fait, a causé le dommage ayant donné lieu à la responsabilité de l'assureur et sans qu'une majoration de prime puisse en
-résulter pour le propriétaire."
+résulter pour le propriétaire. Il est statué sur ce recours ainsi que sur toute action en responsabilité en cas de non-
+assurance du véhicule dans les conditions prévues par l'article 1er de la loi n° 57-1424 du 31 décembre 1957 attribuant aux
+tribunaux judiciaires compétence pour statuer sur les actions en responsabilité des dommages causés par tout véhicule et
+dirigées contre une personne morale de droit public. " 
 
-"Art. L. 325-6 - Les véhicules dont l'état ne permet pas la circulation dans des conditions normales de sécurité ne peuvent
-être retirés de la fourrière que par des réparateurs chargés par les propriétaires d'effectuer les travaux reconnus
-indispensables.
+" Art.L. 325-6-Les véhicules dont l'état ne permet pas la circulation dans les conditions normales de sécurité ou qui ne sont
+plus conformes à leur réception ne peuvent être retirés de la fourrière que par des réparateurs chargés par les propriétaires
+d'effectuer les travaux reconnus indispensables à leur remise en état ou en conformité. 
 
-Ils ne peuvent ensuite être restitués à leurs propriétaires qu'après vérification de la bonne exécution des travaux.
+Ils ne peuvent ensuite être restitués à leurs propriétaires qu'après vérification de la bonne exécution des travaux. 
 
-En cas de désaccord sur l'état du véhicule, un expert est désigné dans des conditions fixées par délibération de l'assemblée
-de la Polynésie française. S'il constate que le véhicule n'est pas en état de circuler dans des conditions normales de
-sécurité, il détermine les travaux à effectuer avant sa remise au propriétaire."
+En cas de désaccord sur l'état du véhicule, un expert est désigné dans des conditions fixées par décret en Conseil
+d'Etat.S'il constate que le véhicule n'est pas en état de circuler dans des conditions normales de sécurité ou qu'il
+nécessite une mise en conformité à la réception, il détermine les travaux à effectuer avant sa remise au propriétaire. " 
 
-"Art. L. 325-7 - Sont réputés abandonnés les véhicules laissés en fourrière à l'expiration d'un délai de quarante-cinq jours
-à compter de la mise en demeure faite au propriétaire d'avoir à retirer son véhicule.
+" Art.L. 325-7-Sont réputés abandonnés les véhicules laissés en fourrière à l'expiration d'un délai de quarante-cinq jours à
+compter de la mise en demeure faite au propriétaire d'avoir à retirer son véhicule. 
 
 La notification est valablement faite à l'adresse indiquée au répertoire des immatriculations. Dans le cas où le véhicule
-fait l'objet d'un gage régulièrement inscrit, cette notification est également faite au créancier gagiste.
+fait l'objet d'un gage régulièrement inscrit, cette notification est également faite au créancier gagiste. 
 
-Si le propriétaire ne peut être identifié, le délai précité court du jour où cette impossibilité a été constatée.
+Si le propriétaire ne peut être identifié, le délai précité court du jour où cette impossibilité a été constatée. 
 
 Le délai prévu au premier alinéa est réduit à dix jours en ce qui concerne les véhicules qu'un expert désigné dans des
 conditions fixées par délibération de l'assemblée de la Polynésie française aura estimés d'une valeur marchande inférieure à
 un montant fixé par le gouvernement de la Polynésie française et déclarés hors d'état de circuler dans des conditions
-normales de sécurité.
+normales de sécurité. 
 
-Les véhicules visés à l'alinéa précédent sont, à l'expiration du délai de dix jours, livrés à la destruction."
+Les véhicules visés à l'alinéa précédent sont, à l'expiration du délai de dix jours, livrés à la destruction. " 
 
-"Art. L. 325-8 - Les véhicules abandonnés dans les conditions prévues au premier alinéa de l'article L. 325-7 sont remis au
+" Art.L. 325-8-Les véhicules abandonnés dans les conditions prévues au premier alinéa de l'article L. 325-7 sont remis au
 service des domaines en vue de leur aliénation dans les formes prévues pour les ventes du mobilier de la Polynésie française.
 Les véhicules qui n'ont pas trouvé preneur, à l'expiration d'un délai fixé par le président du gouvernement de la Polynésie
 française, sont livrés à la destruction sur l'initiative de l'autorité administrative investie des pouvoirs de police en
-matière de circulation."
+matière de circulation. " 
 
-"Art. L. 325-9 - Les frais d'enlèvement, de garde en fourrière, d'expertise et de vente ou de destruction du véhicule sont à
-la charge du propriétaire.
+" Art.L. 325-9-Les frais d'enlèvement, de garde en fourrière, d'expertise et de vente ou de destruction du véhicule sont à la
+charge du propriétaire. 
 
 Le produit de la vente, sous déduction des frais énumérés à l'alinéa précédent, est tenu à la disposition du propriétaire ou
-de ses ayants droit ou, le cas échéant, du créancier gagiste pouvant justifier de ses droits, pendant un délai de deux ans. A
-l'expiration de ce délai, ce produit est acquis à la Polynésie française.
+de ses ayants droit ou, le cas échéant, du créancier gagiste pouvant justifier de ses droits, pendant un délai de deux ans.A
+l'expiration de ce délai, ce produit est acquis à la Polynésie française. 
 
 Lorsque le produit de la vente est inférieur au montant des frais visés ci-dessus, le propriétaire ou ses ayants droit
 restent débiteurs de la différence. Celle-ci est recouvrée dans les conditions fixées par délibération de l'assemblée de la
-Polynésie française."
+Polynésie française. " 
 
-"Art. L. 325-10 - La collectivité publique intéressée n'est pas responsable des dommages subis par les véhicules visés au
-quatrième alinéa de l'article L. 325-7, placés dans une fourrière non clôturée et non gardée."
+" Art.L. 325-10-La collectivité publique intéressée n'est pas responsable des dommages subis par les véhicules visés au
+quatrième alinéa de l'article L. 325-7, placés dans une fourrière non clôturée et non gardée. " 
 
-"Art. L. 325-11 - Un décret en Conseil d'Etat détermine les conditions d'application des articles L. 325-1, L. 325-2, L.
-325-6 à L. 325-9.
+" Art.L. 325-11-Un décret en Conseil d'Etat détermine les conditions d'application des articles L. 325-1, L. 325-2, L. 325-6
+à L. 325-9. 
 
 Une délibération de l'assemblée de la Polynésie française détermine les clauses devant obligatoirement figurer dans le
 contrat type susceptible d'être passé entre les collectivités publiques intéressées et les entreprises aptes à effectuer la
-démolition des véhicules à moteur."
+démolition des véhicules à moteur. "
 
 **Nota:**
 
-NOTA - Loi n° 2001-1062 article 71 III : ces dispositions sont applicables en Polynésie française.
+Loi n° 2001-1062 article 71 III : ces dispositions sont applicables en Polynésie française.
 
 **Liens relatifs à cet article**
 
@@ -7789,15 +7903,7 @@ NOTA - Loi n° 2001-1062 article 71 III : ces dispositions sont applicables en P
 
 	**Modifié par**:
 
-	  - Loi n°2003-239 du 18 mars 2003 - art. 138 () JORF 19 mars 2003
-	  - Loi n°2003-239 du 18 mars 2003 - art. 139 () JORF 19 mars 2003
-
-	**Cite**:
-
-	  - Code de la route L325-1, L325-2, L325-6 à L325-11, L325-7, L325-6 à L325-9
-	  - Code de la route. - art. L325-1 (M)
-	  - Code de la route. - art. L325-2 (M)
-	  - Code de la route. - art. L325-7 (M)
+	  - Loi n°2006-10 du 5 janvier 2006 - art. 12 (V) JORF 6 janvier 2006
 
 	**Cité par**:
 
@@ -7827,9 +7933,10 @@ le cas échéant, aliénés ou livrés à la destruction les véhicules qui, se 
 publique ou sur leurs dépendances, sont privés d'éléments indispensables à leur utilisation normale et insusceptibles de
 réparation immédiate à la suite de dégradations ou de vols.
 
-"Art. L. 325-1-1 - En cas de constatation d'un délit prévu par le présent code ou le code pénal pour lequel la peine de
-confiscation du véhicule est encourue, l'officier ou l'agent de police judiciaire peut, avec l'autorisation préalable du
-procureur de la République donnée par tout moyen, faire procéder à l'immobilisation et à la mise en fourrière du véhicule.
+"Art. L. 325-1-1 - En cas de constatation d'un délit ou d'une contravention de la cinquième classe prévu par le présent code
+ou le code pénal pour lequel la peine de confiscation du véhicule est encourue, l'officier ou l'agent de police judiciaire
+peut, avec l'autorisation préalable du procureur de la République donnée par tout moyen, faire procéder à l'immobilisation et
+à la mise en fourrière du véhicule.
 
 "Si la juridiction ne prononce pas la peine de confiscation du véhicule, celui-ci est restitué à son propriétaire, sous
 réserve des dispositions du troisième alinéa. Si la confiscation est ordonnée, le véhicule est remis au service des domaines
@@ -7840,11 +7947,11 @@ l'acquéreur.
 durée d'immobilisation fixée par la juridiction contre paiement des frais d'enlèvement et de garde en fourrière, qui sont à
 la charge de ce dernier.
 
-"Art. L. 325-2 - Pour l'application de l'article L. 325-1 et sur prescription de l'officier de police judiciaire
-territorialement compétent, les fonctionnaires de police en tenue et les militaires de la gendarmerie habilités à constater
-par procès-verbaux les contraventions à la police de la circulation routière peuvent, en cas de besoin, ouvrir ou faire
-ouvrir les portes du véhicule, manoeuvrer ou faire manoeuvrer tous appareils. Ils peuvent conduire le véhicule ou le faire
-conduire, en leur présence, vers le lieu de mise en fourrière en utilisant, le cas échéant, les moyens autonomes de
+"Art. L. 325-2 - Pour l'application des articles L. 325-1 et L. 325-1-1 et sur prescription de l'officier de police
+judiciaire territorialement compétent, les fonctionnaires de police en tenue et les militaires de la gendarmerie habilités à
+constater par procès-verbaux les contraventions à la police de la circulation routière peuvent, en cas de besoin, ouvrir ou
+faire ouvrir les portes du véhicule, manoeuvrer ou faire manoeuvrer tous appareils. Ils peuvent conduire le véhicule ou le
+faire conduire, en leur présence, vers le lieu de mise en fourrière en utilisant, le cas échéant, les moyens autonomes de
 propulsion dont le véhicule est muni.
 
 "La mise en fourrière peut également être prescrite par un chef de service de police municipale territorialement compétent ou
@@ -7919,9 +8026,9 @@ les collectivités publiques intéressées et les entreprises aptes à procéder
 	  - Ordonnance 2000-930 2000-09-22 JORF 24 septembre 2000
 	  - Loi n°2003-495 2003-06-12 art. 38 JORF 13 juin 2003
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2004-567 du 17 juin 2004 - art. 3
+	  - Loi n°2006-10 du 5 janvier 2006 - art. 12 (V)
 
 	**Cite**:
 
