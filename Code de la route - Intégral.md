@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2006-01-15
+Version Consolidée au 2006-01-19
 
 # Partie législative
 
@@ -11199,6 +11199,36 @@ Des arrêtés du ministre chargé des transports fixent les conditions de foncti
 ### Titre II : Permis de conduire.
 
 #### Chapitre Ier : Délivrance et catégories.
+
+###### Article D221-3-1
+
+Des sessions spécialisées sont prévues pour les candidats sourds ou malentendants se présentant aux épreuves théorique et
+pratique de l'examen du permis de conduire de la catégorie B, dans les conditions et selon les modalités fixées par arrêtés
+du ministre chargé des transports.
+
+Lors de ces sessions, les candidats sourds ou malentendants bénéficient du dispositif de communication adapté de leur choix.
+
+La fréquence de ces sessions est décidée par le préfet. Elle dépend du nombre de candidats sourds ou malentendants inscrits
+et du délai moyen de passage en vigueur dans le département pour les candidats suivant un cursus de formation traditionnelle
+et ne peut être inférieure à deux fois par an.
+
+Pour permettre la bonne compréhension des traductions par les candidats, dont le nombre maximum est limité à dix, la durée
+totale de l'épreuve théorique est fixée à une heure trente.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+	**Créé par**:
+
+	  - Décret n°2006-56 du 18 janvier 2006 - art. 1 () JORF 19 janvier 2006
+
+	**Abrogé par**:
+
+	  - Décret n°2016-516 du 26 avril 2016 - art. 1
+
 
 ###### Article R*221-2
 
