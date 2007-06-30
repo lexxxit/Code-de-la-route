@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2007-05-11
+Version Consolidée au 2007-07-01
 
 # Partie législative
 
@@ -13812,6 +13812,27 @@ Les modalités d'application du présent article sont fixées par arrêté du mi
 	**Cité par**:
 
 	  - Code de la route. - art. R225-6 (V)
+
+
+###### Article R225-6
+
+Nonobstant les dispositions de l'article R. 225-5, le titulaire du permis de conduire peut consulter directement le solde des
+points affectés à son permis de conduire au moyen d'un site internet dédié et sécurisé. Les modalités d'application du
+présent article sont fixées par arrêté du ministre de l'intérieur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+	**Créé par**:
+
+	  - Décret n°2007-753 du 9 mai 2007 - art. 4 () JORF 10 mai 2007 en vigueur le 1er juillet 2007
+
+	**Cite**:
+
+	  - Code de la route. - art. R225-5 (V)
 
 
 ### Titre III : Comportement du conducteur.
