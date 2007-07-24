@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2007-07-21
+Version Consolidée au 2007-07-25
 
 # Partie législative
 
@@ -27962,14 +27962,8 @@ quatrième classe.
 ###### Article R411-29
 
 L'organisation des épreuves, courses ou compétitions sportives devant se disputer en totalité ou en partie sur les voies
-ouvertes à la circulation publique est soumise à autorisation administrative délivrée dans les conditions prévues par décret
-en Conseil d'Etat.
-
-Cette autorisation ne peut être donnée aux organisateurs des épreuves, courses ou compétitions sportives que si ces derniers
-ont contracté une police d'assurance couvrant les risques d'accidents aux tiers.
-
-Les organisateurs doivent également assumer la charge des frais de surveillance et de voirie dans les conditions et sous les
-garanties prévues par le décret susvisé.
+ouvertes à la circulation publique est soumise à autorisation administrative délivrée dans les conditions prévues à la
+section 4 du chapitre 1er du titre III du livre III du code du sport.
 
 **Liens relatifs à cet article**
 
@@ -27977,15 +27971,14 @@ garanties prévues par le décret susvisé.
 
 	  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
 
+	**Modifié par**:
+
+	  - Décret n°2007-1133 2007-07-24 art. 4 JORF 25 juillet 2007
+
 	**Anciens textes**:
 
 	  - Code de la route - art. R53 (Ab)
 	  - Code de la route R53 (al. 1, 4 et 5)
-
-	**Liens**:
-
-	  - SPEC_APPLI: Code de la route. - art. R432-1 (V)
-	  - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 	**Cité par**:
 
