@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2008-03-21
+Version Consolidée au 2008-05-28
 
 # Partie législative
 
@@ -5832,25 +5832,20 @@ L. 325-1 à L. 325-3 et L. 325-6 à L. 325-9 sont applicables aux véhicules en 
 
 ###### Article L321-1
 
-Le fait d'importer, d'exposer, d'offrir, de mettre en vente, de vendre, de proposer à la location ou d'inciter à acheter ou à
-utiliser un cyclomoteur, une motocyclette ou un quadricycle à moteur qui n'a pas fait l'objet d'une réception ou qui n'est
-plus conforme à celle-ci est puni de six mois d'emprisonnement et de 7 500 euros d'amende. Lorsque cette infraction est
-commise par un professionnel, elle est punie de deux ans d'emprisonnement et de 30 000 euros d'amende. Le véhicule peut être
-saisi.
+Le fait d' importer, d' exposer, d' offrir, de mettre en vente, de vendre, de proposer à la location ou d' inciter à acheter
+ou à utiliser un cyclomoteur, une motocyclette                            , un tricycle à moteur ou un quadricycle à moteur
+soumis à réception et non réceptionné ou qui n'est plus conforme à celle-ci est puni de six mois d' emprisonnement et de 7
+500 euros d' amende. Lorsque cette infraction est commise par un professionnel, elle est punie de deux ans d' emprisonnement
+et de 30 000 euros d' amende. Le véhicule peut être saisi. 
 
 Un décret détermine les conditions dans lesquelles il peut être dérogé aux dispositions du présent article pour tout véhicule
 destiné à participer à une course ou épreuve sportive.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Ordonnance 2000-930 2000-09-22 JORF 24 septembre 2000
-	  - Loi n°2003-495 2003-06-12 art. 38 JORF 13 juin 2003
-
 	**Modifié par**:
 
-	  - Loi n°2007-297 du 5 mars 2007 - art. 21 () JORF 7 mars 2007
+	  - Loi n°2008-491 du 26 mai 2008 - art. 1
 
 	**Cité par**:
 
@@ -5865,22 +5860,39 @@ destiné à participer à une course ou épreuve sportive.
 ###### Article L321-1-1
 
 Le fait de circuler sur les voies ouvertes à la circulation publique ou les lieux ouverts à la circulation publique ou au
-public avec un véhicule à deux roues à moteur, un tricycle à moteur ou un quadricycle à moteur non réceptionné est puni d'une
-contravention de la cinquième classe.
+public avec un cyclomoteur, une motocyclette, un tricycle à moteur ou un quadricycle à moteur non soumis à réception est puni
+d' une contravention de la cinquième classe. 
 
-La confiscation, l'immobilisation ou la mise en fourrière peuvent être prescrites dans les conditions prévues aux articles L.
-325-1 à L. 325-9.
+Les véhicules mentionnés au premier alinéa dont la vitesse peut excéder, par construction, vingt-cinq kilomètres par heure
+sont vendus, cédés ou loués par des professionnels dans des conditions définies par décret. 
+
+Les véhicules mentionnés au deuxième alinéa ne peuvent pas être vendus, cédés ou faire l' objet d' une location-vente à un
+mineur. Ils ne peuvent pas être loués à un mineur de quatorze ans ou mis à sa disposition. Toutefois, la mise à disposition
+de ces véhicules aux mineurs de quatorze ans dans le cadre d' une association sportive agréée est autorisée. 
+
+Le fait de vendre, céder, louer ou mettre à disposition un de ces véhicules en violation de ces dispositions est puni d' une
+contravention de la cinquième classe. 
+
+Les véhicules mentionnés au deuxième alinéa ne peuvent être utilisés que sur des terrains adaptés à leur pratique dans des
+conditions définies par décret. Toutefois, un décret détermine les conditions dans lesquelles ces véhicules peuvent être
+utilisés sur des terrains privés à des fins professionnelles. Les mineurs de quatorze ans ne peuvent les utiliser sur des
+terrains adaptés que dans le cadre d' une association sportive agréée. 
+
+Est puni d' une contravention de la cinquième classe le fait d' utiliser ou de favoriser l' utilisation de ces véhicules en
+violation de ces dispositions. 
+
+La confiscation, l' immobilisation ou la mise en fourrière peuvent être prescrites dans les conditions prévues aux articles
+L. 325-1 à L. 325-9. 
+
+La récidive des contraventions prévues aux alinéas précédents est punie conformément aux articles 132-11 et 132-15 du code
+pénal. La confiscation du véhicule utilisé pour commettre l' infraction est de plein droit, sauf décision spécialement
+motivée de la juridiction.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2000-930 2000-09-22 JORF 24 septembre 2000
-	  - Loi n°2003-495 2003-06-12 art. 38 JORF 13 juin 2003
-
-	**Créé par**:
-
-	  - Loi n°2007-297 du 5 mars 2007 - art. 24 () JORF 7 mars 2007
+	  - Loi n°2008-491 du 26 mai 2008 - art. 2
 
 	**Cité par**:
 
@@ -5899,6 +5911,41 @@ La confiscation, l'immobilisation ou la mise en fourrière peuvent être prescri
 	  - Code de la route. - art. L. 321-1-2 (V)
 	  - Code de la route. - art. L. 321-5 (V)
 	  - Code de la route. - art. L. 321-6 (V)
+
+	**Cite**:
+
+	  - Code pénal - art. 132-11
+	  - Code de la route. - art. L325-1
+
+
+###### Article L321-1-2
+
+Tout propriétaire d' un véhicule mentionné au deuxième alinéa de l'article L. 321-1-1 doit déclarer ce véhicule auprès de
+l'autorité administrative. Un numéro d'identification lui est délivré, qui doit être gravé sur une partie inamovible du
+véhicule.
+
+Chacun de ces véhicules doit être muni d' une plaque fixée en évidence et portant le numéro d'identification délivré. Cette
+plaque peut être retirée dans le cadre d'une pratique sportive.
+
+Un décret en Conseil d'Etat détermine les conditions d'application du présent article.
+
+Les informations fournies lors de la déclaration peuvent faire l'objet d'un traitement automatisé dans les conditions prévues
+par la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°78-17 du 6 janvier 1978
+	  - Code de la route. - art. L321-1-1
+
+	**Créé par**:
+
+	  - Loi n°2008-491 du 26 mai 2008 - art. 3
+
+	**Cité par**:
+
+	  - Arrêté du 15 mai 2009 - art. 1 (V)
 
 
 ###### Article L321-2
@@ -5986,6 +6033,39 @@ pénal, des infractions définies à l'article L. 321-1 du présent code. Les pe
 	**Cité par**:
 
 	  - Code de la route. - art. L321-4 (V)
+
+
+###### Article L321-5
+
+Les personnes physiques coupables des contraventions définies à l'article L. 321-1-1 encourent également la peine
+complémentaire de confiscation du véhicule qui a servi ou était destiné à commettre l'infraction.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2008-491 du 26 mai 2008 - art. 4
+
+	**Cite**:
+
+	  - Code de la route. - art. L321-1-1
+
+
+###### Article L321-6
+
+Les personnes morales coupables des contraventions définies à l'article L. 321-1-1 encourent également la peine
+complémentaire mentionnée au 5° de l'article 131-16 du code pénal.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2008-491 du 26 mai 2008 - art. 4
+
+	**Cite**:
+
+	  - Code pénal - art. 131-16
+	  - Code de la route. - art. L321-1-1
 
 
 #### Chapitre 2 : Immatriculation.
