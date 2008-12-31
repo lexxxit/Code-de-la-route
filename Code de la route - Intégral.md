@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2008-12-29
+Version Consolidée au 2009-01-01
 
 # Partie législative
 
@@ -13838,7 +13838,7 @@ nationale chargés des missions de prévention et de répression des actes de te
 - les agents des services de renseignement du ministère de la défense chargés des missions de prévention des actes de
 terrorisme.
 
-Les dispositions prévues aux troisième, quatrième et cinquième alinéas sont applicables jusqu'au 31 décembre 2008.
+Les dispositions prévues aux troisième, quatrième et cinquième alinéas sont applicables jusqu'au 31 décembre 2012.
 
 **Liens relatifs à cet article**
 
@@ -13850,19 +13850,15 @@ Les dispositions prévues aux troisième, quatrième et cinquième alinéas sont
 	  - Arrêté du 18 juillet 2016 - art. 5
 	  - Code de la route. - art. R225-5 (V)
 
-	**Codifié par**:
-
-	  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
-
 	**Cite**:
 
-	  - Loi n°2006-64 2006-01-23 art. 9, art. 33
-	  - Code de la route. - art. L225-4 (V)
-	  - Code de la route. - art. L225-5 (M)
+	  - Loi n°2006-64 du 23 janvier 2006
+	  - Code de la route. - art. L225-4
+	  - Code de la route. - art. L225-5
 
 	**Modifié par**:
 
-	  - Décret n°2007-86 du 23 janvier 2007 - art. 1 () JORF 25 janvier 2007
+	  - Décret n°2008-1456 du 30 décembre 2008 - art. 3
 
 	**Anciens textes**:
 
@@ -26700,12 +26696,12 @@ Les préfets, pour l'exercice de leur compétence en matière de circulation des
 transports et du ministre chargé de l'industrie, pour l'exercice de leurs compétences, les militaires de la gendarmerie et
 les fonctionnaires de la police nationale habilités à effectuer des contrôles routiers en application des dispositions du
 présent code sont autorisés, dans les conditions fixées aux articles L. 330-2 et L. 330-3, à accéder directement aux
-informations visées par ces articles.
+informations visées par ces articles. 
 
 Des arrêtés conjoints, selon le cas, soit du ministre chargé des transports et du ministre de l'intérieur, soit du ministre
 de la défense et du ministre de l'intérieur, soit du ministre chargé de l'industrie et du ministre de l'intérieur définissent
 les modalités de l'accès à ces informations ouvert par voie téléinformatique aux services du ministre chargé des transports
-et du ministre chargé de l'industrie et aux militaires de la gendarmerie.
+et du ministre chargé de l'industrie et aux militaires de la gendarmerie. 
 
 Peuvent également accéder aux données mentionnées à l'article L. 330-2 du code de la route dans les conditions fixées aux
 articles 9 et 33 de la loi n° 2006-64 du 23 janvier 2006 relative à la lutte contre le terrorisme et portant dispositions
@@ -26715,31 +26711,26 @@ diverses relatives à la sécurité et aux contrôles transfrontaliers :
 nationale chargés des missions de prévention et de répression des actes de terrorisme ;
 
 - les agents des services de renseignement du ministère de la défense chargés des missions de prévention des actes de
-terrorisme.
+terrorisme. 
 
-Les dispositions prévues aux troisième, quatrième et cinquième alinéas sont applicables jusqu'au 31 décembre 2008.
+Les dispositions prévues aux troisième, quatrième et cinquième alinéas sont applicables jusqu'au 31 décembre 2012.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
-
 	**Cite**:
 
-	  - Loi n°2006-64 2006-01-23 art. 9, art. 33
-	  - Code de la route. - art. L330-2 (M)
-	  - Code de la route. - art. L330-3 (V)
-
-	**Modifié par**:
-
-	  - Décret n°2007-86 du 23 janvier 2007 - art. 2 () JORF 25 janvier 2007
+	  - Loi n°2006-64 du 23 janvier 2006 - art. 9 (V)
+	  - Code de la route. - art. L330-2 (V)
 
 	**Cité par**:
 
 	  - Décret n°2008-1456 du 30 décembre 2008 (V)
 	  - Arrêté du 29 juin 2016 - art. 1 (V)
 	  - Code de la route. - art. R330-4 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2008-1456 du 30 décembre 2008 - art. 3
 
 	**Anciens textes**:
 
