@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2009-02-19
+Version Consolidée au 2009-03-07
 
 # Partie législative
 
@@ -1261,108 +1261,6 @@ Cette condamnation est portée à la connaissance du préfet du département con
 	  - Code de la route. - art. R324-1 (Ab)
 
 
-#### Chapitre 2 : Enseignement à titre onéreux.
-
-###### Article L212-2
-
-Nul ne peut être autorisé à enseigner, à titre onéreux, la conduite des véhicules à moteur d'une catégorie donnée et la
-sécurité routière, s'il ne satisfait aux conditions suivantes :
-
-1° Ne pas avoir fait l'objet d'une condamnation :
-
-a) Soit à une peine criminelle ;
-
-b) Soit à une peine correctionnelle prononcée pour une infraction figurant sur une liste fixée par décret en Conseil d'Etat ;
-
-2° Etre titulaire du permis de conduire, en cours de validité, valable pour la ou les catégories de véhicules considérés ;
-
-3° Etre titulaire de l'un des titres ou diplômes dont la liste est fixée par décret en Conseil d'Etat ;
-
-4° Remplir les conditions d'âge, d'ancienneté du permis de conduire et d'aptitude physique fixées par décret en Conseil
-d'Etat.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-930 2000-09-22 JORF 24 septembre 2000
-	  - Loi n°2003-495 2003-06-12 art. 38 JORF 13 juin 2003
-
-	**Cité par**:
-
-	  - Arrêté du 8 janvier 2001 - art. 2 (V)
-	  - Arrêté du 8 janvier 2001 - art. 8 (V)
-	  - Arrêté du 8 janvier 2001 - art. 9 (V)
-	  - Arrêté du 26 juin 2012 - art. (V)
-	  - Arrêté du 26 juin 2012 - art. 2 (V)
-	  - Arrêté du 26 juin 2012 - art. 6 (V)
-	  - Arrêté du 26 juin 2012 - art. 7 (V)
-	  - Arrêté du 13 avril 2016 - art. 11 (V)
-	  - Arrêté du 13 avril 2016 - art. 12 (V)
-	  - Arrêté du 13 avril 2016 - art. 3 (V)
-	  - Code de la route. - art. L212-3 (V)
-	  - Code de la route. - art. L213-1 (V)
-	  - Code de la route. - art. L213-7 (V)
-	  - Code de la route. - art. R223-7 (V)
-
-	**Anciens textes**:
-
-	  - Code de la route - art. L29-1 (Ab)
-	  - Code de la route L29-1
-
-
-###### Article L212-3
-
-Dans l'hypothèse où les conditions prévues à l'article L. 212-2 cessent d'être remplies, il est mis fin à l'autorisation
-prévue à l'article L. 212-1. En cas d'urgence justifiée par des faits passibles d'une des condamnations visées à l'article L.
-212-2, l'autorité administrative peut, après avoir mis l'intéressé en mesure de présenter ses observations, suspendre, pour
-une durée maximale de six mois, une autorisation délivrée en application de l'article L. 212-1.
-
-Lorsque sont établis des procès-verbaux d'infractions correspondant à des faits mentionnés à l'alinéa précédent commises par
-des bénéficiaires d'autorisations délivrées en application de l'article L. 212-1, copie en est transmise par le procureur de
-la République à l'autorité administrative.
-
-La mesure de suspension provisoire cesse de plein droit dès que l'autorité judiciaire s'est prononcée.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-930 2000-09-22 JORF 24 septembre 2000
-	  - Loi n°2003-495 2003-06-12 art. 38 JORF 13 juin 2003
-
-	**Anciens textes**:
-
-	  - Code de la route - art. L29-2 (Ab)
-	  - Code de la route L29-2
-
-	**Cite**:
-
-	  - Code de la route. - art. L212-1 (AbD)
-	  - Code de la route. - art. L212-2 (AbD)
-
-	**Cité par**:
-
-	  - Code de la route. - art. R212-5 (V)
-
-
-###### Article L212-5
-
-Un décret en Conseil d'Etat détermine les conditions d'application du présent chapitre.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-930 2000-09-22 JORF 24 septembre 2000
-	  - Loi n°2003-495 2003-06-12 art. 38 JORF 13 juin 2003
-
-	**Anciens textes**:
-
-	  - Code de la route - art. L29-4 (Ab)
-	  - Code de la route L29-4
-
-
 #### Chapitre 2 : Enseignement à titre onéreux et animation de stages de sensibilisation à la sécurité routière
 
 ###### Article L212-1
@@ -1414,6 +1312,109 @@ conditions d'application du présent alinéa sont fixées par décret en Conseil
 	  - Code de la route. - art. L223-6
 
 
+###### Article L212-2
+
+I. Nul ne peut être autorisé à enseigner, à titre onéreux, la conduite des véhicules à moteur d'une catégorie donnée et la
+sécurité routière, s'il ne satisfait aux conditions suivantes :
+
+1° Ne pas avoir fait l'objet d'une condamnation :
+
+a) Soit à une peine criminelle ;
+
+b) Soit à une peine correctionnelle prononcée pour une infraction figurant sur une liste fixée par décret en Conseil d'Etat ;
+
+2° Etre titulaire du permis de conduire, en cours de validité, valable pour la ou les catégories de véhicules considérés ;
+
+3° Etre titulaire de l'un des titres ou diplômes dont la liste est fixée par décret en Conseil d'Etat ;
+
+4° Remplir les conditions d'âge, d'ancienneté du permis de conduire et d'aptitude physique fixées par décret en Conseil
+d'Etat.
+
+II. - Nul ne peut être autorisé à animer des stages de sensibilisation à la sécurité routière s'il ne satisfait aux
+conditions suivantes :
+
+1° Ne pas avoir fait l'objet d'une condamnation :
+
+a) Soit à une peine criminelle ;
+
+b) Soit à une peine correctionnelle prononcée pour une infraction figurant sur une liste fixée par décret en Conseil d'Etat ;
+
+2° Remplir des conditions précisées par décret en Conseil d'Etat, relatives à la détention d'un permis de conduire, à l'âge,
+à l'aptitude physique et aux formations suivies.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-930 2000-09-22 JORF 24 septembre 2000
+	  - Loi n°2003-495 2003-06-12 art. 38 JORF 13 juin 2003
+
+	**Cité par**:
+
+	  - Arrêté du 8 janvier 2001 - art. 2 (V)
+	  - Arrêté du 8 janvier 2001 - art. 8 (V)
+	  - Arrêté du 8 janvier 2001 - art. 9 (V)
+	  - Arrêté du 26 juin 2012 - art. (V)
+	  - Arrêté du 26 juin 2012 - art. 2 (V)
+	  - Arrêté du 26 juin 2012 - art. 6 (V)
+	  - Arrêté du 26 juin 2012 - art. 7 (V)
+	  - Arrêté du 13 avril 2016 - art. 11 (V)
+	  - Arrêté du 13 avril 2016 - art. 12 (V)
+	  - Arrêté du 13 avril 2016 - art. 3 (V)
+	  - Code de la route. - art. L212-3 (V)
+	  - Code de la route. - art. L213-1 (V)
+	  - Code de la route. - art. L213-7 (V)
+	  - Code de la route. - art. R223-7 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2007-297 du 5 mars 2007 - art. 23 (V)
+
+	**Anciens textes**:
+
+	  - Code de la route - art. L29-1 (Ab)
+	  - Code de la route L29-1
+
+
+###### Article L212-3
+
+Dans l'hypothèse où les conditions prévues à l'article L. 212-2 cessent d'être remplies, il est mis fin à l'autorisation
+prévue à l'article L. 212-1. En cas d'urgence justifiée par des faits passibles d'une des condamnations visées à l'article L.
+212-2, l'autorité administrative peut, après avoir mis l'intéressé en mesure de présenter ses observations, suspendre, pour
+une durée maximale de six mois, une autorisation délivrée en application de l'article L. 212-1. 
+
+Lorsque sont établis des procès-verbaux d'infractions correspondant à des faits mentionnés à l'alinéa précédent commises par
+des bénéficiaires d'autorisations délivrées en application de l'article L. 212-1, copie en est transmise par le procureur de
+la République à l'autorité administrative. 
+
+La mesure de suspension provisoire cesse de plein droit dès que l'autorité judiciaire s'est prononcée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-930 2000-09-22 JORF 24 septembre 2000
+	  - Loi n°2003-495 2003-06-12 art. 38 JORF 13 juin 2003
+
+	**Modifié par**:
+
+	  - Loi n°2007-297 du 5 mars 2007 - art. 23 (V) JORF 7 mars 2007 en vigueur au plus tard le 7 mars 2009
+
+	**Anciens textes**:
+
+	  - Code de la route - art. L29-2 (Ab)
+	  - Code de la route L29-2
+
+	**Cite**:
+
+	  - Code de la route. - art. L212-1 (V)
+	  - Code de la route. - art. L212-2 (V)
+
+	**Cité par**:
+
+	  - Code de la route. - art. R212-5 (V)
+
+
 ###### Article L212-4
 
 I.-Le fait d'enseigner, à titre onéreux, la conduite des véhicules à moteur d'une catégorie donnée et la sécurité routière
@@ -1456,13 +1457,35 @@ a été commise, suivant les modalités prévues par l'article 131-27 du code p�
 	  - Code de la route - art. L29-3 (Ab)
 
 
-#### Chapitre 3 : Etablissements d'enseignement.
+###### Article L212-5
+
+Un décret en Conseil d'Etat détermine les conditions d'application du présent chapitre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-930 2000-09-22 JORF 24 septembre 2000
+	  - Loi n°2003-495 2003-06-12 art. 38 JORF 13 juin 2003
+
+	**Modifié par**:
+
+	  - Loi n°2007-297 du 5 mars 2007 - art. 23 (V) JORF 7 mars 2007 en vigueur au plus tard le 7 mars 2009
+
+	**Anciens textes**:
+
+	  - Code de la route - art. L29-4 (Ab)
+	  - Code de la route L29-4
+
+
+#### Chapitre 3 : Etablissements d'enseignement et d'animation de stages de sensibilisation à la sécurité routière.
 
 ###### Article L213-1
 
-L'enseignement, à titre onéreux, de la conduite des véhicules à moteur d'une catégorie donnée et de la sécurité routière ne
-peut être dispensé que dans le cadre d'un établissement d'enseignement dont l'exploitation est subordonnée à un agrément
-délivré par l'autorité administrative, après avis d'une commission.
+L'enseignement, à titre onéreux, de la conduite des véhicules à moteur d'une catégorie donnée et de la sécurité routière
+ainsi que l'animation des stages de sensibilisation à la sécurité routière mentionnés à l'article L. 223-6 ne peuvent être
+organisés que dans le cadre d'un établissement dont l'exploitation est subordonnée à un agrément délivré par l'autorité
+administrative, après avis d'une commission. 
 
 La formation, à titre onéreux, des candidats à l'un des titres ou diplômes exigés pour l'exercice de la profession
 d'enseignant de la conduite des véhicules à moteur d'une catégorie donnée et de la sécurité routière ne peut être dispensée
@@ -1539,10 +1562,18 @@ après avis d'une commission.
 	  - TXT_SOURCE: Arrêté du 17 décembre 2003 - art. 6 (M)
 	  - TXT_SOURCE: Arrêté du 17 décembre 2003 - art. 7 (VT)
 
+	**Modifié par**:
+
+	  - Loi n°2007-297 du 5 mars 2007 - art. 23 (V)
+
 	**Anciens textes**:
 
 	  - Code de la route - art. L29-5 (Ab)
 	  - Code de la route L29-5
+
+	**Cite**:
+
+	  - Code de la route. - art. L223-6 (V)
 
 
 ###### Article L213-2
@@ -1574,6 +1605,10 @@ contrat écrit entre le candidat et l'établissement.
 	  - Code de la route. - art. R213-3-1 (V)
 	  - Code de la route. - art. R213-3-2 (V)
 	  - Code de la route. - art. R213-3-3 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2007-297 du 5 mars 2007 - art. 23 (V) JORF 7 mars 2007 en vigueur au plus tard le 7 mars 2009
 
 	**Anciens textes**:
 
@@ -1635,6 +1670,10 @@ connaissances fixées par décret en Conseil d'Etat.
 	  - Code de la route. - art. L213-5 (M)
 	  - Code de la route. - art. L213-7 (V)
 
+	**Modifié par**:
+
+	  - Loi n°2007-297 du 5 mars 2007 - art. 23 (V) JORF 7 mars 2007 en vigueur au plus tard le 7 mars 2009
+
 	**Anciens textes**:
 
 	  - Code de la route - art. L29-7 (Ab)
@@ -1666,6 +1705,10 @@ défini par l'autorité administrative qui en contrôle l'application.
 	  - Code de la route. - art. L213-7 (V)
 	  - Code de la route. - art. R213-4 (V)
 
+	**Modifié par**:
+
+	  - Loi n°2007-297 du 5 mars 2007 - art. 23 (V) JORF 7 mars 2007 en vigueur au plus tard le 7 mars 2009
+
 	**Anciens textes**:
 
 	  - Code de la route - art. L29-8 (Ab)
@@ -1673,24 +1716,24 @@ défini par l'autorité administrative qui en contrôle l'application.
 
 	**Cite**:
 
-	  - Code de la route. - art. L213-1 (AbD)
+	  - Code de la route. - art. L213-1 (V)
 
 
 ###### Article L213-5
 
 Dans l'hypothèse où les conditions prévues aux articles L. 213-3 et L. 213-4 cessent d'être remplies ou en cas de cessation
-définitive d'activité de l'établissement, il est mis fin aux agréments prévus à l'article L. 213-1.
+définitive d'activité de l'établissement, il est mis fin aux agréments prévus à l'article L. 213-1. 
 
 En cas d'urgence justifiée par des faits passibles d'une des condamnations visées à l'article L. 213-3, l'autorité
 administrative, après avoir mis l'intéressé en mesure de présenter ses observations et recueilli l'avis de la commission
 mentionnée à l'article L. 213-1, peut suspendre, pour une durée maximale de six mois, l'agrément délivré en application de
-l'article L. 213-1.
+l'article L. 213-1. 
 
 Lorsque sont établis des procès-verbaux d'infractions correspondant à des faits mentionnés à l'alinéa précédent commises par
 des bénéficiaires d'autorisations délivrées en application de l'article L. 213-1, copie en est transmise par le procureur de
-la République à l'autorité administrative.
+la République à l'autorité administrative. 
 
-La mesure de suspension provisoire cesse de plein droit dès que l'autorité judiciaire s'est prononcée.
+La mesure de suspension provisoire cesse de plein droit dès que l'autorité judiciaire s'est prononcée. 
 
 Après que l'intéressé a été mis en mesure de présenter ses observations, une mesure de suspension provisoire pour une durée
 n'excédant pas six mois peut également être prononcée par l'autorité administrative, en cas de refus de se soumettre au
@@ -1711,6 +1754,10 @@ méconnaissance des dispositions de l'article L. 213-2.
 	  - Arrêté du 12 avril 2016 - art. 11 (V)
 	  - Code de la route. - art. R213-5 (V)
 
+	**Modifié par**:
+
+	  - Loi n°2007-297 du 5 mars 2007 - art. 23 (V) JORF 7 mars 2007 en vigueur au plus tard le 7 mars 2009
+
 	**Anciens textes**:
 
 	  - Code de la route - art. L29-9 (Ab)
@@ -1718,10 +1765,9 @@ méconnaissance des dispositions de l'article L. 213-2.
 
 	**Cite**:
 
-	  - Code de la route. - art. L213-1 (AbD)
-	  - Code de la route. - art. L213-2 (AbD)
-	  - Code de la route. - art. L213-3 (AbD)
-	  - Code de la route. - art. L213-4 (AbD)
+	  - Code de la route. - art. L213-1 (V)
+	  - Code de la route. - art. L213-2 (V)
+	  - Code de la route. - art. L213-3 (V)
 
 
 ###### Article L213-6
@@ -1766,14 +1812,14 @@ l'infraction a été commise, suivant les modalités prévues par l'article 131-
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
-
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
-
 	**Codifié par**:
 
 	  - Ordonnance 2000-930 2000-09-22 JORF 24 septembre 2000
 	  - Loi n°2003-495 2003-06-12 art. 38 JORF 13 juin 2003
+
+	**Modifié par**:
+
+	  - Loi n°2007-297 du 5 mars 2007 - art. 23 (V) JORF 7 mars 2007 en vigueur au plus tard le 7 mars 2009
 
 	**Cite**:
 
@@ -1809,6 +1855,13 @@ administrative qui vérifie que les conditions prévues à l'article L. 212-2, a
 213-4 sont remplies.
 
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi du 1er juillet 1901 (V)
+	  - Code de la route. - art. L212-2 (V)
+	  - Code de la route. - art. L213-3 (V)
+	  - Code de la route. - art. L213-4 (V)
 
 	**Anciens textes**:
 
@@ -1859,12 +1912,9 @@ administrative qui vérifie que les conditions prévues à l'article L. 212-2, a
 	  - Code de la route. - art. R221-8 (V)
 	  - Code du travail - art. D6323-8-3 (VD)
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code de la route. - art. L212-2 (AbD)
-	  - Code de la route. - art. L213-3 (AbD)
-	  - Code de la route. - art. L213-4 (AbD)
-	  - Loi n°1901-07-01
+	  - Loi n°2007-297 du 5 mars 2007 - art. 23 (V) JORF 7 mars 2007 en vigueur au plus tard le 7 mars 2009
 
 
 ###### Article L213-8
@@ -1885,9 +1935,13 @@ Les modalités d'application des articles L. 213-1 à L. 213-7 sont fixées par 
 	  - Ordonnance 2000-930 2000-09-22 JORF 24 septembre 2000
 	  - Loi n°2003-495 2003-06-12 art. 38 JORF 13 juin 2003
 
+	**Modifié par**:
+
+	  - Loi n°2007-297 du 5 mars 2007 - art. 23 (V) JORF 7 mars 2007 en vigueur au plus tard le 7 mars 2009
+
 	**Cite**:
 
-	  - Code de la route L213-1 à L213-7
+	  - Code de la route. - art. L213-1 (V)
 
 
 ### Titre 2 : Permis de conduire
