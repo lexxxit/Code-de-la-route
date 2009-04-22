@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2009-04-15
+Version Consolidée au 2009-04-23
 
 # Partie législative
 
@@ -7622,7 +7622,10 @@ manquements au regard de ces taxes ;
 12° Aux personnels agréés du prestataire autorisé par l'Etat à exploiter les appareils de contrôle automatique et à procéder
 à la constatation des manquements au regard des taxes sur les poids lourds prévues aux articles 269 à 283 quinquies et 285
 septies du code des douanes, aux seules fins de vérifier la régularité de la situation des redevables au regard de ces taxes
-et d'identifier les auteurs des manquements au regard de ces taxes. 
+et d'identifier les auteurs des manquements au regard de ces taxes ; 
+
+13° Aux constructeurs de véhicules ou à leurs mandataires pour les besoins des rappels de sécurité et des rappels de mise au
+point des véhicules. 
 
 II.-Les entreprises d'assurances doivent fournir à l'appui de leur demande tous éléments utiles permettant de vérifier la
 réalité du sinistre.
@@ -7650,12 +7653,13 @@ réalité du sinistre.
 
 	**Modifié par**:
 
-	  - Loi n°2008-1425 du 27 décembre 2008 - art. 153 (V)
+	  - Loi n°2009-431 du 20 avril 2009 - art. 29
 
 	**Cite**:
 
-	  - Code des douanes - art. 269 (VD)
-	  - Code des douanes - art. 285 septies (VD)
+	  - Code de procédure pénale - art. 14
+	  - Code des douanes - art. 269
+	  - Code des douanes - art. 285 septies
 
 	**Anciens textes**:
 
@@ -7746,15 +7750,34 @@ La loi n° 67-563 du 13 juillet 1967 a été abrogée par la loi n° 85-98 du 25
 
 ###### Article L330-5
 
-Aucune information nominative figurant dans les pièces administratives exigées pour la circulation des véhicules ne peut être
-divulguée en dehors des cas expressément prévus aux articles L. 330-2 à L. 330-4.
+Sous réserve des dispositions des alinéas suivants, les informations nominatives figurant dans les pièces administratives
+exigées pour la circulation des véhicules ne peuvent être communiquées qu'aux destinataires mentionnés aux articles L. 330-2
+à L. 330-4. 
+
+Ces informations nominatives sont également communicables à des tiers préalablement agréés par l'autorité administrative afin
+d'être réutilisées dans les conditions prévues au chapitre II du titre Ier de la loi n° 78-753 du 17 juillet 1978 portant
+diverses mesures d'amélioration des relations entre l'administration et le public et diverses dispositions d'ordre
+administratif, social et fiscal :
+
+- à des fins statistiques, ou à des fins de recherche scientifique ou historique, sans qu'il soit nécessaire de recueillir
+l'accord préalable des personnes concernées mais sous réserve que les études réalisées ne fassent apparaître aucune
+information nominative ;
+
+- à des fins d'enquêtes et de prospections commerciales, sauf opposition des personnes concernées selon les modalités prévues
+au deuxième alinéa de l'article 38 de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux
+libertés.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Cite**:
 
-	  - Ordonnance 2000-930 2000-09-22 JORF 24 septembre 2000
-	  - Loi n°2003-495 2003-06-12 art. 38 JORF 13 juin 2003
+	  - Loi n°78-17 du 6 janvier 1978 - art. 38
+	  - Loi n°78-753 du 17 juillet 1978
+	  - Code de la route. - art. L330-2
+
+	**Modifié par**:
+
+	  - Loi n°2009-431 du 20 avril 2009 - art. 29
 
 	**Cité par**:
 
@@ -7767,11 +7790,6 @@ divulguée en dehors des cas expressément prévus aux articles L. 330-2 à L. 3
 	**Anciens textes**:
 
 	  - Code de la route - art. L39 (Ab)
-	  - Code de la route L39
-
-	**Cite**:
-
-	  - Code de la route L330-2 à L330-4
 
 
 ###### Article L330-6
@@ -7833,23 +7851,23 @@ dont la divulgation n'est pas expressément prévue par le présent code.
 
 ###### Article L330-8
 
-Des décrets en Conseil d'Etat fixent les conditions d'application des dispositions des articles L. 330-1 à L. 330-7.
+Des décrets en Conseil d'Etat fixent les conditions d'application du premier alinéa de l'article L. 330-1 et des articles L.
+330-2 à L. 330-7.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2000-930 2000-09-22 JORF 24 septembre 2000
-	  - Loi n°2003-495 2003-06-12 art. 38 JORF 13 juin 2003
+	  - Loi n°2009-431 du 20 avril 2009 - art. 29
 
 	**Anciens textes**:
 
 	  - Code de la route - art. L42 (Ab)
-	  - Code de la route L42
 
 	**Cite**:
 
-	  - Code de la route L330-1 à L330-7
+	  - Code de la route. - art. L330-1
+	  - Code de la route. - art. L330-2
 
 
 ### Titre 4 : Dispositions relatives à l'outre-mer
