@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2009-05-14
+Version Consolidée au 2009-05-16
 
 # Partie législative
 
@@ -1204,6 +1204,24 @@ où elles se rattachent à la sécurité et à la circulation routières. La lis
 
 	  - TXT_SOURCE: Code de la route. - art. L130-4 (MMN)
 	  - TXT_ASSOCIE: Code de la route. - art. L130-4 (V)
+
+
+#### Chapitre 3 : Dispositions applicables en Nouvelle-Calédonie
+
+###### Article L143-1
+
+L'article L. 130-9 est applicable en Nouvelle-Calédonie et pour son application les mots : " lorsqu'il a récupéré le nombre
+de points ayant été retirés de son permis de conduire ou " sont supprimés.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2009-537 du 14 mai 2009 - art. 9
+
+	**Cite**:
+
+	  - Code de la route. - art. L130-9 (V)
 
 
 ## Livre 2 : Le conducteur
@@ -8178,6 +8196,26 @@ les collectivités publiques intéressées et les entreprises aptes à procéder
 	**Cité par**:
 
 	  - Code de la route. - art. R344-1-1 (V)
+
+
+###### Article L344-2
+
+Lorsqu'une amende forfaitaire majorée a été émise et que le comptable du Trésor constate que le contrevenant n'habite plus à
+l'adresse enregistrée au fichier territorial des immatriculations, il peut faire opposition au service d'immatriculation
+territorialement compétent à tout transfert du certificat d'immatriculation. Il en informe le procureur de la République. 
+
+Cette opposition suspend la prescription de la peine. 
+
+Elle est levée par le paiement de l'amende forfaitaire majorée. En outre, lorsque l'intéressé a formé une réclamation, selon
+les modalités et dans les délais prévus par les articles 529-10 et 530 du code de procédure pénale à peine d'irrecevabilité
+et qu'il justifie avoir déclaré sa nouvelle adresse au service d'immatriculation des véhicules de la Nouvelle-Calédonie, le
+procureur de la République lève l'opposition.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2009-537 du 14 mai 2009 - art. 9
 
 
 ## Livre 4 : L'usage des voies
