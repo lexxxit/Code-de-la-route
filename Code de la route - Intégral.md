@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2009-06-09
+Version Consolidée au 2009-07-09
 
 # Partie législative
 
@@ -36245,6 +36245,230 @@ L'immobilisation du véhicule peut être prescrite dans les conditions prévues 
 
 	  - SPEC_APPLI: Code de la route. - art. R432-1 (V)
 	  - SPEC_APPLI: Code de la route. - art. R432-2 (M)
+
+
+##### Section 4 : Transports de bois ronds
+
+###### Article R433-9
+
+Les transports de bois ronds présentant un caractère exceptionnel en raison de leur poids, excédant la limite réglementaire
+de 40 tonnes de poids total roulant autorisé pour les ensembles de véhicules de plus de quatre essieux, sont autorisés dans
+les conditions prévues à la présente section. 
+
+Constitue un bois rond toute portion de tronc ou de branche d'arbre obtenue par tronçonnage.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-780 du 23 juin 2009 - art. 1
+
+	**Cité par**:
+
+	  - Arrêté du 29 juin 2009 - art. 6 (V)
+
+
+###### Article R433-10
+
+A l'intérieur d'un département, les itinéraires sur lesquels la circulation des véhicules transportant des bois ronds est
+autorisée dans les conditions prévues à la présente section, sont définis par un arrêté du préfet, pris après consultation
+des gestionnaires du domaine routier pour ce qui concerne les voies relevant de leur compétence. Ils disposent d'un délai de
+deux mois pour émettre leur avis. 
+
+Le préfet fixe par le même arrêté les conditions de circulation des véhicules concernés. 
+
+Les itinéraires sont déterminés afin de permettre la desserte des massifs forestiers et des industries de la première
+transformation du bois en veillant à la continuité entre départements.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-780 du 23 juin 2009 - art. 1
+
+
+###### Article R433-11
+
+L'existence d'une alternative économiquement viable au transport routier s'apprécie pour chaque liaison au regard des
+critères de coût, de délais d'acheminement et de qualité de service. 
+
+Les entreprises réceptionnaires de bois ronds remettent aux transporteurs une attestation sur l'honneur faisant état d'une
+absence d'alternative économiquement viable au transport routier. Une copie de cette attestation est en permanence à bord de
+chaque véhicule concerné. 
+
+Les entreprises réceptionnaires de bois ronds dont le chiffre d'affaires est supérieur à cinq millions d'euros établissent
+annuellement un plan de transport qu'elles communiquent au préfet de région à sa demande. L'entreprise dispose d'un délai
+d'un mois après la demande du préfet de région pour adresser son plan de transport. Ce plan présente les flux de transport de
+bois ronds approvisionnant l'entreprise, et précise les modes et les itinéraires utilisés à partir d'une analyse des
+alternatives économiquement viables au transport routier. Il précise les modalités prises par l'entreprise pour s'assurer du
+respect des charges autorisées fixées à l'article R. 433-12. 
+
+Lorsqu'il estime que le plan de transport établi par l'entreprise ne permet pas de justifier d'une absence d'alternative
+économiquement viable au transport routier, le préfet en informe l'entreprise et l'invite à faire valoir ses observations
+dans un délai de deux mois. Si le préfet confirme son appréciation, il met en demeure l'entreprise qui dispose d'un délai de
+deux mois pour procéder aux modifications nécessaires et adapter ses choix modaux. 
+
+Le préfet de région peut également demander que lui soit communiqué un bilan d'exécution du plan de transport de l'entreprise
+réceptionnaire selon une périodicité annuelle. L'entreprise précise les modifications intervenues ou envisagées. 
+
+Le fait, pour l'entreprise réceptionnaire des bois ronds, de ne pas communiquer au préfet de région le plan de transport ou
+le bilan de son exécution conformément aux dispositions des troisième et cinquième alinéas du présent article est puni de
+l'amende prévue pour les contraventions de la quatrième classe. 
+
+Le fait, pour l'entreprise réceptionnaire des bois ronds, après mise en demeure par le préfet de région demeurée sans effet,
+de ne pas recourir à un mode de transport non routier constituant une alternative économiquement viable au transport routier
+est puni de l'amende prévue pour les contraventions de la cinquième classe.
+
+L'entreprise de transport s'assure de la présence de l'attestation prévue au deuxième alinéa à bord des véhicules. L'absence
+de ces documents à bord est punie de l'amende prévue par les contraventions de la quatrième classe. 
+
+Un arrêté du ministre chargé des transports fixe les modalités d'application du présent article.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-780 du 23 juin 2009 - art. 1
+
+	**Cité par**:
+
+	  - Arrêté du 29 juin 2009 - art. (V)
+	  - Arrêté du 29 juin 2009 - art. 1 (V)
+	  - Arrêté du 29 juin 2009 - art. 2 (V)
+
+	**Cite**:
+
+	  - Code de la route. - art. R433-12
+
+
+###### Article R433-12
+
+Le poids total roulant autorisé d'un véhicule articulé, d'un ensemble composé d'un véhicule à moteur et d'une remorque ou
+d'un train double ne peut excéder : 
+
+48 tonnes pour les véhicules articulés ou les trains routiers à 5 essieux ; 
+
+57 tonnes pour les véhicules articulés et les trains routiers à 6 essieux et plus ; 
+
+57 tonnes pour les ensembles composés d'un train double à 7 essieux et plus. 
+
+Un arrêté du ministre chargé des transports fixe les conditions d'application des limites des poids totaux roulants autorisés
+précités. 
+
+En outre, les véhicules et ensembles de véhicules concernés sont soumis aux dispositions de l'article R. 321-17. 
+
+Toute infraction à ces dispositions est punie de l'amende prévue pour les contraventions de la quatrième classe. 
+
+Toutefois, lorsque le dépassement du poids autorisé excède les limites réglementaires de plus de 20 %, l'amende encourue est
+celle prévue pour les contraventions de la cinquième classe. 
+
+La récidive de la contravention prévue à l'alinéa précédent est réprimée conformément à l'article 132-11 du code pénal. 
+
+En cas de dépassement excédant 5 % du poids autorisé, l'immobilisation du véhicule peut être prescrite dans les conditions
+prévues aux articles L. 325-1 à L. 325-3 du présent code.
+
+**Nota:**
+
+Décret n° 2009-780 du 23 juin 2009 : Par dérogation à l'article R. 433-12 du code de la route et jusqu'au 1er janvier 2015,
+les ensembles de véhicules mis en circulation avant le 9 juillet 2009 et disposant d'une attestation de caractéristiques
+techniques établie dans le cadre des dispositions applicables avant cette date au transport de bois ronds peuvent poursuivre
+cette activité dans les limites du poids total roulant autorisé fixées ci-dessous :
+
+52 tonnes si l'ensemble considéré comporte 5 essieux ;
+
+57 tonnes si l'ensemble considéré comporte 6 essieux ou plus.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-780 du 23 juin 2009 - art. 1
+
+	**Cité par**:
+
+	  - Décret n°2009-780 du 23 juin 2009 - art. 4 (V)
+	  - Arrêté du 29 juin 2009 - art. 3 (V)
+	  - Code de la route. - art. R433-11 (VD)
+
+	**Cite**:
+
+	  - Code pénal - art. 132-11
+	  - Code de la route. - art. L325-1
+	  - Code de la route. - art. R321-17
+
+
+###### Article R433-13
+
+Les dispositions réglementaires relatives aux charges maximales à l'essieu pour les ensembles de véhicules effectuant un
+transport de bois ronds sont celles prévues aux articles R. 312-5 et R. 312-6.
+
+**Nota:**
+
+Décret n° 2009-780 du 23 juin 2009 article 4 : Par dérogation à l'article R. 433-13 du code de la route et jusqu'au 1er
+janvier 2015, les charges maximales à l'essieu autorisées pour les ensembles de véhicules mis en circulation avant le 9
+juillet 2009 et disposant d'une attestation de caractéristiques techniques établie dans le cadre des dispositions applicables
+avant cette date au transport de bois ronds peuvent poursuivre cette activité dans les limites des charges maximales à
+l'essieu définies par un arrêté du ministre chargé des transports.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-780 du 23 juin 2009 - art. 1
+
+	**Cité par**:
+
+	  - Décret n°2009-780 du 23 juin 2009 - art. 4 (V)
+
+	**Cite**:
+
+	  - Code de la route. - art. R312-5
+
+
+###### Article R433-15
+
+La longueur totale des ensembles de véhicules composés d'un tracteur équipé d'une grue et d'un arrière-train forestier ne
+peut excéder 18, 75 mètres. 
+
+En cas de non-respect de ces dispositions, il est fait application des IV, V, VI et VII de l'article R. 312-11.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-780 du 23 juin 2009 - art. 1
+
+	**Cite**:
+
+	  - Code de la route. - art. R312-11
+
+
+###### Article R433-16
+
+I. ― La circulation des véhicules transportant des bois ronds est interdite : 
+
+a) Sur autoroute pour les ensembles de véhicules qui ne pourraient pas atteindre une vitesse en palier de 50 km / h ; 
+
+b) Sur l'ensemble du réseau routier et autoroutier du samedi ou veille de fête à 12 heures au lundi et lendemain de fête à 6
+heures. Toutefois, le préfet peut, en cas de nécessité absolue et en tenant compte des circonstances locales, accorder des
+dérogations à cette interdiction ; 
+
+c) Par temps de neige ou de verglas ou lorsque la visibilité est insuffisante. 
+
+II. ― Le fait, pour tout conducteur, de ne pas respecter les interdictions de circulation mentionnées au présent article est
+puni de l'amende prévue pour les contraventions de la quatrième classe. 
+
+III. ― L'immobilisation du véhicule peut être prescrite dans les conditions prévues aux articles L. 325-1 à L. 325-3.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-780 du 23 juin 2009 - art. 1
+
+	**Cite**:
+
+	  - Code de la route. - art. L325-1
 
 
 #### Chapitre IV : Convois et véhicules à traction animale.
