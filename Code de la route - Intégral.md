@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2009-10-01
+Version Consolidée au 2009-10-08
 
 # Partie législative
 
@@ -11178,6 +11178,129 @@ les conditions d'application du présent alinéa.
 	  - Code de la route. - art. R213-1 (V)
 	  - Code de la route. - art. R213-5 (V)
 	  - Code de la route. - art. R213-7 (V)
+
+
+#### Chapitre IV  : Conseil supérieur de l'éducation routière (CSER) 
+
+
+
+###### Article D214-1
+
+Le Conseil supérieur de l'éducation routière est placé auprès du ministre chargé des transports, qui peut le saisir de toute
+question relative à l'éducation routière, notamment l'apprentissage de la conduite, le permis de conduire et l'organisation
+des professions. 
+
+Le Conseil supérieur de l'éducation routière peut présenter toutes propositions au ministre chargé des transports dans le
+domaine de l'éducation routière.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-1182 du 5 octobre 2009 - art. 1
+
+	**Cité par**:
+
+	  - Décret n°2014-597 du 6 juin 2014 - art. (V)
+	  - Décret n°2015-628 du 5 juin 2015 - art. (V)
+
+
+###### Article D214-2
+
+Le Conseil supérieur de l'éducation routière est composé de cinq collèges. Il comprend vingt-huit membres : 
+
+1° Cinq représentants de l'Etat : 
+
+- le délégué à la sécurité et à la circulation routières et le vice-président du Conseil général de l'environnement et du
+développement durable, en tant que représentants du ministre chargé des transports ; 
+
+- le directeur de la modernisation et de l'action territoriale, en tant que représentant du ministre de l'intérieur ; 
+
+- le directeur général de l'enseignement scolaire, en tant que représentant du ministre chargé de l'éducation nationale ; 
+
+- le directeur général du travail, en tant que représentant du ministre chargé du travail ; 
+
+2° Trois représentants des collectivités territoriales : 
+
+- un représentant désigné par l'Association des régions de France ; 
+
+- un représentant désigné par l'Assemblée des départements de France ; 
+
+- un représentant désigné par l'Association des maires de France ; 
+
+3° Douze représentants élus des professionnels exerçant dans le champ de la formation à la sécurité routière, dont six
+représentants des responsables d'établissements et six représentants des salariés ; 
+
+4° Trois représentants de la société civile : 
+
+- un représentant des consommateurs désigné sur proposition des organisations de consommateurs et après avis du ministre
+chargé de la consommation ; 
+
+- un représentant des associations œuvrant pour la sécurité routière désigné par le ministre chargé des transports ; 
+
+- un membre du Conseil national de la jeunesse désigné par celui-ci ; 
+
+5° Cinq personnalités qualifiées choisies en raison de leurs activités professionnelles ou de leurs travaux en matière
+d'éducation routière désignées par le ministre chargé des transports. 
+
+Les membres du Conseil supérieur mentionnés aux 2°, 3°, 4° et 5° sont nommés par arrêté du ministre chargé des transports
+pour une durée de cinq ans. 
+
+Un arrêté du ministre chargé des transports, pris après avis du ministre de l'intérieur, fixe les modalités d'organisation
+des élections des membres du conseil supérieur mentionnés au 3°.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-1182 du 5 octobre 2009 - art. 1
+
+
+###### Article D214-3
+
+Le président du Conseil supérieur de l'éducation routière est nommé par arrêté du ministre chargé des transports, parmi les
+membres du conseil.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-1182 du 5 octobre 2009 - art. 1
+
+
+###### Article D214-4
+
+Le Conseil supérieur de l'éducation routière siège au moins deux fois par an. Il peut être convoqué à tout moment par le
+président du conseil ou à la demande de la moitié au moins de ses membres. 
+
+Le Conseil supérieur de l'éducation routière établit son règlement intérieur, qui est approuvé par arrêté du ministre chargé
+des transports.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-1182 du 5 octobre 2009 - art. 1
+
+
+###### Article D214-5
+
+Le secrétariat du Conseil supérieur de l'éducation routière est assuré par la délégation à la sécurité et à la circulation
+routières.
+
+**Nota:**
+
+Conformément à l'article 1 du décret n° 2014-597 du 6 juin 2014, le Conseil supérieur de l'éducation routière est renouvelé
+pour une durée d'un an à compter de l'entrée en vigueur du présent décret (8 juin 2015). 
+
+Conformément à l'annexe du décret n° 2015-628 du 5 juin 2015, le Conseil supérieur de l'éducation routière est renouvelé pour
+une durée de cinq ans à compter du 8 juin 2015 (8 juin 2020).
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-1182 du 5 octobre 2009 - art. 1
 
 
 ### Titre II : Permis de conduire.
