@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2009-10-08
+Version Consolidée au 2009-12-10
 
 # Partie législative
 
@@ -3317,7 +3317,11 @@ conducteur de véhicule à moteur ;
 encourue du fait des dommages causés par les véhicules à moteur ;
 
 8° A l'organisme chargé de la délivrance et de la gestion des cartes de conducteur associées au chronotachygraphe
-électronique utilisé pour le contrôle des transports routiers.
+électronique utilisé pour le contrôle des transports routiers ;
+
+9° A l'organisme chargé de la délivrance et de la gestion des cartes de qualification de conducteur destinées à prouver la
+qualification initiale et la formation continue des conducteurs de certains véhicules routiers affectés aux transports de
+marchandises ou de voyageurs.
 
 **Liens relatifs à cet article**
 
@@ -3332,19 +3336,14 @@ encourue du fait des dommages causés par les véhicules à moteur ;
 	  - Code de la route. - art. R225-5 (VD)
 	  - Code des relations entre le public et l'adminis... - art. L342-2 (VT)
 
-	**Codifié par**:
-
-	  - Ordonnance 2000-930 2000-09-22 JORF 24 septembre 2000
-	  - Loi n°2003-495 2003-06-12 art. 38 JORF 13 juin 2003
-
 	**Modifié par**:
 
-	  - Loi n°2003-495 du 12 juin 2003 - art. 24 () JORF 13 juin 2003
+	  - Loi n°2003-239 du 18 mars 2003 - art. 86
+	  - Loi n°2009-1503 du 8 décembre 2009 - art. 41
 
 	**Anciens textes**:
 
 	  - Code de la route - art. L35 (Ab)
-	  - Code de la route L35
 
 
 ###### Article L225-6
@@ -4626,6 +4625,22 @@ devra justifier de la possession d'un éthylotest.
 
 	  - Ordonnance 2000-930 2000-09-22 JORF 24 septembre 2000
 	  - Loi n°2003-495 2003-06-12 art. 38 JORF 13 juin 2003
+
+
+###### Article L234-15
+
+Les éthylotests anti-démarrage dont sont équipés, à titre préventif, les véhicules des entreprises de transport permettent le
+traitement automatisé de données relatives à leur fonctionnement, au taux d'alcoolémie des conducteurs et au démarrage des
+véhicules. 
+
+Les données relatives au taux d'alcoolémie des conducteurs ne doivent être ni consultées, ni communiquées, ni utilisées. Les
+autres données ne peuvent être consultées que par des personnes nommément désignées par le chef d'entreprise.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2009-1503 du 8 décembre 2009 - art. 42
 
 
 #### Chapitre 5 : Conduite sous l'influence de substances ou plantes classées comme stupéfiants.
@@ -8886,6 +8901,26 @@ Les dispositions du présent article sont mises en application dans les conditio
 	**Cité par**:
 
 	  - Code de la route. - art. R431-1 (V)
+
+
+#### Chapitre 3 : Transports exceptionnels et ensembles de véhicules comportant plus d'une remorque.
+
+###### Article L433-1
+
+L'accompagnement des transports exceptionnels est effectué par des conducteurs soumis à une obligation de formation
+professionnelle. 
+
+Sont dispensés de cette obligation les fonctionnaires des services actifs de la police nationale et les militaires de la
+gendarmerie nationale, en activité ou ayant cessé leur activité. 
+
+Un décret en Conseil d'Etat détermine les conditions d'application du présent article et notamment les conditions dans
+lesquelles les agents mentionnés à l'alinéa précédent sont dispensés de cette obligation lorsqu'ils ont cessé leur activité.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2009-1503 du 8 décembre 2009 - art. 43
 
 
 ### Titre 4 : Dispositions relatives à l'outre-mer
