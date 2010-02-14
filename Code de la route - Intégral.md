@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2010-01-01
+Version Consolidée au 2010-02-15
 
 # Partie législative
 
@@ -10414,8 +10414,6 @@ l'arrêté susmentionné est puni de l'amende prévue pour les contraventions de
 	  - Code de la route - art. R43-5 (Ab)
 
 
-#### Chapitre II : Enseignement à titre onéreux.
-
 #### Chapitre II : Enseignement à titre onéreux et animation de stages de sensibilisation à la sécurité routière.
 
 ###### Article R212-1
@@ -11140,123 +11138,6 @@ Un arrêté du ministre chargé des transports précise le contenu détaillé de
 	  - Code de la route. - art. R212-3 (M)
 
 
-#### Chapitre III : Etablissements d'enseignement
-
-##### Section 1 : Etablissements d'enseignement à titre onéreux.
-
-##### Section 2 : Enseignement de la conduite et de la sécurité routière par les associations d'insertion ou de réinsertion sociale ou professionnelle.
-
-###### Article R213-7
-
-Les associations d'insertion ou de réinsertion sociale ou professionnelle mentionnées à l'article L. 213-7 ont pour objet de
-faciliter l'insertion ou la réinsertion des personnes citées au 3° de l'article R. 213-8 en s'appuyant notamment sur la
-formation à la conduite et à la sécurité routière. Ces associations mettent en oeuvre des modalités spécifiques d'accueil,
-d'accompagnement et de suivi social et professionnel.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
-
-	**Cité par**:
-
-	  - Arrêté du 26 avril 2013 (V)
-	  - Décret n°2014-1293 du 23 octobre 2014 - art. (V)
-	  - Décret n°2014-1294 du 23 octobre 2014 - art. (VD)
-	  - Code de la route. - art. R213-9 (V)
-
-	**Anciens textes**:
-
-	  - Code de la route - art. R246 (Ab)
-	  - Code de la route R246
-
-	**Cite**:
-
-	  - Code de la route. - art. L213-7 (AbD)
-	  - Code de la route. - art. R213-8 (V)
-
-
-###### Article R213-8
-
-La délivrance de l'agrément aux associations mentionnées à l'article L. 213-7 est subordonnée à l'ensemble des conditions
-suivantes : 
-
-1° Etre déclarée conformément à l'article 5 de la loi du 1er juillet 1901 susvisée relative au contrat d'association et soit
-être partie à une convention signée avec l'Etat, une collectivité locale, un établissement public ou une association chargée
-d'une mission de service public, soit être bénéficiaire d'une aide attribuée par une des personnes morales précitées, pour
-des actions parmi lesquelles l'apprentissage de la conduite et de la sécurité routière constitue un des moyens de l'insertion
-ou de la réinsertion sociale ou professionnelle ; 
-
-2° S'adresser exclusivement à des personnes qui relèvent soit des dispositifs d'insertion, soit de situation de marginalité
-ou de grande difficulté sociale, soit d'une prise en charge au titre de l'aide sociale ; 
-
-3° Ne recourir pour les prestations d'enseignement de la conduite théorique et pratique qu'à des titulaires de l'autorisation
-d'enseigner qui remplissent les conditions prévues par l'article R. 212-2 ; 
-
-4° Dispenser un enseignement conforme au programme de formation de l'enseignement de la conduite et de la sécurité routière
-visé à l'article R. 213-4 ; 
-
-5° Justifier de garanties minimales concernant les moyens de l'établissement. Ces garanties concernent les locaux, les
-véhicules, les moyens matériels. Ces garanties sont fixées par un arrêté du ministre chargé des transports ; 
-
-6° Remplir les conditions prévues à l'article R. 213-2 (1°). Ces conditions sont exigées du président et de toute personne
-qu'il a, le cas échéant, dûment mandatée pour encadrer l'activité réglementée au présent chapitre.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°1901-07-01 art. 5
-	  - Loi du 1 juillet 1901 - art. 5 (V)
-	  - Code de la route. - art. R212-2 (M)
-
-	**Codifié par**:
-
-	  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
-
-	**Anciens textes**:
-
-	  - Code de la route - art. R246-1 (Ab)
-	  - Code de la route R246-1
-
-	**Cité par**:
-
-	  - Code de la route. - art. R213-7 (V)
-
-
-###### Article R213-9
-
-L'agrément est délivré, retiré ou suspendu dans les conditions fixées aux articles R. 213-1 et R. 213-5.
-
-En outre, l'association agréée est tenue de présenter annuellement au préfet du département dans lequel elle dispense la
-formation mentionnée à l'article R. 213-7 un rapport d'activité. Ce rapport doit porter sur les activités de l'association
-pour l'insertion ou la réinsertion sociale ou professionnelle et préciser en particulier les actions entreprises pour la
-formation à la conduite et à la sécurité routière des publics concernés. Un arrêté du ministre chargé des transports précise
-les conditions d'application du présent alinéa.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Arrêté du 8 janvier 2001 - art. 1 (V)
-
-	**Codifié par**:
-
-	  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
-
-	**Anciens textes**:
-
-	  - Code de la route - art. R246-2 (Ab)
-	  - Code de la route R246-2
-
-	**Cite**:
-
-	  - Code de la route. - art. R213-1 (V)
-	  - Code de la route. - art. R213-5 (V)
-	  - Code de la route. - art. R213-7 (V)
-
-
 #### Chapitre III : Etablissements d'enseignement et d'animation des stages de sensibilisation à la sécurité routière.
 
 ##### Section 1 : Etablissements d'enseignement à titre onéreux et d'animation des stages de sensibilisation à la sécurité routière.
@@ -11666,6 +11547,117 @@ Les conditions fixées au présent article sont précisées par arrêté du mini
 
 
 ##### Section 2 : Enseignement de la conduite et de la sécurité routière par les associations d'insertion ou de réinsertion sociale ou professionnelle.
+
+###### Article R213-7
+
+Les associations d'insertion ou de réinsertion sociale ou professionnelle mentionnées à l'article L. 213-7 ont pour objet de
+faciliter l'insertion ou la réinsertion des personnes citées au 3° de l'article R. 213-8 en s'appuyant notamment sur la
+formation à la conduite et à la sécurité routière. Ces associations mettent en oeuvre des modalités spécifiques d'accueil,
+d'accompagnement et de suivi social et professionnel.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+	**Cité par**:
+
+	  - Arrêté du 26 avril 2013 (V)
+	  - Décret n°2014-1293 du 23 octobre 2014 - art. (V)
+	  - Décret n°2014-1294 du 23 octobre 2014 - art. (VD)
+	  - Code de la route. - art. R213-9 (V)
+
+	**Anciens textes**:
+
+	  - Code de la route - art. R246 (Ab)
+	  - Code de la route R246
+
+	**Cite**:
+
+	  - Code de la route. - art. L213-7 (AbD)
+	  - Code de la route. - art. R213-8 (V)
+
+
+###### Article R213-8
+
+La délivrance de l'agrément aux associations mentionnées à l'article L. 213-7 est subordonnée à l'ensemble des conditions
+suivantes : 
+
+1° Etre déclarée conformément à l'article 5 de la loi du 1er juillet 1901 susvisée relative au contrat d'association et soit
+être partie à une convention signée avec l'Etat, une collectivité locale, un établissement public ou une association chargée
+d'une mission de service public, soit être bénéficiaire d'une aide attribuée par une des personnes morales précitées, pour
+des actions parmi lesquelles l'apprentissage de la conduite et de la sécurité routière constitue un des moyens de l'insertion
+ou de la réinsertion sociale ou professionnelle ; 
+
+2° S'adresser exclusivement à des personnes qui relèvent soit des dispositifs d'insertion, soit de situation de marginalité
+ou de grande difficulté sociale, soit d'une prise en charge au titre de l'aide sociale ; 
+
+3° Ne recourir pour les prestations d'enseignement de la conduite théorique et pratique qu'à des titulaires de l'autorisation
+d'enseigner qui remplissent les conditions prévues par l'article R. 212-2 ; 
+
+4° Dispenser un enseignement conforme au programme de formation de l'enseignement de la conduite et de la sécurité routière
+visé à l'article R. 213-4 ; 
+
+5° Justifier de garanties minimales concernant les moyens de l'établissement. Ces garanties concernent les locaux, les
+véhicules, les moyens matériels. Ces garanties sont fixées par un arrêté du ministre chargé des transports ; 
+
+6° Remplir les conditions prévues à l'article R. 213-2 (1°). Ces conditions sont exigées du président et de toute personne
+qu'il a, le cas échéant, dûment mandatée pour encadrer l'activité réglementée au présent chapitre.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°1901-07-01 art. 5
+	  - Loi du 1 juillet 1901 - art. 5 (V)
+	  - Code de la route. - art. R212-2 (M)
+
+	**Codifié par**:
+
+	  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+	**Anciens textes**:
+
+	  - Code de la route - art. R246-1 (Ab)
+	  - Code de la route R246-1
+
+	**Cité par**:
+
+	  - Code de la route. - art. R213-7 (V)
+
+
+###### Article R213-9
+
+L'agrément est délivré, retiré ou suspendu dans les conditions fixées aux articles R. 213-1 et R. 213-5.
+
+En outre, l'association agréée est tenue de présenter annuellement au préfet du département dans lequel elle dispense la
+formation mentionnée à l'article R. 213-7 un rapport d'activité. Ce rapport doit porter sur les activités de l'association
+pour l'insertion ou la réinsertion sociale ou professionnelle et préciser en particulier les actions entreprises pour la
+formation à la conduite et à la sécurité routière des publics concernés. Un arrêté du ministre chargé des transports précise
+les conditions d'application du présent alinéa.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Arrêté du 8 janvier 2001 - art. 1 (V)
+
+	**Codifié par**:
+
+	  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+
+	**Anciens textes**:
+
+	  - Code de la route - art. R246-2 (Ab)
+	  - Code de la route R246-2
+
+	**Cite**:
+
+	  - Code de la route. - art. R213-1 (V)
+	  - Code de la route. - art. R213-5 (V)
+	  - Code de la route. - art. R213-7 (V)
+
 
 #### Chapitre IV  : Conseil supérieur de l'éducation routière (CSER) 
 
@@ -13285,8 +13277,6 @@ professionnelle.
 	  - Code de la route. - art. L223-1
 	  - Code de la route. - art. L223-6
 
-
-##### Section 2 : Des stages.
 
 ##### Section 2 : Des stages  de sensibilisation à la sécurité routière.
 
@@ -21789,24 +21779,28 @@ Le ministre chargé des transports est l'autorité compétente pour l'applicatio
 
 ###### Article R321-8
 
-Les réceptions CE sont prononcées par délégation du ministre chargé des transports, par les directions régionales de
-l'industrie, de la recherche et de l'environnement désignées par arrêté conjoint du ministre chargé des transports et du
-ministre chargé de l'industrie.
+Les réceptions CE sont prononcées par délégation du ministre chargé des transports, par les directions régionales des
+entreprises, de la concurrence, de la consommation, du travail et de l'emploi désignées par arrêté conjoint du ministre
+chargé des transports et du ministre chargé de l'industrie.
+
+**Nota:**
+
+Décret n° 2009-1377 du 10 novembre 2009 article 7 I : Les dispositions du présent décret prennent effet, dans chaque région,
+à la date de nomination du directeur régional des entreprises, de la concurrence, de la consommation, du travail et de
+l'emploi (Les arrêtés de nomination de ces directeurs ont été publiés par arrêtés des 30 décembre 2009 et 9 février 2010,
+parus respectivement au Journal officiel des 5 janvier et 14 février 2010). 
+
+Conformément à l'article 15 du même décret elles ne s'appliquent ni à la région Ile-de-France ni aux régions d'outre-mer.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+	  - Décret n°2009-1377 du 10 novembre 2009 - art. 11 (V)
 
 	**Anciens textes**:
 
 	  - Code de la route - art. R109-3 (Ab)
-	  - Code de la route R109-3 (al. 4)
-
-	**Liens**:
-
-	  - SPEC_APPLI: Code de la route. - art. R321-2 (V)
 
 
 ###### Article R321-9
