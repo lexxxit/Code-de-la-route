@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2010-05-08
+Version Consolidée au 2010-06-21
 
 # Partie législative
 
@@ -23791,10 +23791,6 @@ IV.-Le fait, pour le titulaire de l'agrément des installations de contrôle, de
 contrôleur agréé ou un prestataire visé au II de l'article L. 323-1 ne possédant pas la qualification requise pour ce
 contrôle est puni de l'amende prévue pour les contraventions de la cinquième classe.
 
-V.-Les personnes morales peuvent être déclarées responsables pénalement, dans les conditions prévues à l'article 121-2 du
-code pénal, des infractions définies au présent article. La peine encourue par les personnes morales est l'amende, selon les
-modalités prévues par l'article 131-41 du code pénal.
-
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
@@ -23804,12 +23800,10 @@ modalités prévues par l'article 131-41 du code pénal.
 
 	**Modifié par**:
 
-	  - Décret n°2010-163 du 22 février 2010 - art. 3
+	  - Décret n°2010-671 du 18 juin 2010 - art. 5
 
 	**Cite**:
 
-	  - Code pénal - art. 121-2
-	  - Code pénal - art. 131-41
 	  - Code de la route. - art. L323-1
 	  - Code de la route. - art. R323-13
 
