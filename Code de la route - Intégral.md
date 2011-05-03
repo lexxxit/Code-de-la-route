@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2011-05-01
+Version Consolidée au 2011-05-04
 
 # Partie législative
 
@@ -27526,7 +27526,7 @@ droits qu'elle tient de l'article 38 de la loi n° 78-17 du 6 janvier 1978 relat
 libertés, et mise en mesure de les exercer. 
 
 II. ― Lorsque les informations mentionnées à l'article L. 330-1 sont déjà enregistrées, toute personne physique peut
-s'opposer, auprès de l'Agence nationale des titres sécurisés, à la communication à des tiers des données à caractère
+s'opposer, auprès       du préfet du département de son choix, à la communication à des tiers des données à caractère
 personnel la concernant, en vue de leur réutilisation à des fins d'enquêtes et de prospections commerciales. Cette opposition
 est notifiée sans délai aux détenteurs d'une licence commerciale.
 
@@ -27534,17 +27534,17 @@ est notifiée sans délai aux détenteurs d'une licence commerciale.
 
 	**Cite**:
 
-	  - Loi n°78-17 du 6 janvier 1978 - art. 38 (V)
+	  - Loi n°78-17 du 6 janvier 1978 - art. 38
 	  - Code de la route. - art. L330-1
-
-	**Créé par**:
-
-	  - Décret n°2010-682 du 22 juin 2010 - art. 1
 
 	**Cité par**:
 
 	  - Décret n°2011-477 du 2 mai 2011 (V)
 	  - Code de la route. - art. R330-10 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2011-477 du 2 mai 2011 - art. 1
 
 
 ### Titre IV : Dispositions relatives à l'outre-mer.
