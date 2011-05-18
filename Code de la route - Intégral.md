@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2011-05-04
+Version Consolidée au 2011-05-19
 
 # Partie législative
 
@@ -255,11 +255,14 @@ Lorsque le certificat d'immatriculation du véhicule est établi au nom d'une pe
 prévue au premier alinéa incombe, sous les réserves prévues au premier alinéa de l'article L. 121-2, au représentant légal de
 cette personne morale.
 
+Lorsque le véhicule était loué à un tiers, la responsabilité pécuniaire prévue au premier alinéa incombe au locataire, sous
+les réserves prévues au premier alinéa de l'article L. 121-2.
+
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2009-526 du 12 mai 2009 - art. 133
+	  - Loi n°2011-525 du 17 mai 2011 - art. 164
 
 	**Cité par**:
 
@@ -279,14 +282,14 @@ cette personne morale.
 
 	  - Code de la route - art. L21-2 (Ab)
 
+	**Cite**:
+
+	  - Code de la route. - art. L121-1
+	  - Code de la route. - art. L121-2
+
 	**Liens**:
 
 	  - SPEC_APPLI: Code de la route. - art. L121-1 (V)
-
-	**Cite**:
-
-	  - Code de la route. - art. L121-1 (V)
-	  - Code de la route. - art. L121-2 (V)
 
 
 ###### Article L121-4
@@ -389,106 +392,7 @@ l'identité figure sur un document équivalent délivré par les autorités étr
 ###### Article L121-5
 
 Les règles relatives à la procédure de l'amende forfaitaire applicable à certaines infractions au présent code sont fixées
-aux articles 529-7 à 530-3 du code de procédure pénale ci-après reproduits : 
-
-" Art. 529-7-Pour les contraventions au code de la route des deuxième, troisième et quatrième classes dont la liste est fixée
-par décret en Conseil d'Etat, à l'exception de celles relatives au stationnement, l'amende forfaitaire est minorée si le
-contrevenant en règle le montant dans les conditions prévues par l'article 529-8. " 
-
-" Art. 529-8-Le montant de l'amende forfaitaire minorée peut être acquitté soit entre les mains de l'agent verbalisateur au
-moment de la constatation de l'infraction, soit dans un délai de trois jours à compter de la constatation de l'infraction ou,
-si l'avis de contravention est ultérieurement envoyé à l'intéressé, dans le délai de quinze jours à compter de cet envoi. 
-
-En cas de non-paiement de l'amende forfaitaire minorée dans les conditions prévues ci-dessus, le contrevenant est redevable
-de l'amende forfaitaire. " 
-
-" Art. 529-9-L'amende forfaitaire doit être versée dans le délai de quarante cinq jours à compter de la constatation de
-l'infraction ou l'envoi de l'avis de contravention. 
-
-Les dispositions de l'article 529-2 relatives à la requête aux fins d'exonération et à la majoration de plein droit sont
-applicables. " 
-
-" Art. 529-10-Lorsque l'avis d'amende forfaitaire concernant une des contraventions mentionnées à l'article L. 121-3 du code
-de la route a été adressé au titulaire du certificat d'immatriculation ou aux personnes visées aux deuxième et troisième
-alinéas de l'article L. 121-2 de ce code, la requête en exonération prévue par l'article 529-2 ou la réclamation prévue par
-l'article 530 n'est recevable que si elle est adressée par lettre recommandée avec demande d'avis de réception et si elle est
-accompagnée : 
-
-1° Soit de l'un des documents suivants : 
-
-a) Le récépissé du dépôt de plainte pour vol ou destruction du véhicule ou pour le délit d'usurpation de plaque
-d'immatriculation prévu par l'article L. 317-4-1 du code de la route, ou une copie de la déclaration de destruction de
-véhicule établie conformément aux dispositions du code de la route ; 
-
-b) Une lettre signée de l'auteur de la requête ou de la réclamation précisant l'identité, l'adresse, ainsi que la référence
-du permis de conduire de la personne qui était présumée conduire le véhicule lorsque la contravention a été constatée ; 
-
-2° Soit d'un document démontrant qu'il a été acquitté une consignation préalable d'un montant égal à celui de l'amende
-forfaitaire dans le cas prévu par le premier alinéa de l'article 529-2, ou à celui de l'amende forfaitaire majorée dans le
-cas prévu par le deuxième alinéa de l'article 530 ; cette consignation n'est pas assimilable au paiement de l'amende
-forfaitaire et ne donne pas lieu au retrait des points du permis de conduire prévu par le quatrième alinéa de l'article L.
-223-1 du code de la route.
-
-L'officier du ministère public vérifie si les conditions de recevabilité de la requête ou de la réclamation prévues par le
-présent article sont remplies. " 
-
-" Art. 529-11-L'avis de contravention prévu par les articles 529-1 et 529-8 ou l'avis de paiement de la transaction prévue
-par l'article 529-6 peut être envoyé à la suite de la constatation d'une contravention au code de la route réalisée grâce à
-un appareil homologué de contrôle automatique. En cas de réclamation portée devant la juridiction de proximité, le procès-
-verbal ou le rapport de l'officier ou de l'agent de police judiciaire ou de l'agent verbalisateur faisant état du résultat de
-ce contrôle est alors dressé. Ce procès-verbal peut être revêtu d'une signature manuelle numérisée. " 
-
-" Art. 530-Le titre mentionné au second alinéa de l'article 529-2 ou au second alinéa de l'article 529-5 est exécuté suivant
-les règles prévues par le présent code pour l'exécution des jugements de police. La prescription de la peine commence à
-courir à compter de la signature par le ministère public du titre exécutoire, qui peut être individuel ou collectif. 
-
-Dans les trente jours de l'envoi de l'avis invitant le contrevenant à payer l'amende forfaitaire majorée, l'intéressé peut
-former auprès du ministère public une réclamation motivée qui a pour effet d'annuler le titre exécutoire en ce qui concerne
-l'amende contestée. Cette réclamation reste recevable tant que la peine n'est pas prescrite, s'il ne résulte pas d'un acte
-d'exécution ou de tout autre moyen de preuve que l'intéressé a eu connaissance de l'amende forfaitaire majorée.S'il s'agit
-d'une contravention au code de la route, la réclamation n'est toutefois plus recevable à l'issue d'un délai de trois mois
-lorsque l'avis d'amende forfaitaire majorée est envoyé par lettre recommandée à l'adresse figurant sur le certificat
-d'immatriculation du véhicule, sauf si le contrevenant justifie qu'il a, avant l'expiration de ce délai, déclaré son
-changement d'adresse au service d'immatriculation des véhicules ; dans ce dernier cas, le contrevenant n'est redevable que
-d'une somme égale au montant de l'amende forfaitaire s'il s'en acquitte dans un délai de quarante-cinq jours, ce qui a pour
-effet d'annuler le titre exécutoire pour le montant de la majoration. 
-
-La réclamation doit être accompagnée de l'avis d'amende forfaitaire majorée correspondant à l'amende considérée ainsi que,
-dans le cas prévu par l'article 529-10, de l'un des documents exigés par cet article, à défaut de quoi elle est irrecevable.
-" 
-
-" Art. 530-1-Au vu de la requête faite en application du premier alinéa de l'article 529-2, de la protestation formulée en
-application du premier alinéa de l'article 529-5 ou de la réclamation faite en application du deuxième alinéa de l'article
-530, le ministère public peut, soit renoncer à l'exercice des poursuites, soit procéder conformément aux articles 524 à 528-2
-ou aux articles 531 et suivants, soit aviser l'intéressé de l'irrecevabilité de la réclamation non motivée ou non accompagnée
-de l'avis. 
-
-En cas de condamnation, l'amende prononcée ne peut être inférieure au montant de l'amende ou de l'indemnité forfaitaire dans
-les cas prévus par le premier alinéa de l'article 529-2 et le premier alinéa de l'article 529-5, ni être inférieure au
-montant de l'amende forfaitaire majorée dans les cas prévus par le second alinéa de l'article 529-2 et le second alinéa de
-l'article 529-5. 
-
-Dans les cas prévus par l'article 529-10, en cas de classement sans suite ou de relaxe, s'il a été procédé à la consignation
-prévue par cet article, le montant de la consignation est reversé à la personne à qui avait été adressé l'avis de paiement de
-l'amende forfaitaire ou ayant fait l'objet des poursuites. Les modalités de ce remboursement sont définies par voie
-réglementaire. En cas de condamnation, l'amende prononcée ne peut être inférieure au montant prévu à l'alinéa précédent
-augmenté d'une somme de 10 %. " 
-
-" Art. 530-2-Les incidents contentieux relatifs à l'exécution du titre exécutoire et à la rectification des erreurs
-matérielles qu'il peut comporter sont déférés à la juridiction de proximité, qui statue conformément aux dispositions de
-l'article 711. " 
-
-" Art. 530-2-1 Lorsque les avis de contravention ou d'amende forfaitaire majorée sont adressés à une personne résidant à
-l'étranger, les délais prévus par les articles 529-1, 529-2, 529-8, 529-9 et 530 sont augmentés d'un mois. 
-
-Les dispositions des articles 529-10 et 530 du présent code et des articles L. 121-2 et L. 121-3 du code de la route
-relatives aux titulaires du certificat d'immatriculation du véhicule sont applicables aux personnes dont l'identité figure
-sur les documents équivalents délivrés par des autorités étrangères. " 
-
-" Art. 530-3-Un décret en Conseil d'Etat fixe le montant des amendes et indemnités forfaitaires, des amendes forfaitaires
-minorées et des amendes forfaitaires majorées ainsi que des frais de constitution de dossier et précise les modalités
-d'application du présent chapitre, en déterminant notamment les conditions dans lesquelles les agents habilités à constater
-les infractions sont assermentés et perçoivent le montant des amendes forfaitaires et celui des transactions. "
+aux articles 529-7 à 530-4 du code de procédure pénale.
 
 **Liens relatifs à cet article**
 
@@ -499,21 +403,11 @@ les infractions sont assermentés et perçoivent le montant des amendes forfaita
 
 	**Modifié par**:
 
-	  - Loi n°2010-788 du 12 juillet 2010 - art. 58
+	  - Loi n°2011-525 du 17 mai 2011 - art. 164
 
 	**Cite**:
 
-	  - CODE DE PROCEDURE PENALE - art. 529-1 (M)
-	  - CODE DE PROCEDURE PENALE - art. 529-2 (M)
-	  - CODE DE PROCEDURE PENALE - art. 529-5 (M)
-	  - CODE DE PROCEDURE PENALE - art. 531 (M)
-	  - CODE DE PROCEDURE PENALE - art. 711 (M)
-	  - Code de procédure pénale - art. 529-6 (V)
-	  - Code de procédure pénale - art. 529-8 (V)
-	  - Code de la route. - art. L121-2 (M)
-	  - Code de la route. - art. L121-3 (M)
-	  - Code de la route. - art. L223-1 (M)
-	  - Code de la route. - art. L317-4-1 (V)
+	  - Code de procédure pénale - art. 529-7 (V)
 
 
 #### Chapitre 2 : Indemnisation des victimes d'accidents de la circulation.
@@ -869,24 +763,24 @@ de l'intéressé.
 
 ###### Article L130-8
 
-Les agents de la direction générale de la concurrence, de la consommation et de la répression des fraudes sont habilités à
-rechercher et à constater les infractions prévues aux articles L. 317-5 et L. 413-2. A cet effet, ils disposent des pouvoirs
-prévus au livre II du code de la consommation.
+Les agents de la concurrence, de la consommation et de la répression des fraudes sont habilités à rechercher et à constater
+les infractions prévues aux articles L. 317-5 et L. 413-2. A cet effet, ils disposent des pouvoirs prévus au livre II du code
+de la consommation.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 2000-930 2000-09-22 JORF 24 septembre 2000
-	  - Loi n°2003-495 2003-06-12 art. 38 JORF 13 juin 2003
+	  - Ordonnance n°2000-930 du 22 septembre 2000
+	  - Loi n°2003-495 du 12 juin 2003
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2003-495 du 12 juin 2003 - art. 18 () JORF 13 juin 2003
+	  - Loi n°2011-525 du 17 mai 2011 - art. 94
 
 	**Cite**:
 
-	  - Code de la route. - art. L317-5 (M)
+	  - Code de la route. - art. L317-5 (V)
 	  - Code de la route. - art. L413-2 (V)
 
 
@@ -1090,17 +984,17 @@ par la référence à la collectivité départementale.
 
 ###### Article L142-4
 
-Pour l'application à Mayotte du 9° de l'article L. 130-4, les agents verbalisateurs compétents sont :
+Pour l'application à Mayotte du 9° de l'article L. 130-4, les agents verbalisateurs compétents sont : 
 
-1° Sur les voies de toutes catégories :
+1° Sur les voies de toutes catégories : 
 
-a) Les gardes champêtres des communes et les gardes particuliers assermentés ;
+a) Les gardes champêtres des communes et les gardes particuliers assermentés ; 
 
-b) Les agents de police municipale ;
+b) Les agents de police municipale ; 
 
-2° Sur les voies publiques ressortissant à leurs attributions :
+2° Sur les voies publiques ressortissant à leurs attributions : 
 
-a) Les ingénieurs des ponts et chaussées et les ingénieurs des travaux publics de l'Etat, assermentés ;
+a) Les ingénieurs des ponts, des eaux et des forêts et les ingénieurs des travaux publics de l'Etat, assermentés ; 
 
 b) Les techniciens des travaux publics de l'Etat, les contrôleurs principaux des travaux publics de l'Etat et les agents des
 travaux publics de l'Etat, quand ils sont commissionnés et assermentés à cet effet.
@@ -1109,20 +1003,20 @@ travaux publics de l'Etat, quand ils sont commissionnés et assermentés à cet 
 
 	**Codifié par**:
 
-	  - Ordonnance 2000-930 2000-09-22 JORF 24 septembre 2000
-	  - Loi n°2003-495 2003-06-12 art. 38 JORF 13 juin 2003
+	  - Ordonnance n°2000-930 du 22 septembre 2000
+	  - Loi n°2003-495 du 12 juin 2003
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2003-495 du 12 juin 2003 - art. 43 (V) JORF 13 juin 2003
-
-	**Cite**:
-
-	  - Code de la route. - art. L130-4 (MMN)
+	  - Loi n°2011-525 du 17 mai 2011 - art. 94
 
 	**Liens**:
 
 	  - TXT_ASSOCIE: Code de la route. - art. L130-4 (V)
+
+	**Cite**:
+
+	  - Code de la route. - art. L130-4 (V)
 
 	**Cité par**:
 
@@ -1150,40 +1044,6 @@ Pour l'application à Mayotte du présent code, il est ajouté à l'article L. 1
 
 	  - Code de procédure pénale - art. 879-1 (V)
 	  - Code de la route. - art. L130-4 (V)
-
-
-###### Article L142-5
-
-Outre les agents cités à l'article L. 130-4, les agents de police de Mayotte mis à la disposition de l'Etat, dans les
-conditions prévues à l'article 879-1 du code de procédure pénale, ont compétence pour constater par procès-verbal les
-contraventions prévues par la partie Réglementaire du présent code ou par d'autres dispositions réglementaires dans la mesure
-où elles se rattachent à la sécurité et à la circulation routières. La liste des contraventions que ces agents sont habilités
-à constater est fixée par décret en Conseil d'Etat.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-930 2000-09-22 JORF 24 septembre 2000
-	  - Loi n°2003-495 2003-06-12 art. 38 JORF 13 juin 2003
-
-	**Modifié par**:
-
-	  - Loi n°2002-1138 du 9 septembre 2002 - art. 67 () JORF 10 septembre 2002
-
-	**Abrogé par**:
-
-	  - Loi n°2011-525 du 17 mai 2011 - art. 136
-
-	**Cite**:
-
-	  - Code de procédure pénale - art. 879-1
-	  - Code de la route. - art. L130-4
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code de la route. - art. L130-4 (MMN)
-	  - TXT_ASSOCIE: Code de la route. - art. L130-4 (V)
 
 
 #### Chapitre 3 : Dispositions applicables en Nouvelle-Calédonie
@@ -3605,12 +3465,12 @@ Les dispositions relatives à l'homicide involontaire commis à l'occasion de la
 fixées par les articles 221-6-1 et 221-8 du code pénal ci-après reproduits : 
 
 Art. 221-6-1.-Lorsque la maladresse, l'imprudence, l'inattention, la négligence ou le manquement à une obligation législative
-ou réglementaire de sécurité ou de prudence prévu par l'article 221-6 est commis par le conducteur d'un véhicule terrestre à
+ou réglementaire de prudence ou de sécurité prévu par l'article 221-6 est commis par le conducteur d'un véhicule terrestre à
 moteur, l'homicide involontaire est puni de cinq ans d'emprisonnement et de 75 000 euros d'amende. 
 
 Les peines sont portées à sept ans d'emprisonnement et à 100 000 euros d'amende lorsque : 
 
-1° Le conducteur a commis une violation manifestement délibérée d'une obligation particulière de sécurité ou de prudence
+1° Le conducteur a commis une violation manifestement délibérée d'une obligation particulière de prudence ou de sécurité
 prévue par la loi ou le règlement autre que celles mentionnées ci-après ; 
 
 2° Le conducteur se trouvait en état d'ivresse manifeste ou était sous l'empire d'un état alcoolique caractérisé par une
@@ -3674,14 +3534,9 @@ motivée, prévoir que cette interdiction est définitive.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2000-930 2000-09-22 JORF 24 septembre 2000
-	  - Loi n°2003-495 2003-06-12 art. 38 JORF 13 juin 2003
-
-	**Créé par**:
-
-	  - Loi n°2003-495 2003-06-12 art. 30 JORF 13 juin 2003
+	  - Loi n°2011-525 du 17 mai 2011 - art. 185
 
 	**Cite**:
 
@@ -3706,7 +3561,7 @@ Les dispositions relatives aux atteintes involontaires à l'intégrité de la pe
 terrestre à moteur sont fixées par les articles 222-19-1, 222-20-1 et 222-44 du code pénal ci-après reproduits : 
 
 Art. 222-19-1-Lorsque la maladresse, l'imprudence, l'inattention, la négligence ou le manquement à une obligation législative
-ou réglementaire de sécurité ou de prudence prévu par l'article 222-19 est commis par le conducteur d'un véhicule terrestre à
+ou réglementaire de prudence ou de sécurité prévu par l'article 222-19 est commis par le conducteur d'un véhicule terrestre à
 moteur, l'atteinte involontaire à l'intégrité de la personne ayant entraîné une incapacité totale de travail pendant plus de
 trois mois est punie de trois ans d'emprisonnement et de 45 000 euros d'amende. 
 
@@ -3810,10 +3665,6 @@ Toute condamnation pour les délits prévus par les 1° à 6° et le dernier ali
 droit à l'annulation du permis de conduire avec interdiction de solliciter un nouveau permis pendant dix ans au plus.
 
 **Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Loi n°2008-776 du 4 août 2008 - art. 70
 
 	**Anciens textes**:
 
@@ -4720,6 +4571,8 @@ des professionnels chargés de les installer sont fixées par voie réglementair
 
 
 #### Chapitre 5 : Conduite sous l'influence de substances ou plantes classées comme stupéfiants.
+
+#### Chapitre 5 : Conduite après usage de substances ou plantes classées comme stupéfiants
 
 ###### Article L235-1
 
