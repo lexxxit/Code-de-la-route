@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2011-05-19
+Version Consolidée au 2011-05-27
 
 # Partie législative
 
@@ -4569,8 +4569,6 @@ des professionnels chargés de les installer sont fixées par voie réglementair
 	  - Code de la route. - art. R234-7 (V)
 	  - Code de procédure pénale - art. R15-33-41-1 (V)
 
-
-#### Chapitre 5 : Conduite sous l'influence de substances ou plantes classées comme stupéfiants.
 
 #### Chapitre 5 : Conduite après usage de substances ou plantes classées comme stupéfiants
 
@@ -11629,18 +11627,25 @@ les conditions d'application du présent alinéa.
 
 ###### Article D214-1
 
-Le Conseil supérieur de l'éducation routière est placé auprès du ministre chargé des transports, qui peut le saisir de toute
-question relative à l'éducation routière, notamment l'apprentissage de la conduite, le permis de conduire et l'organisation
-des professions. 
+Le Conseil supérieur de l'éducation routière est placé auprès du ministre chargé de la sécurité routière, qui peut le saisir
+de toute question relative à l'éducation routière, notamment l'apprentissage de la conduite, le permis de conduire et
+l'organisation des professions. 
 
-Le Conseil supérieur de l'éducation routière peut présenter toutes propositions au ministre chargé des transports dans le
-domaine de l'éducation routière.
+Le Conseil supérieur de l'éducation routière peut présenter toutes propositions dans le domaine de l'éducation routière.
+
+**Nota:**
+
+Conformément à l'article 1 du décret n° 2014-597 du 6 juin 2014, le Conseil supérieur de l'éducation routière est renouvelé
+pour une durée d'un an à compter de l'entrée en vigueur du présent décret (8 juin 2015). 
+
+Conformément à l'annexe du décret n° 2015-628 du 5 juin 2015, le Conseil supérieur de l'éducation routière est renouvelé pour
+une durée de cinq ans à compter du 8 juin 2015 (8 juin 2020).
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2009-1182 du 5 octobre 2009 - art. 1
+	  - Décret n°2011-570 du 24 mai 2011 - art. 1
 
 	**Cité par**:
 
@@ -11654,14 +11659,15 @@ Le Conseil supérieur de l'éducation routière est composé de cinq collèges. 
 
 1° Cinq représentants de l'Etat : 
 
-- le délégué à la sécurité et à la circulation routières et le vice-président du Conseil général de l'environnement et du
-développement durable, en tant que représentants du ministre chargé des transports ; 
+- le délégué à la sécurité et à la circulation routières et le directeur de la modernisation et de l'action territoriale ou
+leurs représentants, pour le ministre de l'intérieur ; 
 
-- le directeur de la modernisation et de l'action territoriale, en tant que représentant du ministre de l'intérieur ; 
+- le vice-président du Conseil général de l'environnement et du développement durable ou son représentant, pour le ministre
+chargé des transports ; 
 
-- le directeur général de l'enseignement scolaire, en tant que représentant du ministre chargé de l'éducation nationale ; 
+- le directeur général de l'enseignement scolaire ou son représentant, pour le ministre chargé de l'éducation nationale ; 
 
-- le directeur général du travail, en tant que représentant du ministre chargé du travail ; 
+- le directeur général du travail ou son représentant, pour le ministre chargé du travail ;
 
 2° Trois représentants des collectivités territoriales : 
 
@@ -11679,36 +11685,57 @@ représentants des responsables d'établissements et six représentants des sala
 - un représentant des consommateurs désigné sur proposition des organisations de consommateurs et après avis du ministre
 chargé de la consommation ; 
 
-- un représentant des associations œuvrant pour la sécurité routière désigné par le ministre chargé des transports ; 
+- un représentant des associations œuvrant pour la sécurité routière désigné par le ministre chargé de la sécurité
+routière  ; 
 
 - un membre du Conseil national de la jeunesse désigné par celui-ci ; 
 
 5° Cinq personnalités qualifiées choisies en raison de leurs activités professionnelles ou de leurs travaux en matière
-d'éducation routière désignées par le ministre chargé des transports. 
+d'éducation routière désignées par le ministre chargé de la sécurité routière. 
 
-Les membres du Conseil supérieur mentionnés aux 2°, 3°, 4° et 5° sont nommés par arrêté du ministre chargé des transports
-pour une durée de cinq ans. 
+Les membres du Conseil supérieur mentionnés aux 2°, 3°, 4° et 5° sont nommés par arrêté du ministre chargé de la sécurité
+routière pour une durée de cinq ans. 
 
-Un arrêté du ministre chargé des transports, pris après avis du ministre de l'intérieur, fixe les modalités d'organisation
-des élections des membres du conseil supérieur mentionnés au 3°.
+Un arrêté du ministre chargé de la sécurité routière fixe les modalités d'organisation des élections des membres du conseil
+supérieur mentionnés au 3°.
+
+**Nota:**
+
+Conformément à l'article 1 du décret n° 2014-597 du 6 juin 2014, le Conseil supérieur de l'éducation routière est renouvelé
+pour une durée d'un an à compter de l'entrée en vigueur du présent décret (8 juin 2015). 
+
+Conformément à l'annexe du décret n° 2015-628 du 5 juin 2015, le Conseil supérieur de l'éducation routière est renouvelé pour
+une durée de cinq ans à compter du 8 juin 2015 (8 juin 2020).
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2009-1182 du 5 octobre 2009 - art. 1
+	  - Décret n°2011-570 du 24 mai 2011 - art. 2
 
 
 ###### Article D214-3
 
-Le président du Conseil supérieur de l'éducation routière est nommé par arrêté du ministre chargé des transports, parmi les
-membres du conseil.
+Le président du Conseil supérieur de l'éducation routière est nommé par arrêté du   ministre chargé de la sécurité routière,
+parmi les membres du conseil.
+
+**Nota:**
+
+Conformément à l'article 1 du décret n° 2014-597 du 6 juin 2014, le Conseil supérieur de l'éducation routière est renouvelé
+pour une durée d'un an à compter de l'entrée en vigueur du présent décret (8 juin 2015). 
+
+Conformément à l'annexe du décret n° 2015-628 du 5 juin 2015, le Conseil supérieur de l'éducation routière est renouvelé pour
+une durée de cinq ans à compter du 8 juin 2015 (8 juin 2020).
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2009-1182 du 5 octobre 2009 - art. 1
+	  - Décret n°2011-570 du 24 mai 2011 - art. 3
+
+	**Abrogé par**:
+
+	  - Décret n°2016-815 du 17 juin 2016 - art. 4
 
 
 ###### Article D214-4
@@ -11716,14 +11743,22 @@ membres du conseil.
 Le Conseil supérieur de l'éducation routière siège au moins deux fois par an. Il peut être convoqué à tout moment par le
 président du conseil ou à la demande de la moitié au moins de ses membres. 
 
-Le Conseil supérieur de l'éducation routière établit son règlement intérieur, qui est approuvé par arrêté du ministre chargé
-des transports.
+Le Conseil supérieur de l'éducation routière établit son règlement intérieur, qui est approuvé par arrêté du   ministre
+chargé de la sécurité routière.
+
+**Nota:**
+
+Conformément à l'article 1 du décret n° 2014-597 du 6 juin 2014, le Conseil supérieur de l'éducation routière est renouvelé
+pour une durée d'un an à compter de l'entrée en vigueur du présent décret (8 juin 2015). 
+
+Conformément à l'annexe du décret n° 2015-628 du 5 juin 2015, le Conseil supérieur de l'éducation routière est renouvelé pour
+une durée de cinq ans à compter du 8 juin 2015 (8 juin 2020).
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2009-1182 du 5 octobre 2009 - art. 1
+	  - Décret n°2011-570 du 24 mai 2011 - art. 3
 
 
 ###### Article D214-5
