@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2011-05-27
+Version Consolidée au 2011-06-01
 
 # Partie législative
 
@@ -4570,6 +4570,29 @@ des professionnels chargés de les installer sont fixées par voie réglementair
 	  - Code de procédure pénale - art. R15-33-41-1 (V)
 
 
+###### Article L234-18
+
+Lorsqu'il a été procédé aux épreuves de dépistage et aux vérifications prévues par les articles L. 234-3 et L. 234-5, le
+placement en garde à vue de la personne, si les conditions de cette mesure prévues par le code de procédure pénale sont
+réunies, n'est pas obligatoire dès lors qu'elle n'est pas tenue sous la contrainte de demeurer à la disposition des
+enquêteurs et qu'elle a été informée qu'elle peut à tout moment quitter les locaux de police ou de gendarmerie.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2011-392 du 14 avril 2011 - art. 15
+
+	**Cité par**:
+
+	  - Loi n°2016-731 du 3 juin 2016 - art. 83
+
+	**Cite**:
+
+	  - Code de la route. - art. L234-3
+	  - Code de la route. - art. L234-5
+
+
 #### Chapitre 5 : Conduite après usage de substances ou plantes classées comme stupéfiants
 
 ###### Article L235-1
@@ -4835,6 +4858,34 @@ la délivrance d'un nouveau permis pendant trois ans au plus.
 	  - Code de la route. - art. L243-2 (V)
 	  - Code de la route. - art. L244-2 (V)
 	  - Code de la route. - art. L245-2 (V)
+
+
+###### Article L235-5
+
+Lorsqu'il a été procédé aux épreuves de dépistage et aux vérifications prévues par l'article L. 235-2, le placement en garde
+à vue de la personne, si les conditions de cette mesure prévues par le code de procédure pénale sont réunies, n'est pas
+obligatoire dès lors qu'elle n'est pas tenue sous la contrainte de demeurer à la disposition des enquêteurs et qu'elle a été
+informée qu'elle peut à tout moment quitter les locaux de police ou de gendarmerie.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-930 du 22 septembre 2000
+	  - Loi n°2003-495 du 12 juin 2003
+
+	**Cité par**:
+
+	  - Loi n°2003-495 du 12 juin 2003 - art. 3 (V)
+	  - Loi n°2016-731 du 3 juin 2016 - art. 83
+
+	**Modifié par**:
+
+	  - Loi n°2011-392 du 14 avril 2011 - art. 15
+
+	**Cite**:
+
+	  - Code de la route. - art. L235-2
 
 
 ### Titre 4 : Dispositions relatives à l'outre-mer
