@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2011-07-29
+Version Consolidée au 2011-09-08
 
 # Partie législative
 
@@ -13273,34 +13273,44 @@ affecté au permis de conduire de l'auteur de cette infraction.
 Si le retrait de points lié à cette infraction n'aboutit pas à un nombre nul de points affectés au permis de conduire de
 l'auteur de l'infraction, celui-ci est informé par le ministre de l'intérieur par lettre simple du nombre de points retirés.
 Le ministre de l'intérieur constate et notifie à l'intéressé, dans les mêmes conditions, les reconstitutions de points
-obtenues en application des alinéas 1, 2 et 4 de l'article L. 223-6.
+obtenues en application des alinéas 1,2 et 4 de l'article L. 223-6. 
 
 Si le retrait de points aboutit à un nombre nul de points affectés au permis de conduire, l'auteur de l'infraction est
 informé par le ministre de l'intérieur par lettre recommandée avec demande d'avis de réception du nombre de points retirés.
 Cette lettre récapitule les précédents retraits ayant concouru au solde nul, prononce l'invalidation du permis de conduire et
 enjoint à l'intéressé de restituer celui-ci au préfet du département ou de la collectivité d'outre-mer de son lieu de
-résidence dans un délai de dix jours francs à compter de sa réception.
+résidence dans un délai de dix jours francs à compter de sa réception. 
+
+S'il avait été remis à la personne un certificat en échange de son permis de conduire, en application des articles R. 131-2,
+R. 131-4 ou R. 131-4-1 du code pénal ou des articles R. 15-33-53 ou R. 15-33-53-1 du code de procédure pénale, cette personne
+est tenue de remettre ce certificat au préfet. Le permis de conduire détenu par le greffe du tribunal de grande instance en
+application des mêmes dispositions est remis par le greffe au préfet.
 
 **Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2008-754 du 30 juillet 2008 - art. 22
 
 	**Cité par**:
 
 	  - Décret n°2010-569 du 28 mai 2010 - art. 2 (V)
 	  - Code de la route. - art. R223-4 (M)
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Code de la route - art. R258 (Ab)
+	  - Décret n°2011-1048 du 5 septembre 2011 - art. 3
 
 	**Cite**:
 
+	  - Code pénal - art. R131-2
+	  - Code pénal - art. R131-4
+	  - Code pénal - art. R131-4-1
+	  - Code de procédure pénale - art. R15-33-53
+	  - Code de procédure pénale - art. R15-33-53-1
 	  - Code de la route. - art. L223-1
 	  - Code de la route. - art. L223-6
 	  - Code de la route. - art. L225-1
+
+	**Anciens textes**:
+
+	  - Code de la route - art. R258 (Ab)
 
 
 ###### Article R223-4
@@ -14333,10 +14343,18 @@ provisoires, ou les photocopies des certificats d'immatriculation dans les cas e
 du ministre de la justice et du ministre de l'intérieur ; 
 
 3° L'original ou la copie du certificat constatant l'achèvement d'une formation de conducteur de transport par route quand
-celui-ci est exigé en application de l'article R. 221-6. ;
+celui-ci est exigé en application de l'article R. 221-6 ; 
 
 4° Dans les cas mentionnés aux II et III de l'article R. 221-8, une attestation de la formation pratique ou le document
-attestant d'une expérience de la conduite conforme aux conditions prévues par ces dispositions. 
+attestant d'une expérience de la conduite conforme aux conditions prévues par ces dispositions ; 
+
+5° Les documents attestant de l'équipement du véhicule d'un dispositif homologué d'antidémarrage par éthylotest électronique
+et de la vérification de son fonctionnement, lorsque le conducteur : 
+
+a) A été condamné à une peine d'interdiction de conduire un véhicule qui ne soit pas équipé par un professionnel agréé ou par
+construction d'un tel dispositif ; ou 
+
+b) Est soumis à l'obligation prévue au 4° bis de l'article 41-2 du code de procédure pénale. 
 
 II.-En cas de perte ou de vol du titre justifiant de l'autorisation de conduire le récépissé de déclaration de perte ou de
 vol tient lieu de titre pendant un délai de deux mois au plus. 
@@ -14346,7 +14364,7 @@ administratives exigées par le présent article est puni de l'amende prévue po
 
 IV.-Le fait, pour toute personne invitée à justifier dans un délai de cinq jours de la possession de son brevet de sécurité
 routière, de ne pas présenter ce document avant l'expiration de ce délai est puni de l'amende prévue pour les contraventions
-de la deuxième classe.
+de la deuxième classe. 
 
 V.-Le fait, pour toute personne invitée à justifier dans un délai de cinq jours de la possession des autorisations et pièces
 exigées par le présent article, de ne pas présenter ces documents avant l'expiration de ce délai est puni de l'amende prévue
@@ -14368,7 +14386,13 @@ pour les contraventions de la quatrième classe.
 
 	**Modifié par**:
 
-	  - Décret n°2010-1390 du 12 novembre 2010 - art. 5
+	  - Décret n°2011-1048 du 5 septembre 2011 - art. 4
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 41-2
+	  - Code de la route. - art. R221-6
+	  - Code de la route. - art. R221-8
 
 	**Anciens textes**:
 
@@ -14379,10 +14403,6 @@ pour les contraventions de la quatrième classe.
 	  - Code de la route - art. R200-3 (Ab)
 	  - Code de la route - art. R241-3 (Ab)
 	  - Code de la route - art. R241-4 (Ab)
-
-	**Cite**:
-
-	  - Code de la route. - art. R221-6
 
 
 ###### Article R233-2
@@ -14641,6 +14661,60 @@ bon fonctionnement de l'appareil ; le résultat en est immédiatement porté à 
 	  - Code de la route. - art. R244-1 (V)
 	  - Code de la route. - art. R245-1 (V)
 	  - Code de la santé publique - art. R3354-1 (V)
+
+
+###### Article R234-5
+
+I.-Est puni de l'amende prévue pour les contraventions de la cinquième classe le fait pour une personne ayant été condamnée à
+la peine d'interdiction de conduire un véhicule qui ne soit pas équipé par un professionnel agréé ou par construction d'un
+dispositif homologué d'antidémarrage par éthylotest électronique de conduire un véhicule équipé d'un tel dispositif soit
+après que celui-ci a été utilisé par un tiers pour permettre le démarrage, soit après l'avoir neutralisé ou détérioré ou
+l'avoir utilisé dans des conditions empêchant la mesure exacte de son état d'imprégnation alcoolique. 
+
+Les dispositions de l'alinéa qui précède sont également applicables lorsque les faits ont été commis par une personne ayant
+accepté d'exécuter à titre de composition pénale la mesure prévue au 4° bis de l'article 41-2 du code de procédure pénale dès
+lors que la composition pénale a été validée dans les conditions prévues par cet article. 
+
+II.-Le fait, par toute personne, de faciliter sciemment, par aide ou assistance, la préparation ou la consommation de la
+contravention prévue au I est puni de la même peine. 
+
+III.-Les personnes coupables des contraventions prévues au présent article encourent également les peines complémentaires
+suivantes : 
+
+1° La suspension du permis de conduire pour une durée de trois ans au plus, cette suspension ne pouvant pas être limitée à la
+conduite en dehors de l'activité professionnelle, ni être assortie du sursis, même partiellement ; 
+
+2° L'interdiction de conduire certains véhicules terrestres à moteur, y compris ceux pour la conduite desquels le permis de
+conduire n'est pas exigé, pour une durée de trois ans au plus ; 
+
+3° L'obligation d'accomplir, à ses frais, un stage de sensibilisation à la sécurité routière ; 
+
+4° La confiscation du véhicule dont le prévenu s'est servi pour commettre l'infraction, s'il en est propriétaire. 
+
+IV.-La récidive des contraventions prévues au présent article est réprimée conformément à l'article 132-11 du code pénal. 
+
+V.-Ces contraventions donnent lieu de plein droit à la réduction de six points du permis de conduire. 
+
+VI.-L'immobilisation du véhicule peut être prescrite dans les conditions prévues aux articles L. 325-1 à L. 325-3.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-1048 du 5 septembre 2011 - art. 5
+
+	**Cite**:
+
+	  - Code pénal - art. 132-11 (V)
+	  - Code de procédure pénale - art. 41-2 (V)
+	  - Code de la route. - art. L325-1 (V)
+
+	**Cité par**:
+
+	  - Code de la route. - art. R243-1 (V)
+	  - Code de la route. - art. R244-1 (M)
+	  - Code de la route. - art. R245-1 (V)
+	  - Code pénal - art. R131-4-1 (V)
 
 
 #### Chapitre V : Conduite après usage de substances ou plantes classées comme stupéfiants
@@ -15422,7 +15496,7 @@ Le paiement de ces frais a lieu conformément à la réglementation en vigueur �
 
 ###### Article R243-1
 
-Les articles R. 234-1, R. 234-2 et R. 234-4 sont applicables en Nouvelle-Calédonie dans la rédaction suivante :
+Les articles R. 234-1, R. 234-2 , R. 234-4 et R. 234-5 sont applicables en Nouvelle-Calédonie dans la rédaction suivante :
 
 "Art. R. 234-1 - I. - Même en l'absence de tout signe d'ivresse manifeste, est puni de l'amende prévue pour les
 contraventions de la quatrième classe le fait de conduire un véhicule sous l'empire d'un état alcoolique caractérisé par :
@@ -15460,6 +15534,36 @@ de la République, le juge d'instruction ou l'officier ou l'agent de police judi
 également décider qu'il sera procédé à un second contrôle. Celui-ci est alors effectué immédiatement, après vérification du
 bon fonctionnement de l'appareil ; le résultat en est immédiatement porté à la connaissance de l'intéressé."
 
+"Art. R. 234-5.-I. - Est puni de l'amende prévue pour les contraventions de la cinquième classe le fait pour une personne
+ayant été condamnée à la peine d'interdiction de conduire un véhicule qui ne soit pas équipé par un professionnel agréé ou
+par construction d'un dispositif homologué d'antidémarrage par éthylotest électronique de conduire un véhicule équipé d'un
+tel dispositif soit après que celui-ci a été utilisé par un tiers pour permettre le démarrage, soit après l'avoir neutralisé
+ou détérioré ou l'avoir utilisé dans des conditions empêchant la mesure exacte de son état d'imprégnation alcoolique. 
+
+Les dispositions de l'alinéa qui précède sont également applicables lorsque les faits ont été commis par une personne ayant
+accepté d'exécuter à titre de composition pénale la mesure prévue au 4° bis de l'article 41-2 du code de procédure pénale dès
+lors que la composition pénale a été validée dans les conditions prévues par cet article. 
+
+II. - Le fait, par toute personne, de faciliter sciemment, par aide ou assistance, la préparation ou la consommation de la
+contravention prévue au I est puni de la même peine. 
+
+III. - Les personnes coupables des contraventions prévues au présent article encourent également les peines complémentaires
+suivantes : 
+
+1° La suspension du permis de conduire pour une durée de trois ans au plus, cette suspension ne pouvant pas être limitée à la
+conduite en dehors de l'activité professionnelle, ni être assortie du sursis, même partiellement ; 
+
+2° L'interdiction de conduire certains véhicules terrestres à moteur, y compris ceux pour la conduite desquels le permis de
+conduire n'est pas exigé, pour une durée de trois ans au plus ; 
+
+3° L'obligation d'accomplir, à ses frais, un stage de sensibilisation à la sécurité routière ; 
+
+4° La confiscation du véhicule dont le prévenu s'est servi pour commettre l'infraction, s'il en est propriétaire. 
+
+IV. - La récidive des contraventions prévues au présent article est réprimée conformément à l'article 132-11 du code pénal. 
+
+V. - L'immobilisation du véhicule peut être prescrite dans les conditions prévues aux articles L. 325-1 à L. 325-3."
+
 **Liens relatifs à cet article**
 
 	**Cité par**:
@@ -15470,21 +15574,21 @@ bon fonctionnement de l'appareil ; le résultat en est immédiatement porté à 
 
 	**Codifié par**:
 
-	  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+	  - Décret n°2001-251 du 22 mars 2001
 
 	**Modifié par**:
 
-	  - Décret n°2007-1626 du 16 novembre 2007 - art. 5 () JORF 18 novembre 2007 rectificatif JORF 20 novembre 2007
+	  - Décret n°2011-1048 du 5 septembre 2011 - art. 6 (V)
 
 	**Cite**:
 
-	  - Code de la route R234-1, R234-2, R234-4, L234-1, L234-3 à L234-5, L234-9, L234-4, L325-1 à L325-3
-	  - Code de la route. - art. L234-1 (M)
-	  - Code de la route. - art. L234-4 (M)
-	  - Code de la route. - art. L234-9 (V)
-	  - Code de la route. - art. R234-1 (M)
-	  - Code de la route. - art. R234-2 (M)
-	  - Code de la route. - art. R234-4 (V)
+	  - Code de la route.
+	  - Code de la route. - art. L234-1
+	  - Code de la route. - art. L234-4
+	  - Code de la route. - art. L234-9
+	  - Code de la route. - art. R234-1
+	  - Code de la route. - art. R234-2
+	  - Code de la route. - art. R234-4
 
 
 ###### Article R243-2
@@ -15629,7 +15733,7 @@ Le paiement de ces frais a lieu conformément aux dispositions du titre X du liv
 
 ###### Article R244-1
 
-Les articles R. 234-1, R. 234-2 et R. 234-4 sont applicables en Polynésie française dans la rédaction suivante :
+Les articles R. 234-1, R. 234-2 , R. 234-4 et R. 234-5 sont applicables en Polynésie française dans la rédaction suivante :
 
 "Art. R. 234-1 - I. - Même en l'absence de tout signe d'ivresse manifeste, est puni de l'amende prévue pour les
 contraventions de la quatrième classe le fait de conduire un véhicule sous l'empire d'un état alcoolique caractérisé par :
@@ -15667,26 +15771,56 @@ de la République, le juge d'instruction ou l'officier ou l'agent de police judi
 également décider qu'il sera procédé à un second contrôle. Celui-ci est alors effectué immédiatement, après vérification du
 bon fonctionnement de l'appareil ; le résultat en est immédiatement porté à la connaissance de l'intéressé."
 
+"Art. R. 234-5.-I. - Est puni de l'amende prévue pour les contraventions de la cinquième classe le fait pour une personne
+ayant été condamnée à la peine d'interdiction de conduire un véhicule qui ne soit pas équipé par un professionnel agréé ou
+par construction d'un dispositif homologué d'antidémarrage par éthylotest électronique de conduire un véhicule équipé d'un
+tel dispositif soit après que celui-ci a été utilisé par un tiers pour permettre le démarrage, soit après l'avoir neutralisé
+ou détérioré ou l'avoir utilisé dans des conditions empêchant la mesure exacte de son état d'imprégnation alcoolique. 
+
+Les dispositions de l'alinéa qui précède sont également applicables lorsque les faits ont été commis par une personne ayant
+accepté d'exécuter à titre de composition pénale la mesure prévue au 4° bis de l'article 41-2 du code de procédure pénale dès
+lors que la composition pénale a été validée dans les conditions prévues par cet article. 
+
+II. - Le fait, par toute personne, de faciliter sciemment, par aide ou assistance, la préparation ou la consommation de la
+contravention prévue au I est puni de la même peine. 
+
+III. - Les personnes coupables des contraventions prévues au présent article encourent également les peines complémentaires
+suivantes : 
+
+1° La suspension du permis de conduire pour une durée de trois ans au plus, cette suspension ne pouvant pas être limitée à la
+conduite en dehors de l'activité professionnelle, ni être assortie du sursis, même partiellement ; 
+
+2° L'interdiction de conduire certains véhicules terrestres à moteur, y compris ceux pour la conduite desquels le permis de
+conduire n'est pas exigé, pour une durée de trois ans au plus ; 
+
+3° L'obligation d'accomplir, à ses frais, un stage de sensibilisation à la sécurité routière ; 
+
+4° La confiscation du véhicule dont le prévenu s'est servi pour commettre l'infraction, s'il en est propriétaire. 
+
+IV. - La récidive des contraventions prévues au présent article est réprimée conformément à l'article 132-11 du code pénal. 
+
+V. - L'immobilisation du véhicule peut être prescrite dans les conditions prévues aux articles L. 325-1 à L. 325-3."
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+	  - Décret n°2001-251 du 22 mars 2001
 
 	**Modifié par**:
 
-	  - Décret n°2007-1626 du 16 novembre 2007 - art. 5 () JORF 18 novembre 2007 rectificatif JORF 20 novembre 2007
+	  - Décret n°2011-1048 du 5 septembre 2011 - art. 6 (V)
 
 	**Cite**:
 
-	  - Code de la route R234-1, R234-2, R234-4, L234-1, L325-1 à L325-3, L325-11, L234-3 à L234-5, L234-9, L234-4
-	  - Code de la route. - art. L234-1 (M)
-	  - Code de la route. - art. L234-4 (M)
-	  - Code de la route. - art. L234-9 (V)
-	  - Code de la route. - art. L325-11 (M)
-	  - Code de la route. - art. R234-1 (M)
-	  - Code de la route. - art. R234-2 (M)
-	  - Code de la route. - art. R234-4 (V)
+	  - Code de la route.
+	  - Code de la route. - art. L234-1
+	  - Code de la route. - art. L234-4
+	  - Code de la route. - art. L234-9
+	  - Code de la route. - art. L325-11
+	  - Code de la route. - art. R234-1
+	  - Code de la route. - art. R234-2
+	  - Code de la route. - art. R234-4
 
 
 ###### Article R244-2
@@ -15822,8 +15956,8 @@ Le paiement de ces frais a lieu conformément aux dispositions du titre X du liv
 
 ###### Article R245-1
 
-Les articles R. 234-1, R. 234-2 et R. 234-4 sont applicables au territoire des Iles Wallis-et-Futuna dans la rédaction
-suivante :
+Les articles R. 234-1, R. 234-2 , R. 234-4 et R. 234-5 sont applicables au territoire des Iles Wallis-et-Futuna dans la
+rédaction suivante :
 
 "Art. R. 234-1 - I. - Même en l'absence de tout signe d'ivresse manifeste, est puni de l'amende prévue pour les
 contraventions de la quatrième classe le fait de conduire un véhicule sous l'empire d'un état alcoolique caractérisé par :
@@ -15861,6 +15995,36 @@ de la République, le juge d'instruction ou l'officier ou l'agent de police judi
 également décider qu'il sera procédé à un second contrôle. Celui-ci est alors effectué immédiatement, après vérification du
 bon fonctionnement de l'appareil ; le résultat en est immédiatement porté à la connaissance de l'intéressé."
 
+"Art. R. 234-5.-I. - Est puni de l'amende prévue pour les contraventions de la cinquième classe le fait pour une personne
+ayant été condamnée à la peine d'interdiction de conduire un véhicule qui ne soit pas équipé par un professionnel agréé ou
+par construction d'un dispositif homologué d'antidémarrage par éthylotest électronique de conduire un véhicule équipé d'un
+tel dispositif soit après que celui-ci a été utilisé par un tiers pour permettre le démarrage, soit après l'avoir neutralisé
+ou détérioré ou l'avoir utilisé dans des conditions empêchant la mesure exacte de son état d'imprégnation alcoolique. 
+
+Les dispositions de l'alinéa qui précède sont également applicables lorsque les faits ont été commis par une personne ayant
+accepté d'exécuter à titre de composition pénale la mesure prévue au 4° bis de l'article 41-2 du code de procédure pénale dès
+lors que la composition pénale a été validée dans les conditions prévues par cet article. 
+
+II. - Le fait, par toute personne, de faciliter sciemment, par aide ou assistance, la préparation ou la consommation de la
+contravention prévue au I est puni de la même peine. 
+
+III. - Les personnes coupables des contraventions prévues au présent article encourent également les peines complémentaires
+suivantes : 
+
+1° La suspension du permis de conduire pour une durée de trois ans au plus, cette suspension ne pouvant pas être limitée à la
+conduite en dehors de l'activité professionnelle, ni être assortie du sursis, même partiellement ; 
+
+2° L'interdiction de conduire certains véhicules terrestres à moteur, y compris ceux pour la conduite desquels le permis de
+conduire n'est pas exigé, pour une durée de trois ans au plus ; 
+
+3° L'obligation d'accomplir, à ses frais, un stage de sensibilisation à la sécurité routière ; 
+
+4° La confiscation du véhicule dont le prévenu s'est servi pour commettre l'infraction, s'il en est propriétaire. 
+
+IV. - La récidive des contraventions prévues au présent article est réprimée conformément à l'article 132-11 du code pénal. 
+
+V. - L'immobilisation du véhicule peut être prescrite dans les conditions prévues aux articles L. 325-1 à L. 325-3."
+
 **Liens relatifs à cet article**
 
 	**Cité par**:
@@ -15875,21 +16039,21 @@ bon fonctionnement de l'appareil ; le résultat en est immédiatement porté à 
 
 	**Codifié par**:
 
-	  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+	  - Décret n°2001-251 du 22 mars 2001
 
 	**Modifié par**:
 
-	  - Décret n°2007-1626 du 16 novembre 2007 - art. 5 () JORF 18 novembre 2007 rectificatif JORF 20 novembre 2007
+	  - Décret n°2011-1048 du 5 septembre 2011 - art. 6 (V)
 
 	**Cite**:
 
-	  - Code de la route R234-1, R234-2, R234-4, L234-1, L234-3 à L234-5, L234-9, L234-4, L325-1 à L325-3
-	  - Code de la route. - art. L234-1 (M)
-	  - Code de la route. - art. L234-4 (M)
-	  - Code de la route. - art. L234-9 (V)
-	  - Code de la route. - art. R234-1 (M)
-	  - Code de la route. - art. R234-2 (M)
-	  - Code de la route. - art. R234-4 (V)
+	  - Code de la route.
+	  - Code de la route. - art. L234-1
+	  - Code de la route. - art. L234-4
+	  - Code de la route. - art. L234-9
+	  - Code de la route. - art. R234-1
+	  - Code de la route. - art. R234-2
+	  - Code de la route. - art. R234-4
 
 	**Nouveaux textes**:
 
