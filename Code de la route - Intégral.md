@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2012-01-05
+Version Consolidée au 2012-02-23
 
 # Partie législative
 
@@ -21416,54 +21416,22 @@ L'immobilisation peut être prescrite dans les conditions prévues aux articles 
 
 ###### Article R318-2
 
-I. - Sont considérées comme contribuant à la limitation de la pollution atmosphérique, au sens des dispositions de l'article
-L. 318-1, les voitures particulières et les camionnettes appartenant à l'une ou l'autre des catégories suivantes :
+Le classement des véhicules à moteur en fonction de leur contribution à la limitation de la pollution atmosphérique au sens
+des dispositions de l'article L. 318-1 est établi à partir de leur niveau d'émission de polluants atmosphériques. 
 
-1° Voitures particulières et camionnettes à propulsion électrique ou hybride ;
-
-2° Voitures particulières et camionnettes fonctionnant au gaz de pétrole liquéfié ou au gaz naturel véhicule ;
-
-3° Voitures particulières équipées d'un moteur à allumage commandé (essence) mises en circulation pour la première fois à
-compter du 31 décembre 1992 ;
-
-4° Voitures particulières équipées d'un moteur à allumage par compression (diesel) mises en circulation pour la première fois
-à compter du 1er janvier 1997 ;
-
-5° Voitures particulières équipées d'un moteur à allumage commandé (essence) mises en circulation pour la première fois avant
-le 31 décembre 1992 mais satisfaisant au moment de leur mise en circulation aux mêmes dispositions de limitation des
-émissions polluantes que celles des véhicules visés au 3° ci-dessus ou à des dispositions équivalentes ;
-
-6° Voitures particulières équipées d'un moteur à allumage par compression (diesel) mises en circulation pour la première fois
-avant le 1er janvier 1997 mais satisfaisant au moment de leur mise en circulation aux mêmes dispositions de limitation des
-émissions polluantes que celles des véhicules visés au 4° ci-dessus ou à des dispositions équivalentes ;
-
-7° Camionnettes équipées d'un moteur à allumage commandé (essence) mises en circulation pour la première fois à compter du
-1er octobre 1994 ;
-
-8° Camionnettes équipées d'un moteur à allumage par compression (diesel) mises en circulation pour la première fois à compter
-du 1er octobre 1998 ;
-
-9° Camionnettes équipées d'un moteur à allumage commandé (essence) mises en circulation pour la première fois avant le 1er
-octobre 1994 mais satisfaisant au moment de leur mise en circulation aux mêmes dispositions de limitation des émissions
-polluantes que celles des véhicules visés au 7° ci-dessus ou à des dispositions équivalentes ;
-
-10° Camionnettes équipées d'un moteur à allumage par compression (diesel) mises en circulation pour la première fois avant le
-1er octobre 1998 mais satisfaisant au moment de leur mise en circulation aux mêmes dispositions de limitation des émissions
-polluantes que celles des véhicules visés au 8° ci-dessus ou à des dispositions équivalentes.
-
-II. - Les véhicules définis au I ci-dessus sont identifiés par une pastille de couleur verte fixée sur le pare-brise.
-
-III. - Le ministre de l'intérieur, le ministre chargé des transports, le ministre chargé de l'environnement, le ministre
-chargé du budget et le ministre chargé de l'industrie fixent par arrêté les conditions d'application du présent article.
-
-IV. - Tout propriétaire d'un véhicule qui n'appartient pas à l'une des catégories définies au I ci-dessus et sur lequel est
-apposée la pastille de couleur verte est puni de l'amende prévue pour les contraventions de la quatrième classe.
+Les ministres chargés des transports, de l'environnement, de l'intérieur et des collectivités territoriales établissent par
+arrêté la nomenclature des véhicules mentionnés au premier alinéa en tenant compte de leur date de première immatriculation,
+de la norme Euro qui leur est applicable ou de leur motorisation.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+	  - Décret n°2001-251 du 22 mars 2001
+
+	**Modifié par**:
+
+	  - Décret n°2012-237 du 20 février 2012 - art. 1
 
 	**Cité par**:
 
@@ -21483,15 +21451,10 @@ apposée la pastille de couleur verte est puni de l'amende prévue pour les cont
 
 	  - Code de la route - art. R131 (Ab)
 	  - Code de la route - art. R241 (Ab)
-	  - Code de la route R131, R241 (al. 1 et 7)
 
 	**Cite**:
 
 	  - Code de la route. - art. L318-1 (V)
-
-	**Liens**:
-
-	  - SPEC_APPLI: Code de la route. - art. R318-6 (V)
 
 
 ###### Article R318-3
@@ -29659,6 +29622,31 @@ L'immobilisation du véhicule peut être prescrite dans les conditions prévues 
 
 	  - SPEC_APPLI: Code de la route. - art. R432-1 (V)
 	  - SPEC_APPLI: Code de la route. - art. R432-2 (M)
+
+
+###### Article R411-19-1
+
+1° Le fait, pour le conducteur d'un véhicule de catégorie M2, M3, N2 ou N3 définie à l'article R. 311-1, de contrevenir aux
+mesures d'interdiction ou de restriction de la circulation mentionnées par le décret instituant une zone d'actions
+prioritaires pour l'air est puni de l'amende prévue pour les contraventions de la quatrième classe ; 
+
+2° Le fait, pour le conducteur d'un véhicule de catégorie M1, N1 ou L définie à l'article R. 311-1, de contrevenir aux
+mesures d'interdiction ou de restriction de la circulation mentionnées par le décret instituant une zone d'actions
+prioritaires pour l'air est puni de l'amende prévue pour les contraventions de la troisième classe. 
+
+Les infractions prévues aux 1° et 2° peuvent entraîner l'immobilisation du véhicule dans les conditions prévues à l'article
+L. 325-1.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-237 du 20 février 2012 - art. 1
+
+	**Cite**:
+
+	  - Code de la route. - art. L325-1
+	  - Code de la route. - art. R311-1
 
 
 ###### Article R411-20
