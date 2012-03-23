@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2012-03-08
+Version Consolidée au 2012-03-24
 
 # Partie législative
 
@@ -1812,6 +1812,27 @@ la conduite d'un cyclomoteur.
 I.-Le fait de conduire un véhicule sans être titulaire du permis de conduire correspondant à la catégorie du véhicule
 considéré est puni d'un an d'emprisonnement et de 15 000 euros d'amende. 
 
+Toutefois, les conducteurs des véhicules et appareils agricoles ou forestiers attachés à une exploitation agricole ou
+forestière, à une entreprise de travaux agricoles ou à une coopérative d'utilisation de matériel agricole sont autorisés à
+conduire ces véhicules ou appareils pendant la durée de leur activité agricole ou forestière sans être titulaires du permis
+de conduire correspondant à la catégorie du véhicule considéré dès lors qu'ils sont âgés d'au moins seize ans, sauf
+exceptions prévues par décret en Conseil d'Etat. 
+
+Les conducteurs des véhicules et appareils agricoles ou forestiers, attachés à une exploitation agricole ou forestière, à une
+entreprise de travaux agricoles ou à une coopérative d'utilisation de matériel agricole sont autorisés à conduire ces
+véhicules ou appareils après la cessation de leur activité agricole ou forestière dès lors qu'ils sont titulaires du permis
+de conduire prévu pour les véhicules ayant un poids total autorisé en charge inférieur à 3,5 tonnes affectés au transport de
+personnes et comportant, outre le siège du conducteur, huit places assises au maximum ou affectés au transport de
+marchandises, ainsi que les véhicules qui peuvent être assimilés aux véhicules précédents. 
+
+Les employés municipaux et les affouagistes sont également autorisés à conduire ces véhicules ou appareils dès lors qu'ils
+sont titulaires du permis de conduire prévu pour les véhicules ayant un poids total autorisé en charge inférieur à 3,5 tonnes
+affectés au transport de personnes et comportant, outre le siège du conducteur, huit places assises au maximum ou affectés au
+transport de marchandises, ainsi que les véhicules qui peuvent être assimilés aux véhicules précédents. 
+
+Le fait de conduire un véhicule ou un ensemble de véhicules mentionnés au deuxième alinéa sans respecter les conditions d'âge
+prévues au même alinéa est puni de l'amende prévue pour les contraventions de la quatrième classe. 
+
 II.-Toute personne coupable de l'infraction prévue au présent article encourt également les peines complémentaires
 suivantes : 
 
@@ -1836,9 +1857,10 @@ III.-L'immobilisation peut être prescrite, dans les conditions prévues aux art
 	**Cite**:
 
 	  - Ordonnance n°45-174 du 2 février 1945 - art. 20-5
+	  - Code pénal - art. 131-22 (V)
 	  - Code pénal - art. 131-5
 	  - Code pénal - art. 131-8
-	  - Code de la route. - art. L325-1 (V)
+	  - Code de la route. - art. L325-1
 
 	**Cité par**:
 
@@ -1870,7 +1892,8 @@ III.-L'immobilisation peut être prescrite, dans les conditions prévues aux art
 
 	**Modifié par**:
 
-	  - Loi n°2011-267 du 14 mars 2011 - art. 70
+	  - Loi n°2003-239 du 18 mars 2003 - art. 77
+	  - Loi n°2012-387 du 22 mars 2012 - art. 87
 
 	**Anciens textes**:
 
@@ -5472,6 +5495,21 @@ Des décrets en Conseil d'Etat déterminent les conditions d'application du pré
 
 	  - Code de la route - art. L8 A (Ab)
 	  - Code de la route L8A
+
+
+#### Chapitre 2 : Poids et dimensions.
+
+###### Article L312-1
+
+Sauf exceptions prévues par voie réglementaire, la norme maximale en termes de poids total autorisé en charge d'un véhicule
+articulé, d'un train double ou d'un ensemble composé d'un véhicule à moteur et d'une remorque est fixée à 44 tonnes pour cinq
+essieux.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2012-387 du 22 mars 2012 - art. 92
 
 
 #### Chapitre 7 : Dispositifs et aménagements particuliers.
