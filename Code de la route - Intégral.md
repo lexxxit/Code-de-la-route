@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2012-08-01
+Version Consolidée au 2012-09-01
 
 # Partie législative
 
@@ -10650,20 +10650,22 @@ suivantes :
 
 3° Etre titulaire du permis de conduire de la catégorie B dont le délai probatoire fixé à l'article L. 223-1 est expiré ; 
 
-4° Remplir les conditions d'aptitude physique requises pour l'obtention du permis de conduire des catégories C, E (C), D, E
-(D), dont les modalités sont fixées par arrêté du   ministre chargé de la sécurité routière. Cette aptitude est attestée par
-un certificat médical en cours de validité. 
+4° Remplir les conditions d'aptitude physique, cognitive et sensorielle requises pour l'obtention du permis de conduire des
+catégories C, E (C), D, E (D), CE, C1, C1E, DE, D1 et D1E dont les modalités sont fixées par arrêté du ministre chargé de la
+sécurité routière. 
 
-Les conditions de délivrance et la périodicité du certificat médical sont celles fixées à l'article R. 221-11. 
+Le maintien de cette aptitude est subordonné à l'avis émis par un médecin agréé consultant hors commission médicale ou par la
+commission médicale, dans les conditions fixées au 2° du I de l'article R. 221-11. 
 
-La validité de l'autorisation d'enseigner est réduite à l'enseignement théorique lorsque l'inaptitude médicale à
-l'enseignement pratique de la conduite ou à la conduite est constatée. 
+La validité de l'autorisation d'enseigner est limitée à l'enseignement théorique lorsqu'une décision d'inaptitude à
+l'enseignement pratique de la conduite ou à la conduite elle-même a été prise par le préfet après avis du médecin précité ou
+de la commission médicale. 
 
 II.-L'autorisation d'animer les stages de sensibilisation à la sécurité routière est délivrée aux personnes remplissant les
 conditions suivantes :
 
 - soit être titulaire de l'autorisation d'enseigner mentionnée au I du présent article et d'un diplôme complémentaire dans le
-domaine de la formation à la sécurité routière figurant sur une liste fixée par arrêté du   ministre chargé de la sécurité
+domaine de la formation à la sécurité routière figurant sur une liste fixée par arrêté du ministre chargé de la sécurité
 routière ;
 
 - soit être titulaire d'un diplôme permettant de faire usage du titre de psychologue et du permis de conduire dont le délai
@@ -10673,7 +10675,7 @@ probatoire fixé à l'article L. 223-1 est expiré ;
 initiale à l'animation de stages de sensibilisation à la sécurité routière délivrée dans les conditions fixées par arrêté du
 ministre chargé de la sécurité routière. 
 
-III.-Un arrêté du   ministre chargé de la sécurité routière définit les conditions d'application du présent article.
+III-Un arrêté du ministre chargé de la sécurité routière définit les conditions d'application du présent article.
 
 **Liens relatifs à cet article**
 
@@ -10694,7 +10696,7 @@ III.-Un arrêté du   ministre chargé de la sécurité routière définit les c
 
 	**Modifié par**:
 
-	  - Décret n°2012-688 du 7 mai 2012 - art. 2
+	  - Décret n°2012-886 du 17 juillet 2012 - art. 3
 
 	**Anciens textes**:
 
@@ -12495,7 +12497,8 @@ ensemble de véhicules ou du véhicule tracteur d'un véhicule articulé.
 ###### Article R221-10
 
 I.-Les catégories A et B du permis de conduire sont délivrées sans visite médicale préalable sauf dans les cas où cette
-visite est rendue obligatoire par arrêté du ministre chargé des transports pris en application de l'article R. 221-19. 
+visite est rendue obligatoire par arrêté du ministre chargé de la sécurité routière pris en application de l'article R.
+226-1. 
 
 II.-Les catégories A et B délivrées pour la conduite des véhicules spécialement aménagés pour tenir compte du handicap du
 conducteur et les catégories C, D et E ne peuvent être obtenues ou renouvelées qu'à la suite d'une visite médicale
@@ -12512,11 +12515,11 @@ III.-La catégorie B du permis de conduire ne permet la conduite :
 4° Des véhicules affectés au transport public de personnes, 
 
 que si le conducteur est en possession d'une attestation délivrée par le préfet après vérification médicale de l'aptitude
-physique.
+physique. 
 
-IV. - La catégorie A du permis de conduire ne permet la conduite des véhicules motorisés à deux ou trois roues utilisés pour
-le transport à titre onéreux de personnes que si le conducteur est en possession d'une attestation délivrée par le préfet
-après vérification médicale de l'aptitude physique.
+IV.-La catégorie A du permis de conduire ne permet la conduite des véhicules motorisés à deux ou trois roues utilisés pour le
+transport à titre onéreux de personnes que si le conducteur est en possession d'une attestation délivrée par le préfet après
+vérification médicale de l'aptitude physique.
 
 **Liens relatifs à cet article**
 
@@ -12540,7 +12543,7 @@ après vérification médicale de l'aptitude physique.
 
 	**Modifié par**:
 
-	  - Décret n°2010-1223 du 11 octobre 2010 - art. 2
+	  - Décret n°2012-886 du 17 juillet 2012 - art. 3
 
 	**Anciens textes**:
 
@@ -12549,12 +12552,12 @@ après vérification médicale de l'aptitude physique.
 
 	**Cite**:
 
-	  - Code de la route. - art. R221-19
+	  - Code de la route. - art. R226-1
 
 
 ###### Article R221-11
 
-I.-Lorsqu'une visite médicale est obligatoire en vue de la délivrance ou du renouvellement du permis de conduire, celui-ci
+I. - Lorsqu'une visite médicale est obligatoire en vue de la délivrance ou du renouvellement du permis de conduire, celui-ci
 peut être : 
 
 1° Dans les cas prévus au I de l'article R. 221-10, accordé sans limitation de durée ou délivré ou prorogé selon la
@@ -12565,16 +12568,15 @@ cinq ans pour les conducteurs de moins de soixante ans, deux ans à partir de l'
 de soixante-seize ans. Toutefois, pour les conducteurs titulaires de la catégorie D du permis de conduire, la périodicité
 maximale est d'un an à partir de l'âge de soixante ans. 
 
-II.-La validité du permis ainsi délivré ne peut être prorogée qu'au vu d'un certificat médical favorable délivré par un
-médecin de ville agréé ou par une commission médicale. Un arrêté du ministre chargé des transports détermine les modalités
-d'application du présent II. 
+II. - La validité du permis ainsi délivré ne peut être prorogée qu'après l'avis médical établi par un médecin agréé
+consultant hors commission médicale ou par la commission médicale. 
 
-III.-La demande de prorogation doit être adressée au préfet du département du domicile du pétitionnaire. Tant qu'il n'y est
-pas statué par le préfet dans les conditions fixées par arrêté du ministre chargé des transports, notamment en ce qui
-concerne la procédure et les délais et sauf carence de l'intéressé, le permis reste provisoirement valide. 
+III. - La demande de prorogation doit être adressée au préfet du département du domicile du pétitionnaire. Tant qu'il n'y est
+pas statué par le préfet dans les conditions fixées par arrêté du ministre chargé de la sécurité routière, notamment en ce
+qui concerne la procédure et les délais et sauf carence de l'intéressé, le permis reste provisoirement valide. 
 
-IV.-Les catégories A et B du permis de conduire délivrées pour la conduite des véhicules spécialement aménagés pour tenir
-compte du handicap du conducteur sont toutefois délivrées sans limitation de durée si le certificat médical favorable à
+IV. - Les catégories A et B du permis de conduire délivrées pour la conduite des véhicules spécialement aménagés pour tenir
+compte du handicap du conducteur sont toutefois délivrées sans limitation de durée si l'avis médical favorable à
 l'attribution de ces catégories établit que l'intéressé est atteint d'une invalidité ou d'une infirmité incurable, définitive
 ou stabilisée.
 
@@ -12606,7 +12608,7 @@ ou stabilisée.
 
 	**Modifié par**:
 
-	  - Décret n°2010-1223 du 11 octobre 2010 - art. 2
+	  - Décret n°2012-886 du 17 juillet 2012 - art. 3
 
 	**Anciens textes**:
 
@@ -12646,7 +12648,7 @@ mais susceptible de s'aggraver.
 
 ###### Article R221-13
 
-I.-Le préfet soumet à des analyses ou à des examens médicaux, cliniques et biologiques, notamment salivaires et
+I. - Le préfet soumet à des analyses ou à des examens médicaux, cliniques et biologiques, notamment salivaires et
 capillaires : 
 
 1° Tout conducteur ou accompagnateur d'un élève conducteur auquel est imputable l'une des infractions prévues par les
@@ -12656,24 +12658,20 @@ L. 235-1 et L. 235-3 ;
 2° Tout conducteur qui a fait l'objet d'une mesure portant restriction ou suspension du droit de conduire d'une durée
 supérieure à un mois pour l'une des infractions prévues au présent code, autres que celles visées au 1° ci-dessus. 
 
-II.-Lorsque le titulaire du permis de conduire néglige ou refuse de se soumettre, dans les délais qui lui sont prescrits, à
-l'une des visites médicales prévues au présent article, le préfet peut prononcer ou maintenir la suspension du permis de
-conduire jusqu'à production d'un certificat médical favorable délivré à la demande de l'intéressé par la commission médicale
-prévue à l'article R. 221-11.
-
-**Nota:**
-
-Décret 2003-293 art. 8 : Les dispositions des articles 2,3,4,6 et 7 sont applicables à Mayotte.
+II. - Lorsque le titulaire du permis de conduire néglige ou refuse de se soumettre, dans les délais qui lui sont prescrits, à
+l'une des analyses ou des examens médicaux prévus au présent article, le préfet peut prononcer ou maintenir la suspension du
+permis de conduire jusqu'à ce qu'un avis médical d'aptitude soit émis, à la demande de l'intéressé, par le médecin agréé
+consultant hors commission médicale, ou par la commission médicale.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+	  - Décret n°2001-251 du 22 mars 2001
 
 	**Modifié par**:
 
-	  - Décret n°2003-293 2003-03-31 art. 6 JORF 1er avril 2003
+	  - Décret n°2012-886 du 17 juillet 2012 - art. 3
 
 	**Cité par**:
 
@@ -12683,26 +12681,22 @@ Décret 2003-293 art. 8 : Les dispositions des articles 2,3,4,6 et 7 sont applic
 	**Anciens textes**:
 
 	  - Code de la route - art. R128 (Ab)
-	  - Code de la route R128 (al. 3, 4, 5 et 8)
 
 	**Cite**:
 
-	  - Code de la route. - art. L234-1 (V)
-	  - Code de la route. - art. L235-1 (V)
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2003-293 2002-12-23 art. 8
+	  - Code de la route. - art. L234-1
+	  - Code de la route. - art. L235-1
 
 
 ###### Article R221-14
 
-I.-Postérieurement à la délivrance du permis, le préfet peut prescrire un examen médical : 
+I. - Postérieurement à la délivrance du permis, le préfet peut enjoindre à un conducteur de se soumettre à un contrôle
+médical :
 
 1° Dans le cas où les informations en sa possession lui permettent d'estimer que l'état physique du titulaire du permis peut
-être incompatible avec le maintien de ce permis de conduire. Cet examen médical doit être réalisé par la commission médicale
-prévue à l'article R. 221-11 ; au vu du certificat médical, le préfet prononce, s'il y a lieu, soit la restriction de
-validité, la suspension ou l'annulation du permis de conduire, soit le changement de catégorie de ce titre ; 
+être incompatible avec le maintien de ce permis de conduire. Cet examen médical est réalisé par un médecin agréé consultant
+hors commission médicale ; au vu de l'avis médical émis, le préfet prononce, s'il y a lieu, soit la restriction de validité,
+la suspension ou l'annulation du permis de conduire, soit le changement de catégorie de ce titre ; 
 
 2° A tout conducteur impliqué dans un accident corporel de la circulation routière ; 
 
@@ -12712,10 +12706,10 @@ prononcé une mesure restrictive ou suspensive du droit de conduire pour l'une d
 Cette mesure est prononcée, selon le cas, par le préfet du département de résidence du conducteur ou de l'accompagnateur de
 l'élève conducteur. 
 
-II.-Lorsque le titulaire du permis de conduire néglige ou refuse de se soumettre, dans les délais qui lui sont prescrits, à
-l'une des visites médicales prévues au présent article, le préfet peut prononcer ou maintenir la suspension du permis de
-conduire jusqu'à production d'un certificat médical favorable délivré à la demande de l'intéressé par la commission médicale
-prévue à l'article R. 221-11.
+II. - Lorsque le titulaire du permis de conduire néglige ou refuse de se soumettre, dans les délais qui lui sont prescrits,
+au contrôle médical dans les conditions du présent article, le préfet peut prononcer ou maintenir la suspension du permis de
+conduire jusqu'à ce qu'un avis médical soit émis par le médecin agréé consultant hors commission médicale, ou par la
+commission médicale.
 
 **Liens relatifs à cet article**
 
@@ -12726,20 +12720,19 @@ prévue à l'article R. 221-11.
 
 	**Codifié par**:
 
-	  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+	  - Décret n°2001-251 du 22 mars 2001
+
+	**Modifié par**:
+
+	  - Décret n°2012-886 du 17 juillet 2012 - art. 3
 
 	**Anciens textes**:
 
 	  - Code de la route - art. R128 (Ab)
-	  - Code de la route R128 (al. 2, 6, 7 et 8)
 
 	**Cite**:
 
-	  - Code de la route. - art. L234-1 (V)
-
-	**Liens**:
-
-	  - SPEC_APPLI: Code de la route. - art. R221-21 (V)
+	  - Code de la route. - art. L234-1
 
 
 ###### Article R221-15
@@ -12876,11 +12869,8 @@ contraventions de la cinquième classe.
 
 ###### Article R221-19
 
-Le ministre chargé des transports détermine les conditions dans lesquelles doit être demandé, établi et délivré le permis de
-conduire et sont prononcées les extensions, prorogations et restrictions de validité des catégories de ce permis.
-
-Il fixe la liste des incapacités physiques incompatibles avec l'obtention du permis de conduire ainsi que la liste des
-incapacités susceptibles de donner lieu à l'application des articles R. 221-12 à R. 221-14.
+Le ministre chargé de la sécurité routière  détermine les conditions dans lesquelles doit être demandé, établi et délivré le
+permis de conduire et sont prononcées les extensions, prorogations et restrictions de validité des catégories de ce permis.
 
 **Liens relatifs à cet article**
 
@@ -12892,20 +12882,19 @@ incapacités susceptibles de donner lieu à l'application des articles R. 221-12
 
 	**Codifié par**:
 
-	  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+	  - Décret n°2001-251 du 22 mars 2001
+
+	**Modifié par**:
+
+	  - Décret n°2012-886 du 17 juillet 2012 - art. 3
 
 	**Anciens textes**:
 
 	  - Code de la route - art. R129 (Ab)
-	  - Code de la route R129
 
 	**Cite**:
 
-	  - Code de la route R221-12 à R221-14
-
-	**Liens**:
-
-	  - SPEC_APPLI: Code de la route. - art. R221-21 (V)
+	  - Code de la route.
 
 
 ###### Article R221-20
@@ -14053,13 +14042,9 @@ après la date à laquelle ils sont autorisés à le faire.
 
 En cas d'annulation du permis de conduire prononcée en application du présent code, tout conducteur dont le permis de
 conduire a été annulé doit, pour être admis à subir les épreuves exigées pour la délivrance d'un nouveau permis, produire à
-l'appui de sa demande un certificat délivré par la commission médicale d'examen attestant qu'il n'est atteint d'aucune
-affection incompatible avec la délivrance du permis de conduire de la catégorie sollicitée et qu'il a satisfait à un examen
-psychotechnique.
-
-**Nota:**
-
-Décret 2003-642 du 11 juillet 2003 art. 9 : application à Mayotte.
+l'appui de sa demande un certificat délivré par un médecin agréé consultant hors commission médicale ou par la commission
+médicale attestant qu'il n'est atteint d'aucune affection incompatible avec la délivrance du permis de conduire de la
+catégorie sollicitée et qu'il a satisfait à un examen psychotechnique.
 
 **Liens relatifs à cet article**
 
@@ -14069,12 +14054,11 @@ Décret 2003-642 du 11 juillet 2003 art. 9 : application à Mayotte.
 
 	**Codifié par**:
 
-	  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+	  - Décret n°2001-251 du 22 mars 2001
 
 	**Modifié par**:
 
-	  - Décret n°2003-642 2003-07-11 art. 4 IX, X JORF 12 juillet 2003
-	  - Décret n°2003-642 du 11 juillet 2003 - art. 4 () JORF 12 juillet 2003
+	  - Décret n°2012-886 du 17 juillet 2012 - art. 3
 
 	**Cité par**:
 
@@ -14084,17 +14068,15 @@ Décret 2003-642 du 11 juillet 2003 art. 9 : application à Mayotte.
 
 ###### Article R224-22
 
-La commission chargée d'établir le certificat visé à l'article R. 224-21 procède d'abord à l'examen médical du candidat pour
-s'assurer que celui-ci est indemne de toute affection incompatible avec la délivrance du permis.
+En vue d'établir le certificat mentionné à l'article R. 224-21, le médecin agréé consultant hors commission médicale ou la
+commission médicale procède à l'examen médical du candidat pour s'assurer que celui-ci est indemne de toute affection
+incompatible avec la délivrance du permis de conduire. 
 
-Dans l'affirmative, elle provoque un examen psychotechnique de l'intéressé.
+Dans l'affirmative, le candidat est soumis à un examen psychotechnique, qui porte sur les tests prescrits par le médecin
+agréé consultant hors commission médicale ou la commission médicale. 
 
-Cet examen, qui porte notamment sur les tests prescrits par la commission, est subi dans un centre de sélection
-psychotechnique agréé par le préfet. Les résultats en sont communiqués à la commission.
-
-**Nota:**
-
-Décret 2003-642 du 11 juillet 2003 art. 9 : application à Mayotte.
+Les résultats de cet examen, qui se déroule dans un centre agréé par le préfet, sont communiqués au médecin agréé ou à la
+commission susmentionnée.
 
 **Liens relatifs à cet article**
 
@@ -14104,12 +14086,7 @@ Décret 2003-642 du 11 juillet 2003 art. 9 : application à Mayotte.
 
 	**Codifié par**:
 
-	  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
-
-	**Modifié par**:
-
-	  - Décret n°2003-642 2003-07-11 art. 4 IX, X JORF 12 juillet 2003
-	  - Décret n°2003-642 du 11 juillet 2003 - art. 4 () JORF 12 juillet 2003
+	  - Décret n°2001-251 du 22 mars 2001
 
 	**Cité par**:
 
@@ -14119,17 +14096,22 @@ Décret 2003-642 du 11 juillet 2003 art. 9 : application à Mayotte.
 	  - Arrêté du 31 juillet 2012 - art. 7 (V)
 	  - Code de la route. - art. R226-2 (VD)
 
+	**Modifié par**:
+
+	  - Décret n°2012-886 du 17 juillet 2012 - art. 3
+
 	**Cite**:
 
-	  - Code de la route. - art. R224-21 (M)
+	  - Code de la route. - art. R224-21
 
 
 ###### Article R224-23
 
-Si le résultat de l'examen médical et de l'examen psychotechnique est favorable, la commission délivre le certificat prévu à
-l'article R. 224-21.
+Si le résultat de l'examen médical et de l'examen psychotechnique est favorable, le médecin agréé consultant hors commission
+médicale ou la commission médicale délivre le certificat prévu à l'article R. 224-21.
 
-Si le résultat est défavorable, la commission établit un certificat concluant à l'inaptitude du candidat.
+Si le résultat est défavorable, le médecin agréé consultant hors commission médicale ou la commission médicale établit un
+certificat concluant à l'inaptitude du candidat.
 
 **Nota:**
 
@@ -14143,16 +14125,15 @@ Décret 2003-642 du 11 juillet 2003 art. 9 : application à Mayotte.
 
 	**Codifié par**:
 
-	  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+	  - Décret n°2001-251 du 22 mars 2001
 
 	**Modifié par**:
 
-	  - Décret n°2003-642 2003-07-11 art. 4 IX, X JORF 12 juillet 2003
-	  - Décret n°2003-642 du 11 juillet 2003 - art. 4 () JORF 12 juillet 2003
+	  - Décret n°2012-886 du 17 juillet 2012 - art. 3
 
 	**Cite**:
 
-	  - Code de la route. - art. R224-21 (M)
+	  - Code de la route. - art. R224-21
 
 
 ###### Article R224-24
@@ -14247,9 +14228,10 @@ titres seraient adressés directement aux autorités préfectorales émettrices 
 5° Des décisions dûment notifiées portant retrait total ou partiel de titres ou de permis de conduire obtenus irrégulièrement
 ou frauduleusement ; 
 
-6° Des décisions dûment notifiées prises sur avis des commissions médicales en application des articles R. 221-10 à R.
-221-14, portant inaptitude à la conduite des véhicules d'une ou plusieurs catégories, ou portant prorogation, limitation de
-la durée de validité, suspension, annulation, rétablissement ou changement de catégories du permis de conduire ; 
+6° Des décisions dûment notifiées prises sur avis des médecins agréés consultant hors commission médicale ou des commissions
+médicales en application du présent code, portant inaptitude à la conduite des véhicules d'une ou plusieurs catégories, ou
+portant prorogation, limitation de la durée de validité, suspension, annulation, rétablissement ou changement de catégories
+du permis de conduire ; 
 
 7° Des mesures administratives dûment notifiées portant restriction du droit de faire usage du permis de conduire prises
 conformément aux articles L. 224-1, L. 224-2, L. 224-7, L. 224-8 et R. 224-6 à R. 224-19 à l'encontre de titulaires de permis
@@ -14270,7 +14252,7 @@ alinéa de l'article L. 223-6 ;
 
 	**Modifié par**:
 
-	  - Décret n°2008-754 du 30 juillet 2008 - art. 22
+	  - Décret n°2012-886 du 17 juillet 2012 - art. 3
 
 	**Anciens textes**:
 
@@ -14281,7 +14263,6 @@ alinéa de l'article L. 223-6 ;
 	  - Code de la route. - art. L223-6
 	  - Code de la route. - art. L224-1
 	  - Code de la route. - art. L224-7
-	  - Code de la route. - art. R221-10
 	  - Code de la route. - art. R224-6
 
 	**Nouveaux textes**:
@@ -14416,6 +14397,156 @@ présent article sont fixées par arrêté du ministre de l'intérieur.
 	**Cite**:
 
 	  - Code de la route. - art. R225-5 (V)
+
+
+#### Chapitre VI : Organisation du contrôle médical de l'aptitude à la conduite
+
+###### Article R226-1
+
+Le contrôle médical de l'aptitude à la conduite consiste en une évaluation de l'aptitude physique, cognitive et sensorielle
+du candidat au permis de conduire ou du titulaire du permis : 
+
+1° Dans les cas prévus aux articles L. 223-5 et L. 224-14 ; 
+
+2° Atteint d'une affection médicale incompatible avec l'obtention ou le maintien du permis de conduire ou pouvant donner lieu
+à la délivrance de permis de conduire de durée de validité limitée, figurant sur une liste fixée par arrêté conjoint des
+ministres chargés de la sécurité routière et de la santé ; 
+
+3° Soumis à un contrôle médical, périodique ou occasionnel, dans les cas figurant sur une liste fixée par arrêté du ministre
+chargé de la sécurité routière.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Arrêté du 20 avril 2012 - art. 1 (VD)
+	  - Arrêté du 20 avril 2012 - art. 3 (VD)
+	  - Arrêté du 20 avril 2012 - art. 4 (VD)
+	  - Arrêté du 20 avril 2012 - art. 6 (VD)
+	  - Arrêté du 20 avril 2012 - art. 7 (VD)
+	  - Arrêté du 31 juillet 2012 - art. 1 (VT)
+	  - Arrêté du 31 juillet 2012 - art. 3 (VD)
+	  - Arrêté du 4 août 2014 - art. 1
+	  - Code de la route. - art. R221-10 (V)
+	  - Code de la route. - art. R233-1 (V)
+	  - Code de la route. - art. R241-2 (VD)
+	  - Code de la sécurité sociale. - art. D311-1 (V)
+
+	**Créé par**:
+
+	  - Décret n°2012-886 du 17 juillet 2012 - art. 2
+
+	**Cite**:
+
+	  - Code de la route. - art. L223-5
+	  - Code de la route. - art. L224-14
+
+
+###### Article R226-2
+
+Ce contrôle est effectué par un médecin agréé par le préfet, consultant hors commission médicale, ou des médecins siégeant
+dans une commission médicale primaire départementale ou interdépartementale, mentionnés à l'article R. 221-11. 
+
+Une commission médicale d'appel, composée de médecins généralistes et de spécialistes agréés, est créée dans chaque
+département. A défaut de praticiens en nombre suffisant, elle peut être interdépartementale. 
+
+Un médecin agréé ne peut effectuer le contrôle médical d'une personne dont il est le médecin traitant. 
+
+Si le contrôle médical de l'aptitude à la conduite intervient à la suite d'une invalidation, annulation ou suspension du
+permis prononcée en application du présent code, il est complété par un examen psychotechnique réalisé dans les conditions
+prévues à l'article R. 224-22. 
+
+Lors de ce contrôle médical, le médecin agréé ou la commission médicale peut prescrire tout examen complémentaire. Il peut
+également solliciter, dans le respect du secret médical, l'avis de professionnels de santé qualifiés dans des domaines
+particuliers. 
+
+S'il l'estime médicalement nécessaire, le médecin agréé peut demander au préfet de convoquer la personne examinée devant la
+commission médicale primaire dont la compétence est alors substituée à la sienne. 
+
+Le médecin agréé consultant hors commission médicale ou la commission médicale émet un avis médical sur l'aptitude,
+l'aptitude temporaire, l'aptitude avec restrictions d'utilisation du permis ou sur l'inaptitude à la conduite de la personne
+examinée. Cet avis est transmis au préfet par leurs soins. 
+
+Le contrôle médical de l'aptitude à la conduite n'est pas pris en charge par l'assurance maladie. 
+
+Les modalités d'organisation de ce contrôle médical sont fixées par arrêté conjoint des ministres chargés de la sécurité
+routière et de la santé.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-886 du 17 juillet 2012 - art. 2
+
+	**Cité par**:
+
+	  - Arrêté du 31 juillet 2012 - art. 3 (VD)
+	  - Arrêté du 31 juillet 2012 - art. 4 (VD)
+	  - Arrêté du 31 juillet 2012 - art. 6 (V)
+	  - Arrêté du 31 juillet 2012 - art. 7 (V)
+	  - Arrêté du 30 octobre 2016 - art. (VD)
+	  - Code de la route. - art. R226-3 (VD)
+	  - Code de la sécurité sociale. - art. D311-1 (V)
+
+	**Cite**:
+
+	  - Code de la route. - art. R221-11
+	  - Code de la route. - art. R224-22
+
+
+###### Article R226-3
+
+La commission médicale primaire réalise les contrôles médicaux : 
+
+1° A la suite d'une annulation ou suspension consécutive à une infraction pour conduite sous l'influence de l'alcool ou après
+usage de substances ou plantes classées comme stupéfiants ; 
+
+2° A la suite d'une invalidation résultant de sanctions dont l'une au moins est imputable à une infraction pour conduite sous
+l'influence de l'alcool ou après usage de substances ou plantes classées comme stupéfiants ; 
+
+3° Après sa saisine par un médecin agréé dans les conditions mentionnées à l'article R. 226-2 ; 
+
+4° Dans les autres cas définis par décret.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-886 du 17 juillet 2012 - art. 2
+
+	**Cité par**:
+
+	  - Arrêté du 31 juillet 2012 - art. 5 (VD)
+
+	**Cite**:
+
+	  - Code de la route. - art. R226-2
+
+
+###### Article R226-4
+
+La commission médicale d'appel peut être saisie par la personne qui a fait l'objet d'un contrôle médical lorsque, à la suite
+de l'avis qui lui a été transmis, le préfet a rendu à son encontre une décision d'aptitude temporaire, d'aptitude avec
+restrictions d'utilisation du permis ou d'inaptitude.
+
+Cet appel ne suspend pas l'application de la décision préfectorale.
+
+La commission médicale d'appel, après avoir examiné la personne et entendu, si elle le juge nécessaire, le ou les médecins
+agréés qui ont réalisé son contrôle médical en première instance, transmet au préfet son avis motivé.
+
+La personne ayant fait l'objet d'une décision d'inaptitude, d'aptitude temporaire ou d'aptitude assortie de restrictions du
+préfet prise après avis de la commission d'appel, peut demander un nouveau contrôle médical par un médecin agréé consultant
+hors commission médicale ou par la commission médicale à l'expiration d'un délai de six mois suivant cette décision.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-886 du 17 juillet 2012 - art. 2
+
+	**Cité par**:
+
+	  - Arrêté du 31 juillet 2012 - art. 10 (VD)
 
 
 ### Titre III : Comportement du conducteur.
@@ -15422,18 +15553,18 @@ par "direction de l'équipement".
 
 ###### Article R241-2
 
-La commission médicale prévue à l'article R. 221-11 est constituée, pour l'application de cet article dans la collectivité
+La commission médicale prévue à l'article R. 226-1 est constituée, pour l'application de cet article dans la collectivité
 territoriale de Saint-Pierre-et-Miquelon, dans les conditions fixées par arrêté du préfet.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°79-982 1979-11-20 art. 3
-
 	**Codifié par**:
 
-	  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+	  - Décret n°2001-251 du 22 mars 2001
+
+	**Modifié par**:
+
+	  - Décret n°2012-886 du 17 juillet 2012 - art. 3
 
 	**Cité par**:
 
@@ -15441,7 +15572,7 @@ territoriale de Saint-Pierre-et-Miquelon, dans les conditions fixées par arrêt
 
 	**Cite**:
 
-	  - Code de la route. - art. R221-11 (M)
+	  - Code de la route. - art. R226-1
 
 
 #### Chapitre II : Dispositions applicables à Mayotte.
@@ -30281,10 +30412,11 @@ II. - Toutefois, le port de la ceinture de sécurité n'est pas obligatoire :
 
 1° Pour toute personne dont la morphologie est manifestement inadaptée au port de celle-ci ;
 
-2° Pour toute personne munie d'un certificat médical d'exemption, délivré par la commission médicale départementale chargée
-d'apprécier l'aptitude physique des candidats au permis de conduire et des conducteurs ou par les autorités compétentes d'un
-Etat membre de la Communauté européenne ou de l'Espace économique européen. Ce certificat médical doit mentionner sa durée de
-validité et comporter le symbole prévu à l'article 5 de la directive 91/671/CEE du Conseil du 16 décembre 1991 ;
+2° Pour toute personne munie d'un certificat médical d'exemption, délivré par un médecin agréé consultant hors commission
+médicale chargé  d'apprécier l'aptitude physique des candidats au permis de conduire et des conducteurs ou par les autorités
+compétentes d'un Etat membre de la Communauté européenne ou de l'Espace économique européen. Ce certificat médical doit
+mentionner sa durée de validité et comporter le symbole prévu à l'article 5 de la directive 91/671/CEE du Conseil du 16
+décembre 1991 ;
 
 3° En intervention d'urgence, pour tout conducteur ou passager d'un véhicule d'intérêt général prioritaire ou d'une
 ambulance ;
@@ -30306,11 +30438,11 @@ points du permis de conduire.
 
 	**Codifié par**:
 
-	  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+	  - Décret n°2001-251 du 22 mars 2001
 
 	**Modifié par**:
 
-	  - Décret n°2006-1496 du 29 novembre 2006 - art. 1 () JORF 1er décembre 2006 en vigueur le 1er janvier 2008
+	  - Décret n°2012-886 du 17 juillet 2012 - art. 3
 
 	**Cité par**:
 
@@ -30329,11 +30461,6 @@ points du permis de conduire.
 	  - Code de la route - art. R233 (Ab)
 	  - Code de la route - art. R256 (Ab)
 	  - Code de la route - art. R53-1 (Ab)
-	  - Code de la route R53-1, R233 (al. 6), R256 5°
-
-	**Cite**:
-
-	  - Directive 91-671 CEE 1991-12-16 art. 5 (Conseil)
 
 
 ###### Article R412-2
@@ -35852,6 +35979,19 @@ paiement est puni de l'amende prévue pour les contraventions de la deuxième cl
 	  - SPEC_APPLI: Code de la route. - art. R432-2 (M)
 
 
+###### Article R421-10
+
+Le fait d'exercer l'activité de dépannage sur une autoroute concédée, ses dépendances domaniales ou ses installations annexes
+sans être titulaire d'un agrément délivré à cette fin par le préfet dans les conditions prévues par le contrat de concession
+est puni de l'amende prévue pour les contraventions de la 4e classe.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-953 du 1er août 2012 - art. 1
+
+
 #### Chapitre II : Voies à circulation spécialisée et ouvrages d'art.
 
 ###### Article R422-1
@@ -36024,6 +36164,19 @@ L'immobilisation peut être prescrite dans les conditions prévues aux articles 
 
 	  - SPEC_APPLI: Code de la route. - art. R432-1 (V)
 	  - SPEC_APPLI: Code de la route. - art. R432-2 (M)
+
+
+###### Article R422-5
+
+Le fait d'exercer l'activité de dépannage sur un ouvrage d'art concédé du réseau routier national, ses dépendances domaniales
+ou ses installations annexes sans être titulaire d'un agrément délivré à cette fin par le préfet dans les conditions prévues
+par le contrat de concession est puni de l'amende prévue pour les contraventions de la 4e classe.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-953 du 1er août 2012 - art. 2
 
 
 ### Titre III : Dispositions complémentaires applicables à la circulation de certains véhicules.  
