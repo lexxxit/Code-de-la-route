@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2014-01-29
+Version Consolidée au 2014-03-19
 
 # Partie législative
 
@@ -1363,7 +1363,11 @@ après avis d'une commission.
 ###### Article L213-2
 
 Les conditions et les modalités de l'enseignement, à titre onéreux, de la conduite des véhicules à moteur d'une catégorie
-donnée et de la sécurité routière font l'objet d'un contrat écrit entre le candidat et l'établissement.
+donnée et de la sécurité routière font l'objet d'un contrat écrit entre le candidat et l'établissement. La restitution du
+dossier au candidat qui en fait la demande ne donne lieu à l'application d'aucuns frais. 
+
+Le transfert du dossier du candidat vers un autre établissement ne donne lieu à l'application d'aucuns frais. Les conditions
+d'application du présent alinéa sont définies par décret. 
 
 Les conditions et les modalités de la formation à titre onéreux des candidats à l'un des titres ou diplômes exigés pour
 l'exercice de la profession d'enseignant de la conduite des véhicules à moteur et de la sécurité routière font l'objet d'un
@@ -1373,8 +1377,8 @@ contrat écrit entre le candidat et l'établissement.
 
 	**Codifié par**:
 
-	  - Ordonnance 2000-930 2000-09-22 JORF 24 septembre 2000
-	  - Loi n°2003-495 2003-06-12 art. 38 JORF 13 juin 2003
+	  - Ordonnance n°2000-930 du 22 septembre 2000
+	  - Loi n°2003-495 du 12 juin 2003
 
 	**Cité par**:
 
@@ -1392,12 +1396,11 @@ contrat écrit entre le candidat et l'établissement.
 
 	**Modifié par**:
 
-	  - Loi n°2007-297 du 5 mars 2007 - art. 23 (V) JORF 7 mars 2007 en vigueur au plus tard le 7 mars 2009
+	  - Loi n°2014-344 du 17 mars 2014 - art. 136
 
 	**Anciens textes**:
 
 	  - Code de la route - art. L29-6 (Ab)
-	  - Code de la route L29-6
 
 
 ###### Article L213-3
