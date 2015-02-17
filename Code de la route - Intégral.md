@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2015-01-01
+Version Consolidée au 2015-02-18
 
 # Partie législative
 
@@ -1109,7 +1109,8 @@ b) Soit à une peine correctionnelle prononcée pour une infraction figurant sur
 
 2° Etre titulaire du permis de conduire, en cours de validité, valable pour la ou les catégories de véhicules considérés ;
 
-3° Etre titulaire de l'un des titres ou diplômes dont la liste est fixée par décret en Conseil d'Etat ;
+3° Etre titulaire d'un titre ou diplôme d'enseignant de la conduite et de la sécurité routière ou, dans des conditions
+déterminées par décret en Conseil d'Etat, être en cours de formation pour la préparation à l'un de ces titres ou diplômes ;
 
 4° Remplir les conditions d'âge, d'ancienneté du permis de conduire et d'aptitude physique fixées par décret en Conseil
 d'Etat.
@@ -1130,8 +1131,8 @@ b) Soit à une peine correctionnelle prononcée pour une infraction figurant sur
 
 	**Codifié par**:
 
-	  - Ordonnance 2000-930 2000-09-22 JORF 24 septembre 2000
-	  - Loi n°2003-495 2003-06-12 art. 38 JORF 13 juin 2003
+	  - Ordonnance n°2000-930 du 22 septembre 2000
+	  - Loi n°2003-495 du 12 juin 2003
 
 	**Cité par**:
 
@@ -1152,12 +1153,11 @@ b) Soit à une peine correctionnelle prononcée pour une infraction figurant sur
 
 	**Modifié par**:
 
-	  - Loi n°2007-297 du 5 mars 2007 - art. 23 (V)
+	  - Loi n°2015-177 du 16 février 2015 - art. 16
 
 	**Anciens textes**:
 
 	  - Code de la route - art. L29-1 (Ab)
-	  - Code de la route L29-1
 
 
 ###### Article L212-3
@@ -1271,6 +1271,12 @@ ainsi que l'animation des stages de sensibilisation à la sécurité routière m
 organisés que dans le cadre d'un établissement dont l'exploitation est subordonnée à un agrément délivré par l'autorité
 administrative, après avis d'une commission. 
 
+L'enseignement, à titre onéreux, de la conduite des véhicules à moteur d'une catégorie donnée et de la sécurité routière est
+dispensé, au sein des établissements mentionnés au premier alinéa du présent article, par les titulaires d'une autorisation
+d'enseigner mentionnée à l'article L. 212-1. La proportion maximale des personnes en cours de formation mentionnées au 3° du
+I de l'article L. 212-2 est déterminée, au regard de l'effectif total des enseignants de la conduite et de la sécurité
+routière de l'entreprise, selon des modalités fixées par décret en Conseil d'Etat. 
+
 La formation, à titre onéreux, des candidats à l'un des titres ou diplômes exigés pour l'exercice de la profession
 d'enseignant de la conduite des véhicules à moteur d'une catégorie donnée et de la sécurité routière ne peut être dispensée
 que dans le cadre d'un établissement dont l'exploitation est subordonnée à un agrément délivré par l'autorité administrative,
@@ -1332,8 +1338,8 @@ après avis d'une commission.
 
 	**Codifié par**:
 
-	  - Ordonnance 2000-930 2000-09-22 JORF 24 septembre 2000
-	  - Loi n°2003-495 2003-06-12 art. 38 JORF 13 juin 2003
+	  - Ordonnance n°2000-930 du 22 septembre 2000
+	  - Loi n°2003-495 du 12 juin 2003
 
 	**Liens**:
 
@@ -1348,16 +1354,17 @@ après avis d'une commission.
 
 	**Modifié par**:
 
-	  - Loi n°2007-297 du 5 mars 2007 - art. 23 (V)
+	  - Loi n°2015-177 du 16 février 2015 - art. 16
 
 	**Anciens textes**:
 
 	  - Code de la route - art. L29-5 (Ab)
-	  - Code de la route L29-5
 
 	**Cite**:
 
-	  - Code de la route. - art. L223-6 (V)
+	  - Code de la route. - art. L212-1
+	  - Code de la route. - art. L212-2 (V)
+	  - Code de la route. - art. L223-6
 
 
 ###### Article L213-2
@@ -1728,20 +1735,22 @@ Les modalités d'application des articles L. 213-1 à L. 213-7 sont fixées par 
 Pour l'application du présent titre, sont assimilés au permis de conduire les titres qui, lorsque le permis de conduire n'est
 pas exigé, sont prévus par les règlements pour la conduite des véhicules à moteur.
 
-Toutefois, les dispositions du présent titre ne sont pas applicables au brevet de sécurité routière, lorsqu'il est exigé pour
-la conduite d'un cyclomoteur.
+Toutefois, les dispositions du présent titre ne sont pas applicables au brevet de sécurité routière.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 2000-930 2000-09-22 JORF 24 septembre 2000
-	  - Loi n°2003-495 2003-06-12 art. 38 JORF 13 juin 2003
+	  - Ordonnance n°2000-930 du 22 septembre 2000
+	  - Loi n°2003-495 du 12 juin 2003
+
+	**Modifié par**:
+
+	  - Loi n°2015-177 du 16 février 2015 - art. 17
 
 	**Anciens textes**:
 
 	  - Code de la route - art. L20 (Ab)
-	  - Code de la route L20
 
 	**Cité par**:
 
