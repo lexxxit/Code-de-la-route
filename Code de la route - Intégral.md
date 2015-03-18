@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2015-02-18
+Version Consolidée au 2015-03-19
 
 # Partie législative
 
@@ -1851,6 +1851,22 @@ III.-L'immobilisation peut être prescrite, dans les conditions prévues aux art
 	  - Code de la route - art. L1-2 (Ab)
 	  - Code de la route - art. L12 (Ab)
 	  - Code de la route - art. R278 (Ab)
+
+
+###### Article L221-3
+
+Les candidats à l'examen du permis de conduire sont formés aux notions élémentaires de premiers secours. 
+
+Cette formation fait l'objet d'une évaluation à l'occasion de l'examen du permis de conduire. 
+
+Le contenu de cette formation et les modalités de vérification de son assimilation par les candidats sont fixés par voie
+réglementaire.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-294 du 17 mars 2015 - art. 1
 
 
 #### Chapitre 3 : Permis à points.
