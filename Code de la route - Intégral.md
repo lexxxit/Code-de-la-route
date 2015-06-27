@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2015-03-22
+Version Consolidée au 2015-06-28
 
 # Partie législative
 
@@ -14914,32 +14914,29 @@ I.-Même en l'absence de tout signe d'ivresse manifeste, est puni de l'amende pr
 classe le fait de conduire un véhicule sous l'empire d'un état alcoolique caractérisé par : 
 
 1° Une concentration d'alcool dans le sang égale ou supérieure à 0,20 gramme par litre ou par une concentration d'alcool dans
-l'air expiré égale ou supérieure à 0,10 milligramme par litre et inférieure aux seuils fixés à l'article L. 234-1, pour les
-véhicules de transport en commun ; 
+l'air expiré égale ou supérieure à 0,10 milligramme par litre et inférieure aux seuils fixés à l'article L. 234-1, chez le
+conducteur d'un véhicule de transport en commun, ainsi que chez le conducteur titulaire d'un permis de conduire soumis au
+délai probatoire défini à l'article L. 223-1 ou en situation d'apprentissage définie à l'article R. 211-3 ; 
 
 2° Une concentration d'alcool dans le sang égale ou supérieure à 0,50 gramme par litre ou par une concentration d'alcool dans
-l'air expiré égale ou supérieure à 0,25 milligramme par litre et inférieure aux seuils fixés à l'article L. 234-1, pour les
-autres catégories de véhicules. 
+l'air expiré égale ou supérieure à 0,25 milligramme par litre et inférieure aux seuils fixés à l'article L. 234-1, chez les
+autres conducteurs. 
 
-II-L'immobilisation peut être prescrite dans les conditions prévue aux articles L. 325-1 à L. 325-3.
+II.-L'immobilisation peut être prescrite dans les conditions prévue aux articles L. 325-1 à L. 325-3. 
 
-III-Toute personne coupable de l'une des infractions mentionnées au I encourt également la peine complémentaire de suspension
-du permis de conduire pour une durée de trois ans au plus, cette suspension pouvant être limitée à la conduite en dehors de
-l'activité professionnelle. 
+III.-Toute personne coupable de l'une des infractions mentionnées au I encourt également la peine complémentaire de
+suspension du permis de conduire pour une durée de trois ans au plus, cette suspension pouvant être limitée à la conduite en
+dehors de l'activité professionnelle. 
 
-IV-Cette contravention donne lieu de plein droit à la réduction de six points du permis de conduire. 
+IV.-Cette contravention donne lieu de plein droit à la réduction de six points du permis de conduire. 
 
-V-Les dispositions du présent article sont applicables à l'accompagnateur d'un élève conducteur.
-
-**Nota:**
-
-Décret 2004-1138 du 25 octobre 2004 art. 2 : application à Mayotte.
+V.-Les dispositions du présent article sont applicables à l'accompagnateur d'un élève conducteur.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+	  - Décret n°2001-251 du 22 mars 2001
 
 	**Cité par**:
 
@@ -14960,18 +14957,20 @@ Décret 2004-1138 du 25 octobre 2004 art. 2 : application à Mayotte.
 
 	**Modifié par**:
 
-	  - Décret n°2004-1138 du 25 octobre 2004 - art. 1 () JORF 26 octobre 2004
+	  - Décret n°2015-743 du 24 juin 2015 - art. 1
 
 	**Anciens textes**:
 
 	  - Code de la route - art. R233-5 (Ab)
 	  - Code de la route - art. R256 (Ab)
 	  - Code de la route - art. R278 (Ab)
-	  - Code de la route R233-5, R256 3°, R278 1°
 
 	**Cite**:
 
-	  - Code de la route. - art. L325-1 (V)
+	  - Code de la route. - art. L223-1
+	  - Code de la route. - art. L234-1
+	  - Code de la route. - art. L325-1
+	  - Code de la route. - art. R211-3
 
 
 ###### Article R234-2
@@ -15944,58 +15943,60 @@ Le paiement de ces frais a lieu conformément à la réglementation en vigueur �
 
 ###### Article R243-1
 
-Les articles R. 234-1, R. 234-2 , R. 234-4 et R. 234-5 sont applicables en Nouvelle-Calédonie dans la rédaction suivante :
+Les articles R. 234-1, R. 234-2, R. 234-4 et R. 234-5 sont applicables en Nouvelle-Calédonie dans la rédaction suivante : 
 
-"Art. R. 234-1 - I. - Même en l'absence de tout signe d'ivresse manifeste, est puni de l'amende prévue pour les
-contraventions de la quatrième classe le fait de conduire un véhicule sous l'empire d'un état alcoolique caractérisé par :
+" Art. R. 234-1-I.-Même en l'absence de tout signe d'ivresse manifeste, est puni de l'amende prévue pour les contraventions
+de la quatrième classe le fait de conduire un véhicule sous l'empire d'un état alcoolique caractérisé par : 
 
 1° Une concentration d'alcool dans le sang égale ou supérieure à 0,20 gramme par litre ou par une concentration d'alcool dans
-l'air expiré égale ou supérieure à 0,10 milligramme par litre et inférieure aux seuils fixés à l'article L. 234-1, pour les
-véhicules de transport en commun ;
+l'air expiré égale ou supérieure à 0,10 milligramme par litre et inférieure aux seuils fixés à l'article L. 234-1, chez le
+conducteur d'un véhicule de transport en commun ainsi que chez le conducteur titulaire d'un permis de conduire soumis au
+délai probatoire défini à l'article L. 223-1 ou en situation d'apprentissage définie à l'article R. 211-3 ; 
 
 2° Une concentration d'alcool dans le sang égale ou supérieure à 0,50 gramme par litre ou par une concentration d'alcool dans
-l'air expiré égale ou supérieure à 0,25 milligramme par litre et inférieure aux seuils fixés à l'article L. 234-1, pour les
-autres catégories de véhicules.
+l'air expiré égale ou supérieure à 0,25 milligramme par litre et inférieure aux seuils fixés à l'article L. 234-1, chez les
+autres conducteurs. 
 
-II. - L'immobilisation peut être prescrite dans les conditions prévues aux articles L. 325-1 à L. 325-3.
+II.-L'immobilisation peut être prescrite dans les conditions prévues aux articles L. 325-1 à L. 325-3. 
 
-III. - Toute personne coupable de l'une des infractions mentionnées au I encourt également la peine complémentaire de
+III.-Toute personne coupable de l'une des infractions mentionnées au I encourt également la peine complémentaire de
 suspension du permis de conduire pour une durée de trois ans au plus, cette suspension pouvant être limitée à la conduite en
-dehors de l'activité professionnelle.
+dehors de l'activité professionnelle. 
 
-"Art. R. 234-2. - Les opérations de dépistage de l'imprégnation alcoolique par l'air expiré, prévues par les articles L.
-234-3 à L. 234-5 et L. 234-9 sont effectuées au moyen d'un appareil conforme à un type homologué selon des modalités définies
-par arrêté du ministre chargé de la santé publique, après avis du ministre chargé des transports, du ministre de l'intérieur
-et du ministre de la défense."
+" Art. R. 234-2.-Les opérations de dépistage de l'imprégnation alcoolique par l'air expiré, prévues par les articles L. 234-3
+à L. 234-5 et L. 234-9 sont effectuées au moyen d'un appareil conforme à un type homologué selon des modalités définies par
+arrêté du ministre chargé de la santé publique, après avis du ministre chargé des transports, du ministre de l'intérieur et
+du ministre de la défense. " 
 
-"Art. R. 234-4. - Lorsque, pour procéder aux vérifications prévues par les articles L. 234-4, L. 234-5 et L. 234-9,
-l'officier ou l'agent de police judiciaire fait usage d'un appareil homologué permettant de déterminer le taux d'alcool par
-l'analyse de l'air expiré, la vérification est faite selon les modalités ci-après :
+" Art. R. 234-4.-Lorsque, pour procéder aux vérifications prévues par les articles L. 234-4, L. 234-5 et L. 234-9, l'officier
+ou l'agent de police judiciaire fait usage d'un appareil homologué permettant de déterminer le taux d'alcool par l'analyse de
+l'air expiré, la vérification est faite selon les modalités ci-après : 
 
 1° Le délai séparant l'heure, selon le cas, de l'infraction ou de l'accident ou d'un dépistage positif effectué dans le cadre
 d'un contrôle ordonné par le procureur de la République ou effectué sur initiative de l'officier ou de l'agent de police
-judiciaire et l'heure de la vérification doit être le plus court possible ;
+judiciaire et l'heure de la vérification doit être le plus court possible ; 
 
 2° L'officier ou l'agent de police judiciaire, après avoir procédé à la mesure du taux d'alcool, en notifie immédiatement le
 résultat à la personne faisant l'objet de cette vérification. Il l'avise qu'il peut demander un second contrôle. Le procureur
 de la République, le juge d'instruction ou l'officier ou l'agent de police judiciaire ayant procédé à la vérification peuvent
 également décider qu'il sera procédé à un second contrôle. Celui-ci est alors effectué immédiatement, après vérification du
-bon fonctionnement de l'appareil ; le résultat en est immédiatement porté à la connaissance de l'intéressé."
+bon fonctionnement de l'appareil ; le résultat en est immédiatement porté à la connaissance de l'intéressé. " 
 
-"Art. R. 234-5.-I. - Est puni de l'amende prévue pour les contraventions de la cinquième classe le fait pour une personne
+" Art. R. 234-5.-I.-Est puni de l'amende prévue pour les contraventions de la cinquième classe le fait pour une personne
 ayant été condamnée à la peine d'interdiction de conduire un véhicule qui ne soit pas équipé par un professionnel agréé ou
 par construction d'un dispositif homologué d'antidémarrage par éthylotest électronique de conduire un véhicule équipé d'un
 tel dispositif soit après que celui-ci a été utilisé par un tiers pour permettre le démarrage, soit après l'avoir neutralisé
 ou détérioré ou l'avoir utilisé dans des conditions empêchant la mesure exacte de son état d'imprégnation alcoolique. 
 
 Les dispositions de l'alinéa qui précède sont également applicables lorsque les faits ont été commis par une personne ayant
-accepté d'exécuter à titre de composition pénale la mesure prévue au 4° bis de l'article 41-2 du code de procédure pénale dès
-lors que la composition pénale a été validée dans les conditions prévues par cet article. 
+accepté d'exécuter à titre de composition pénale la mesure prévue au 
+4° bis de l'article 41-2 du code de procédure pénale 
+dès lors que la composition pénale a été validée dans les conditions prévues par cet article. 
 
-II. - Le fait, par toute personne, de faciliter sciemment, par aide ou assistance, la préparation ou la consommation de la
+II.-Le fait, par toute personne, de faciliter sciemment, par aide ou assistance, la préparation ou la consommation de la
 contravention prévue au I est puni de la même peine. 
 
-III. - Les personnes coupables des contraventions prévues au présent article encourent également les peines complémentaires
+III.-Les personnes coupables des contraventions prévues au présent article encourent également les peines complémentaires
 suivantes : 
 
 1° La suspension du permis de conduire pour une durée de trois ans au plus, cette suspension ne pouvant pas être limitée à la
@@ -16008,9 +16009,11 @@ conduire n'est pas exigé, pour une durée de trois ans au plus ;
 
 4° La confiscation du véhicule dont le prévenu s'est servi pour commettre l'infraction, s'il en est propriétaire. 
 
-IV. - La récidive des contraventions prévues au présent article est réprimée conformément à l'article 132-11 du code pénal. 
+IV.-La récidive des contraventions prévues au présent article est réprimée conformément à l'
+article 132-11 du code pénal
+. 
 
-V. - L'immobilisation du véhicule peut être prescrite dans les conditions prévues aux articles L. 325-1 à L. 325-3."
+V.-L'immobilisation du véhicule peut être prescrite dans les conditions prévues aux articles L. 325-1 à L. 325-3. "
 
 **Liens relatifs à cet article**
 
@@ -16026,17 +16029,16 @@ V. - L'immobilisation du véhicule peut être prescrite dans les conditions pré
 
 	**Modifié par**:
 
-	  - Décret n°2011-1048 du 5 septembre 2011 - art. 6 (V)
+	  - Décret n°2015-743 du 24 juin 2015 - art. 1
 
 	**Cite**:
 
-	  - Code de la route.
-	  - Code de la route. - art. L234-1
-	  - Code de la route. - art. L234-4
-	  - Code de la route. - art. L234-9
+	  - Code pénal - art. 132-11
+	  - Code de procédure pénale - art. 41-2
 	  - Code de la route. - art. R234-1
 	  - Code de la route. - art. R234-2
 	  - Code de la route. - art. R234-4
+	  - Code de la route. - art. R234-5
 
 
 ###### Article R243-2
@@ -16193,45 +16195,46 @@ Le paiement de ces frais a lieu conformément aux dispositions du titre X du liv
 
 ###### Article R244-1
 
-Les articles R. 234-1, R. 234-2 , R. 234-4 et R. 234-5 sont applicables en Polynésie française dans la rédaction suivante :
+Les articles R. 234-1, R. 234-2, R. 234-4 et R. 234-5 sont applicables en Polynésie française dans la rédaction suivante : 
 
-"Art. R. 234-1 - I. - Même en l'absence de tout signe d'ivresse manifeste, est puni de l'amende prévue pour les
-contraventions de la quatrième classe le fait de conduire un véhicule sous l'empire d'un état alcoolique caractérisé par :
+" Art. R. 234-1-I.-Même en l'absence de tout signe d'ivresse manifeste, est puni de l'amende prévue pour les contraventions
+de la quatrième classe le fait de conduire un véhicule sous l'empire d'un état alcoolique caractérisé par : 
 
 1° Une concentration d'alcool dans le sang égale ou supérieure à 0,20 gramme par litre ou par une concentration d'alcool dans
-l'air expiré égale ou supérieure à 0,10 milligramme par litre et inférieure aux seuils fixés à l'article L. 234-1, pour les
-véhicules de transport en commun ;
+l'air expiré égale ou supérieure à 0,10 milligramme par litre et inférieure aux seuils fixés à l'article L. 234-1, chez le
+conducteur d'un véhicule de transport en commun ainsi que chez le conducteur titulaire d'un permis de conduire soumis au
+délai probatoire défini à l'article L. 223-1 ou en situation d'apprentissage définie à l'article R. 211-3 ; 
 
 2° Une concentration d'alcool dans le sang égale ou supérieure à 0,50 gramme par litre ou par une concentration d'alcool dans
-l'air expiré égale ou supérieure à 0,25 milligramme par litre et inférieure aux seuils fixés à l'article L. 234-1, pour les
-autres catégories de véhicules.
+l'air expiré égale ou supérieure à 0,25 milligramme par litre et inférieure aux seuils fixés à l'article L. 234-1, chez les
+autres conducteurs. 
 
-II. - L'immobilisation peut être prescrite dans les conditions prévues aux articles L. 325-1 à L. 325-3.
+II.-L'immobilisation peut être prescrite dans les conditions prévues aux articles L. 325-1 à L. 325-3. 
 
-III. - Toute personne coupable de l'une des infractions mentionnées au I encourt également la peine complémentaire de
+III.-Toute personne coupable de l'une des infractions mentionnées au I encourt également la peine complémentaire de
 suspension du permis de conduire pour une durée de trois ans au plus, cette suspension pouvant être limitée à la conduite en
-dehors de l'activité professionnelle.
+dehors de l'activité professionnelle. 
 
-"Art. R. 234-2. - Les opérations de dépistage de l'imprégnation alcoolique par l'air expiré, prévues par les articles L.
-234-3 à L. 234-5 et L. 234-9 sont effectuées au moyen d'un appareil conforme à un type homologué selon des modalités définies
-par arrêté du ministre chargé de la santé publique, après avis du ministre chargé des transports, du ministre de l'intérieur
-et du ministre de la défense."
+" Art. R. 234-2.-Les opérations de dépistage de l'imprégnation alcoolique par l'air expiré, prévues par les articles L. 234-3
+à L. 234-5 et L. 234-9 sont effectuées au moyen d'un appareil conforme à un type homologué selon des modalités définies par
+arrêté du ministre chargé de la santé publique, après avis du ministre chargé des transports, du ministre de l'intérieur et
+du ministre de la défense. " 
 
-"Art. R. 234-4. - Lorsque, pour procéder aux vérifications prévues par les articles L. 234-4, L. 234-5 et L. 234-9,
-l'officier ou l'agent de police judiciaire fait usage d'un appareil homologué permettant de déterminer le taux d'alcool par
-l'analyse de l'air expiré, la vérification est faite selon les modalités ci-après :
+" Art. R. 234-4.-Lorsque, pour procéder aux vérifications prévues par les articles L. 234-4, L. 234-5 et L. 234-9, l'officier
+ou l'agent de police judiciaire fait usage d'un appareil homologué permettant de déterminer le taux d'alcool par l'analyse de
+l'air expiré, la vérification est faite selon les modalités ci-après : 
 
 1° Le délai séparant l'heure, selon le cas, de l'infraction ou de l'accident ou d'un dépistage positif effectué dans le cadre
 d'un contrôle ordonné par le procureur de la République ou effectué sur initiative de l'officier ou de l'agent de police
-judiciaire et l'heure de la vérification doit être le plus court possible ;
+judiciaire et l'heure de la vérification doit être le plus court possible ; 
 
 2° L'officier ou l'agent de police judiciaire, après avoir procédé à la mesure du taux d'alcool, en notifie immédiatement le
 résultat à la personne faisant l'objet de cette vérification. Il l'avise qu'il peut demander un second contrôle. Le procureur
 de la République, le juge d'instruction ou l'officier ou l'agent de police judiciaire ayant procédé à la vérification peuvent
 également décider qu'il sera procédé à un second contrôle. Celui-ci est alors effectué immédiatement, après vérification du
-bon fonctionnement de l'appareil ; le résultat en est immédiatement porté à la connaissance de l'intéressé."
+bon fonctionnement de l'appareil ; le résultat en est immédiatement porté à la connaissance de l'intéressé. " 
 
-"Art. R. 234-5.-I. - Est puni de l'amende prévue pour les contraventions de la cinquième classe le fait pour une personne
+" Art. R. 234-5.-I.-Est puni de l'amende prévue pour les contraventions de la cinquième classe le fait pour une personne
 ayant été condamnée à la peine d'interdiction de conduire un véhicule qui ne soit pas équipé par un professionnel agréé ou
 par construction d'un dispositif homologué d'antidémarrage par éthylotest électronique de conduire un véhicule équipé d'un
 tel dispositif soit après que celui-ci a été utilisé par un tiers pour permettre le démarrage, soit après l'avoir neutralisé
@@ -16241,10 +16244,10 @@ Les dispositions de l'alinéa qui précède sont également applicables lorsque 
 accepté d'exécuter à titre de composition pénale la mesure prévue au 4° bis de l'article 41-2 du code de procédure pénale dès
 lors que la composition pénale a été validée dans les conditions prévues par cet article. 
 
-II. - Le fait, par toute personne, de faciliter sciemment, par aide ou assistance, la préparation ou la consommation de la
+II.-Le fait, par toute personne, de faciliter sciemment, par aide ou assistance, la préparation ou la consommation de la
 contravention prévue au I est puni de la même peine. 
 
-III. - Les personnes coupables des contraventions prévues au présent article encourent également les peines complémentaires
+III.-Les personnes coupables des contraventions prévues au présent article encourent également les peines complémentaires
 suivantes : 
 
 1° La suspension du permis de conduire pour une durée de trois ans au plus, cette suspension ne pouvant pas être limitée à la
@@ -16257,9 +16260,9 @@ conduire n'est pas exigé, pour une durée de trois ans au plus ;
 
 4° La confiscation du véhicule dont le prévenu s'est servi pour commettre l'infraction, s'il en est propriétaire. 
 
-IV. - La récidive des contraventions prévues au présent article est réprimée conformément à l'article 132-11 du code pénal. 
+IV.-La récidive des contraventions prévues au présent article est réprimée conformément à l'article 132-11 du code pénal. 
 
-V. - L'immobilisation du véhicule peut être prescrite dans les conditions prévues aux articles L. 325-1 à L. 325-3."
+V.-L'immobilisation du véhicule peut être prescrite dans les conditions prévues aux articles L. 325-1 à L. 325-3. "
 
 **Liens relatifs à cet article**
 
@@ -16269,18 +16272,16 @@ V. - L'immobilisation du véhicule peut être prescrite dans les conditions pré
 
 	**Modifié par**:
 
-	  - Décret n°2011-1048 du 5 septembre 2011 - art. 6 (V)
+	  - Décret n°2015-743 du 24 juin 2015 - art. 1
 
 	**Cite**:
 
-	  - Code de la route.
-	  - Code de la route. - art. L234-1
-	  - Code de la route. - art. L234-4
-	  - Code de la route. - art. L234-9
-	  - Code de la route. - art. L325-11
+	  - Code pénal - art. 132-11
+	  - Code de procédure pénale - art. 41-2
 	  - Code de la route. - art. R234-1
 	  - Code de la route. - art. R234-2
 	  - Code de la route. - art. R234-4
+	  - Code de la route. - art. R234-5
 
 
 ###### Article R244-2
@@ -16419,46 +16420,47 @@ Le paiement de ces frais a lieu conformément aux dispositions du titre X du liv
 
 ###### Article R245-1
 
-Les articles R. 234-1, R. 234-2 , R. 234-4 et R. 234-5 sont applicables au territoire des Iles Wallis-et-Futuna dans la
-rédaction suivante :
+Les articles R. 234-1, R. 234-2, R. 234-4 et R. 234-5 sont applicables au territoire des Iles Wallis-et-Futuna dans la
+rédaction suivante : 
 
-"Art. R. 234-1 - I. - Même en l'absence de tout signe d'ivresse manifeste, est puni de l'amende prévue pour les
-contraventions de la quatrième classe le fait de conduire un véhicule sous l'empire d'un état alcoolique caractérisé par :
+" Art. R. 234-1-I.-Même en l'absence de tout signe d'ivresse manifeste, est puni de l'amende prévue pour les contraventions
+de la quatrième classe le fait de conduire un véhicule sous l'empire d'un état alcoolique caractérisé par : 
 
 1° Une concentration d'alcool dans le sang égale ou supérieure à 0,20 gramme par litre ou par une concentration d'alcool dans
-l'air expiré égale ou supérieure à 0,10 milligramme par litre et inférieure aux seuils fixés à l'article L. 234-1, pour les
-véhicules de transport en commun ;
+l'air expiré égale ou supérieure à 0,10 milligramme par litre et inférieure aux seuils fixés à l'article L. 234-1, chez le
+conducteur d'un véhicule de transport en commun ainsi que chez le conducteur titulaire d'un permis de conduire soumis au
+délai probatoire défini à l'article L. 223-1 ou en situation d'apprentissage définie à l'article R. 211-3 ; 
 
 2° Une concentration d'alcool dans le sang égale ou supérieure à 0,50 gramme par litre ou par une concentration d'alcool dans
-l'air expiré égale ou supérieure à 0,25 milligramme par litre et inférieure aux seuils fixés à l'article L. 234-1, pour les
-autres catégories de véhicules.
+l'air expiré égale ou supérieure à 0,25 milligramme par litre et inférieure aux seuils fixés à l'article L. 234-1, chez les
+autres conducteurs. 
 
-II. - L'immobilisation peut être prescrite dans les conditions prévues aux articles L. 325-1 à L. 325-3.
+II.-L'immobilisation peut être prescrite dans les conditions prévues aux articles L. 325-1 à L. 325-3. 
 
-III. - Toute personne coupable de l'une des infractions mentionnées au I encourt également la peine complémentaire de
+III.-Toute personne coupable de l'une des infractions mentionnées au I encourt également la peine complémentaire de
 suspension du permis de conduire pour une durée de trois ans au plus, cette suspension pouvant être limitée à la conduite en
-dehors de l'activité professionnelle.
+dehors de l'activité professionnelle. 
 
-"Art. R. 234-2. - Les opérations de dépistage de l'imprégnation alcoolique par l'air expiré, prévues par les articles L.
-234-3 à L. 234-5 et L. 234-9 sont effectuées au moyen d'un appareil conforme à un type homologué selon des modalités définies
-par arrêté du ministre chargé de la santé publique, après avis du ministre chargé des transports, du ministre de l'intérieur
-et du ministre de la défense."
+" Art. R. 234-2.-Les opérations de dépistage de l'imprégnation alcoolique par l'air expiré, prévues par les articles L. 234-3
+à L. 234-5 et L. 234-9 sont effectuées au moyen d'un appareil conforme à un type homologué selon des modalités définies par
+arrêté du ministre chargé de la santé publique, après avis du ministre chargé des transports, du ministre de l'intérieur et
+du ministre de la défense. " 
 
-"Art. R. 234-4. - Lorsque, pour procéder aux vérifications prévues par les articles L. 234-4, L. 234-5 et L. 234-9,
-l'officier ou l'agent de police judiciaire fait usage d'un appareil homologué permettant de déterminer le taux d'alcool par
-l'analyse de l'air expiré, la vérification est faite selon les modalités ci-après :
+" Art. R. 234-4.-Lorsque, pour procéder aux vérifications prévues par les articles L. 234-4, L. 234-5 et L. 234-9, l'officier
+ou l'agent de police judiciaire fait usage d'un appareil homologué permettant de déterminer le taux d'alcool par l'analyse de
+l'air expiré, la vérification est faite selon les modalités ci-après : 
 
 1° Le délai séparant l'heure, selon le cas, de l'infraction ou de l'accident ou d'un dépistage positif effectué dans le cadre
 d'un contrôle ordonné par le procureur de la République ou effectué sur initiative de l'officier ou de l'agent de police
-judiciaire et l'heure de la vérification doit être le plus court possible ;
+judiciaire et l'heure de la vérification doit être le plus court possible ; 
 
 2° L'officier ou l'agent de police judiciaire, après avoir procédé à la mesure du taux d'alcool, en notifie immédiatement le
 résultat à la personne faisant l'objet de cette vérification. Il l'avise qu'il peut demander un second contrôle. Le procureur
 de la République, le juge d'instruction ou l'officier ou l'agent de police judiciaire ayant procédé à la vérification peuvent
 également décider qu'il sera procédé à un second contrôle. Celui-ci est alors effectué immédiatement, après vérification du
-bon fonctionnement de l'appareil ; le résultat en est immédiatement porté à la connaissance de l'intéressé."
+bon fonctionnement de l'appareil ; le résultat en est immédiatement porté à la connaissance de l'intéressé. " 
 
-"Art. R. 234-5.-I. - Est puni de l'amende prévue pour les contraventions de la cinquième classe le fait pour une personne
+" Art. R. 234-5.-I.-Est puni de l'amende prévue pour les contraventions de la cinquième classe le fait pour une personne
 ayant été condamnée à la peine d'interdiction de conduire un véhicule qui ne soit pas équipé par un professionnel agréé ou
 par construction d'un dispositif homologué d'antidémarrage par éthylotest électronique de conduire un véhicule équipé d'un
 tel dispositif soit après que celui-ci a été utilisé par un tiers pour permettre le démarrage, soit après l'avoir neutralisé
@@ -16468,10 +16470,10 @@ Les dispositions de l'alinéa qui précède sont également applicables lorsque 
 accepté d'exécuter à titre de composition pénale la mesure prévue au 4° bis de l'article 41-2 du code de procédure pénale dès
 lors que la composition pénale a été validée dans les conditions prévues par cet article. 
 
-II. - Le fait, par toute personne, de faciliter sciemment, par aide ou assistance, la préparation ou la consommation de la
+II.-Le fait, par toute personne, de faciliter sciemment, par aide ou assistance, la préparation ou la consommation de la
 contravention prévue au I est puni de la même peine. 
 
-III. - Les personnes coupables des contraventions prévues au présent article encourent également les peines complémentaires
+III.-Les personnes coupables des contraventions prévues au présent article encourent également les peines complémentaires
 suivantes : 
 
 1° La suspension du permis de conduire pour une durée de trois ans au plus, cette suspension ne pouvant pas être limitée à la
@@ -16484,9 +16486,9 @@ conduire n'est pas exigé, pour une durée de trois ans au plus ;
 
 4° La confiscation du véhicule dont le prévenu s'est servi pour commettre l'infraction, s'il en est propriétaire. 
 
-IV. - La récidive des contraventions prévues au présent article est réprimée conformément à l'article 132-11 du code pénal. 
+IV.-La récidive des contraventions prévues au présent article est réprimée conformément à l'article 132-11 du code pénal. 
 
-V. - L'immobilisation du véhicule peut être prescrite dans les conditions prévues aux articles L. 325-1 à L. 325-3."
+V.-L'immobilisation du véhicule peut être prescrite dans les conditions prévues aux articles L. 325-1 à L. 325-3. "
 
 **Liens relatifs à cet article**
 
@@ -16506,17 +16508,16 @@ V. - L'immobilisation du véhicule peut être prescrite dans les conditions pré
 
 	**Modifié par**:
 
-	  - Décret n°2011-1048 du 5 septembre 2011 - art. 6 (V)
+	  - Décret n°2015-743 du 24 juin 2015 - art. 1
 
 	**Cite**:
 
-	  - Code de la route.
-	  - Code de la route. - art. L234-1
-	  - Code de la route. - art. L234-4
-	  - Code de la route. - art. L234-9
-	  - Code de la route. - art. R234-1
+	  - Code pénal - art. 132-11
+	  - Code de procédure pénale - art. 41-2
+	  - Code de la route. - art. R234-1 (V)
 	  - Code de la route. - art. R234-2
 	  - Code de la route. - art. R234-4
+	  - Code de la route. - art. R234-5
 
 	**Nouveaux textes**:
 
@@ -30947,10 +30948,17 @@ conditions prévues aux articles L. 325-1 à L. 325-3.
 
 ###### Article R412-6-1
 
-L'usage d'un téléphone tenu en main par le conducteur d'un véhicule en circulation est interdit.
+L'usage d'un téléphone tenu en main par le conducteur d'un véhicule en circulation est interdit. 
+
+Est également interdit le port à l'oreille, par le conducteur d'un véhicule en circulation, de tout dispositif susceptible
+d'émettre du son, à l'exception des appareils électroniques correcteurs de surdité. 
+
+Les dispositions du deuxième alinéa ne sont pas applicables aux conducteurs des véhicules d'intérêt général prioritaire
+prévus à l'article R. 311-1, ni dans le cadre de l'enseignement de la conduite des cyclomoteurs, motocyclettes, tricycles et
+quadricycles à moteur ou de l'examen du permis de conduire ces véhicules. 
 
 Le fait, pour tout conducteur, de contrevenir aux dispositions du présent article est puni de l'amende prévue pour les
-contraventions de la quatrième classe.
+contraventions de la quatrième classe. 
 
 Cette contravention donne lieu de plein droit à la réduction de trois points du permis de conduire.
 
@@ -30962,13 +30970,17 @@ Cette contravention donne lieu de plein droit à la réduction de trois points d
 
 	**Modifié par**:
 
-	  - Décret n°2012-3 du 3 janvier 2012 - art. 18
+	  - Décret n°2015-743 du 24 juin 2015 - art. 1
 
 	**Cité par**:
 
 	  - Arrêté du 19 décembre 2016 - art. (V)
 	  - Code de la route. - art. R121-6 (V)
 	  - Code de la route. - art. R130-11 (V)
+
+	**Cite**:
+
+	  - Code de la route. - art. R311-1
 
 
 ###### Article R412-6-2
