@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2015-07-05
+Version Consolidée au 2015-08-08
 
 # Partie législative
 
@@ -592,7 +592,11 @@ stationnement dans l'emprise de l'aérodrome ;
 11° Les agents de police judiciaire adjoints ; 
 
 12° Les fonctionnaires ou agents de l'Etat, chargés des réceptions des véhicules ou éléments de véhicules, placés sous
-l'autorité des ministres chargés de l'industrie et des transports. 
+l'autorité des ministres chargés de l'industrie et des transports ;
+
+13° Les agents des exploitants de parcs publics de stationnement situés sur le domaine public ferroviaire, assermentés et
+agréés par le représentant de l'Etat dans le département, pour les seules contraventions aux règles concernant la
+circulation, l'arrêt et le stationnement des véhicules dans l'emprise du parc public. 
 
 La liste des contraventions que chaque catégorie d'agents mentionnée ci-dessus est habilitée à constater est fixée par décret
 en Conseil d'Etat.
@@ -608,7 +612,7 @@ en Conseil d'Etat.
 	  - Code de la route. - art. L121-4 (V)
 	  - Code de la route. - art. L130-7 (V)
 	  - Code de la route. - art. L142-4 (V)
-	  - Code de la route. - art. L142-4-1 (M)
+	  - Code de la route. - art. L142-4-1 (V)
 	  - Code de la route. - art. L142-5 (Ab)
 	  - Code de la route. - art. L330-2 (VT)
 	  - Code de la route. - art. R130-4 (M)
@@ -622,11 +626,11 @@ en Conseil d'Etat.
 
 	**Modifié par**:
 
-	  - Loi n°2010-788 du 12 juillet 2010 - art. 58
+	  - Loi n°2015-990 du 6 août 2015 - art. 20
 
 	**Cite**:
 
-	  - Code de la voirie routière - art. L116-2 (V)
+	  - Code de la voirie routière - art. L116-2
 
 	**Anciens textes**:
 
@@ -967,24 +971,24 @@ travaux publics de l'Etat, quand ils sont commissionnés et assermentés à cet 
 
 ###### Article L142-4-1
 
-Pour l'application à Mayotte du présent code, il est ajouté à l'article L. 130-4 un 13° ainsi rédigé : 
+Pour l'application à Mayotte du présent code, il est ajouté à l'article L. 130-4 un 14° ainsi rédigé : 
 
-13° Les fonctionnaires de la police de Mayotte dans les conditions prévues à l'article 879-1 du code de procédure pénale.
+14° Les fonctionnaires de la police de Mayotte dans les conditions prévues à l'article 879-1 du code de procédure pénale.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 2000-930 2000-09-22 JORF 24 septembre 2000
-	  - Loi n°2003-495 2003-06-12 art. 38 JORF 13 juin 2003
+	  - Ordonnance n°2000-930 du 22 septembre 2000
+	  - Loi n°2003-495 du 12 juin 2003
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2003-495 du 12 juin 2003 - art. 43 (V) JORF 13 juin 2003
+	  - Loi n°2015-990 du 6 août 2015 - art. 20
 
 	**Cite**:
 
-	  - Code de procédure pénale - art. 879-1 (V)
+	  - Code de procédure pénale - art. 879-1
 	  - Code de la route. - art. L130-4 (V)
 
 
@@ -1043,6 +1047,138 @@ Cette condamnation est portée à la connaissance du préfet du département con
 	  - Code de la route. - art. R211-3 (V)
 	  - Code de la route. - art. R233-3 (V)
 	  - Code de la route. - art. R324-1 (Ab)
+
+
+###### Article L211-2
+
+L'apprentissage de la conduite des véhicules à moteur en vue de l'obtention du permis de conduire se déroule selon des
+modalités fixées par le décret prévu à l'article L. 211-7. 
+
+Pour chaque catégorie de formation, à l'exception de celle mentionnée à l'article L. 211-6, le ministre chargé de la sécurité
+routière définit les compétences à atteindre. 
+
+Les établissements d'enseignement de la conduite et de la sécurité routière et les associations agréés au titre des articles
+L. 213-1 ou L. 213-7 proposent à chaque élève, lors de son inscription, un des modes d'apprentissage de conduite accompagnée
+définis aux articles L. 211-3 et L. 211-4.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-990 du 6 août 2015 - art. 28
+
+	**Cite**:
+
+	  - Code de la route. - art. L211-3 (V)
+	  - Code de la route. - art. L211-6 (V)
+	  - Code de la route. - art. L211-7 (V)
+	  - Code de la route. - art. L213-1 (V)
+	  - Code de la route. - art. L213-7 (V)
+
+
+###### Article L211-3
+
+L'apprentissage anticipé de la conduite est un apprentissage particulier dispensé aux élèves âgés d'au moins quinze ans en
+vue de l'obtention du permis de conduire des véhicules légers. Cet apprentissage ouvre droit à une réduction du délai
+probatoire suivant l'obtention du permis de conduire. 
+
+Il comprend, d'une part, une période de formation initiale dans un établissement ou une association agréés au titre des
+articles L. 213-1 ou L. 213-7 et, d'autre part, une période d'apprentissage en conduite accompagnée, sous la surveillance
+constante et directe d'un accompagnateur remplissant des conditions fixées par le décret mentionné à l'article L. 211-7,
+pendant laquelle l'élève doit parcourir une distance minimale pendant une durée minimale. Ces conditions de distance et de
+durée minimales sont précisées par arrêté du ministre chargé de la sécurité routière.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-990 du 6 août 2015 - art. 28
+
+	**Cité par**:
+
+	  - Code de la route. - art. L211-2 (V)
+	  - Code de la route. - art. L211-6 (V)
+	  - Code de la route. - art. R213-3-2 (V)
+
+	**Cite**:
+
+	  - Code de la route. - art. L211-7 (V)
+	  - Code de la route. - art. L213-1 (V)
+	  - Code de la route. - art. L213-7 (V)
+
+
+###### Article L211-4
+
+Tout élève âgé d'au moins dix-huit ans inscrit pour suivre une formation à la conduite des véhicules légers peut suivre un
+apprentissage en conduite supervisée, sous la surveillance constante et directe d'un accompagnateur, après validation de sa
+formation initiale. Cet apprentissage n'est soumis à aucune condition de distance ou de durée minimales.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-990 du 6 août 2015 - art. 28
+
+
+###### Article L211-5
+
+Les personnes suivant une formation professionnelle en vue de l'obtention d'un diplôme de l'éducation nationale permettant la
+délivrance du permis de conduire peuvent pratiquer la conduite encadrée, sur un véhicule léger, sous la surveillance
+constante et directe d'un accompagnateur remplissant des conditions fixées par le décret mentionné à l'article L. 211-7.
+
+La conduite encadrée est accessible à partir de l'âge de seize ans aux élèves ayant validé la formation préalable à
+l'obtention du permis de conduire des véhicules légers.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-990 du 6 août 2015 - art. 28
+
+	**Cite**:
+
+	  - Code de la route. - art. L211-7 (V)
+
+
+###### Article L211-6
+
+Sauf dans les périodes de conduite accompagnée définies aux articles L. 211-3 à L. 211-5, l'apprentissage de la conduite des
+véhicules légers sur la voie publique peut être effectué sur un véhicule répondant à des prescriptions particulières, avec un
+accompagnateur justifiant d'une condition d'ancienneté du permis de conduire précisée par le décret mentionné à l'article L.
+211-7.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-990 du 6 août 2015 - art. 28
+
+	**Cité par**:
+
+	  - Code de la route. - art. L211-2 (V)
+
+	**Cite**:
+
+	  - Code de la route. - art. L211-3 (V)
+	  - Code de la route. - art. L211-7 (V)
+
+
+###### Article L211-7
+
+Un décret en Conseil d'Etat définit les conditions d'application du présent chapitre.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-990 du 6 août 2015 - art. 28
+
+	**Cité par**:
+
+	  - Code de la route. - art. L211-2 (V)
+	  - Code de la route. - art. L211-3 (V)
+	  - Code de la route. - art. L211-5 (V)
+	  - Code de la route. - art. L211-6 (V)
 
 
 #### Chapitre 2 : Enseignement à titre onéreux et animation de stages de sensibilisation à la sécurité routière
@@ -1201,11 +1337,12 @@ La mesure de suspension provisoire cesse de plein droit dès que l'autorité jud
 
 ###### Article L212-4
 
-I.-Le fait d'enseigner, à titre onéreux, la conduite des véhicules à moteur d'une catégorie donnée et la sécurité routière
-sans être titulaire de l'autorisation prévue à l'article L. 212-1 ou en violation d'une mesure de suspension provisoire de
-celle-ci est puni d'un an d'emprisonnement et de 15 000 euros d'amende. Est puni de la même peine l'exercice temporaire et
-occasionnel de l'enseignement de la conduite et de la sécurité routière sans respecter les conditions fixées au II de
-l'article L. 212-1. 
+I.-Le fait d'enseigner, à titre onéreux, la conduite des véhicules à moteur d'une catégorie donnée et la sécurité routière ou
+d'animer un stage de sensibilisation à la sécurité routière  sans être titulaire de l'autorisation prévue à l'article L.
+212-1 ou en violation d'une mesure de suspension provisoire de celle-ci est puni d'un an d'emprisonnement et de 15 000 euros
+d'amende. Est puni de la même peine l'exercice temporaire et occasionnel de l'enseignement de la conduite et de la sécurité
+routière ou de l'animation d'un stage de sensibilisation à la sécurité routière  sans respecter les conditions fixées au II
+de l'article L. 212-1. 
 
 II.-Les personnes physiques coupables de l'infraction prévue à l'alinéa précédent encourent également les peines
 complémentaires suivantes : 
@@ -1219,16 +1356,16 @@ a été commise, suivant les modalités prévues par l'article 131-27 du code p�
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
-
-	  - Ordonnance n°2008-507 du 30 mai 2008 - art. 9
-
 	**Cité par**:
 
 	  - Arrêté du 18 juin 2010 (VT)
 	  - Arrêté du 18 juin 2010 - art. 6 (VT)
 	  - Code de la route. - art. R212-4 (V)
 	  - Code de la voirie routière - art. L118-4 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2015-990 du 6 août 2015 - art. 22
 
 	**Cite**:
 
@@ -1269,7 +1406,7 @@ Un décret en Conseil d'Etat détermine les conditions d'application du présent
 L'enseignement, à titre onéreux, de la conduite des véhicules à moteur d'une catégorie donnée et de la sécurité routière
 ainsi que l'animation des stages de sensibilisation à la sécurité routière mentionnés à l'article L. 223-6 ne peuvent être
 organisés que dans le cadre d'un établissement dont l'exploitation est subordonnée à un agrément délivré par l'autorité
-administrative, après avis d'une commission. 
+administrative.
 
 L'enseignement, à titre onéreux, de la conduite des véhicules à moteur d'une catégorie donnée et de la sécurité routière est
 dispensé, au sein des établissements mentionnés au premier alinéa du présent article, par les titulaires d'une autorisation
@@ -1279,8 +1416,7 @@ routière de l'entreprise, selon des modalités fixées par décret en Conseil d
 
 La formation, à titre onéreux, des candidats à l'un des titres ou diplômes exigés pour l'exercice de la profession
 d'enseignant de la conduite des véhicules à moteur d'une catégorie donnée et de la sécurité routière ne peut être dispensée
-que dans le cadre d'un établissement dont l'exploitation est subordonnée à un agrément délivré par l'autorité administrative,
-après avis d'une commission.
+que dans le cadre d'un établissement dont l'exploitation est subordonnée à un agrément délivré par l'autorité administrative.
 
 **Liens relatifs à cet article**
 
@@ -1321,7 +1457,7 @@ après avis d'une commission.
 	  - Code de la route. - art. L211-3 (V)
 	  - Code de la route. - art. L213-3 (V)
 	  - Code de la route. - art. L213-4 (V)
-	  - Code de la route. - art. L213-5 (M)
+	  - Code de la route. - art. L213-5 (V)
 	  - Code de la route. - art. L213-6 (M)
 	  - Code de la route. - art. L213-8 (V)
 	  - Code de la route. - art. L213-9 (V)
@@ -1354,7 +1490,7 @@ après avis d'une commission.
 
 	**Modifié par**:
 
-	  - Loi n°2015-177 du 16 février 2015 - art. 16
+	  - Loi n°2015-990 du 6 août 2015 - art. 23
 
 	**Anciens textes**:
 
@@ -1363,18 +1499,24 @@ après avis d'une commission.
 	**Cite**:
 
 	  - Code de la route. - art. L212-1
-	  - Code de la route. - art. L212-2 (V)
+	  - Code de la route. - art. L212-2
 	  - Code de la route. - art. L223-6
 
 
 ###### Article L213-2
 
 Les conditions et les modalités de l'enseignement, à titre onéreux, de la conduite des véhicules à moteur d'une catégorie
-donnée et de la sécurité routière font l'objet d'un contrat écrit entre le candidat et l'établissement. La restitution du
-dossier au candidat qui en fait la demande ne donne lieu à l'application d'aucuns frais. 
+donnée et de la sécurité routière font l'objet d'un contrat écrit, qui peut être conclu dans l'établissement ou à distance,
+dans le respect de la section 2 du chapitre Ier du titre II du livre Ier du code de la consommation,  entre le candidat et
+l'établissement. Ce contrat est conclu après une évaluation préalable du candidat dans le véhicule ou dans les locaux de
+l'établissement. La restitution du dossier au candidat qui en fait la demande ne donne lieu à l'application d'aucuns frais. 
 
 Le transfert du dossier du candidat vers un autre établissement ne donne lieu à l'application d'aucuns frais. Les conditions
 d'application du présent alinéa sont définies par décret. 
+
+La présentation du candidat aux épreuves du permis de conduire ne peut donner lieu à l'application d'aucuns frais. Les frais
+facturés au titre de l'accompagnement du candidat à l'épreuve sont réglementés dans les conditions prévues au deuxième alinéa
+de l'article L. 410-2 du code de commerce. 
 
 Les conditions et les modalités de la formation à titre onéreux des candidats à l'un des titres ou diplômes exigés pour
 l'exercice de la profession d'enseignant de la conduite des véhicules à moteur et de la sécurité routière font l'objet d'un
@@ -1395,7 +1537,7 @@ contrat écrit entre le candidat et l'établissement.
 	  - Code de la consommation - art. L141-1 (VT)
 	  - Code de la consommation - art. L511-7 (V)
 	  - Code de la route. - art. L213-2-1 (VD)
-	  - Code de la route. - art. L213-5 (M)
+	  - Code de la route. - art. L213-5 (V)
 	  - Code de la route. - art. R213-3 (V)
 	  - Code de la route. - art. R213-3-1 (V)
 	  - Code de la route. - art. R213-3-2 (V)
@@ -1403,11 +1545,36 @@ contrat écrit entre le candidat et l'établissement.
 
 	**Modifié par**:
 
-	  - Loi n°2014-344 du 17 mars 2014 - art. 136
+	  - Loi n°2015-990 du 6 août 2015 - art. 24
+	  - Loi n°2015-990 du 6 août 2015 - art. 29
+
+	**Cite**:
+
+	  - Code de commerce - art. L410-2
 
 	**Anciens textes**:
 
 	  - Code de la route - art. L29-6 (Ab)
+
+
+###### Article L213-2-1
+
+Sont passibles d'une amende administrative, dont le montant ne peut excéder 3 000 € pour une personne physique et 15 000 €
+pour une personne morale, les manquements aux trois premiers alinéas de l'article L. 213-2 du présent code. 
+
+L'autorité administrative chargée de la concurrence et de la consommation est l'autorité compétente pour prononcer, dans les
+conditions prévues à l'article L. 141-1-2 du code de la consommation, ces amendes administratives.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-990 du 6 août 2015 - art. 29
+
+	**Cite**:
+
+	  - Code de la consommation - art. L141-1-2
+	  - Code de la route. - art. L213-2 (V)
 
 
 ###### Article L213-3
@@ -1427,15 +1594,14 @@ liquidation judiciaires des entreprises, pendant la durée de cette peine.
 
 2° Justifier de la capacité à la gestion d'un établissement d'enseignement de la conduite ; 
 
-3° Remplir les conditions d'âge, d'ancienneté du permis de conduire et de réactualisation des connaissances fixées par décret
-en Conseil d'Etat.
+3° Remplir les conditions d'âge        et de réactualisation des connaissances fixées par décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Loi n°85-98 du 25 janvier 1985 - art. 186 (Ab)
-	  - Loi n°85-98 du 25 janvier 1985 - art. 192 (Ab)
+	  - Loi n°85-98 du 25 janvier 1985 - art. 186
+	  - Loi n°85-98 du 25 janvier 1985 - art. 192
 	  - Code de la route. - art. L213-1
 
 	**Codifié par**:
@@ -1462,12 +1628,12 @@ en Conseil d'Etat.
 	  - Arrêté du 12 avril 2016 - art. 7 (V)
 	  - Arrêté du 12 avril 2016 - art. 9 (V)
 	  - Arrêté du 14 octobre 2016 - art. 8
-	  - Code de la route. - art. L213-5 (M)
+	  - Code de la route. - art. L213-5 (V)
 	  - Code de la route. - art. L213-7 (V)
 
 	**Modifié par**:
 
-	  - Loi n°2011-12 du 5 janvier 2011 - art. 6
+	  - Loi n°2015-990 du 6 août 2015 - art. 25
 
 	**Anciens textes**:
 
@@ -1513,15 +1679,32 @@ défini par l'autorité administrative qui en contrôle l'application.
 	  - Code de la route. - art. L213-1 (V)
 
 
+###### Article L213-4-1
+
+La  répartition des places d'examen au permis de conduire attribuées aux  établissements d'enseignement de la conduite et de
+la sécurité routière  est assurée dans des conditions objectives, transparentes et non  discriminatoires, ne portant pas
+atteinte à la concurrence entre ces  établissements. Ces places sont attribuées aux établissements  d'enseignement de la
+conduite et de la sécurité routière en fonction  notamment du nombre d'enseignants à la conduite dont ils disposent, et  de
+manière à garantir l'accès des candidats libres à une place d'examen.
+
+La méthode nationale de répartition ainsi  que les pièces nécessaires à l'inscription à une session d'examen du  permis de
+conduire sont définies par arrêté du ministre chargé de la  sécurité routière.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-990 du 6 août 2015 - art. 30
+
+
 ###### Article L213-5
 
 Dans l'hypothèse où les conditions prévues aux articles L. 213-3 et L. 213-4 cessent d'être remplies ou en cas de cessation
 définitive d'activité de l'établissement, il est mis fin aux agréments prévus à l'article L. 213-1. 
 
 En cas d'urgence justifiée par des faits passibles d'une des condamnations visées à l'article L. 213-3, l'autorité
-administrative, après avoir mis l'intéressé en mesure de présenter ses observations et recueilli l'avis de la commission
-mentionnée à l'article L. 213-1, peut suspendre, pour une durée maximale de six mois, l'agrément délivré en application de
-l'article L. 213-1. 
+administrative, après avoir mis l'intéressé en mesure de présenter ses observations, peut suspendre, pour une durée maximale
+de six mois, l'agrément délivré en application de l'article L. 213-1. 
 
 Lorsque sont établis des procès-verbaux d'infractions correspondant à des faits mentionnés à l'alinéa précédent commises par
 des bénéficiaires d'autorisations délivrées en application de l'article L. 213-1, copie en est transmise par le procureur de
@@ -1538,8 +1721,8 @@ méconnaissance des dispositions de l'article L. 213-2.
 
 	**Codifié par**:
 
-	  - Ordonnance 2000-930 2000-09-22 JORF 24 septembre 2000
-	  - Loi n°2003-495 2003-06-12 art. 38 JORF 13 juin 2003
+	  - Ordonnance n°2000-930 du 22 septembre 2000
+	  - Loi n°2003-495 du 12 juin 2003
 
 	**Cité par**:
 
@@ -1550,12 +1733,11 @@ méconnaissance des dispositions de l'article L. 213-2.
 
 	**Modifié par**:
 
-	  - Loi n°2007-297 du 5 mars 2007 - art. 23 (V) JORF 7 mars 2007 en vigueur au plus tard le 7 mars 2009
+	  - Loi n°2015-990 du 6 août 2015 - art. 23
 
 	**Anciens textes**:
 
 	  - Code de la route - art. L29-9 (Ab)
-	  - Code de la route L29-9
 
 	**Cite**:
 
@@ -1566,30 +1748,35 @@ méconnaissance des dispositions de l'article L. 213-2.
 
 ###### Article L213-6
 
-I.-Le fait d'exploiter un établissement d'enseignement de la conduite des véhicules à moteur d'une catégorie donnée et de la
-sécurité routière ou de formation des candidats pour l'exercice de la profession d'enseignant sans avoir obtenu l'agrément
-prévu à l'article L. 213-1 ou en violation d'une mesure de suspension provisoire de celui-ci est puni d'un an
-d'emprisonnement et de 15 000 euros d'amende. 
+I. - Le fait d'exploiter un établissement d'enseignement de la conduite des véhicules à moteur d'une catégorie donnée et de
+la sécurité routière ou de formation des candidats pour l'exercice de la profession d'enseignant ou d'exploiter un
+établissement organisant des stages de sensibilisation à la sécurité routière sans avoir obtenu l'agrément prévu à l'article
+L. 213-1 ou en violation d'une mesure de suspension provisoire de celui-ci est puni d'un an d'emprisonnement et de 15 000
+euros d'amende. 
 
-Est puni des mêmes peines le fait d'employer un enseignant qui n'est pas titulaire de l'autorisation prévue à l'article L.
-212-1. 
+Est puni des mêmes peines le fait d'employer un enseignant ou un animateur  qui n'est pas titulaire de l'autorisation prévue
+à l'article L. 212-1. 
 
-II.-Les personnes physiques coupables de l'une des infractions prévues au I du présent article encourent également les peines
-complémentaires suivantes : 
+II. - Les personnes physiques coupables de l'une des infractions prévues au I du présent article encourent également les
+peines complémentaires suivantes : 
 
 1° La fermeture définitive ou pour une durée de cinq ans au plus de l'un, de plusieurs ou de l'ensemble des établissements de
 l'entreprise appartenant à la personne condamnée ; 
 
 2° L'interdiction d'exercer l'activité professionnelle ou sociale dans l'exercice ou à l'occasion de l'exercice de laquelle
-l'infraction a été commise, suivant les modalités prévues par l'article 131-27 du code pénal ; 
+l'infraction a été commise, suivant les modalités prévues par l'
+article 131-27 du code pénal
+; 
 
-3° L'affichage ou la diffusion de la décision prononcée, dans les conditions prévues par l'article 131-35 du code pénal ; 
+3° L'affichage ou la diffusion de la décision prononcée, dans les conditions prévues par l'article 131-35 du code pénal
+; 
 
 4° La confiscation de la chose qui a servi ou était destinée à commettre l'infraction ou de la chose qui en est le produit. 
 
-III.-Les personnes morales déclarées responsables pénalement, dans les conditions prévues par l'article 121-2 du code pénal,
-des infractions définies au I du présent article encourent, outre l'amende suivant les modalités prévues par l'article 131-38
-du code pénal : 
+III. - Les personnes morales déclarées responsables pénalement, dans les conditions prévues par l'article 121-2 du code pénal
+, des infractions définies au I du présent article encourent, outre l'amende suivant les modalités prévues par l'article
+131-38 du code pénal
+: 
 
 1° (Abrogé) ; 
 
@@ -1597,7 +1784,8 @@ du code pénal :
 l'entreprise appartenant à la personne morale condamnée ; 
 
 3° L'interdiction d'exercer l'activité professionnelle ou sociale dans l'exercice ou à l'occasion de l'exercice de laquelle
-l'infraction a été commise, suivant les modalités prévues par l'article 131-39 du code pénal ; 
+l'infraction a été commise, suivant les modalités prévues par l'article 131-39 du code pénal
+ ; 
 
 4° L'affichage ou la diffusion de la décision prononcée, dans les conditions prévues par l'article 131-35 du code pénal ; 
 
@@ -1607,17 +1795,15 @@ l'infraction a été commise, suivant les modalités prévues par l'article 131-
 
 	**Modifié par**:
 
-	  - Loi n°2009-526 du 12 mai 2009 - art. 125
+	  - Loi n°2015-990 du 6 août 2015 - art. 22
 
 	**Cite**:
 
-	  - Code pénal - art. 121-2 (V)
-	  - Code pénal - art. 131-27 (V)
-	  - Code pénal - art. 131-35 (V)
-	  - Code pénal - art. 131-38 (V)
+	  - Code pénal - art. 121-2
+	  - Code pénal - art. 131-27
+	  - Code pénal - art. 131-35
+	  - Code pénal - art. 131-38
 	  - Code pénal - art. 131-39
-	  - Code de la route. - art. L212-1
-	  - Code de la route. - art. L213-1 (V)
 
 	**Anciens textes**:
 
@@ -1726,9 +1912,36 @@ Les modalités d'application des articles L. 213-1 à L. 213-7 sont fixées par 
 	  - Code de la route. - art. L213-1 (V)
 
 
+###### Article L213-9
+
+Les établissements et associations agréés au titre des articles L. 213-1 ou L. 213-7 s'engagent dans des démarches
+d'amélioration de la qualité des prestations de formation qu'ils délivrent. La labellisation ou la certification par un
+organisme accrédité peuvent faire accéder ces établissements à des droits ou des dispositifs particuliers. 
+
+Ces établissements sont tenus de transmettre chaque année à l'autorité administrative les informations et statistiques
+relatives à leur activité de formation aux examens théoriques et pratiques du permis de conduire et aux résultats de leurs
+élèves, à charge pour l'autorité administrative de les analyser selon un cahier des charges fixé par arrêté pour permettre au
+Conseil supérieur de l'éducation routière d'établir un rapport public annuel sur la base de ces informations. 
+
+Les modalités d'application du présent article sont fixées par arrêté du ministre chargé de la sécurité routière.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-990 du 6 août 2015 - art. 28
+
+	**Cite**:
+
+	  - Code de la route. - art. L213-1 (V)
+	  - Code de la route. - art. L213-7 (V)
+
+
 ### Titre 2 : Permis de conduire
 
 #### Chapitre 1er : Délivrance et catégories.
+
+#### Chapitre 1er : Vérification d'aptitude, délivrance et catégories.
 
 ###### Article L221-1
 
@@ -1757,6 +1970,25 @@ Toutefois, les dispositions du présent titre ne sont pas applicables au brevet 
 	  - Code de la route. - art. R211-1 (VD)
 
 
+###### Article L221-1 A
+
+L'accès aux épreuves théoriques et pratiques du permis de conduire est un service universel. Tout candidat se présentant
+librement ou par l'intermédiaire d'un établissement ou d'une association agréé au titre des articles L. 213-1 ou L. 213-7, et
+ayant déposé une demande de permis de conduire se voit proposer une place d'examen, sous réserve d'avoir atteint le niveau
+requis.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-990 du 6 août 2015 - art. 28
+
+	**Cite**:
+
+	  - Code de la route. - art. L213-1 (V)
+	  - Code de la route. - art. L213-7 (V)
+
+
 ###### Article L221-2
 
 I.-Le fait de conduire un véhicule sans être titulaire du permis de conduire correspondant à la catégorie du véhicule
@@ -1768,17 +2000,10 @@ conduire ces véhicules ou appareils pendant la durée de leur activité agricol
 de conduire correspondant à la catégorie du véhicule considéré dès lors qu'ils sont âgés d'au moins seize ans, sauf
 exceptions prévues par décret en Conseil d'Etat. 
 
-Les conducteurs des véhicules et appareils agricoles ou forestiers, attachés à une exploitation agricole ou forestière, à une
-entreprise de travaux agricoles ou à une coopérative d'utilisation de matériel agricole sont autorisés à conduire ces
-véhicules ou appareils après la cessation de leur activité agricole ou forestière dès lors qu'ils sont titulaires du permis
-de conduire prévu pour les véhicules ayant un poids total autorisé en charge inférieur à 3,5 tonnes affectés au transport de
-personnes et comportant, outre le siège du conducteur, huit places assises au maximum ou affectés au transport de
-marchandises, ainsi que les véhicules qui peuvent être assimilés aux véhicules précédents. 
-
-Les employés municipaux et les affouagistes sont également autorisés à conduire ces véhicules ou appareils dès lors qu'ils
-sont titulaires du permis de conduire prévu pour les véhicules ayant un poids total autorisé en charge inférieur à 3,5 tonnes
-affectés au transport de personnes et comportant, outre le siège du conducteur, huit places assises au maximum ou affectés au
-transport de marchandises, ainsi que les véhicules qui peuvent être assimilés aux véhicules précédents. 
+Les personnes titulaires du permis de conduire prévu pour les véhicules ayant un poids total autorisé en charge inférieur à
+3,5 tonnes affectés au transport de personnes et comportant, outre le siège du conducteur, huit places assises au maximum ou
+affectés au transport de marchandises, peuvent conduire tous les véhicules et appareils agricoles ou forestiers dont la
+vitesse n'excède pas 40 kilomètres par heure, ainsi que les véhicules qui peuvent y être assimilés.
 
 Le fait de conduire un véhicule ou un ensemble de véhicules mentionnés au deuxième alinéa sans respecter les conditions d'âge
 prévues au même alinéa est puni de l'amende prévue pour les contraventions de la quatrième classe. 
@@ -1807,7 +2032,7 @@ III.-L'immobilisation peut être prescrite, dans les conditions prévues aux art
 	**Cite**:
 
 	  - Ordonnance n°45-174 du 2 février 1945 - art. 20-5
-	  - Code pénal - art. 131-22 (V)
+	  - Code pénal - art. 131-22
 	  - Code pénal - art. 131-5
 	  - Code pénal - art. 131-8
 	  - Code de la route. - art. L325-1
@@ -1842,8 +2067,7 @@ III.-L'immobilisation peut être prescrite, dans les conditions prévues aux art
 
 	**Modifié par**:
 
-	  - Loi n°2003-239 du 18 mars 2003 - art. 77
-	  - Loi n°2012-387 du 22 mars 2012 - art. 87
+	  - Loi n°2015-990 du 6 août 2015 - art. 27
 
 	**Anciens textes**:
 
@@ -1869,6 +2093,175 @@ réglementaire.
 	  - Loi n°2015-294 du 17 mars 2015 - art. 1
 
 
+###### Article L221-4
+
+L'organisation des épreuves suivantes est assurée par l'autorité administrative ou par des personnes agréées par elle à cette
+fin :
+
+1° Toute épreuve théorique du permis de conduire ;
+
+2° Toute épreuve pratique des diplômes et titres professionnels du permis de conduire d'une catégorie de véhicule du groupe
+lourd.
+
+Les frais pouvant être perçus par les organisateurs agréés auprès des candidats sont réglementés par décret, pris après avis
+de l'Autorité de la concurrence.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-990 du 6 août 2015 - art. 28
+
+	**Cité par**:
+
+	  - Code de la route. - art. L221-10 (V)
+	  - Code de la route. - art. L221-9 (V)
+	  - Code de la route. - art. R221-3-1 (V)
+	  - Code de la route. - art. R221-3-17 (V)
+	  - Code de la route. - art. R221-3-4 (V)
+
+
+###### Article L221-5
+
+Dans l'ensemble des départements où le délai moyen entre deux présentations d'un même candidat à l'épreuve pratique du permis
+de conduire des véhicules du groupe léger est supérieur à quarante-cinq jours, l'autorité administrative recourt à des agents
+publics ou contractuels comme examinateurs autorisés à faire passer des épreuves de conduite en nombre suffisant pour
+garantir que le délai n'excède pas cette durée. 
+
+La commission des délits de violences ou d'outrage prévus par les articles 222-9 à 222-13 et 433-5 du code pénal contre l'un
+de ces agents dans l'exercice ou à l'occasion de l'exercice de sa fonction d'examinateur, est sanctionnée dans les conditions
+prévues à l'article L. 211-1 du présent code. 
+
+Les conditions de formation, d'impartialité et d'incompatibilité de fonctions que remplissent ces agents, ainsi que la durée
+pour laquelle cette habilitation est délivrée, sont définies par décret.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-990 du 6 août 2015 - art. 28
+
+	**Cité par**:
+
+	  - Décret n°2015-1379 du 29 octobre 2015 - art. 1 (V)
+	  - Arrêté du 20 février 2017 - art. 1 (V)
+	  - Arrêté du 20 février 2017 - art. 3 (V)
+
+	**Cite**:
+
+	  - Code pénal - art. 222-9 (V)
+	  - Code pénal - art. 433-5
+	  - Code de la route. - art. L211-1 (V)
+
+
+###### Article L221-6
+
+L'organisateur agréé d'une épreuve du permis de conduire présente des garanties d'honorabilité, de capacité à organiser
+l'épreuve, d'impartialité et d'indépendance à l'égard des personnes délivrant ou commercialisant des prestations
+d'enseignement de la conduite. 
+
+Il s'assure que les examinateurs auxquels il recourt présentent les garanties mentionnées à l'article L. 221-8.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-990 du 6 août 2015 - art. 28
+
+	**Cite**:
+
+	  - Code de la route. - art. L221-8 (V)
+
+	**Cité par**:
+
+	  - Code de la route. - art. L221-9 (V)
+
+
+###### Article L221-7
+
+L'organisation des épreuves du permis de conduire répond au cahier des charges défini par l'autorité administrative, qui en
+contrôle l'application. L'autorité administrative a accès aux locaux où sont organisées les épreuves.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-990 du 6 août 2015 - art. 28
+
+	**Cité par**:
+
+	  - Arrêté du 27 avril 2016 - art. 1 (V)
+	  - Code de la route. - art. R221-3-11 (V)
+	  - Code de la route. - art. R221-3-12 (V)
+	  - Code de la route. - art. R221-3-13 (V)
+	  - Code de la route. - art. R221-3-14 (V)
+	  - Code de la route. - art. R221-3-16 (V)
+	  - Code de la route. - art. R221-3-4 (V)
+
+
+###### Article L221-8
+
+Les épreuves du permis de conduire sont supervisées par un examinateur présentant des garanties d'honorabilité, de
+compétence, d'impartialité et d'indépendance à l'égard des personnes délivrant ou commercialisant des prestations
+d'enseignement de la conduite.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-990 du 6 août 2015 - art. 28
+
+	**Cité par**:
+
+	  - Arrêté du 27 avril 2016 - art. Annexe (V)
+	  - Code de la route. - art. L221-6 (V)
+	  - Code de la route. - art. R221-3-12 (V)
+
+
+###### Article L221-9
+
+I.-En cas de méconnaissance de l'une des obligations mentionnées aux articles L. 221-6 à L. 221-8, l'autorité administrative,
+après avoir mis l'intéressé en mesure de présenter ses observations, peut suspendre, pour une durée maximale de six mois,
+l'agrément mentionné à l'article L. 221-4. 
+
+II.-En cas de méconnaissance grave ou répétée de l'une des obligations mentionnées aux articles L. 221-6 à L. 221-8,
+l'autorité administrative, après avoir mis l'intéressé en mesure de présenter ses observations, peut mettre fin à l'agrément
+mentionné à l'article L. 221-4. 
+
+III.-En cas de cessation définitive de l'activité d'organisation d'une épreuve du permis de conduire, il est mis fin à
+l'agrément mentionné à l'article L. 221-4.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-990 du 6 août 2015 - art. 28
+
+	**Cite**:
+
+	  - Code de la route. - art. L221-4 (V)
+	  - Code de la route. - art. L221-6 (V)
+
+	**Cité par**:
+
+	  - Code de la route. - art. R221-3-9 (V)
+
+
+###### Article L221-10
+
+Les modalités d'application des articles L. 221-4 à L. 221-9 sont fixées par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-990 du 6 août 2015 - art. 28
+
+	**Cite**:
+
+	  - Code de la route. - art. L221-4 (V)
+
+
 #### Chapitre 3 : Permis à points.
 
 ###### Article L223-1
@@ -1879,8 +2272,8 @@ commis une infraction pour laquelle cette réduction est prévue.
 A la date d'obtention du permis de conduire, celui-ci est affecté de la moitié du nombre maximal de points. Il est fixé un
 délai probatoire de trois ans. Au terme de chaque année de ce délai probatoire, le permis est majoré d'un sixième du nombre
 maximal de points si aucune infraction ayant donné lieu à un retrait de points n'a été commise depuis le début de la période
-probatoire. Lorsque le titulaire du permis de conduire a suivi un apprentissage anticipé de la conduite, ce délai probatoire
-est réduit à deux ans et cette majoration est portée au quart du nombre maximal de points. 
+probatoire. Lorsque le titulaire du permis de conduire a suivi  l'apprentissage anticipé de la conduite défini à l'article L.
+211-3, ce délai probatoire est réduit à deux ans et cette majoration est portée au quart du nombre maximal de points. 
 
 Lorsque le nombre de points est nul, le permis perd sa validité. 
 
@@ -1937,7 +2330,7 @@ présent article.
 
 	**Modifié par**:
 
-	  - Loi n°2011-267 du 14 mars 2011 - art. 75
+	  - Loi n°2015-990 du 6 août 2015 - art. 28
 
 	**Anciens textes**:
 
@@ -5800,6 +6193,24 @@ code pénal, les peines prévues par les 4° à 6°, 8° et 9° de l'article 131
 	  - Code pénal - art. 131-38 (V)
 	  - Code pénal - art. 131-39 (V)
 	  - Code de la route. - art. L317-5 (V)
+
+
+###### Article L317-9
+
+Sous réserve des dérogations prévues par voie réglementaire, tout autocar est équipé de dispositifs permettant d'en prévenir
+la conduite sous l'empire d'un état alcoolique. Les modalités d'application du présent article sont définies par décret en
+Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°85-891 du 16 août 1985 - art. 31-3 (VT)
+	  - Code des transports - art. R3111-39 (VD)
+
+	**Créé par**:
+
+	  - Loi n°2015-990 du 6 août 2015 - art. 3
 
 
 #### Chapitre 8 : Energie, émissions polluantes et nuisances.
