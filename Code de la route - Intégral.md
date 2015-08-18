@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2015-08-08
+Version Consolidée au 2015-08-19
 
 # Partie législative
 
@@ -743,8 +743,8 @@ de l'intéressé.
 ###### Article L130-8
 
 Les agents de la concurrence, de la consommation et de la répression des fraudes sont habilités à rechercher et à constater
-les infractions prévues aux articles L. 317-5 et L. 413-2. A cet effet, ils disposent des pouvoirs prévus au livre II du code
-de la consommation.
+les infractions prévues aux articles L. 317-5, L. 318-3 et L. 413-2. A cet effet, ils disposent des pouvoirs prévus au livre
+II du code de la consommation.
 
 **Liens relatifs à cet article**
 
@@ -755,12 +755,13 @@ de la consommation.
 
 	**Modifié par**:
 
-	  - Loi n°2011-525 du 17 mai 2011 - art. 94
+	  - Loi n°2015-992 du 17 août 2015 - art. 58
 
 	**Cite**:
 
 	  - Code de la route. - art. L317-5 (V)
-	  - Code de la route. - art. L413-2 (V)
+	  - Code de la route. - art. L318-3 (V)
+	  - Code de la route. - art. L413-2
 
 
 ###### Article L130-9
@@ -1938,8 +1939,6 @@ Les modalités d'application du présent article sont fixées par arrêté du mi
 
 
 ### Titre 2 : Permis de conduire
-
-#### Chapitre 1er : Délivrance et catégories.
 
 #### Chapitre 1er : Vérification d'aptitude, délivrance et catégories.
 
@@ -6226,8 +6225,11 @@ La consommation énergétique des véhicules et ses méthodes de mesure doivent 
 leur location. 
 
 Les véhicules à moteur font l'objet d'une identification fondée sur leur contribution à la limitation de la pollution
-atmosphérique. Les véhicules ainsi identifiés peuvent notamment bénéficier de conditions de circulation et de stationnement
-privilégiées. 
+atmosphérique et sur leur sobriété énergétique. Dans des conditions fixées par l'autorité chargée de la police de la
+circulation et du stationnement, les véhicules à très faibles émissions, en référence à des critères déterminés par décret,
+peuvent notamment bénéficier de conditions de circulation et de stationnement privilégiées. 
+
+Cette identification est renouvelée lors du contrôle technique mentionné à l'article L. 323-1 du présent code. 
 
 Des décrets en Conseil d'Etat déterminent les conditions d'application du présent article.
 
@@ -6250,15 +6252,21 @@ Des décrets en Conseil d'Etat déterminent les conditions d'application du pré
 	  - Code de la route. - art. R318-2 (V)
 	  - Code de la route. - art. R411-19 (VD)
 	  - Code de la route. - art. R411-19-1 (VD)
+	  - Code général des collectivités territoriales - art. L2213-4-1 (V)
 
 	**Codifié par**:
 
-	  - Ordonnance 2000-930 2000-09-22 JORF 24 septembre 2000
-	  - Loi n°2003-495 2003-06-12 art. 38 JORF 13 juin 2003
+	  - Ordonnance n°2000-930 du 22 septembre 2000
+	  - Loi n°2003-495 du 12 juin 2003
+
+	**Modifié par**:
+
+	  - Loi n°2015-992 du 17 août 2015 - art. 37 (V)
 
 	**Cite**:
 
-	  - Code de l'environnement - art. L220-2 (V)
+	  - Code de l'environnement - art. L220-2
+	  - Code de la route. - art. L323-1 (V)
 
 	**Liens**:
 
@@ -6267,67 +6275,38 @@ Des décrets en Conseil d'Etat déterminent les conditions d'application du pré
 	**Anciens textes**:
 
 	  - Code de la route - art. L8 A (Ab)
-	  - Code de la route L8A
-
-
-###### Article L318-2
-
-Sous réserve des contraintes liées aux nécessités du service, l'Etat, les établissements publics, les entreprises nationales,
-pour leurs activités n'appartenant pas au secteur concurrentiel, ainsi que les collectivités territoriales et leurs
-groupements, lorsqu'ils gèrent directement ou indirectement une flotte de plus de vingt véhicules, acquièrent ou utilisent,
-lors du renouvellement de leur parc automobile, dans la proportion minimale de 20 %, des véhicules fonctionnant à l'énergie
-électrique, au gaz de pétrole liquéfié ou au gaz naturel. Cette mesure s'applique à l'ensemble des véhicules desdits parcs
-automobiles, à l'exception de ceux dont le poids total autorisé en charge excède 3,5 tonnes.
-
-Un décret en Conseil d'Etat précise les conditions d'application du présent article.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-930 2000-09-22 JORF 24 septembre 2000
-	  - Loi n°2003-495 du 12 juin 2003
-
-	**Abrogé par**:
-
-	  - Loi n°2015-992 du 17 août 2015 - art. 37
-
-	**Liens**:
-
-	  - PILOTE_SUIVEUR: Code de l'environnement - art. L224-5 (V)
-
-	**Anciens textes**:
-
-	  - Code de la route - art. L8 B (Ab)
-	  - Code de la route L8B
-
-	**Cité par**:
-
-	  - Code de la route. - art. R318-7 (Ab)
-	  - Code de la route. - art. R318-8 (Ab)
 
 
 ###### Article L318-3
 
-Sous réserve des contraintes liées aux nécessités du service, l'Etat, les établissements publics, les entreprises nationales,
-pour leurs activités n'appartenant pas au secteur concurrentiel, ainsi que les collectivités territoriales et leurs
-groupements, lorsqu'ils gèrent directement ou indirectement une flotte de plus de vingt véhicules à usage de transport public
-en commun de voyageurs, utilisent des véhicules fonctionnant à l'aide de carburants dont le taux minimal d'oxygène a été
-relevé. Cette mesure s'applique dans les périmètres de transports urbains des agglomérations de plus de 100 000 habitants
-définies au deuxième alinéa de l'article L. 221-2 du code de l'environnement. 
+I.-Est puni d'une amende de 7 500 € le fait de réaliser sur un véhicule des transformations ayant pour effet de supprimer un
+dispositif de maîtrise de la pollution, d'en dégrader la performance ou de masquer son éventuel dysfonctionnement, ou de se
+livrer à la propagande ou à la publicité, quel qu'en soit le mode, en faveur de ces transformations. 
 
-Un décret en Conseil d'Etat précise les conditions d'application du présent article.
+II.-Les personnes physiques coupables du délit mentionné au I du présent article encourent également la peine complémentaire
+d'interdiction, suivant les modalités prévues à l'article 131-27 du code pénal, d'exercer l'activité professionnelle ou
+sociale dans l'exercice ou à l'occasion de l'exercice de laquelle le délit a été commis, pour une durée maximale d'un an. 
+
+III.-Les personnes morales déclarées pénalement responsables, dans les conditions prévues à l'article 121-2 du code pénal, du
+délit défini au I du présent article encourent, outre l'amende suivant les modalités prévues à l'article 131-38 du code
+pénal, les peines prévues aux 4°, 5°, 8° et 9° de l'article 131-39 du même code.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 2000-930 2000-09-22 JORF 24 septembre 2000
-	  - Loi n°2003-495 2003-06-12 art. 38 JORF 13 juin 2003
+	  - Ordonnance n°2000-930 du 22 septembre 2000
+	  - Loi n°2003-495 du 12 juin 2003
+
+	**Modifié par**:
+
+	  - Loi n°2015-992 du 17 août 2015 - art. 58
 
 	**Cite**:
 
-	  - Code de l'environnement - art. L221-2 (V)
+	  - Code pénal - art. 121-2
+	  - Code pénal - art. 131-27
+	  - Code pénal - art. 131-38
 
 	**Liens**:
 
@@ -6336,7 +6315,6 @@ Un décret en Conseil d'Etat précise les conditions d'application du présent a
 	**Anciens textes**:
 
 	  - Code de la route - art. L8 C (Ab)
-	  - Code de la route L8C
 
 	**Cité par**:
 
@@ -6347,7 +6325,7 @@ Un décret en Conseil d'Etat précise les conditions d'application du présent a
 
 Les mesures prévues aux articles L. 121-4, 
 L. 325-1 à L. 325-3 et L. 325-6 à L. 325-9 sont applicables aux véhicules en infraction aux dispositions des articles L.
-311-1 et L. 318-1 à L. 318-3 ou aux textes pris pour leur application.
+311-1, L. 318-1 et L. 318-3 ou aux textes pris pour leur application.
 
 **Liens relatifs à cet article**
 
@@ -6357,8 +6335,18 @@ L. 325-1 à L. 325-3 et L. 325-6 à L. 325-9 sont applicables aux véhicules en 
 
 	**Codifié par**:
 
-	  - Ordonnance 2000-930 2000-09-22 JORF 24 septembre 2000
-	  - Loi n°2003-495 2003-06-12 art. 38 JORF 13 juin 2003
+	  - Ordonnance n°2000-930 du 22 septembre 2000
+	  - Loi n°2003-495 du 12 juin 2003
+
+	**Modifié par**:
+
+	  - Loi n°2015-992 du 17 août 2015 - art. 58
+
+	**Cite**:
+
+	  - Code de la route. - art. L121-4
+	  - Code de la route. - art. L325-1
+	  - Code de la route. - art. L325-6
 
 	**Liens**:
 
@@ -6370,14 +6358,6 @@ L. 325-1 à L. 325-3 et L. 325-6 à L. 325-9 sont applicables aux véhicules en 
 	  - SPEC_APPLI: Code de la route. - art. L325-7 (M)
 	  - SPEC_APPLI: Code de la route. - art. L325-8 (M)
 	  - SPEC_APPLI: Code de la route. - art. L325-9 (M)
-
-	**Cite**:
-
-	  - Code de la route. - art. L121-4 (V)
-	  - Code de la route. - art. L311-1 (V)
-	  - Code de la route. - art. L318-1 (V)
-	  - Code de la route. - art. L325-1 (V)
-	  - Code de la route. - art. L325-6 (V)
 
 
 ### Titre 2 : Dispositions administratives
@@ -7862,10 +7842,12 @@ véhicule à l'assureur. Le propriétaire du véhicule dispose de trente jours p
 ###### Article L327-2
 
 En cas d'accord du propriétaire de céder le véhicule à l'assureur, celui-ci transmet le certificat d'immatriculation du
-véhicule             à l'autorité administrative compétente.
+véhicule à l'autorité administrative compétente.
 
 L'assureur doit vendre le véhicule à un acheteur professionnel pour destruction, réparation ou récupération des pièces en vue
-de leur revente ou reconstruction. 
+de leur revente ou reconstruction. Lorsqu'il s'agit d'une voiture particulière ou d'une camionnette destinée à la destruction
+ou à la récupération des pièces en vue de leur revente ou reconstruction, l'assureur remet le véhicule à un centre de
+véhicules hors d'usage agréé.
 
 En cas de réparation du véhicule, celui-ci ne peut être remis en circulation et faire l'objet d'une réimmatriculation qu'au
 vu du rapport d'expertise certifiant que ledit véhicule a fait l'objet des réparations touchant à la sécurité prévues par le
@@ -7875,7 +7857,7 @@ premier rapport d'expertise et qu'il est en état de circuler dans des condition
 
 	**Modifié par**:
 
-	  - Décret n°2009-397 du 10 avril 2009 - art. 1
+	  - Loi n°2015-992 du 17 août 2015 - art. 77
 
 	**Cité par**:
 
@@ -8068,8 +8050,8 @@ infractions ;
 
 6° Aux préfets, pour l'exercice de leurs compétences en matière de circulation des véhicules ; 
 
-7° Aux services du ministre de l'intérieur, du ministre de la défense, du ministre chargé de l'industrie et du ministre
-chargé des transports pour l'exercice de leurs compétences ; 
+7° Aux services du ministre de l'intérieur, du ministre de la défense, du ministre chargé de l'écologie, du ministre chargé
+de l'industrie et du ministre chargé des transports pour l'exercice de leurs compétences ; 
 
 8° Aux entreprises d'assurances garantissant les dommages subis par des tiers résultant d'atteintes aux personnes ou aux
 biens dans la réalisation desquels un véhicule à moteur, ainsi que ses remorques, est impliqué et aux organismes assimilés à
@@ -8080,9 +8062,8 @@ charge l'indemnisation d'une des victimes ;
 9° Aux autorités étrangères avec lesquelles existe un accord d'échange d'informations relatives à l'identification du
 titulaire du certificat d'immatriculation ; 
 
-9° bis Aux services compétents des Etats membres, pour l'application de la directive 2011/82/ UE du Parlement européen et du
-Conseil du 25 octobre 2011 facilitant l'échange transfrontalier d'informations concernant les infractions en matière de
-sécurité routière ; 
+9° bis Aux services compétents des Etats membres, pour l'application des instruments de l'Union européenne destinés à
+faciliter l'échange transfrontalier d'informations concernant les infractions en matière de sécurité routière ; 
 
 10° Aux services compétents en matière d'immatriculation des Etats membres de l'Union européenne et aux autres Etats parties
 à l'accord sur l'Espace économique européen, dans le cadre des dispositions prévoyant un échange d'informations relatives à
@@ -8111,7 +8092,13 @@ qu'aux articles L. 2241-1, L. 4321-3, L. 4272-1,
 L. 5243-1 et L. 5337-2 du code des transports habilités à dresser procès-verbal de contravention de grande voirie en
 application de ces mêmes codes et aux personnels de Voies navigables de France mentionnés à l'article L. 4272-2 du code des
 transports habilités à constater les infractions définies par les règlements de police de la navigation intérieure, aux
-seules fins d'identifier le titulaire du certificat d'immatriculation. 
+seules fins d'identifier le titulaire du certificat d'immatriculation ; 
+
+16° Au maire dans le cadre des attributions prévues aux articles L. 541-21-3 et L. 541-21-4 du code de l'environnement, aux
+seules fins d'identifier le titulaire du certificat d'immatriculation ; 
+
+17° Aux personnels habilités du prestataire autorisé par l'Etat aux seules fins d'établir et de délivrer le dispositif
+d'identification des véhicules prévu à l'article L. 318-1 du présent code. 
 
 II.-Les entreprises d'assurances doivent fournir à l'appui de leur demande tous éléments utiles permettant de vérifier la
 réalité du sinistre. 
@@ -8143,14 +8130,16 @@ paiement du péage.
 
 	**Modifié par**:
 
-	  - Loi n°2008-1425 du 27 décembre 2008 - art. 153 (M)
-	  - Loi n°2013-619 du 16 juillet 2013 - art. 35
+	  - Loi n°2015-992 du 17 août 2015 - art. 37
+	  - Loi n°2015-992 du 17 août 2015 - art. 77
 
 	**Cite**:
 
+	  - Code général de la propriété des personnes publ... - art. L2132-23 (V)
 	  - Code général de la propriété des personnes publiques. - art. L2132-21
-	  - Code général de la propriété des personnes publiques. - art. L2132-23
 	  - Code de procédure pénale - art. 14
+	  - Code de l'environnement - art. L541-21-3 (V)
+	  - Code de l'environnement - art. L541-21-4 (V)
 	  - Code de la route. - art. L130-4
 	  - Code de la route. - art. L130-7
 	  - Code des transports - art. L2241-1
@@ -8425,27 +8414,26 @@ Pour l'application des dispositions du présent livre à Mayotte, les termes én
 
 ###### Article L342-2
 
-Les dispositions législatives du présent livre sont applicables à Mayotte, à l'exception des articles L. 318-1 à L. 318-3.
+Les dispositions législatives du présent livre sont applicables à Mayotte, à l'exception des articles L. 318-1 et L. 318-3.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Ordonnance 92-256 1992-03-04 art. 1
 	  - Ordonnance no 92-256 du 4 mars 1992 portant extens - art. 1 (Ab)
 
 	**Codifié par**:
 
-	  - Ordonnance 2000-930 2000-09-22 JORF 24 septembre 2000
-	  - Loi n°2003-495 2003-06-12 art. 38 JORF 13 juin 2003
+	  - Ordonnance n°2000-930 du 22 septembre 2000
+	  - Loi n°2003-495 du 12 juin 2003
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Loi n°2001-616 du 11 juillet 2001 - art. 75 (V)
+	  - Loi n°2015-992 du 17 août 2015 - art. 37 (V)
 
 	**Cite**:
 
-	  - Code de la route. - art. L318-1 (V)
+	  - Code de la route. - art. L318-1
 
 
 ###### Article L342-3
