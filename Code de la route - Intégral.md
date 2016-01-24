@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2016-01-01
+Version Consolidée au 2016-01-25
 
 # Partie législative
 
@@ -14732,11 +14732,13 @@ sollicitent un nouveau permis moins de neuf mois après la date à laquelle ils 
 
 ###### Article R224-21
 
-En cas d'annulation du permis de conduire prononcée en application du présent code, tout conducteur dont le permis de
-conduire a été annulé doit, pour être admis à subir les épreuves exigées pour la délivrance d'un nouveau permis, produire à
-l'appui de sa demande un certificat délivré par un médecin agréé consultant hors commission médicale ou par la commission
-médicale attestant qu'il n'est atteint d'aucune affection incompatible avec la délivrance du permis de conduire de la
-catégorie sollicitée et qu'il a satisfait à un examen psychotechnique.
+Tout conducteur dont le permis de conduire a été annulé, invalidé ou suspendu pour une durée égale ou supérieure à six mois
+doit, pour être admis à se présenter aux épreuves exigées pour la délivrance d'un nouveau permis ou solliciter la restitution
+de son permis suspendu, produire à l'appui de sa demande un avis médical délivré par un médecin agréé consultant hors
+commission médicale ou par la commission médicale attestant qu'il n'est atteint d'aucune affection médicale incompatible avec
+la délivrance du permis de conduire ou sa restitution.
+
+L'avis médical ne peut être émis qu'après que l'intéressé a satisfait à un examen psychotechnique.
 
 **Liens relatifs à cet article**
 
@@ -14750,7 +14752,7 @@ catégorie sollicitée et qu'il a satisfait à un examen psychotechnique.
 
 	**Modifié par**:
 
-	  - Décret n°2012-886 du 17 juillet 2012 - art. 3
+	  - Décret n°2016-39 du 22 janvier 2016 - art. 2
 
 	**Cité par**:
 
@@ -14760,7 +14762,7 @@ catégorie sollicitée et qu'il a satisfait à un examen psychotechnique.
 
 ###### Article R224-22
 
-En vue d'établir le certificat mentionné à l'article R. 224-21, le médecin agréé consultant hors commission médicale ou la
+En vue d'établir l'avis mentionné à l'article R. 224-21, le médecin agréé consultant hors commission médicale ou la
 commission médicale procède à l'examen médical du candidat pour s'assurer que celui-ci est indemne de toute affection
 incompatible avec la délivrance du permis de conduire. 
 
@@ -14790,7 +14792,7 @@ commission susmentionnée.
 
 	**Modifié par**:
 
-	  - Décret n°2012-886 du 17 juillet 2012 - art. 3
+	  - Décret n°2016-39 du 22 janvier 2016 - art. 3
 
 	**Cite**:
 
@@ -15144,8 +15146,8 @@ département. A défaut de praticiens en nombre suffisant, elle peut être inter
 Un médecin agréé ne peut effectuer le contrôle médical d'une personne dont il est le médecin traitant. 
 
 Si le contrôle médical de l'aptitude à la conduite intervient à la suite d'une invalidation, annulation ou suspension du
-permis prononcée en application du présent code, il est complété par un examen psychotechnique réalisé dans les conditions
-prévues à l'article R. 224-22. 
+permis     d'une durée de six mois ou plus, il est complété par un examen psychotechnique réalisé dans les conditions prévues
+à l'article R. 224-22. 
 
 Lors de ce contrôle médical, le médecin agréé ou la commission médicale peut prescrire tout examen complémentaire. Il peut
 également solliciter, dans le respect du secret médical, l'avis de professionnels de santé qualifiés dans des domaines
@@ -15165,10 +15167,6 @@ routière et de la santé.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Décret n°2012-886 du 17 juillet 2012 - art. 2
-
 	**Cité par**:
 
 	  - Arrêté du 31 juillet 2012 - art. 3 (VD)
@@ -15178,6 +15176,10 @@ routière et de la santé.
 	  - Arrêté du 30 octobre 2016 - art. (VD)
 	  - Code de la route. - art. R226-3 (VD)
 	  - Code de la sécurité sociale. - art. D311-1 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2016-39 du 22 janvier 2016 - art. 4
 
 	**Cite**:
 
