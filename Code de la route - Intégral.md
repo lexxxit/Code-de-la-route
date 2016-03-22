@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2016-03-19
+Version Consolidée au 2016-03-23
 
 # Partie législative
 
@@ -3557,12 +3557,12 @@ l'administration.
 
 ###### Article L225-4
 
-Les  autorités judiciaires, les magistrats de l'ordre administratif dans le cadre des recours formulés contre les décisions
-de retrait de point du permis de conduire, les officiers de police judiciaire chargés de l'exécution d'une ordonnance
+Les autorités judiciaires, les magistrats de l'ordre administratif dans le cadre des recours formulés contre les décisions de
+retrait de point du permis de conduire, les officiers de police judiciaire chargés de l'exécution d'une ordonnance
 juridictionnelle ou agissant dans le cadre d'une enquête de flagrance, le représentant de l'Etat dans le département dans
 l'exercice de ses compétences en matière de permis de conduire, les militaires de la gendarmerie et les fonctionnaires de la
-police nationale habilités à effectuer des contrôles routiers en application du présent code sont autorisés à accéder
-directement aux informations enregistrées en application de l'article L. 225-1.
+police nationale habilités à effectuer des contrôles routiers en application du présent code sont autorisés à accéder aux
+informations enregistrées en application de l'article L. 225-1.
 
 **Liens relatifs à cet article**
 
@@ -3580,7 +3580,7 @@ directement aux informations enregistrées en application de l'article L. 225-1.
 
 	**Modifié par**:
 
-	  - Loi n°2011-267 du 14 mars 2011 - art. 79
+	  - Loi n°2016-339 du 22 mars 2016 - art. 7
 
 	**Anciens textes**:
 
@@ -3593,8 +3593,7 @@ directement aux informations enregistrées en application de l'article L. 225-1.
 
 ###### Article L225-5
 
-Les informations relatives à l'existence, la catégorie et la validité du permis de conduire sont communiquées sur leur
-demande :
+Les informations relatives à l'existence, la catégorie et la validité du permis de conduire sont communiquées :
 
 1° Au titulaire du permis, à son avocat ou à son mandataire ;
 
@@ -3626,7 +3625,10 @@ qualification initiale et la formation continue des conducteurs de certains véh
 marchandises ou de voyageurs ;
 
 10° Aux fonctionnaires ou agents de l'Etat chargés du contrôle des transports terrestres placés sous l'autorité du ministre
-chargé des transports pour l'exercice des compétences en matière de contrôle du transport routier prévues au présent code.
+chargé des transports pour l'exercice des compétences en matière de contrôle du transport routier prévues au présent code ;
+
+11° Aux entreprises exerçant une activité de transport public routier de voyageurs ou de marchandises, pour les personnes
+qu'elles emploient comme conducteur de véhicule à moteur.
 
 **Liens relatifs à cet article**
 
@@ -3643,7 +3645,7 @@ chargé des transports pour l'exercice des compétences en matière de contrôle
 
 	**Modifié par**:
 
-	  - Loi n°2013-431 du 28 mai 2013 - art. 20
+	  - Loi n°2016-339 du 22 mars 2016 - art. 7
 
 	**Anciens textes**:
 
@@ -8105,7 +8107,7 @@ Ces informations peuvent faire l'objet de traitements automatisés, soumis aux d
 ###### Article L330-2
 
 I.-Ces informations, à l'exception de celles relatives aux gages constitués sur les véhicules à moteur et aux oppositions au
-transfert du certificat d'immatriculation, sont communiquées sur leur demande : 
+transfert du certificat d'immatriculation, sont communiquées : 
 
 1° A la personne physique ou morale titulaire des pièces administratives, à son avocat ou à son mandataire ; 
 
@@ -8178,7 +8180,7 @@ d'identification des véhicules prévu à l'article L. 318-1 du présent code.
 II.-Les entreprises d'assurances doivent fournir à l'appui de leur demande tous éléments utiles permettant de vérifier la
 réalité du sinistre. 
 
-III. ― Les exploitants d'une autoroute ou d'un ouvrage routier ouvert à la circulation publique et soumis à péage doivent
+III.-Les exploitants d'une autoroute ou d'un ouvrage routier ouvert à la circulation publique et soumis à péage doivent
 produire à l'appui de leur demande tous éléments utiles permettant de vérifier la réalité de la contravention pour non-
 paiement du péage.
 
@@ -8205,8 +8207,7 @@ paiement du péage.
 
 	**Modifié par**:
 
-	  - Loi n°2014-58 du 27 janvier 2014 - art. 63 (V)
-	  - Loi n°2015-993 du 17 août 2015 - art. 35 (V)
+	  - Loi n°2016-339 du 22 mars 2016 - art. 7
 
 	**Cite**:
 
@@ -8231,7 +8232,7 @@ paiement du péage.
 ###### Article L330-3
 
 I. - Les informations relatives, d'une part, aux gages constitués sur les véhicules à moteur et, d'autre part, aux
-oppositions au transfert du certificat d'immatriculation sont communiquées sur leur demande :
+oppositions au transfert du certificat d'immatriculation sont communiquées :
 
 1° A la personne physique ou morale titulaire des pièces administratives exigées pour la circulation du véhicule, à son
 avocat ou à son mandataire ;
@@ -8254,17 +8255,20 @@ toute personne qui en fait la demande.
 
 	**Codifié par**:
 
-	  - Ordonnance 2000-930 2000-09-22 JORF 24 septembre 2000
-	  - Loi n°2003-495 2003-06-12 art. 38 JORF 13 juin 2003
+	  - Ordonnance n°2000-930 du 22 septembre 2000
+	  - Loi n°2003-495 du 12 juin 2003
+
+	**Modifié par**:
+
+	  - Loi n°2016-339 du 22 mars 2016 - art. 7
 
 	**Cite**:
 
-	  - CODE DE PROCEDURE PENALE - art. 14 (V)
+	  - Code de procédure pénale - art. 14
 
 	**Anciens textes**:
 
 	  - Code de la route - art. L37 (Ab)
-	  - Code de la route L37
 
 	**Cité par**:
 
@@ -8275,7 +8279,7 @@ toute personne qui en fait la demande.
 
 Les informations relatives à l'état civil du titulaire du certificat d'immatriculation, au numéro d'immatriculation et aux
 caractéristiques du véhicule ainsi qu'aux gages constitués et aux oppositions, sont, à l'exclusion de tout autre
-renseignement, communiquées sur leur demande, pour l'exercice de leur mission :
+renseignement, communiquées pour l'exercice de leur mission :
 
 1° Aux agents chargés de l'exécution d'un titre exécutoire ;
 
@@ -8291,23 +8295,18 @@ La loi n° 67-563 du 13 juillet 1967 a été abrogée par la loi n° 85-98 du 25
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Loi n°67-563 1967-07-13
-
 	**Codifié par**:
 
-	  - Ordonnance 2000-930 2000-09-22 JORF 24 septembre 2000
-	  - Loi n°2003-495 2003-06-12 art. 38 JORF 13 juin 2003
+	  - Ordonnance n°2000-930 du 22 septembre 2000
+	  - Loi n°2003-495 du 12 juin 2003
 
 	**Modifié par**:
 
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 165 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006
+	  - Loi n°2016-339 du 22 mars 2016 - art. 7
 
 	**Anciens textes**:
 
 	  - Code de la route - art. L38 (Ab)
-	  - Code de la route L38
 
 
 ###### Article L330-5
