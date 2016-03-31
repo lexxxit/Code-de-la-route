@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2016-03-23
+Version Consolidée au 2016-04-01
 
 # Partie législative
 
@@ -10840,8 +10840,9 @@ routière ;
 
 4° Etre, durant l'apprentissage, sous la surveillance constante et directe d'un enseignant, titulaire de l'autorisation
 d'enseigner la conduite des véhicules à moteur mentionnée aux articles L. 212-1 et R. 212-1 correspondant à la catégorie du
-véhicule utilisé, ou d'un accompagnateur titulaire, depuis au moins cinq ans sans interruption, du permis de conduire
-correspondant à la catégorie du véhicule utilisée ; 
+véhicule utilisé, d'une personne en cours de formation titulaire de l'autorisation temporaire et restrictive d'exercer
+mentionnée au I bis de l'article R. 212-1, ou d'un accompagnateur titulaire, depuis au moins cinq ans sans interruption, du
+permis de conduire correspondant à la catégorie du véhicule utilisée ; 
 
 5° Utiliser, durant l'apprentissage, un véhicule conforme aux dispositions de l'article R. 317-25.
 
@@ -10862,7 +10863,7 @@ correspondant à la catégorie du véhicule utilisée ;
 
 	**Modifié par**:
 
-	  - Décret n°2015-1537 du 25 novembre 2015 - art. 2
+	  - Décret n°2016-381 du 30 mars 2016 - art. 2
 
 	**Anciens textes**:
 
@@ -10871,9 +10872,9 @@ correspondant à la catégorie du véhicule utilisée ;
 	**Cite**:
 
 	  - Code de la route. - art. L211-1
-	  - Code de la route. - art. R211-5 (V)
-	  - Code de la route. - art. R212-1
-	  - Code de la route. - art. R317-25 (V)
+	  - Code de la route. - art. R211-5
+	  - Code de la route. - art. R212-1 (M)
+	  - Code de la route. - art. R317-25
 
 
 ###### Article R211-4
@@ -11059,19 +11060,29 @@ l'arrêté susmentionné est puni de l'amende prévue pour les contraventions de
 
 ###### Article R212-1
 
-I.-L'autorisation d'enseigner la conduite des véhicules à moteur d'une catégorie donnée et la sécurité routière ainsi que
+I. - L'autorisation d'enseigner la conduite des véhicules à moteur d'une catégorie donnée et la sécurité routière ainsi que
 l'autorisation d'animer les stages de sensibilisation à la sécurité routière mentionnés aux articles L. 223-6 et R. 223-5
 sont délivrées, pour une durée de cinq ans, par le préfet du lieu de résidence du demandeur ou, pour un non-résident en
 France, par le préfet du département où il envisage d'exercer la profession d'enseignant ou d'animateur, dans les conditions
-fixées par arrêté du   ministre chargé de la sécurité routière. 
+fixées par arrêté du ministre chargé de la sécurité routière. 
 
-Ces autorisations sont valables sur l'ensemble du territoire national. 
+I bis. - L'autorisation temporaire et restrictive d'exercer est délivrée pour une durée de douze mois non renouvelable, dans
+les conditions fixées par le I bis de l'article R. 212-2, par le préfet du département où se trouve le siège de
+l'établissement d'enseignement de la conduite et de la sécurité routière avec lequel le demandeur, en cours de formation pour
+l'accès au titre professionnel, envisage d'exercer. 
 
-Ces autorisations, ainsi que toutes les mesures affectant sa validité, sont inscrites dans un registre national qui est
-élaboré et tenu à jour dans les conditions prévues par la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux
-fichiers et aux libertés. 
+Cette autorisation permet à son titulaire l'exercice des seules compétences composant le certificat de compétences
+professionnelles qu'il a obtenu. 
 
-II.-La déclaration mentionnée au II de l'article L. 212-1 est adressée au préfet du département dans lequel le prestataire
+La proportion maximale par entreprise des personnes en cours de formation, mentionnées au 3° du I de l'article L. 212-2,
+représente 20 % par excès de l'effectif total, calculé en équivalent temps plein, des enseignants de la conduite et de la
+sécurité routière, salariés ou exploitants, titulaires d'une autorisation d'enseigner en cours de validité. 
+
+I ter. - Les autorisations mentionnées aux I et I bis sont valables sur l'ensemble du territoire national. Ces autorisations,
+ainsi que toutes les mesures affectant leur validité, sont inscrites dans un registre national qui est élaboré et tenu à jour
+dans les conditions prévues par la loi nº 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés. 
+
+II. - La déclaration mentionnée au II de l'article L. 212-1 est adressée au préfet du département dans lequel le prestataire
 envisage d'exercer l'activité d'enseignement de la conduite ou d'animation de stages de sensibilisation à la sécurité
 routière, ou les deux, pour la première fois sur le territoire national, accompagnée des documents suivants : 
 
@@ -11091,8 +11102,8 @@ conduisant n'est pas réglementée dans l'Etat d'établissement ;
 La déclaration et les documents joints peuvent être transmis par tout moyen, accompagnés, le cas échéant, de leur traduction
 en langue française. 
 
-III.-Au vu de la déclaration mentionnée au II de l'article L. 212-1, le préfet procède à une vérification des qualifications
-professionnelles du prestataire. 
+III. - Au vu de la déclaration mentionnée au II de l'article L. 212-1, le préfet procède à une vérification des
+qualifications professionnelles du prestataire. 
 
 Dans un délai maximal d'un mois à compter de la réception de la déclaration et des documents joints, le préfet informe le
 prestataire du résultat de ce contrôle ou, le cas échéant, procède à une demande d'informations complémentaires. 
@@ -11110,7 +11121,7 @@ organisée et les résultats lui en sont communiqués dans un délai maximal de 
 En l'absence de décision du préfet, ou, le cas échéant, de l'organisation de l'épreuve d'aptitude, dans les délais prévus ci-
 dessus, la prestation de services peut être effectuée. 
 
-Un arrêté du   ministre chargé de la sécurité routière fixe les conditions d'application du présent article.
+Un arrêté du ministre chargé de la sécurité routière fixe les conditions d'application du présent article.
 
 **Liens relatifs à cet article**
 
@@ -11139,13 +11150,13 @@ Un arrêté du   ministre chargé de la sécurité routière fixe les conditions
 	  - Arrêté du 13 avril 2016 (V)
 	  - Arrêté du 13 avril 2016 - art. 1 (V)
 	  - Arrêté du 20 avril 2016 - art. 6 (V)
-	  - Code de la route. - art. R211-3 (M)
+	  - Code de la route. - art. R211-3 (V)
 	  - Code de la route. - art. R212-3 (V)
 	  - Code de la route. - art. R233-1 (V)
 
 	**Modifié par**:
 
-	  - Décret n°2012-688 du 7 mai 2012 - art. 2
+	  - Décret n°2016-381 du 30 mars 2016 - art. 3
 
 	**Anciens textes**:
 
@@ -11154,7 +11165,7 @@ Un arrêté du   ministre chargé de la sécurité routière fixe les conditions
 
 ###### Article R212-2
 
-I.-L'autorisation d'enseigner la conduite et la sécurité routière est délivrée aux personnes remplissant les conditions
+I. - L'autorisation d'enseigner la conduite et la sécurité routière est délivrée aux personnes remplissant les conditions
 suivantes : 
 
 1° Etre titulaire d'un des titres ou diplômes mentionnés à l'article R. 212-3 ; 
@@ -11164,8 +11175,8 @@ suivantes :
 3° Etre titulaire du permis de conduire de la catégorie B dont le délai probatoire fixé à l'article L. 223-1 est expiré ; 
 
 4° Remplir les conditions d'aptitude physique, cognitive et sensorielle requises pour l'obtention du permis de conduire des
-catégories C, E (C), D, E (D), CE, C1, C1E, DE, D1 et D1E dont les modalités sont fixées par arrêté du ministre chargé de la
-sécurité routière. 
+catégories C1, C, D1, D, C1E, CE, D1E et DE dont les modalités sont fixées par arrêté du ministre chargé de la sécurité
+routière. 
 
 Le maintien de cette aptitude est subordonné à l'avis émis par un médecin agréé consultant hors commission médicale ou par la
 commission médicale, dans les conditions fixées au 2° du I de l'article R. 221-11. 
@@ -11174,8 +11185,20 @@ La validité de l'autorisation d'enseigner est limitée à l'enseignement théor
 l'enseignement pratique de la conduite ou à la conduite elle-même a été prise par le préfet après avis du médecin précité ou
 de la commission médicale. 
 
-II.-L'autorisation d'animer les stages de sensibilisation à la sécurité routière est délivrée aux personnes remplissant les
-conditions suivantes :
+I bis. - L'autorisation temporaire et restrictive d'exercer est délivrée aux personnes remplissant les conditions mentionnées
+aux 2°, 3° et 4° du I, ainsi que les conditions suivantes : 
+
+1° Etre titulaire d'un des certificats de compétences professionnelles composant le titre professionnel délivré par le
+ministre chargé de l'emploi, mentionné au I de l'article R. 212-3 ; 
+
+2° Avoir souscrit un contrat de travail avec un établissement agréé d'enseignement de la conduite et de la sécurité
+routière ; 
+
+3° Etre inscrit à une session d'examen permettant de compléter la validation des compétences nécessaire à l'obtention du
+titre professionnel d'enseignant de la conduite et de la sécurité routière.
+
+II. - L'autorisation d'animer les stages de sensibilisation à la sécurité routière est délivrée aux personnes remplissant les
+conditions suivantes : 
 
 - soit être titulaire de l'autorisation d'enseigner mentionnée au I du présent article et d'un diplôme complémentaire dans le
 domaine de la formation à la sécurité routière figurant sur une liste fixée par arrêté du ministre chargé de la sécurité
@@ -11188,7 +11211,7 @@ probatoire fixé à l'article L. 223-1 est expiré ;
 initiale à l'animation de stages de sensibilisation à la sécurité routière délivrée dans les conditions fixées par arrêté du
 ministre chargé de la sécurité routière. 
 
-III-Un arrêté du ministre chargé de la sécurité routière définit les conditions d'application du présent article.
+III. - Un arrêté du ministre chargé de la sécurité routière définit les conditions d'application du présent article.
 
 **Liens relatifs à cet article**
 
@@ -11202,14 +11225,13 @@ III-Un arrêté du ministre chargé de la sécurité routière définit les cond
 	  - Arrêté du 26 juin 2012 - art. 1 (V)
 	  - Arrêté du 13 avril 2016 - art. 2 (V)
 	  - Arrêté du 20 avril 2016 - art. 10 (V)
-	  - Code de la route. - art. R212-3 (V)
 	  - Code de la route. - art. R212-3-1 (V)
 	  - Code de la route. - art. R212-4-1 (V)
 	  - Code de la route. - art. R213-8 (V)
 
 	**Modifié par**:
 
-	  - Décret n°2012-886 du 17 juillet 2012 - art. 3
+	  - Décret n°2016-381 du 30 mars 2016 - art. 4
 
 	**Anciens textes**:
 
@@ -11218,6 +11240,7 @@ III-Un arrêté du ministre chargé de la sécurité routière définit les cond
 	**Cite**:
 
 	  - Code de la route. - art. L223-1
+	  - Code de la route. - art. R212-3 (V)
 	  - Code de la route. - art. R221-11
 
 
@@ -11225,14 +11248,17 @@ III-Un arrêté du ministre chargé de la sécurité routière définit les cond
 
 Les titres ou diplômes prévus au 1° du I de l'article R. 212-2 sont : 
 
-I.-Le brevet pour l'exercice de la profession d'enseignant de la conduite automobile et de la sécurité routière (BEPECASER).
-Ce diplôme porte, le cas échéant, la mention " deux-roues " et la mention " groupe lourd ", correspondant respectivement aux
-catégories AM, A1, A2 et A et aux catégories C1, C, D1, D, C1E, CE, D1E et DE du permis de conduire. 
+I. - Le titre professionnel d'enseignant de la conduite automobile et de la sécurité routière et les certificats de
+spécialisation de ce titre délivrés par le ministre chargé de l'emploi en application des articles R. 338-1 et suivants du
+code de l'éducation. 
 
-Ce diplôme est délivré par le préfet qui a organisé les épreuves aux personnes ayant subi avec succès lesdites épreuves
-organisées dans des conditions fixées par un arrêté du ministre chargé de la sécurité routière. 
+II. - Le brevet pour l'exercice de la profession d'enseignant de la conduite automobile et de la sécurité routière
+(BEPECASER) obtenu avant le 31 décembre 2016 et les mentions "deux roues" et "groupe lourd" de ce même diplôme obtenues avant
+le 31 décembre 2019, dans des conditions fixées par un arrêté du ministre chargé de la sécurité routière. Ces mentions
+correspondent respectivement aux catégories AM, A1, A2 et A et aux catégories C1, C, D1, D, C1E, CE, D1E et DE du permis de
+conduire.
 
-II.-L'un des titres ou diplômes énumérés ci-après : 
+III. - L'un des titres ou diplômes énumérés ci-après : 
 
 1° Pour l'enseignement de la conduite des véhicules terrestres à moteur relevant de la catégorie B, B1 et BE du permis de
 conduire : 
@@ -11254,9 +11280,9 @@ les personnes ayant subi avec succès la ou les épreuves correspondantes auxdit
 b) Les titres ou diplômes mentionnés aux b, c et d du 1° du II à la condition que les titulaires aient été en possession, le
 1er janvier 1982, des catégories de permis de conduire correspondantes. 
 
-III.-Une qualification professionnelle satisfaisant aux conditions prévues à l'article R. 212-3-1. 
+IV. - Une qualification professionnelle satisfaisant aux conditions prévues à l'article R. 212-3-1. 
 
-IV.-Un diplôme d'enseignement de la conduite délivré par un Etat qui n'est ni membre de l'Union européenne ni partie à
+V. - Un diplôme d'enseignement de la conduite délivré par un Etat qui n'est ni membre de l'Union européenne ni partie à
 l'accord sur l'Espace économique européen et reconnu pour l'exercice de la profession d'enseignant de la conduite automobile
 et de la sécurité routière par décision du ministre chargé de la sécurité routière.
 
@@ -11278,7 +11304,7 @@ et de la sécurité routière par décision du ministre chargé de la sécurité
 	  - Arrêté du 19 décembre 2016 (V)
 	  - Arrêté du 19 décembre 2016 - art. 1 (V)
 	  - Arrêté du 19 décembre 2016 - art. 7 (V)
-	  - Code de la route. - art. R212-2 (VD)
+	  - Code de la route. - art. R212-2 (V)
 	  - Code de la route. - art. R212-6 (V)
 
 	**Liens**:
@@ -11289,7 +11315,7 @@ et de la sécurité routière par décision du ministre chargé de la sécurité
 
 	**Modifié par**:
 
-	  - Décret n°2014-1295 du 31 octobre 2014 - art. 4
+	  - Décret n°2016-381 du 30 mars 2016 - art. 5
 
 	**Anciens textes**:
 
@@ -11405,11 +11431,11 @@ de sensibilisation à la sécurité routière en France.
 
 ###### Article R212-4
 
-L'autorisation d'enseigner ou d'animer un stage de sensibilisation à la sécurité routière ne peut être délivrée aux personnes
-qui ont fait l'objet d'une condamnation prononcée par une juridiction française ou par une juridiction étrangère, à une peine
-criminelle, ou à une peine correctionnelle pour l'une des infractions suivantes : 
+Les autorisations mentionnées à l'article R. 212-2 ne peuvent être délivrées aux personnes qui ont fait l'objet d'une
+condamnation prononcée par une juridiction française ou par une juridiction étrangère, à une peine criminelle, ou à une peine
+correctionnelle pour l'une des infractions suivantes : 
 
-I.-Délits d'atteinte à la personne humaine prévus par le code pénal :
+I. - Délits d'atteinte à la personne humaine prévus par le code pénal :
 
 - atteinte involontaire à la vie (art. 221-6-1) ;
 
@@ -11455,7 +11481,7 @@ dangereux susceptible d'être vu ou perçu par un mineur (art. 227-24) ;
 - provocation à la commission à l'encontre d'un mineur de l'un des crimes ou délits visés aux articles 222-22 à 222-31, 225-5
 à 225-11,227-22, 227-23 et 227-25 à 227-28 (art. 227-28-3).
 
-II.-Délits d'atteinte aux biens prévus par le code pénal :
+II. - Délits d'atteinte aux biens prévus par le code pénal :
 
 - vol et tentative (art. 311-3 à 311-6 et 311-13) ;
 
@@ -11473,7 +11499,7 @@ II.-Délits d'atteinte aux biens prévus par le code pénal :
 
 - détérioration de biens et tentative (art. 322-1 à 322-4). 
 
-III.-Délits d'atteinte à l'autorité de l'Etat et à la confiance publique prévus par le code pénal :
+III. - Délits d'atteinte à l'autorité de l'Etat et à la confiance publique prévus par le code pénal :
 
 - corruption active et trafic d'influence (art. 433-1 et 433-2) ;
 
@@ -11488,9 +11514,9 @@ de conduire ou refus de restituer celui-ci ou destruction ou détournement d'un 
 
 - établissement d'attestation ou de certificat inexact, après avoir sollicité des offres, dons ou avantages (art. 441-8). 
 
-IV.-Délit prévu par la loi du 23 décembre 1901 modifiée réprimant les fraudes dans les examens et concours publics. 
+IV. - Délit prévu par la loi du 23 décembre 1901 modifiée réprimant les fraudes dans les examens et concours publics. 
 
-V.-Délits prévus par le code du travail :
+V. - Délits prévus par le code du travail :
 
 - atteinte à l'égalité professionnelle entre les hommes et les femmes (art. L. 1142-1 et L. 1146-1) ;
 
@@ -11502,7 +11528,7 @@ V.-Délits prévus par le code du travail :
 
 - emploi d'étranger en situation irrégulière (art. L. 8251-1, L. 8256-1, L. 8256-2). 
 
-VI.-Délits prévus par le code de la route :
+VI. - Délits prévus par le code de la route :
 
 - délit de fuite, refus d'obtempérer à une sommation d'arrêt, refus d'obtempérer aggravé par la mise en danger d'autrui,
 refus de se soumettre aux vérifications concernant son véhicule ou sa personne, conduite ou accompagnement sous l'empire d'un
@@ -11558,7 +11584,7 @@ d'un quadricycle à moteur soumis à réception et non réceptionné ou qui n'es
 - délits liés à l'offre ou à la commercialisation de dispositifs destinés à déceler la présence ou à perturber le
 fonctionnement des systèmes de constatation des infractions à la circulation routière (art. L. 413-2 à L. 413-5). 
 
-VII.-Délit prévu par le code de la santé publique :
+VII. - Délit prévu par le code de la santé publique :
 
 - usage de manière illicite de l'une des substances ou plantes classées comme stupéfiants (art. L. 3421-1).
 
@@ -11602,7 +11628,7 @@ VII.-Délit prévu par le code de la santé publique :
 
 	**Modifié par**:
 
-	  - Décret n°2015-1537 du 25 novembre 2015 - art. 4
+	  - Décret n°2016-381 du 30 mars 2016 - art. 6
 
 	**Cite**:
 
@@ -11611,7 +11637,7 @@ VII.-Délit prévu par le code de la santé publique :
 	  - Code pénal - art. 222-19-1
 	  - Code pénal - art. 222-2
 	  - Code pénal - art. 222-20-1
-	  - Code pénal - art. 222-22 (V)
+	  - Code pénal - art. 222-22
 	  - Code pénal - art. 222-36
 	  - Code pénal - art. 222-37
 	  - Code pénal - art. 222-9
@@ -11619,20 +11645,20 @@ VII.-Délit prévu par le code de la santé publique :
 	  - Code pénal - art. 223-5
 	  - Code pénal - art. 225-10
 	  - Code pénal - art. 225-11
-	  - Code pénal - art. 225-5 (V)
-	  - Code pénal - art. 227-18 (V)
-	  - Code pénal - art. 227-18-1 (V)
-	  - Code pénal - art. 227-19 (V)
-	  - Code pénal - art. 227-21 (V)
-	  - Code pénal - art. 227-22 (V)
-	  - Code pénal - art. 227-22-1 (V)
-	  - Code pénal - art. 227-23 (V)
-	  - Code pénal - art. 227-24 (V)
-	  - Code pénal - art. 227-24-1 (V)
+	  - Code pénal - art. 225-5
+	  - Code pénal - art. 227-18
+	  - Code pénal - art. 227-18-1
+	  - Code pénal - art. 227-19
+	  - Code pénal - art. 227-21
+	  - Code pénal - art. 227-22
+	  - Code pénal - art. 227-22-1
+	  - Code pénal - art. 227-23
+	  - Code pénal - art. 227-24
+	  - Code pénal - art. 227-24-1
 	  - Code pénal - art. 227-25
 	  - Code pénal - art. 227-26
 	  - Code pénal - art. 227-27
-	  - Code pénal - art. 227-28-3 (V)
+	  - Code pénal - art. 227-28-3
 	  - Code pénal - art. 311-13
 	  - Code pénal - art. 311-3
 	  - Code pénal - art. 312-1
@@ -12048,8 +12074,8 @@ Les dispositions fixées au présent article sont précisées par arrêté du   
 
 ###### Article R213-3
 
-Le contrat passé entre le candidat et l'établissement, mentionné à chacun des alinéas de l'article L. 213-2, doit préciser
-les mentions ci-dessous. 
+I. - Le contrat passé entre le candidat et l'établissement, mentionné au premier alinéa de l'article L. 213-2, précise les
+mentions ci-dessous : 
 
 1° S'agissant des parties contractantes :
 
@@ -12087,6 +12113,9 @@ administratives ;
 remboursement au candidat des sommes trop perçues en cas de défaillance de l'établissement. En cas de souscription, le nom du
 garant et le montant de la garantie devront être mentionnés.
 
+II. - Le contrat passé entre le candidat et l'établissement, mentionné au quatrième alinéa de l'article L. 213-2, peut
+prendre la forme d'une convention simplifiée de formation professionnelle ou d'un contrat de formation professionnelle.
+
 **Liens relatifs à cet article**
 
 	**Cité par**:
@@ -12104,7 +12133,7 @@ garant et le montant de la garantie devront être mentionnés.
 
 	**Modifié par**:
 
-	  - Décret n°2014-1295 du 31 octobre 2014 - art. 6
+	  - Décret n°2016-381 du 30 mars 2016 - art. 7
 
 	**Cite**:
 
