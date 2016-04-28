@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2016-04-17
+Version Consolidée au 2016-04-29
 
 # Partie législative
 
@@ -12619,7 +12619,9 @@ une durée de cinq ans à compter du 8 juin 2015 (8 juin 2020).
 
 ### Titre II : Permis de conduire.
 
-#### Chapitre Ier : Délivrance et catégories.
+#### Chapitre Ier : Vérification d'aptitude, délivrance et catégories
+
+##### Section 1 : Dispositions générales 
 
 ###### Article D221-3
 
@@ -12668,49 +12670,14 @@ Le ministre chargé de la sécurité routière fixe par arrêtés les conditions
 	  - Code de la route. - art. R222-7 (VD)
 	  - Code de la route. - art. R224-20 (VD)
 
-	**Modifié par**:
+	**Liens**:
 
-	  - Décret n°2011-1475 du 9 novembre 2011 - art. 5
-	  - Décret n°2011-1475 du 9 novembre 2011 - art. 17 (V)
+	  - DEPLACE: Décret n°2016-516 du 26 avril 2016 - art. 1
 
 	**Cite**:
 
 	  - Code de la route. - art. L213-1
 	  - Code de la route. - art. R221-7
-
-	**Anciens textes**:
-
-	  - Code de la route. - art. R221-3 (VT)
-
-
-###### Article D221-3-1
-
-Des sessions spécialisées sont prévues pour les candidats sourds ou malentendants se présentant aux épreuves théorique et
-pratique de l'examen du permis de conduire de la catégorie B, dans les conditions et selon les modalités fixées par arrêtés
-du ministre chargé des transports.
-
-Lors de ces sessions, les candidats sourds ou malentendants bénéficient du dispositif de communication adapté de leur choix.
-
-La fréquence de ces sessions est décidée par le préfet. Elle dépend du nombre de candidats sourds ou malentendants inscrits
-et du délai moyen de passage en vigueur dans le département pour les candidats suivant un cursus de formation traditionnelle
-et ne peut être inférieure à deux fois par an.
-
-Pour permettre la bonne compréhension des traductions par les candidats, dont le nombre maximum est limité à dix, la durée
-totale de l'épreuve théorique est fixée à une heure trente.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
-
-	**Créé par**:
-
-	  - Décret n°2006-56 du 18 janvier 2006 - art. 1 () JORF 19 janvier 2006
-
-	**Abrogé par**:
-
-	  - Décret n°2016-516 du 26 avril 2016 - art. 1
 
 
 ###### Article R*221-2
@@ -12722,15 +12689,11 @@ cet arrondissement, lorsque cette dérogation est de nature à améliorer sensib
 
 	**Codifié par**:
 
-	  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
-
-	**Anciens textes**:
-
-	  - Code de la route R123 (al. 6)
+	  - Décret n°2001-251 du 22 mars 2001
 
 	**Liens**:
 
-	  - SPEC_APPLI: Code de la route. - art. R221-21 (V)
+	  - DEPLACE: Décret n°2016-516 du 26 avril 2016 - art. 1
 
 
 ###### Article R221-1
@@ -12783,10 +12746,6 @@ VI.-La contravention prévue au III donne lieu de plein droit à la réduction d
 
 	  - Décret n°2001-251 du 22 mars 2001
 
-	**Modifié par**:
-
-	  - Décret n°2011-1475 du 9 novembre 2011 - art. 4
-
 	**Cité par**:
 
 	  - Arrêté du 20 avril 2012 - art. 8 (V)
@@ -12797,7 +12756,7 @@ VI.-La contravention prévue au III donne lieu de plein droit à la réduction d
 
 	**Liens**:
 
-	  - TRANSFERE: Décret n°2016-347 du 22 mars 2016 - art. 2
+	  - DEPLACE: Décret n°2016-516 du 26 avril 2016 - art. 1
 
 	**Anciens textes**:
 
@@ -12812,6 +12771,488 @@ VI.-La contravention prévue au III donne lieu de plein droit à la réduction d
 	  - Code de la route. - art. R221-10
 	  - Code de la route. - art. R221-16
 
+	**Nouveaux textes**:
+
+	  - Code de la route. - art. R221-1-1 (V)
+
+
+##### Section 2 : Organisation des épreuves par l'autorité administrative 
+
+###### Article R221-3-1
+
+L'autorité administrative organise directement les épreuves du permis de conduire suivantes : 
+
+1° L'épreuve théorique générale, en cas de carence de l'offre proposée dans les conditions prévues à la section 3 par les
+organismes agréés en application de l'article L. 221-4 ; 
+
+2° Les sessions spécialisées pour l'épreuve théorique générale mentionnées à l'article R. 221-3-2 ; 
+
+3° Toute autre épreuve du permis de conduire.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-516 du 26 avril 2016 - art. 1
+
+	**Cite**:
+
+	  - Code de la route. - art. L221-4
+	  - Code de la route. - art. R221-3-2
+
+
+###### Article R221-3-2
+
+Des sessions spécialisées sont organisées par l'autorité administrative pour des publics particuliers ne pouvant pas se
+présenter aux épreuves théorique et pratique de l'examen du permis de conduire dans les mêmes conditions que les autres
+candidats.
+
+Les modalités d'organisation de ces sessions sont fixées par arrêté du ministre chargé de la sécurité routière.
+
+La fréquence de ces sessions est décidée par le préfet dans le respect des seuils minimaux fixés par l'arrêté mentionné au
+précédent alinéa.
+
+Si l'organisation d'une session spécialisée implique le recours à une traduction, la durée totale de l'épreuve théorique est
+fixée à une heure trente pour permettre la bonne compréhension des candidats, dont le nombre ne peut excéder dix.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Arrêté du 20 avril 2012 - art. 2 (VD)
+	  - Arrêté du 22 octobre 2014 - art. 1 (VD)
+	  - Arrêté du 11 juillet 2016 - art. 1
+	  - Code de la route. - art. R221-3-1 (V)
+
+	**Créé par**:
+
+	  - Décret n°2016-516 du 26 avril 2016 - art. 1
+
+
+##### Section 3 : Organisation des épreuves par les organismes agréés 
+
+###### Article D221-3-6
+
+L'organisateur agréé organise le passage de l'examen à un prix identique toutes taxes comprises pour tous les candidats, quel
+que soit le site, sans imposer d'autres conditions que celles requises pour l'inscription. Ce prix couvre toutes les
+prestations nécessaires à un unique passage de l'épreuve théorique générale, y compris l'inscription et la remise de
+l'attestation de résultat, à l'exclusion de tout autre produit ou service. 
+
+Ce prix est arrêté conjointement par le ministre chargé de l'économie et par le ministre chargé de la sécurité routière en
+fonction des coûts supportés par les organisateurs, du nombre total de candidats et des obligations d'accès prévues à
+l'article R. 221-3-8. 
+
+L'achat de ces prestations ne peut être conditionné à celui d'autres produits ou services, ni être la condition de l'octroi
+d'un avantage commercial pour d'autres produits ou services.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-516 du 26 avril 2016 - art. 1
+
+	**Cité par**:
+
+	  - Décret n°2016-516 du 26 avril 2016 - art. 3 (V)
+	  - Arrêté du 28 avril 2016 - art. 1 (V)
+	  - Code de la route. - art. R221-3-4 (V)
+	  - Code de la route. - art. R221-3-8 (V)
+
+
+###### Article R221-3-4
+
+I.-Les personnes pouvant organiser l'épreuve théorique générale du permis de conduire mentionnées au 1° de l'article L. 221-4
+sont agréées par le ministre chargé de la sécurité routière pour une durée de dix ans renouvelable. 
+
+II.-La demande d'agrément mentionne l'identité du demandeur et son statut juridique. Elle justifie de sa capacité à respecter
+les conditions définies aux articles R. 221-3-6 à R. 221-3-9 et dans le cahier des charges prévu à l'article L. 221-7. 
+
+Le silence gardé pendant quatre mois sur une demande vaut décision d'acceptation. 
+
+III.-Si la personne agréée souhaite cesser son activité, elle notifie cette intention au ministre chargé de la sécurité
+routière quatre mois au moins avant l'arrêt de l'exploitation.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-516 du 26 avril 2016 - art. 1
+
+	**Cité par**:
+
+	  - Arrêté du 27 avril 2016 - art. Annexe (V)
+
+	**Cite**:
+
+	  - Code de la route. - art. D221-3-6
+	  - Code de la route. - art. L221-4
+	  - Code de la route. - art. L221-7
+
+
+###### Article R221-3-5
+
+I.-L'ouverture de chaque site d'examen est subordonnée à une déclaration préalable, renouvelable tous les cinq ans, auprès du
+préfet du département où est situé le site. A Paris, cette déclaration est adressée au préfet de police. 
+
+II.-La déclaration par l'organisateur comprend : 
+
+1° Une copie de la décision d'agrément ou, le cas échéant, de la demande ayant donné naissance à une décision d'acceptation
+implicite conformément à l'article L. 231-1 du code des relations entre le public et l'administration ; 
+
+2° La localisation du site, les heures d'ouverture et le nombre de places d'examen qui y seront proposées ; 
+
+3° Lorsque l'exploitation du site est confiée par l'organisateur agréé à une entité juridique différente, son identité et son
+statut juridique. 
+
+III.-L'arrêt d'exploitation d'un site ou la réduction du nombre de places offertes sont soumis à déclaration dans les mêmes
+conditions que l'ouverture d'un site. L'arrêt d'exploitation peut être refusé s'il conduit à la méconnaissance par
+l'organisateur agréé des obligations d'accès prévues par l'article R. 221-3-8 ou des textes pris pour son application.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-516 du 26 avril 2016 - art. 1
+
+	**Cité par**:
+
+	  - Arrêté du 27 avril 2016 - art. Annexe (V)
+	  - Code de la route. - art. R221-3-17 (V)
+
+	**Cite**:
+
+	  - Code de la route. - art. R221-3-8
+	  - Code des relations entre le public et l'administration - art. L231-1
+
+
+###### Article R221-3-7
+
+L'organisateur agréé assure l'égal accès des candidats aux épreuves qu'il organise, indépendamment des conditions dans
+lesquelles ceux-ci ont été formés et des établissements qui leur ont délivré cette formation.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-516 du 26 avril 2016 - art. 1
+
+	**Cité par**:
+
+	  - Code de la route. - art. R221-3-16 (V)
+
+
+###### Article R221-3-8
+
+L'organisateur agréé assure, dans les conditions prévues au présent article, l'accès des candidats à des sites d'examen sur
+le territoire de chaque département métropolitain et de chacune des collectivités suivantes : Guadeloupe, Guyane, Martinique,
+La Réunion, Mayotte et Saint-Pierre-et-Miquelon. 
+
+Cet accès est assuré à des dates et horaires qu'il détermine et qui sont proposés aux candidats à la réservation en ligne. 
+
+Une session ne peut être annulée que si aucun candidat ne s'est inscrit sept jours avant la date programmée. 
+
+L'arrêté prévu à l'article D. 221-3-6 peut, pour chacun des territoires mentionnés au premier alinéa et en fonction du nombre
+d'examens qui y sont passés, de sa population et de sa superficie, préciser le nombre minimal de places à proposer et imposer
+la présence de sites dans certaines zones qui, sans cela, risqueraient de ne pas être desservies. Pour les territoires où la
+demande est faible, cet arrêté peut prévoir que les obligations de couverture peuvent être remplies conjointement par
+plusieurs des organisateurs agréés. 
+
+Dans un délai d'un an à compter de la date de son agrément, l'organisateur agréé est tenu d'assurer l'accès aux prestations
+précisées à l'article D. 221-3-6, dans les conditions prévues au présent article et par l'arrêté mentionné au quatrième
+alinéa. En cas de modification des obligations d'accès prévues par cet arrêté, ce dernier fixe un délai, qui ne peut pas être
+inférieur à six mois, pour leur prise en compte par les organisateurs déjà agréés. Cet arrêté peut fixer des obligations de
+couverture intermédiaires pendant ces périodes transitoires.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-516 du 26 avril 2016 - art. 1
+
+	**Cité par**:
+
+	  - Décret n°2016-516 du 26 avril 2016 - art. 3 (V)
+	  - Code de la route. - art. R221-3-16 (V)
+	  - Code de la route. - art. R221-3-5 (V)
+
+	**Cite**:
+
+	  - Code de la route. - art. D221-3-6
+
+
+###### Article R221-3-9
+
+I.-La personne qui assure la direction permanente et effective de l'activité pour le compte de l'organisateur agréé ne doit
+pas avoir fait l'objet d'une condamnation prononcée par une juridiction française ou par une juridiction étrangère à une
+peine criminelle ou à une peine correctionnelle pour l'une des infractions prévues à l'article R. 212-4 ou avoir assuré la
+direction de l'activité pour le compte d'un organisateur dont l'agrément a été retiré en application de l'article L. 221-9
+dans les cinq années qui précèdent. 
+
+II.-L'organisateur agréé n'est lié, au sens du II de l'article 19 de l'ordonnance n° 2015-899 du 23 juillet 2015 relative aux
+marchés publics, à aucun établissement d'enseignement de la conduite et de la sécurité routière et à aucune entreprise
+commercialisant des produits pédagogiques dans le domaine de l'enseignement de la conduite et de la sécurité routière. 
+
+III.-L'activité d'un site d'examen s'exerce dans des locaux n'abritant aucune activité en lien avec l'enseignement de la
+conduite et ne communiquant avec aucun local abritant une telle activité.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - ORDONNANCE n°2015-899 du 23 juillet 2015 - art. 19
+	  - Code de la route. - art. L221-9
+	  - Code de la route. - art. R212-4
+
+	**Créé par**:
+
+	  - Décret n°2016-516 du 26 avril 2016 - art. 1
+
+	**Cité par**:
+
+	  - Code de la route. - art. R221-3-16 (V)
+
+
+###### Article R221-3-10
+
+I.-Pour l'application du présent article, le qualificatif “ examinateur ” désigne toute personne du site d'examen intervenant
+pour le passage de l'épreuve. 
+
+II.-L'examinateur ne doit pas avoir fait l'objet d'une condamnation prononcée par une juridiction française ou par une
+juridiction étrangère à une peine criminelle ou à une peine correctionnelle pour l'une des infractions prévues à l'article R.
+212-4. 
+
+III.-L'examinateur dispose des compétences nécessaires au bon déroulement de l'épreuve, y compris la gestion des incidents. 
+
+IV.-L'examinateur ne peut pas superviser les personnes suivantes : 
+
+1° Son conjoint ou son partenaire d'un pacte civil de solidarité ; 
+
+2° Ses ascendants et ses descendants au premier degré ; 
+
+3° Ses collatéraux au deuxième degré. 
+
+V.-L'examinateur n'exerce pas et n'a pas exercé, depuis trois ans, d'activité dans un établissement d'enseignement de la
+conduite et de la sécurité routière ou dans une entreprise commercialisant des produits pédagogiques dans le domaine de
+l'enseignement de la conduite et de la sécurité routière.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-516 du 26 avril 2016 - art. 1
+
+	**Cité par**:
+
+	  - Arrêté du 27 avril 2016 - art. Annexe (V)
+	  - Code de la route. - art. R221-3-11 (V)
+	  - Code de la route. - art. R221-3-16 (V)
+	  - Code de la route. - art. R221-3-17 (V)
+
+	**Cite**:
+
+	  - Code de la route. - art. R212-4
+
+
+###### Article R221-3-11
+
+Les organisateurs agréés : 
+
+1° Publient sur leur site internet la liste des sites d'examen déclarés et pour chacun d'entre eux le nombre de places
+proposées ; 
+
+2° Recueillent les données transmises par le ministre chargé de la sécurité routière pour l'organisation de l'épreuve,
+notamment les questionnaires soumis aux candidats ; 
+
+3° Vérifient auprès du ministre chargé de la sécurité routière l'éligibilité du candidat à passer l'épreuve ; 
+
+4° Transmettent au ministre chargé de la sécurité routière les réponses des candidats ; 
+
+5° Communiquent aux candidats le résultat transmis par le ministre chargé de la sécurité routière ; 
+
+6° S'assurent du respect par les examinateurs des garanties mentionnées à l'article R. 221-3-10 et du respect, pour chaque
+site, du cahier des charges prévu à l'article L. 221-7 ; 
+
+7° Transmettent annuellement au ministre chargé de la sécurité routière et au ministre chargé de l'économie un rapport
+d'exploitation qui comprend, pour chaque site, le nombre de places proposées et celui des examens effectivement organisés ; 
+
+8° Communiquent au ministre chargé de la sécurité routière ou au ministre chargé de l'économie, sur sa demande, toute autre
+information statistique relative à l'exploitation des sites d'examen.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-516 du 26 avril 2016 - art. 1
+
+	**Cite**:
+
+	  - Code de la route. - art. L221-7
+	  - Code de la route. - art. R221-3-10
+
+
+###### Article R221-3-12
+
+Le ministre chargé de la sécurité routière : 
+
+1° Approuve par arrêté le cahier des charges prévu à l'article L. 221-7, lequel énonce : 
+
+a) Les moyens matériels et techniques nécessaires à la réalisation des examens de l'épreuve théorique générale du permis de
+conduire ; 
+
+b) Les conditions dans lesquelles l'organisateur agréé s'assure du respect par les examinateurs des garanties mentionnées à
+l'article L. 221-8 ; 
+
+c) Les conditions dans lesquelles l'organisateur agréé s'assure du respect du cahier des charges pour chaque site d'examen ; 
+
+2° Est chargé du contrôle de l'application de ce cahier des charges ; 
+
+3° Elabore les questionnaires soumis aux candidats et les communique aux organisateurs agréés ; 
+
+4° Recueille et corrige les réponses des candidats et transmet le résultat aux organisateurs agréés.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-516 du 26 avril 2016 - art. 1
+
+	**Cite**:
+
+	  - Code de la route. - art. L221-7
+	  - Code de la route. - art. L221-8 (V)
+
+
+###### Article R221-3-13
+
+Pour l'application de l'article L. 221-7, les locaux auxquels l'autorité administrative a accès comprennent : 
+
+1° Les sites d'examen ; 
+
+2° Tout autre lieu où est entreposé le matériel nécessaire à l'organisation de l'examen à l'exception des locaux d'habitation
+des examinateurs.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-516 du 26 avril 2016 - art. 1
+
+	**Cite**:
+
+	  - Code de la route. - art. L221-7
+
+
+###### Article R221-3-14
+
+I.-Les données personnelles collectées par l'organisateur agréé pour l'inscription du candidat sont celles qui sont
+strictement nécessaires à l'organisation de l'examen. 
+
+II.-Le numéro d'enregistrement préfectoral harmonisé et le résultat de l'épreuve ne peuvent être conservés par l'organisateur
+agréé au-delà du délai nécessaire au contrôle de l'application du cahier des charges prévu à l'article L. 221-7. Ils ne
+donnent lieu à aucune utilisation ou diffusion à des tiers autres que l'autorité administrative.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-516 du 26 avril 2016 - art. 1
+
+	**Cite**:
+
+	  - Code de la route. - art. L221-7
+
+	**Cité par**:
+
+	  - Code de la route. - art. R221-3-17 (V)
+
+
+###### Article R221-3-15
+
+Les déclarations de sites d'examen ainsi que toutes les mesures affectant leur validité sont inscrites dans un registre
+national, élaboré et tenu à jour dans les conditions prévues par la loi n° 78-17 du 6 janvier 1978 relative à l'informatique,
+aux fichiers et aux libertés.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°78-17 du 6 janvier 1978
+
+	**Créé par**:
+
+	  - Décret n°2016-516 du 26 avril 2016 - art. 1
+
+
+###### Article R221-3-16
+
+I.-En cas de méconnaissance, pour un site d'examen déclaré, de l'une des obligations prévues à l'article R. 221-3-7, au III
+de l'article R. 221-3-9, à l'article R. 221-3-10 ou par le cahier des charges prévu à l'article L. 221-7, le préfet, après
+avoir mis l'organisateur agréé en mesure de présenter ses observations, peut suspendre, pour une durée maximale de six mois,
+l'exploitation de ce site. 
+
+II.-En cas de méconnaissance grave ou répétée, pour un site d'examen déclaré, de l'une des obligations prévues à l'article R.
+221-3-7, au III de l'article R. 221-3-9, à l'article R. 221-3-10 ou par le cahier des charges prévu à l'article L. 221-7, le
+préfet, après avoir mis l'organisateur agréé en mesure de présenter ses observations, peut mettre fin à l'exploitation du
+site. 
+
+III.-En cas de non-respect des obligations de couverture prévues par l'article R. 221-3-8 ou par ses textes d'application, le
+ministre chargé de la sécurité routière, après avoir mis l'organisateur agréé en mesure de présenter ses observations, peut
+suspendre pour une durée maximale de six mois l'exploitation d'un ou plusieurs de ses sites d'examen. Cette mesure de
+suspension porte sur des sites situés dans des territoires autres que ceux où la défaillance a été constatée. Elle respecte
+les conditions suivantes : 
+
+1° Le nombre de places d'examen proposées par les sites dont l'exploitation est suspendue ne peut excéder le double du
+déficit de places dans les territoires où les obligations de couverture ne sont pas remplies ; 
+
+2° La suspension ne place pas l'organisateur agréé en situation de manquement à ses obligations de couverture dans le
+territoire concerné. 
+
+IV.-Les compétences prévues par le présent article sont exercées à Paris par le préfet de police.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-516 du 26 avril 2016 - art. 1
+
+	**Cite**:
+
+	  - Code de la route. - art. L221-7
+	  - Code de la route. - art. R221-3-10
+	  - Code de la route. - art. R221-3-7
+	  - Code de la route. - art. R221-3-8 (V)
+	  - Code de la route. - art. R221-3-9
+
+
+###### Article R221-3-17
+
+Est puni de l'amende prévue pour les contraventions de la 5e classe le fait : 
+
+1° D'organiser un examen de l'épreuve théorique générale sans disposer de l'agrément prévu à l'article L. 221-4 ou lorsque ce
+dernier a été suspendu ; 
+
+2° D'organiser un examen de l'épreuve théorique générale dans un site dont l'exploitation n'a pas été déclarée conformément à
+l'article R. 221-3-5 ou dont l'exploitation a été suspendue ; 
+
+3° Pour un examinateur, de superviser un examen de l'épreuve théorique générale en infraction à l'article R. 221-3-10 ; 
+
+4° De contrevenir aux dispositions de l'article R. 221-3-14.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-516 du 26 avril 2016 - art. 1
+
+	**Cite**:
+
+	  - Code de la route. - art. L221-4
+	  - Code de la route. - art. R221-3-10
+	  - Code de la route. - art. R221-3-14
+	  - Code de la route. - art. R221-3-5
+
+
+##### Section 4 : Catégories de permis 
 
 ###### Article R221-4
 
@@ -12957,9 +13398,9 @@ défini par arrêté du ministre chargé de la sécurité routière.
 
 	  - Décret n°2001-251 du 22 mars 2001
 
-	**Modifié par**:
+	**Liens**:
 
-	  - Décret n°2014-1295 du 31 octobre 2014 - art. 8
+	  - DEPLACE: Décret n°2016-516 du 26 avril 2016 - art. 1
 
 	**Anciens textes**:
 
@@ -13038,16 +13479,12 @@ b) En outre :
 	  - TXT_SOURCE: Arrêté du 17 décembre 2003 - art. 6 (Ab)
 	  - TXT_SOURCE: Arrêté du 17 décembre 2003 - art. Annexe I (Ab)
 	  - TXT_SOURCE: Arrêté du 17 décembre 2003 - art. Annexe II (Ab)
+	  - DEPLACE: Décret n°2016-516 du 26 avril 2016 - art. 1
 
 	**Cite**:
 
 	  - Décret n°2007-1340 du 11 septembre 2007
 	  - Code de la route. - art. R222-1
-
-	**Modifié par**:
-
-	  - Décret n°2011-1475 du 9 novembre 2011 - art. 17 (V)
-	  - Décret n°2011-1475 du 9 novembre 2011 - art. 7
 
 	**Anciens textes**:
 
@@ -13061,9 +13498,9 @@ justifient avoir suivi une formation dont les modalités sont fixées par arrêt
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
+	**Liens**:
 
-	  - Décret n°2011-1475 du 9 novembre 2011 - art. 8
+	  - DEPLACE: Décret n°2016-516 du 26 avril 2016 - art. 1
 
 	**Anciens textes**:
 
@@ -13097,9 +13534,9 @@ titulaire soit en possession de la catégorie D1 du permis de conduire.
 
 	  - Décret n°2001-251 du 22 mars 2001
 
-	**Modifié par**:
+	**Liens**:
 
-	  - Décret n°2013-58 du 17 janvier 2013 - art. 3
+	  - DEPLACE: Décret n°2016-516 du 26 avril 2016 - art. 1
 
 	**Anciens textes**:
 
@@ -13177,9 +13614,9 @@ d'application des II et III.
 	  - Arrêté du 30 août 2013 (V)
 	  - Code de la route. - art. R233-1 (V)
 
-	**Modifié par**:
+	**Liens**:
 
-	  - Décret n°2013-58 du 17 janvier 2013 - art. 4
+	  - DEPLACE: Décret n°2016-516 du 26 avril 2016 - art. 1
 
 	**Anciens textes**:
 
@@ -13190,6 +13627,8 @@ d'application des II et III.
 	  - Code de la route. - art. L213-1
 	  - Code de la route. - art. L213-7
 
+
+##### Section 5 : Vérification d'aptitude 
 
 ###### Article R221-9
 
@@ -13246,9 +13685,9 @@ Aux véhicules de cette catégorie peut être attelée une remorque dont le poid
 
 	  - Décret n°2001-251 du 22 mars 2001
 
-	**Modifié par**:
+	**Liens**:
 
-	  - Décret n°2011-1475 du 9 novembre 2011 - art. 11
+	  - DEPLACE: Décret n°2016-516 du 26 avril 2016 - art. 1
 
 	**Anciens textes**:
 
@@ -13295,16 +13734,16 @@ vérification médicale de l'aptitude physique.
 	  - Décret n°2016-713 du 31 mai 2016 - art. 1
 	  - Code de la route. - art. R130-3 (M)
 	  - Code de la route. - art. R221-1 (T)
-	  - Code de la route. - art. R221-11 (M)
+	  - Code de la route. - art. R221-11 (V)
 	  - Code de la route. - art. R225-2 (V)
 	  - Code de la santé publique - art. R6312-45 (VD)
 	  - Code de la santé publique - art. R6312-7 (V)
 	  - Code des transports - art. D3120-5 (V)
 	  - Code du tourisme. - art. D231-8 (VT)
 
-	**Modifié par**:
+	**Liens**:
 
-	  - Décret n°2014-1725 du 30 décembre 2014 - art. 4
+	  - DEPLACE: Décret n°2016-516 du 26 avril 2016 - art. 1
 
 	**Anciens textes**:
 
@@ -13366,9 +13805,9 @@ incurable, définitive ou stabilisée.
 	  - Code des transports - art. D3120-5 (V)
 	  - Code des transports - art. R3121-7 (V)
 
-	**Modifié par**:
+	**Liens**:
 
-	  - Décret n°2014-1295 du 31 octobre 2014 - art. 9
+	  - DEPLACE: Décret n°2016-516 du 26 avril 2016 - art. 1
 
 	**Anciens textes**:
 
@@ -13377,7 +13816,7 @@ incurable, définitive ou stabilisée.
 
 	**Cite**:
 
-	  - Code de la route. - art. R221-10
+	  - Code de la route. - art. R221-10 (M)
 
 
 ###### Article R221-12
@@ -13390,20 +13829,19 @@ mais susceptible de s'aggraver.
 
 	**Codifié par**:
 
-	  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+	  - Décret n°2001-251 du 22 mars 2001
 
 	**Cité par**:
 
 	  - Arrêté du 31 juillet 2012 - art. 2 (VD)
 
+	**Liens**:
+
+	  - DEPLACE: Décret n°2016-516 du 26 avril 2016 - art. 1
+
 	**Anciens textes**:
 
 	  - Code de la route - art. R128 (Ab)
-	  - Code de la route R128 (al. 1)
-
-	**Liens**:
-
-	  - SPEC_APPLI: Code de la route. - art. R221-21 (V)
 
 
 ###### Article R221-13
@@ -13429,14 +13867,14 @@ consultant hors commission médicale, ou par la commission médicale.
 
 	  - Décret n°2001-251 du 22 mars 2001
 
-	**Modifié par**:
-
-	  - Décret n°2012-886 du 17 juillet 2012 - art. 3
-
 	**Cité par**:
 
 	  - Arrêté du 31 juillet 2012 - art. 1 (VT)
 	  - Code de la route. - art. R224-12 (V)
+
+	**Liens**:
+
+	  - DEPLACE: Décret n°2016-516 du 26 avril 2016 - art. 1
 
 	**Anciens textes**:
 
@@ -13447,6 +13885,8 @@ consultant hors commission médicale, ou par la commission médicale.
 	  - Code de la route. - art. L234-1
 	  - Code de la route. - art. L235-1
 
+
+##### Section 6 : Dérogations à l'obligation d'être titulaire du permis de conduire et conditions de délivrance 
 
 ###### Article R221-14
 
@@ -13482,9 +13922,9 @@ commission médicale.
 
 	  - Décret n°2001-251 du 22 mars 2001
 
-	**Modifié par**:
+	**Liens**:
 
-	  - Décret n°2012-886 du 17 juillet 2012 - art. 3
+	  - DEPLACE: Décret n°2016-516 du 26 avril 2016 - art. 1
 
 	**Anciens textes**:
 
@@ -13507,16 +13947,15 @@ article.
 
 	**Codifié par**:
 
-	  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+	  - Décret n°2001-251 du 22 mars 2001
+
+	**Liens**:
+
+	  - DEPLACE: Décret n°2016-516 du 26 avril 2016 - art. 1
 
 	**Anciens textes**:
 
 	  - Code de la route - art. R126 (Ab)
-	  - Code de la route R126 (al. 1)
-
-	**Liens**:
-
-	  - SPEC_APPLI: Code de la route. - art. R221-21 (V)
 
 
 ###### Article R221-16
@@ -13543,22 +13982,22 @@ répondent aux conditions fixées à l'article R. 221-17.
 
 	**Codifié par**:
 
-	  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+	  - Décret n°2001-251 du 22 mars 2001
 
 	**Cité par**:
 
 	  - Arrêté du 28 février 2008 - art. (V)
 	  - Code de la route. - art. R221-1 (T)
-	  - Code de la route. - art. R221-18 (M)
+	  - Code de la route. - art. R221-18 (V)
 	  - Code du sport. - art. Annexe III-23 (V)
-
-	**Cite**:
-
-	  - Code de la route. - art. R221-17 (V)
 
 	**Liens**:
 
-	  - SPEC_APPLI: Code de la route. - art. R221-21 (V)
+	  - DEPLACE: Décret n°2016-516 du 26 avril 2016 - art. 1
+
+	**Cite**:
+
+	  - Code de la route. - art. R221-17
 
 
 ###### Article R221-17
@@ -13579,17 +14018,17 @@ et le contenu de la formation visée à l'alinéa précédent.
 
 	**Codifié par**:
 
-	  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+	  - Décret n°2001-251 du 22 mars 2001
+
+	**Liens**:
+
+	  - DEPLACE: Décret n°2016-516 du 26 avril 2016 - art. 1
 
 	**Cité par**:
 
 	  - Code de la route. - art. R130-2 (M)
 	  - Code de la route. - art. R221-16 (V)
-	  - Code de la route. - art. R221-18 (M)
-
-	**Liens**:
-
-	  - SPEC_APPLI: Code de la route. - art. R221-21 (V)
+	  - Code de la route. - art. R221-18 (V)
 
 
 ###### Article R221-18
@@ -13609,7 +14048,11 @@ contraventions de la cinquième classe.
 
 	**Codifié par**:
 
-	  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+	  - Décret n°2001-251 du 22 mars 2001
+
+	**Liens**:
+
+	  - DEPLACE: Décret n°2016-516 du 26 avril 2016 - art. 1
 
 	**Cité par**:
 
@@ -13621,10 +14064,6 @@ contraventions de la cinquième classe.
 
 	  - Code de la route. - art. R221-16 (V)
 	  - Code de la route. - art. R221-17 (V)
-
-	**Liens**:
-
-	  - SPEC_APPLI: Code de la route. - art. R221-21 (V)
 
 
 ###### Article R221-19
@@ -13644,9 +14083,9 @@ permis de conduire et sont prononcées les extensions, prorogations et restricti
 
 	  - Décret n°2001-251 du 22 mars 2001
 
-	**Modifié par**:
+	**Liens**:
 
-	  - Décret n°2012-886 du 17 juillet 2012 - art. 3
+	  - DEPLACE: Décret n°2016-516 du 26 avril 2016 - art. 1
 
 	**Anciens textes**:
 
@@ -13683,22 +14122,21 @@ VI.-L'immobilisation peut être prescrite dans les conditions prévues aux artic
 
 	**Codifié par**:
 
-	  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+	  - Décret n°2001-251 du 22 mars 2001
 
-	**Modifié par**:
+	**Liens**:
 
-	  - Décret n°2005-320 du 30 mars 2005 - art. 3 () JORF 6 avril 2005
+	  - DEPLACE: Décret n°2016-516 du 26 avril 2016 - art. 1
 
 	**Anciens textes**:
 
 	  - Code de la route - art. R167-1 (Ab)
 	  - Code de la route - art. R167-2 (Ab)
 	  - Code de la route - art. R233 (Ab)
-	  - Code de la route R167-1, R167-2, R233 (al. 1 et 2)
 
 	**Cite**:
 
-	  - Code de la route. - art. L325-1 (V)
+	  - Code de la route. - art. L325-1
 
 	**Cité par**:
 
@@ -13719,20 +14157,15 @@ du 7 janvier 1959 portant organisation générale de la défense.
 
 	**Cite**:
 
-	  - Ordonnance n°59-147 du 7 janvier 1959 (Ab)
+	  - Ordonnance n°59-147 du 7 janvier 1959
 
 	**Codifié par**:
 
-	  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
-
-	**Anciens textes**:
-
-	  - Code de la route - art. R229 (Ab)
-	  - Code de la route - art. R229-2 (Ab)
-	  - Code de la route R229 (al. 1 à 5), R229-2
+	  - Décret n°2001-251 du 22 mars 2001
 
 	**Liens**:
 
+	  - DEPLACE: Décret n°2016-516 du 26 avril 2016 - art. 1
 	  - SPEC_APPLI: Code de la route. - art. R*221-2 (M)
 	  - SPEC_APPLI: Code de la route. - art. R221-1 (M)
 	  - SPEC_APPLI: Code de la route. - art. R221-10 (M)
@@ -13753,6 +14186,11 @@ du 7 janvier 1959 portant organisation générale de la défense.
 	  - SPEC_APPLI: Code de la route. - art. R221-7 (V)
 	  - SPEC_APPLI: Code de la route. - art. R221-8 (M)
 	  - SPEC_APPLI: Code de la route. - art. R221-9 (V)
+
+	**Anciens textes**:
+
+	  - Code de la route - art. R229 (Ab)
+	  - Code de la route - art. R229-2 (Ab)
 
 	**Cité par**:
 
@@ -16277,13 +16715,19 @@ termes énumérés ci-après sont remplacés comme suit :
 5° "directeur départemental de l'équipement" par "directeur de l'équipement" ;
 
 6° "direction départementale de l'équipement et direction régionale de l'industrie, de la recherche et de l'environnement"
-par "direction de l'équipement".
+par "direction de l'équipement" ;
+
+7° "préfet du département" par "préfet territorialement compétent".
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
+	  - Décret n°2001-251 du 22 mars 2001
+
+	**Modifié par**:
+
+	  - Décret n°2016-516 du 26 avril 2016 - art. 1
 
 	**Cité par**:
 
