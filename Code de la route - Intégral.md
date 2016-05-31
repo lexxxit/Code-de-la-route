@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2016-05-30
+Version Consolidée au 2016-06-01
 
 # Partie législative
 
@@ -12901,6 +12901,34 @@ fixée à une heure trente pour permettre la bonne compréhension des candidats,
 	**Créé par**:
 
 	  - Décret n°2016-516 du 26 avril 2016 - art. 1
+
+
+###### Article R221-3-3
+
+Le passage de l'épreuve théorique générale organisée par l'autorité administrative donne lieu à la perception d'une redevance
+pour service rendu dont le montant est fixé par arrêté conjoint des ministres chargés des finances, de l'économie et de la
+sécurité routière. Cette redevance couvre, au plus, toutes les prestations nécessaires à un unique passage de cette épreuve,
+y compris l'inscription et la remise de l'attestation de résultat.
+
+Cette redevance est acquittée préalablement à l'inscription à l'examen, par paiement dématérialisé, selon des modalités
+fixées par l'arrêté mentionné au premier alinéa.
+
+Cet arrêté prévoit également les cas de dispense de paiement de cette redevance par les usagers dont l'insertion sociale est
+conditionnée par l'obtention du permis de conduire.
+
+Sous réserve des dispositions du précédent alinéa, l'inscription à l'examen est subordonnée au paiement de cette redevance.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-516 du 26 avril 2016 - art. 1
+
+	**Cité par**:
+
+	  - Décret n°2016-516 du 26 avril 2016 - art. 3 (V)
+	  - Arrêté du 1er juin 2016 - art. 1 (V)
+	  - Arrêté du 19 juillet 2016 (V)
 
 
 ##### Section 3 : Organisation des épreuves par les organismes agréés 
