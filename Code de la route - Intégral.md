@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2016-06-03
+Version Consolidée au 2016-06-05
 
 # Partie législative
 
@@ -5081,13 +5081,13 @@ des professionnels chargés de les installer sont fixées par voie réglementair
 Lorsqu'il a été procédé aux épreuves de dépistage et aux vérifications prévues par les articles L. 234-3 et L. 234-5, le
 placement en garde à vue de la personne, si les conditions de cette mesure prévues par le code de procédure pénale sont
 réunies, n'est pas obligatoire dès lors qu'elle n'est pas tenue sous la contrainte de demeurer à la disposition des
-enquêteurs et qu'elle a été informée qu'elle peut à tout moment quitter les locaux de police ou de gendarmerie.
+enquêteurs et qu'elle a été informée des droits mentionnés à l'article 61-1 du code de procédure pénale.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2011-392 du 14 avril 2011 - art. 15
+	  - Loi n°2016-731 du 3 juin 2016 - art. 83
 
 	**Cité par**:
 
@@ -5095,6 +5095,7 @@ enquêteurs et qu'elle a été informée qu'elle peut à tout moment quitter les
 
 	**Cite**:
 
+	  - Code de procédure pénale - art. 61-1 (V)
 	  - Code de la route. - art. L234-3
 	  - Code de la route. - art. L234-5
 
@@ -5377,7 +5378,7 @@ la délivrance d'un nouveau permis pendant trois ans au plus.
 Lorsqu'il a été procédé aux épreuves de dépistage et aux vérifications prévues par l'article L. 235-2, le placement en garde
 à vue de la personne, si les conditions de cette mesure prévues par le code de procédure pénale sont réunies, n'est pas
 obligatoire dès lors qu'elle n'est pas tenue sous la contrainte de demeurer à la disposition des enquêteurs et qu'elle a été
-informée qu'elle peut à tout moment quitter les locaux de police ou de gendarmerie.
+informée des droits mentionnés à l'article 61-1 du code de procédure pénale.
 
 **Liens relatifs à cet article**
 
@@ -5393,10 +5394,11 @@ informée qu'elle peut à tout moment quitter les locaux de police ou de gendarm
 
 	**Modifié par**:
 
-	  - Loi n°2011-392 du 14 avril 2011 - art. 15
+	  - Loi n°2016-731 du 3 juin 2016 - art. 83
 
 	**Cite**:
 
+	  - Code de procédure pénale - art. 61-1 (V)
 	  - Code de la route. - art. L235-2
 
 
