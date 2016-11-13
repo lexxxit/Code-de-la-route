@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2016-10-31
+Version Consolidée au 2016-11-14
 
 # Partie législative
 
@@ -38933,7 +38933,9 @@ de 4,50 mètres ;
 
 5° Véhicule ou engin spécial ; 
 
-6° Véhicule ou matériel de travaux publics. 
+6° Véhicule ou matériel de travaux publics ; 
+
+7° Véhicules qui dépassent les limites fixées aux articles R. 435-2, R. 437-1 et R. 437-2. 
 
 II.-Au sens du présent article on entend par charge indivisible une charge qui ne peut, aux fins de transport par route, être
 divisée en plusieurs chargements sans frais ou risque de dommages importants et qui ne peut, du fait de ses dimensions ou
@@ -38970,6 +38972,12 @@ V.-La récidive de la contravention prévue aux 3° et 4° du III est réprimée
 VI.-Lorsque le conducteur ne peut présenter l'autorisation préfectorale ou n'en respecte pas les dispositions,
 l'immobilisation du véhicule peut être prescrite dans les conditions prévues aux articles L. 325-1 à L. 325-3.
 
+**Nota:**
+
+Décret n° 2017-16 du 6 janvier 2017, article 14 : Les autorisations délivrées sur le fondement du I de l'article R. 433-1 du
+code de la route dans sa rédaction applicable avant l'entrée en vigueur du décret n° 2017-16 du 6 janvier 2017 demeurent
+valables jusqu'à leur terme.
+
 **Liens relatifs à cet article**
 
 	**Cité par**:
@@ -39003,7 +39011,7 @@ l'immobilisation du véhicule peut être prescrite dans les conditions prévues 
 
 	**Modifié par**:
 
-	  - Décret n°2011-368 du 4 avril 2011 - art. 14
+	  - Décret n°2016-1521 du 10 novembre 2016 - art. 3
 
 	**Cite**:
 
@@ -39011,6 +39019,8 @@ l'immobilisation du véhicule peut être prescrite dans les conditions prévues 
 	  - Code de la route. - art. L325-1
 	  - Code de la route. - art. R312-4
 	  - Code de la route. - art. R312-6
+	  - Code de la route. - art. R435-2
+	  - Code de la route. - art. R437-1 (VT)
 
 	**Anciens textes**:
 
@@ -39935,6 +39945,45 @@ III.-L'immobilisation du véhicule peut être prescrite dans les conditions pré
 	  - Code de la route. - art. L325-3 (V)
 
 
+###### Article R435-2
+
+I.-La circulation des machines agricoles ou forestières automotrices définies au 5.4 de l'article R. 311-1 à deux essieux,
+ainsi que des machines et instruments agricoles ou forestiers remorqués définis au 5.3 de l'article R. 311-1 à deux essieux,
+et dont les poids dépassent les limites réglementaires définies au chapitre II du livre III du présent code sans excéder ni
+un poids total autorisé en charge de 26 tonnes, ni une charge à l'essieu de 14 tonnes, est soumise à des règles particulières
+fixées par arrêté conjoint du ministre chargé des transports et du ministre de l'intérieur. 
+
+Cet arrêté précise notamment : 
+
+1° Les périodes et les itinéraires d'interdiction de circulation ; 
+
+2° Les dispositifs spécifiques de signalisation ; 
+
+3° Les conditions et modalités d'accompagnement ; 
+
+4° Les équipements spécifiques liés aux conditions de leur exploitation. 
+
+II.-Le fait de contrevenir aux dispositions du présent article et à celles prises pour son application est puni de l'amende
+prévue pour les contraventions de la quatrième classe. 
+
+III.-L'immobilisation du véhicule peut être prescrite dans les conditions prévues aux articles L. 325-1 à L. 325-3.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1521 du 10 novembre 2016 - art. 1
+
+	**Cite**:
+
+	  - Code de la route. - art. L325-1
+	  - Code de la route. - art. R311-1
+
+	**Cité par**:
+
+	  - Code de la route. - art. R433-1 (VD)
+
+
 ##### Section 2 : Ensembles forains
 
 ###### Article R436-1
@@ -39980,6 +40029,92 @@ III.-L'immobilisation du véhicule peut être prescrite dans les conditions pré
 	**Nouveaux textes**:
 
 	  - Code de la route. - art. R435-3 (V)
+
+
+##### Section 3 : Véhicules automoteurs spéciaux
+
+###### Article R437-1
+
+I.-La circulation des dépanneuses définies au 6.8 de l'article R. 311-1 à quatre essieux et dont les poids dépassent les
+limites réglementaires définies au chapitre II du livre III du présent code sans excéder ni une charge à l'essieu de 14
+tonnes, ni un poids total autorisé en charge de 48 tonnes, ni un poids total roulant autorisé de 60 tonnes, est soumise à des
+règles particulières fixées par arrêté conjoint du ministre chargé des transports et du ministre de l'intérieur. 
+
+Cet arrêté précise notamment : 
+
+1° Les périodes et les itinéraires d'interdiction de circulation ; 
+
+2° Les dispositifs spécifiques de signalisation ; 
+
+3° Les équipements spécifiques liés aux conditions de leur exploitation. 
+
+II.-Le fait de contrevenir aux dispositions du présent article et à celles prises pour son application est puni de l'amende
+prévue pour les contraventions de la quatrième classe. 
+
+III.-L'immobilisation du véhicule peut être prescrite dans les conditions prévues aux articles L. 325-1 à L. 325-3.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1521 du 10 novembre 2016 - art. 2
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2017-15 du 6 janvier 2017 - art. 1
+
+	**Cite**:
+
+	  - Code de la route. - art. L325-1
+	  - Code de la route. - art. R311-1
+
+	**Cité par**:
+
+	  - Code de la route. - art. R433-1 (VD)
+
+	**Nouveaux textes**:
+
+	  - Code de la route. - art. R435-4 (V)
+
+
+###### Article R437-2
+
+I.-La circulation, dans le cadre de leur mission, des véhicules d'intérêt général prioritaire de lutte contre l'incendie
+définis au 6.5 de l'article R. 311-1 à trois ou quatre essieux et dont les poids et dimensions dépassent les limites
+réglementaires définies au chapitre II du livre III du présent code, sans excéder ni une charge à l'essieu de 14 tonnes, ni
+un poids total autorisé en charge de 42 tonnes pour les véhicules à trois essieux ou de 56 tonnes pour les véhicules à quatre
+essieux, ni une largeur de 3 mètres, est soumise à des règles particulières fixées par arrêté conjoint du ministre chargé des
+transports et du ministre de l'intérieur. 
+
+Cet arrêté précise notamment : 
+
+1° Les dispositifs spécifiques de signalisation ; 
+
+2° Les équipements spécifiques liés aux conditions de leur exploitation. 
+
+II.-Le fait de contrevenir aux dispositions du présent article et à celles prises pour son application est puni de l'amende
+prévue pour les contraventions de la quatrième classe. 
+
+III.-L'immobilisation du véhicule peut être prescrite dans les conditions prévues aux articles L. 325-1 à L. 325-3.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1521 du 10 novembre 2016 - art. 2
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2017-15 du 6 janvier 2017 - art. 1
+
+	**Cite**:
+
+	  - Code de la route. - art. L325-1
+	  - Code de la route. - art. R311-1
+
+	**Nouveaux textes**:
+
+	  - Code de la route. - art. R435-5 (V)
 
 
 ### Titre IV : Dispositions relatives à l'outre-mer.
