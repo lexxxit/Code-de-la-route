@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2016-12-30
+Version Consolidée au 2016-12-31
 
 # Partie législative
 
@@ -240,17 +240,15 @@ prévue au premier alinéa incombe, sous les mêmes réserves, au représentant 
 ###### Article L121-3
 
 Par dérogation aux dispositions de l'article L. 121-1, le titulaire du certificat d'immatriculation du véhicule est redevable
-pécuniairement de l'amende encourue pour des contraventions à la réglementation sur les vitesses maximales autorisées, sur le
-respect des distances de sécurité entre les véhicules, sur l'usage de voies et chaussées réservées à certaines catégories de
-véhicules et sur les signalisations imposant l'arrêt des véhicules, à moins qu'il n'établisse l'existence d'un vol ou de tout
-autre événement de force majeure ou qu'il n'apporte tous éléments permettant d'établir qu'il n'est pas l'auteur véritable de
-l'infraction. 
+pécuniairement de l'amende encourue pour des infractions dont la liste est fixée par décret en Conseil d'Etat, à moins qu'il
+n'établisse l'existence d'un vol ou de tout autre événement de force majeure ou qu'il n'apporte tous éléments permettant
+d'établir qu'il n'est pas l'auteur véritable de l'infraction. 
 
 La personne déclarée redevable en application des dispositions du présent article n'est pas responsable pénalement de
-l'infraction. Lorsque le tribunal de police ou la juridiction de proximité, y compris par ordonnance pénale, fait application
-des dispositions du présent article, sa décision ne donne pas lieu à inscription au casier judiciaire, ne peut être prise en
-compte pour la récidive et n'entraîne pas retrait des points affectés au permis de conduire. Les règles sur la contrainte
-judiciaire ne sont pas applicables au paiement de l'amende. 
+l'infraction. Lorsque le tribunal de police, y compris par ordonnance pénale, fait application des dispositions du présent
+article, sa décision ne donne pas lieu à inscription au casier judiciaire, ne peut être prise en compte pour la récidive et
+n'entraîne pas retrait des points affectés au permis de conduire. Les règles sur la contrainte judiciaire ne sont pas
+applicables au paiement de l'amende. 
 
 Lorsque le certificat d'immatriculation du véhicule est établi au nom d'une personne morale, la responsabilité pécuniaire
 prévue au premier alinéa incombe, sous les réserves prévues au premier alinéa de l'article L. 121-2, au représentant légal de
@@ -262,11 +260,24 @@ les réserves prévues au premier alinéa de l'article L. 121-2.
 Dans le cas où le véhicule a été cédé, la responsabilité pécuniaire prévue au premier alinéa du présent article incombe, sous
 les réserves prévues au premier alinéa de l'article L. 121-2, à l'acquéreur du véhicule.
 
+**Nota:**
+
+L'article unique de la loi n° 2012-1441 du 24 décembre 2012 a modifié la date d'entrée en vigueur des articles 1 et 2 de la
+loi n° 2011-1862 du 13 décembre 2011 prévue à l'article 70 de ladite loi en la reportant du 1er janvier 2013 au 1er janvier
+2015.
+
+L'article 99 de la loi n° 2014-1654 du 29 décembre 2014 a modifié cette date en la reportant du 1er janvier 2015 au 1er
+janvier 2017.
+
+Conformément à l'article 34 IV B de la loi n° 2016-1547 du 18 novembre 2016, les présentes dispostions entrent en vigueur à
+la date fixée par le décret en Conseil d'Etat qu'elles mentionnent et au plus tard un an après la promulgation de la présente
+loi.
+
+Le 1° de l'article 2 du décret n° 2016-1955 du 28 décembre 2016 a fixé au 31 décembre 2016 la date de l'entrée en vigueur des
+dispositions du présent article dans leur rédaction issue du 1° du I de l'article 34 de la loi n° 2016-1547 du 18 novembre
+2016.
+
 **Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Loi n°2011-1862 du 13 décembre 2011 - art. 31
 
 	**Cité par**:
 
@@ -284,12 +295,11 @@ les réserves prévues au premier alinéa de l'article L. 121-2, à l'acquéreur
 
 	**Anciens textes**:
 
-	  - Code de la route - art. L21-2 (Ab)
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 34 (V)
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code de la route. - art. L121-1
-	  - Code de la route. - art. L121-2
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 34 (V)
 
 	**Liens**:
 
@@ -766,11 +776,9 @@ l'article L. 511-22 du code de la consommation.
 
 ###### Article L130-9
 
-Lorsqu'elles sont effectuées par des appareils de contrôle automatique ayant fait l'objet d'une homologation, les
-constatations relatives à la vitesse des véhicules, aux distances de sécurité entre véhicules, au franchissement par les
-véhicules d'une signalisation imposant leur arrêt, au non-paiement des péages ou à la présence de véhicules sur certaines
-voies et chaussées, font foi jusqu'à preuve du contraire. Ces constatations peuvent faire l'objet d'un procès-verbal revêtu
-d'une signature manuelle numérisée.
+Lorsqu'elles sont effectuées par ou à partir des appareils de contrôle automatique ayant fait l'objet d'une homologation, les
+constatations relatives aux infractions dont la liste est fixée par décret en Conseil d'Etat font foi jusqu'à preuve du
+contraire. Ces constatations peuvent faire l'objet d'un procès-verbal revêtu d'une signature manuelle numérisée.
 
 Lorsque ces constatations font l'objet d'un traitement automatisé d'informations nominatives mis en oeuvre conformément aux
 dispositions de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés, la durée maximale
@@ -780,12 +788,22 @@ des informations le concernant lorsqu'il a récupéré le nombre de points ayant
 lorsque la procédure le concernant a donné lieu à une décision définitive de relaxe.
 
 Pour l'application des dispositions relatives à l'amende forfaitaire, le lieu du traitement automatisé des informations
-nominatives concernant les constatations effectuées par les appareils de contrôle automatisé est considéré comme le lieu de
-constatation de l'infraction.
+nominatives concernant les constatations effectuées par ou à partir des appareils de contrôle automatisé est considéré comme
+le lieu de constatation de l'infraction.
 
 Lorsque l'excès de vitesse est constaté par le relevé d'une vitesse moyenne, entre deux points d'une voie de circulation,
 supérieure à la vitesse maximale autorisée entre ces deux points, le lieu de commission de l'infraction est celui où a été
 réalisée la deuxième constatation, sans préjudice des dispositions du précédent alinéa.
+
+**Nota:**
+
+Conformément à l'article 34 IV B de la loi n° 2016-1547 du 18 novembre 2016, les présentes dispostions entrent en vigueur à
+la date fixée par le décret en Conseil d'Etat qu'elles mentionnent et au plus tard un an après la promulgation de la présente
+loi.
+
+Le 1° de l'article 2 du décret n° 2016-1955 du 28 décembre 2016 a fixé  au 31 décembre 2016 la date de l'entrée en vigueur
+des dispositions du  présent article dans leur rédaction issue du 4° du I de l'article 34 de la loi n° 2016-1547 du 18
+novembre 2016.
 
 **Liens relatifs à cet article**
 
@@ -814,7 +832,7 @@ réalisée la deuxième constatation, sans préjudice des dispositions du préc�
 
 	**Modifié par**:
 
-	  - Loi n°2011-267 du 14 mars 2011 - art. 87
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 34 (V)
 
 
 ### Titre 4 : Dispositions relatives à l'outre-mer
@@ -8266,15 +8284,9 @@ faciliter l'échange transfrontalier d'informations concernant les infractions e
 l'immatriculation d'un véhicule précédemment immatriculé dans un autre de ces Etats, ou au titre de la répression de la
 criminalité visant les véhicules et ayant des incidences transfrontalières ; 
 
-11° Aux fonctionnaires de la police nationale et du contrôle des transports terrestres ainsi qu'aux militaires de la
-gendarmerie nationale, aux seules fins de vérifier la régularité de la situation des redevables au regard de la taxe sur les
-poids lourds prévue au chapitre II du titre X du code des douanes et d'identifier les auteurs des manquements au regard de
-cette taxe ; 
+11° (abrogé) ; 
 
-12° Aux personnels agréés du prestataire autorisé par l'Etat à exploiter les appareils de contrôle automatique et à procéder
-à la constatation des manquements au regard de la taxe sur les poids lourds prévue au chapitre II du titre X du code des
-douanes, aux seules fins de vérifier la régularité de la situation des redevables au regard de cette taxe et d'identifier les
-auteurs des manquements au regard de cette taxe ; 
+12° (abrogé) ; 
 
 13° Aux constructeurs de véhicules ou à leurs mandataires pour les besoins des rappels de sécurité et des rappels de mise au
 point des véhicules. 
@@ -8326,14 +8338,16 @@ paiement du péage.
 
 	**Modifié par**:
 
-	  - Loi n°2016-339 du 22 mars 2016 - art. 7
+	  - Loi n°2008-1425 du 27 décembre 2008 - art. 153 (V)
+	  - Loi n°2013-431 du 28 mai 2013 - art. 12 (V)
+	  - Loi n°2016-1917 du 29 décembre 2016 - art. 84
 
 	**Cite**:
 
 	  - Code général de la propriété des personnes publiques. - art. L2132-21
 	  - Code général de la propriété des personnes publiques. - art. L2132-23
 	  - Code de procédure pénale - art. 14
-	  - Code de l'environnement - art. L541-21-3 (V)
+	  - Code de l'environnement - art. L541-21-3
 	  - Code de la route. - art. L130-4
 	  - Code de la route. - art. L130-7
 	  - Code des transports - art. L2241-1
@@ -10114,6 +10128,81 @@ est puni de l'amende prévue pour les contraventions de la cinquième classe.
 	  - Code de la route. - art. R142-4 (V)
 
 
+###### Article R121-6
+
+Le titulaire du certificat d'immatriculation du véhicule est, en application de l'article L. 121-3, redevable pécuniairement
+de l'amende encourue pour des infractions aux règles sur : 
+
+1° Le port d'une ceinture de sécurité homologuée dès lors que le siège qu'il occupe en est équipé prévu à l'article R.
+412-1 ; 
+
+2° L'usage du téléphone tenu en main prévu aux premier, quatrième et cinquième alinéas de l'article R. 412-6-1 ; 
+
+3° L'usage de voies et chaussées réservées à certaines catégories de véhicules prévu aux II et III de l'article R. 412-7 ; 
+
+4° L'arrêt, le stationnement ou la circulation sur les bandes d'arrêt d'urgence prévus à l'article R. 412-8, au 9° du II de
+l'article R. 417-10 et à l'article R. 421-7 ; 
+
+5° Le respect des distances de sécurité entre les véhicules prévu à l'article R. 412-12 ; 
+
+6° Le franchissement et le chevauchement des lignes continues prévus aux articles R. 412-19 et R. 412-22 ; 
+
+7° Les signalisations imposant l'arrêt des véhicules prévues aux articles R. 412-30, R. 412-31 et R. 415-6 ; 
+
+8° Les vitesses maximales autorisées prévues aux articles R. 413-14, R. 413-14-1 et R. 413-17 ; 
+
+9° Le dépassement prévu aux articles R. 414-4, R. 414-6 et R. 414-16 ; 
+
+10° L'engagement dans l'espace compris entre les deux lignes d'arrêt prévu aux deuxième et quatrième alinéas de l'article R.
+415-2 ; 
+
+11° L'obligation du port d'un casque homologué d'une motocyclette, d'un tricycle à moteur, d'un quadricycle à moteur ou d'un
+cyclomoteur prévue à l'article R. 431-1 ; 
+
+12° L'obligation, pour faire circuler un véhicule terrestre à moteur, d'être couvert par une assurance garantissant la
+responsabilité civile, prévue aux articles L. 211-1 et L. 211-2 du code des assurances et à l'article L. 324-2.
+
+**Nota:**
+
+Conformément au 2° de l'article 2 du décret n° 2016-1955 du 28 décembre 2016, les dispositions du 12° du présent article,
+dans leur rédaction issue du 1° de l'article 1er dudit décret, entrent en vigueur, au plus tard, le 31 décembre 2018.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1955 du 28 décembre 2016 - art. 1
+
+	**Cité par**:
+
+	  - Décret n°2016-1955 du 28 décembre 2016 - art. 2 (V)
+
+	**Cite**:
+
+	  - Code des assurances - art. L211-1 (V)
+	  - Code de la route. - art. L121-3 (V)
+	  - Code de la route. - art. L324-2 (V)
+	  - Code de la route. - art. R412-1 (V)
+	  - Code de la route. - art. R412-12 (V)
+	  - Code de la route. - art. R412-19 (V)
+	  - Code de la route. - art. R412-22 (V)
+	  - Code de la route. - art. R412-30 (VT)
+	  - Code de la route. - art. R412-31 (V)
+	  - Code de la route. - art. R412-6-1 (V)
+	  - Code de la route. - art. R412-7 (V)
+	  - Code de la route. - art. R412-8 (V)
+	  - Code de la route. - art. R413-14 (V)
+	  - Code de la route. - art. R413-17 (V)
+	  - Code de la route. - art. R414-16 (V)
+	  - Code de la route. - art. R414-4 (V)
+	  - Code de la route. - art. R414-6 (V)
+	  - Code de la route. - art. R415-2 (VT)
+	  - Code de la route. - art. R415-6 (V)
+	  - Code de la route. - art. R417-10 (V)
+	  - Code de la route. - art. R421-7 (V)
+	  - Code de la route. - art. R431-1 (V)
+
+
 ### Titre III : Recherche et constatation des infractions.
 
 ###### Article R130-1
@@ -10617,6 +10706,74 @@ et du ministre chargé des transports.
 	  - Code de la route. - art. R142-6 (M)
 
 
+###### Article R130-11
+
+Font foi jusqu'à preuve du contraire les constatations, effectuées par ou à partir des appareils de contrôle automatique
+ayant fait l'objet d'une homologation, relatives aux infractions sur : 
+
+1° Le port d'une ceinture de sécurité homologuée dès lors que le siège qu'il occupe en est équipé prévu à l'article R.
+412-1 ; 
+
+2° L'usage du téléphone tenu en main prévu aux premier, quatrième et cinquième alinéas de l'article R. 412-6-1 ; 
+
+3° L'usage de voies et chaussées réservées à certaines catégories de véhicules prévu aux II et III de l'article R. 412-7 ; 
+
+4° La circulation sur les bandes d'arrêt d'urgence prévue à l'article R. 412-8 ; 
+
+5° Le respect des distances de sécurité entre les véhicules prévu à l'article R. 412-12 ; 
+
+6° Le franchissement et le chevauchement des lignes continues prévus à l'article R. 412-19 ; 
+
+7° Les signalisations imposant l'arrêt des véhicules prévues aux articles R. 412-30 et R. 415-6 ; 
+
+8° Les vitesses maximales autorisées prévues aux articles R. 413-14 et R. 413-14-1 ; 
+
+9° Le dépassement prévu aux II et IV de l'article R. 414-4 et aux articles R. 414-6 et R. 414-16 ; 
+
+10° L'engagement dans l'espace compris entre les deux lignes d'arrêt prévu aux deuxième et quatrième alinéas de l'article R.
+415-2 ; 
+
+11° L'obligation du port d'un casque homologué d'une motocyclette, d'un tricycle à moteur, d'un quadricycle à moteur ou d'un
+cyclomoteur prévue à l'article R. 431-1 ; 
+
+12° L'obligation, pour faire circuler un véhicule terrestre à moteur, d'être couvert par une assurance garantissant la
+responsabilité civile, prévue aux articles L. 211-1 et L. 211-2 du code des assurances et à l'article L. 324-2.
+
+**Nota:**
+
+Conformément au 2° de l'article 2 du décret n° 2016-1955 du 28 décembre 2016, les dispositions du 12° du présent article,
+dans leur rédaction issue du 2° de l'article 1er dudit décret, entrent en vigueur, au plus tard, le 31 décembre 2018.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1955 du 28 décembre 2016 - art. 1
+
+	**Cité par**:
+
+	  - Décret n°2016-1955 du 28 décembre 2016 - art. 2 (V)
+
+	**Cite**:
+
+	  - Code des assurances - art. L211-1 (V)
+	  - Code de la route. - art. L324-2 (V)
+	  - Code de la route. - art. R412-1 (V)
+	  - Code de la route. - art. R412-12 (V)
+	  - Code de la route. - art. R412-19 (V)
+	  - Code de la route. - art. R412-30 (VT)
+	  - Code de la route. - art. R412-6-1 (V)
+	  - Code de la route. - art. R412-7 (V)
+	  - Code de la route. - art. R412-8 (V)
+	  - Code de la route. - art. R413-14 (V)
+	  - Code de la route. - art. R414-16 (V)
+	  - Code de la route. - art. R414-4 (V)
+	  - Code de la route. - art. R414-6 (V)
+	  - Code de la route. - art. R415-2 (VT)
+	  - Code de la route. - art. R415-6 (V)
+	  - Code de la route. - art. R431-1 (V)
+
+
 ### Titre IV : Dispositions relatives à l'outre-mer.
 
 #### Chapitre Ier : Dispositions particulières à la collectivité territoriale de Saint-Pierre-et-Miquelon.
@@ -10787,6 +10944,50 @@ b) Le ministre chargé de l'outre-mer signe l'arrêté prévu au II de cet artic
 	**Modifié par**:
 
 	  - Décret n°2002-1256 du 15 octobre 2002 - art. 9 (V) JORF 16 octobre 2002
+
+
+#### Chapitre 3 : Dispositions applicables en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna 
+
+###### Article R143-1
+
+Sont  applicables en Nouvelle-Calédonie, en Polynésie française et dans les  îles Wallis et Futuna, les dispositions des
+articles mentionnés dans la  colonne de gauche du tableau ci-après, dans leur rédaction indiquée dans  la colonne de droite
+du même tableau : 
+
+<table>
+      <tbody>
+        <tr>
+          <th>
+
+DISPOSITIONS APPLICABLES 
+
+</th>
+          <th>
+
+DANS LEUR RÉDACTION 
+
+</th>
+        </tr>
+        <tr>
+          <td align="justify" valign="middle">
+
+R. 130-11 
+
+</td>
+          <td valign="middle" align="justify">
+
+Résultant du décret n° 2016-1955 du 28 décembre 2016.
+
+</td>
+        </tr>
+      </tbody>
+    </table>
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1955 du 28 décembre 2016 - art. 1
 
 
 ## Livre II : Le conducteur.
