@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2017-01-01
+Version Consolidée au 2017-01-13
 
 # Partie législative
 
@@ -23820,79 +23820,6 @@ compatibles avec leurs caractéristiques techniques de fabrication et d'emploi.
 	  - SPEC_APPLI: Code de la route. - art. R318-5 (V)
 	  - SPEC_APPLI: Code de la route. - art. R318-7 (Ab)
 	  - SPEC_APPLI: Code de la route. - art. R318-8 (Ab)
-
-
-###### Article R318-7
-
-I.-Le parc automobile mentionné à l'article L. 318-2 est constitué des voitures particulières, ainsi que des véhicules de
-transport de personnes et des véhicules de transport de marchandises ou assimilés dont le poids total autorisé en charge
-(PTAC) n'excède pas 3,5 tonnes, qui ont été acquis ou loués par des contrats d'une durée cumulée supérieure à un an et pour
-lesquels il existe sur le marché européen des modèles concurrents de même usage fonctionnant à l'énergie électrique, au gaz
-de pétrole liquéfié ou au gaz naturel. 
-
-II.-Pour les services de l'Etat, le parc automobile est apprécié dans le cadre de chaque : 
-
-1° Direction gestionnaire de moyens pour les administrations centrales ; 
-
-2° Service déconcentré gestionnaire de crédits permettant l'acquisition de véhicules ; 
-
-3° Service à compétence nationale ; 
-
-4° Autorité administrative indépendante.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2001-251 du 22 mars 2001
-
-	**Abrogé par**:
-
-	  - Décret n°2017-21 du 11 janvier 2017 - art. 2
-
-	**Anciens textes**:
-
-	  - Code de la route - art. R137-1 (Ab)
-	  - Code de la route R137-1
-
-	**Cite**:
-
-	  - Code de la route. - art. L318-2
-
-	**Liens**:
-
-	  - SPEC_APPLI: Code de la route. - art. R318-6 (V)
-
-
-###### Article R318-8
-
-Des dérogations aux obligations instituées par l'article L. 318-2 peuvent être accordées par le préfet si les contraintes
-liées aux nécessités du service le justifient, notamment lorsque les conditions d'approvisionnement en carburant, les
-exigences de sécurité liées à l'utilisation des véhicules fonctionnant à l'énergie électrique, au gaz de pétrole liquéfié ou
-au gaz naturel, ou les performances de ces véhicules sont incompatibles avec les missions de service.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
-
-	**Abrogé par**:
-
-	  - Décret n°2017-21 du 11 janvier 2017 - art. 2
-
-	**Anciens textes**:
-
-	  - Code de la route - art. R137-2 (Ab)
-	  - Code de la route R137-2
-
-	**Cite**:
-
-	  - Code de la route. - art. L318-2
-
-	**Liens**:
-
-	  - SPEC_APPLI: Code de la route. - art. R318-6 (V)
 
 
 ###### Article R318-10
