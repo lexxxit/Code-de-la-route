@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2017-02-05
+Version Consolidée au 2017-02-19
 
 # Partie législative
 
@@ -10395,7 +10395,7 @@ des voies autres que les autoroutes :
 a) Les contraventions de police prévues aux articles R. 644-2 et R. 653-1 du code pénal lorsqu'il s'agit de contraventions se
 rapportant à la circulation routière ; 
 
-b) Les contraventions aux dispositions du présent code mentionnées aux articles R. 211-2, R. 221-1, R. 233-1, R. 313-13, R.
+b) Les contraventions aux dispositions du présent code mentionnées aux articles R. 211-2, R. 221-1-1, R. 233-1, R. 313-13, R.
 313-22, R. 313-23, R. 317-8, R. 321-4 (5e alinéa), R. 322-1, R. 322-3 à R. 322-9, R. 323-1, R. 325-2, R. 326-1, R. 411-18, R.
 411-22, R. 411-23, R. 411-28, R. 411-30, R. 412-1 à R. 412-3, R. 412-7, R. 412-9 (5e alinéa), R. 412-19, R. 412-27, R.
 412-28, R. 412-30, R. 412-48, R. 412-49, R. 413-5, R. 413-14, R. 413-17, R. 413-18, R. 415-6, R. 416-5 à R. 416-9, R. 416-11
@@ -10411,11 +10411,7 @@ d) Les contraventions prévues par l'article R. 211-21-5 du code des assurances.
 
 	**Codifié par**:
 
-	  - Décret n°2001-251 2001-03-22 JORF 25 mars 2001
-
-	**Modifié par**:
-
-	  - Décret n°2005-320 du 30 mars 2005 - art. 1 () JORF 6 avril 2005
+	  - Décret n°2001-251 du 22 mars 2001
 
 	**Cité par**:
 
@@ -10423,55 +10419,47 @@ d) Les contraventions prévues par l'article R. 211-21-5 du code des assurances.
 	  - Code de la sécurité intérieure - art. R521-1 (VD)
 	  - Code général des collectivités territoriales - art. R2213-60 (VT)
 
+	**Modifié par**:
+
+	  - Décret n°2017-198 du 16 février 2017 - art. 1
+
 	**Cite**:
 
 	  - Code pénal - art. R644-2 (V)
 	  - Code pénal - art. R653-1 (V)
 	  - Code des assurances - art. R211-21-5 (V)
-	  - Code de la route R211-2, R221-1, R233-1, R313-13, R313-22, R313-23, R317-8, R321-4, R322-1, R322-3 à R322-9, R323-1, R325-2, R326-1, R411-18, R411-22, R411-23, R411-28, R411-30, R412-1 à R412-3, R412-7, R412-9, R412-19, R412-27, R412-28, R412-30, R41
-	  - Code de la route. - art. R211-2 (M)
-	  - Code de la route. - art. R221-1 (M)
-	  - Code de la route. - art. R233-1 (M)
+	  - Code de la route. - art. R211-2 (V)
+	  - Code de la route. - art. R221-1-1 (V)
+	  - Code de la route. - art. R233-1 (V)
 	  - Code de la route. - art. R313-13 (V)
 	  - Code de la route. - art. R313-22 (V)
-	  - Code de la route. - art. R313-23 (V)
-	  - Code de la route. - art. R317-8 (M)
+	  - Code de la route. - art. R317-8 (V)
 	  - Code de la route. - art. R321-4 (V)
-	  - Code de la route. - art. R322-1 (M)
+	  - Code de la route. - art. R322-1 (V)
 	  - Code de la route. - art. R323-1 (V)
 	  - Code de la route. - art. R325-2 (V)
-	  - Code de la route. - art. R326-1 (M)
+	  - Code de la route. - art. R326-1 (V)
 	  - Code de la route. - art. R411-18 (V)
-	  - Code de la route. - art. R411-22 (M)
-	  - Code de la route. - art. R411-23 (V)
+	  - Code de la route. - art. R411-22 (V)
 	  - Code de la route. - art. R411-28 (V)
-	  - Code de la route. - art. R411-30 (M)
-	  - Code de la route. - art. R412-19 (M)
+	  - Code de la route. - art. R412-1 (V)
+	  - Code de la route. - art. R412-19 (V)
 	  - Code de la route. - art. R412-27 (V)
-	  - Code de la route. - art. R412-28 (V)
-	  - Code de la route. - art. R412-30 (M)
 	  - Code de la route. - art. R412-48 (V)
-	  - Code de la route. - art. R412-49 (V)
-	  - Code de la route. - art. R412-7 (M)
-	  - Code de la route. - art. R412-9 (M)
-	  - Code de la route. - art. R413-14 (M)
-	  - Code de la route. - art. R413-15 (M)
-	  - Code de la route. - art. R413-17 (V)
-	  - Code de la route. - art. R413-18 (V)
-	  - Code de la route. - art. R413-5 (M)
+	  - Code de la route. - art. R412-7 (V)
+	  - Code de la route. - art. R413-14 (V)
+	  - Code de la route. - art. R413-15 (V)
+	  - Code de la route. - art. R413-5 (V)
 	  - Code de la route. - art. R415-6 (V)
-	  - Code de la route. - art. R416-17 (M)
-	  - Code de la route. - art. R416-19 (V)
-	  - Code de la route. - art. R416-20 (V)
-	  - Code de la route. - art. R422-3 (M)
-	  - Code de la route. - art. R431-1 (M)
+	  - Code de la route. - art. R416-5 (V)
+	  - Code de la route. - art. R417-1 (VT)
+	  - Code de la route. - art. R422-3 (V)
+	  - Code de la route. - art. R431-1 (V)
 	  - Code de la route. - art. R431-10 (V)
-	  - Code de la route. - art. R431-2 (Ab)
 
 	**Anciens textes**:
 
 	  - Code de la route - art. R250 (Ab)
-	  - Code de la route R250
 
 
 ###### Article R130-4
@@ -10566,7 +10554,7 @@ ceux-ci ;
 Les fonctionnaires ou agents de l'Etat chargés du contrôle des transports terrestres placés sous l'autorité du ministre
 chargé des transports peuvent constater par procès-verbal : 
 
-1° Les contraventions aux dispositions des articles R. 121-1 à R. 121-5, R. 221-1, R. 221-20, R. 233-1, R. 233-2, R. 234-6,
+1° Les contraventions aux dispositions des articles R. 121-1 à R. 121-5, R. 221-1-1, R. 221-20, R. 233-1, R. 233-2, R. 234-6,
 R. 311-3, R. 312-2 à R. 312-6, R. 312-10 à R. 312-14, R. 312-19 à R. 312-23, R. 313-1 à R. 313-7, R. 313-9, R. 313-10, R.
 313-12, R. 313-14, R. 313-17 à R. 313-20, R. 313-21, R. 313-24, R. 313-25, R. 313-26, R. 313-33, R. 314-1, R. 314-3, R.
 315-1, R. 315-2, R. 316-1, R. 316-3, R. 316-4, R. 316-6, R. 316-7, R. 316-8, R. 317-1, R. 317-3, R. 317-4, R. 317-5, R. 317-8
@@ -10575,12 +10563,12 @@ R. 311-3, R. 312-2 à R. 312-6, R. 312-10 à R. 312-14, R. 312-19 à R. 312-23, 
 R. 411-21, R. 411-21-1, R. 411-23, R. 411-23-1, R. 411-23-2, R. 412-1, R. 412-13, R. 412-16, R. 433-1 à R. 433-8, R. 433-11,
 R. 433-12, R. 433-14 à R. 433-16, R. 433-20, R. 435-1 et R. 436-1 ainsi que, lorsqu'elles sont commises par le conducteur
 d'un véhicule qui doit être équipé d'un appareil de contrôle dit chronotachygraphe, les contraventions aux dispositions
-relatives aux vitesses maximales autorisées par le présent code ;
+relatives aux vitesses maximales autorisées par le présent code ; 
 
 2° Toutes les autres contraventions prévues aux 1° et 2° de l'article R. 130-1 lorsqu'elles sont connexes à des infractions
 aux dispositions législatives relatives à l'accès aux professions du transport ferroviaire ou guidé et du transport routier
 et à leurs conditions d'exercice prévues au livre IV de la première partie et à la troisième partie du code des transports
-ainsi qu'aux dispositions réglementaires prises pour leur application ;
+ainsi qu'aux dispositions réglementaires prises pour leur application ; 
 
 3° Les contraventions prévues à l'article R. 211-14 du code des assurances.
 
@@ -10594,17 +10582,18 @@ ainsi qu'aux dispositions réglementaires prises pour leur application ;
 
 	  - Décret n°2001-251 du 22 mars 2001
 
-	**Modifié par**:
-
-	  - Décret n°2015-1693 du 17 décembre 2015 - art. 6
-
 	**Cité par**:
 
 	  - Décret n°2017-198 du 16 février 2017 (V)
 
+	**Modifié par**:
+
+	  - Décret n°2017-198 du 16 février 2017 - art. 1
+
 	**Cite**:
 
 	  - Code des assurances - art. R*211-14
+	  - Code de la route. - art. R121-5 (V)
 
 	**Anciens textes**:
 
@@ -14824,7 +14813,7 @@ reconnu et son titulaire perd tout droit de conduire un véhicule pour la condui
 
 ###### Article R222-4
 
-Les titulaires du permis de conduire en cours de validité délivré dans les conditions prévues aux articles R. 221-1, D.
+Les titulaires du permis de conduire en cours de validité délivré dans les conditions prévues aux articles R. 221-1-1, D.
 221-3, R. 222-1 à R. 222-3, R. 222-7 ou D. 222-8 sont habilités, pour la catégorie définie à l'article R. 221-4 au titre de
 laquelle le permis leur a été délivré, à conduire les véhicules du ministère de la défense ou des établissements publics qui
 en dépendent. 
@@ -14848,16 +14837,16 @@ militaire de conduite peut leur être attribué.
 
 	**Modifié par**:
 
-	  - Décret n°2011-1475 du 9 novembre 2011 - art. 17 (V)
+	  - Décret n°2017-198 du 16 février 2017 - art. 1
 
 	**Cite**:
 
-	  - Code de la route. - art. D221-3 (VD)
-	  - Code de la route. - art. D222-8 (VD)
-	  - Code de la route. - art. R221-1 (V)
-	  - Code de la route. - art. R221-4 (V)
-	  - Code de la route. - art. R222-1 (V)
-	  - Code de la route. - art. R222-7 (V)
+	  - Code de la route. - art. D221-3
+	  - Code de la route. - art. D222-8
+	  - Code de la route. - art. R221-1-1 (V)
+	  - Code de la route. - art. R221-4
+	  - Code de la route. - art. R222-1
+	  - Code de la route. - art. R222-7
 
 
 ###### Article R222-5
@@ -15036,7 +15025,7 @@ affecté au permis de conduire de l'auteur de cette infraction.
 Si le retrait de points lié à cette infraction n'aboutit pas à un nombre nul de points affectés au permis de conduire de
 l'auteur de l'infraction, celui-ci est informé par le ministre de l'intérieur par lettre simple du nombre de points retirés.
 Le ministre de l'intérieur constate et notifie à l'intéressé, dans les mêmes conditions, les reconstitutions de points
-obtenues en application               des premier, deuxième, troisième et cinquième alinéas de l'article L. 223-6. 
+obtenues en application des premier, deuxième, troisième et cinquième alinéas de l'article L. 223-6. 
 
 Si le retrait de points aboutit à un nombre nul de points affectés au permis de conduire, l'auteur de l'infraction est
 informé par le ministre de l'intérieur par lettre recommandée avec demande d'avis de réception du nombre de points retirés.
@@ -15045,31 +15034,31 @@ enjoint à l'intéressé de restituer celui-ci au préfet du département ou de 
 résidence dans un délai de dix jours francs à compter de sa réception. 
 
 S'il avait été remis à la personne un certificat en échange de son permis de conduire, en application des articles R. 131-2,
-R. 131-4 ou R. 131-4-1 du code pénal ou des articles R. 15-33-53 ou R. 15-33-53-1 du code de procédure pénale, cette personne
-est tenue de remettre ce certificat au préfet. Le permis de conduire détenu par le greffe du tribunal de grande instance en
-application des mêmes dispositions est remis par le greffe au préfet.
+R. 131-4, R. 131-4-1 ou R. 132-45-1 du code pénal ou des articles R. 15-33-53, R. 15-33-53-1 ou R. 17-4-1 du code de
+procédure pénale, cette personne est tenue de remettre ce certificat au préfet. Le permis de conduire détenu par le greffe du
+tribunal de grande instance en application des mêmes dispositions est remis par le greffe au préfet.
 
 **Liens relatifs à cet article**
 
 	**Cité par**:
 
 	  - Décret n°2010-569 du 28 mai 2010 - art. 2 (V)
-	  - Code de la route. - art. R223-3-1 (VD)
 	  - Code de la route. - art. R223-4 (M)
 
 	**Modifié par**:
 
-	  - Décret n°2015-1892 du 29 décembre 2015 - art. 2
+	  - Décret n°2017-198 du 16 février 2017 - art. 1
 
 	**Cite**:
 
 	  - Code pénal - art. R131-2
-	  - Code pénal - art. R131-4
-	  - Code pénal - art. R131-4-1
-	  - Code de procédure pénale - art. R15-33-53
-	  - Code de procédure pénale - art. R15-33-53-1
-	  - Code de la route. - art. L223-1
-	  - Code de la route. - art. L223-6
+	  - Code pénal - art. R131-4 (V)
+	  - Code pénal - art. R131-4-1 (V)
+	  - Code de procédure pénale - art. R15-33-53 (V)
+	  - Code de procédure pénale - art. R15-33-53-1 (V)
+	  - Code de procédure pénale - art. R17-4-1 (V)
+	  - Code de la route. - art. L223-1 (V)
+	  - Code de la route. - art. L223-6 (V)
 	  - Code de la route. - art. L225-1
 
 	**Anciens textes**:
@@ -16340,7 +16329,8 @@ et de la vérification de son fonctionnement, lorsque le conducteur :
 a) A été condamné à une peine d'interdiction de conduire un véhicule qui ne soit pas équipé par un professionnel agréé ou par
 construction d'un tel dispositif ; ou 
 
-b) Est soumis à l'obligation prévue au 4° bis de l'article 41-2 du code de procédure pénale ; 
+b) Est soumis à l'obligation prévue au 7° de l'article 132-45 du code pénal, au 4° bis de l'article 41-2 ou au 8° de
+l'article 138 du code de procédure pénale ; 
 
 c) Fait l'objet d'une décision de restriction d'usage du permis de conduire par l'autorité administrative compétente en
 application des articles R. 221-1-1 et R. 226-1 ; 
@@ -16383,11 +16373,14 @@ l'expiration de ce délai est puni de l'amende prévue pour les contraventions d
 
 	**Modifié par**:
 
-	  - Décret n°2016-1289 du 30 septembre 2016 - art. 1
+	  - Décret n°2017-198 du 16 février 2017 - art. 1
 
 	**Cite**:
 
-	  - Code de procédure pénale - art. 41-2
+	  - Code pénal - art. 132-45 (V)
+	  - Code de procédure pénale - art. 138 (V)
+	  - Code de procédure pénale - art. 41-2 (VT)
+	  - Code de la route. - art. L212-1 (V)
 	  - Code de la route. - art. R212-1
 	  - Code de la route. - art. R221-1-1
 	  - Code de la route. - art. R221-8
@@ -16668,20 +16661,33 @@ bon fonctionnement de l'appareil ; le résultat en est immédiatement porté à 
 
 ###### Article R234-5
 
-I.-Est puni de l'amende prévue pour les contraventions de la cinquième classe le fait pour une personne ayant été condamnée à
-la peine d'interdiction de conduire un véhicule qui ne soit pas équipé par un professionnel agréé ou par construction d'un
+I. - Est puni de l'amende prévue pour les contraventions de la cinquième classe le fait pour une personne ayant été condamnée
+à la peine d'interdiction de conduire un véhicule qui ne soit pas équipé par un professionnel agréé ou par construction d'un
 dispositif homologué d'antidémarrage par éthylotest électronique de conduire un véhicule équipé d'un tel dispositif soit
 après que celui-ci a été utilisé par un tiers pour permettre le démarrage, soit après l'avoir neutralisé ou détérioré ou
 l'avoir utilisé dans des conditions empêchant la mesure exacte de son état d'imprégnation alcoolique. 
 
-Les dispositions de l'alinéa qui précède sont également applicables lorsque les faits ont été commis par une personne ayant
-accepté d'exécuter à titre de composition pénale la mesure prévue au 4° bis de l'article 41-2 du code de procédure pénale dès
-lors que la composition pénale a été validée dans les conditions prévues par cet article. 
+Les dispositions du précédent alinéa sont également applicables lorsque les faits ont été commis :
 
-II.-Le fait, par toute personne, de faciliter sciemment, par aide ou assistance, la préparation ou la consommation de la
+- par une personne ayant accepté d'exécuter à titre de composition pénale la mesure prévue au 4° bis de l'article 41-2 du
+code de procédure pénale, dès lors que la composition pénale a été validée dans les conditions prévues par cet article ;
+
+- par une personne soumise à une interdiction de conduire un véhicule qui ne soit pas équipé, par un professionnel agréé ou
+par construction, d'un dispositif homologué d'antidémarrage par éthylotest électronique prononcée en application du 8° de
+l'article 138 du code de procédure pénale dans le cadre d'un contrôle judiciaire ou d'une assignation à résidence sous
+surveillance électronique ;
+
+- par une personne soumise à une interdiction de conduire un véhicule qui ne soit pas équipé, par un professionnel agréé ou
+par construction, d'un dispositif homologué d'antidémarrage par éthylotest électronique prononcée en application du 7° de
+l'article 132-45 du code pénal, dans le cadre d'une contrainte pénale, d'un suivi socio-judiciaire, d'un sursis avec mise à
+l'épreuve ou assorti de l'obligation d'accomplir un travail d'intérêt général, d'un des aménagements de peine prévus aux
+articles 720-1-1, 721-2,  723-4ou 723-10 du code de procédure pénale, d'une libération conditionnelle, ou d'une surveillance
+judiciaire ou de sûreté. 
+
+II. - Le fait, par toute personne, de faciliter sciemment, par aide ou assistance, la préparation ou la consommation de la
 contravention prévue au I est puni de la même peine. 
 
-III.-Les personnes coupables des contraventions prévues au présent article encourent également les peines complémentaires
+III. - Les personnes coupables des contraventions prévues au présent article encourent également les peines complémentaires
 suivantes : 
 
 1° La suspension du permis de conduire pour une durée de trois ans au plus, cette suspension ne pouvant pas être limitée à la
@@ -16694,28 +16700,34 @@ conduire n'est pas exigé, pour une durée de trois ans au plus ;
 
 4° La confiscation du véhicule dont le prévenu s'est servi pour commettre l'infraction, s'il en est propriétaire. 
 
-IV.-La récidive des contraventions prévues au présent article est réprimée conformément à l'article 132-11 du code pénal. 
+IV. - La récidive des contraventions prévues au présent article est réprimée conformément à l'article 132-11 du code pénal. 
 
-V.-Ces contraventions donnent lieu de plein droit à la réduction de six points du permis de conduire. 
+V. - Ces contraventions donnent lieu de plein droit à la réduction de six points du permis de conduire. 
 
-VI.-L'immobilisation du véhicule peut être prescrite dans les conditions prévues aux articles L. 325-1 à L. 325-3.
+VI. - L'immobilisation du véhicule peut être prescrite dans les conditions prévues aux articles L. 325-1 à L. 325-3.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2011-1048 du 5 septembre 2011 - art. 5
+	  - Décret n°2017-198 du 16 février 2017 - art. 1
 
 	**Cite**:
 
-	  - Code pénal - art. 132-11 (V)
-	  - Code de procédure pénale - art. 41-2 (V)
-	  - Code de la route. - art. L325-1 (V)
+	  - Code pénal - art. 132-11
+	  - Code pénal - art. 132-45 (V)
+	  - Code de procédure pénale - art. 138 (V)
+	  - Code de procédure pénale - art. 41-2 (VT)
+	  - Code de procédure pénale - art. 720-1-1 (V)
+	  - Code de procédure pénale - art. 721-2 (V)
+	  - Code de procédure pénale - art. 723-10 (V)
+	  - Code de procédure pénale - art. 723-4 (V)
+	  - Code de la route. - art. L325-1
 
 	**Cité par**:
 
 	  - Code de la route. - art. R243-1 (V)
-	  - Code de la route. - art. R244-1 (M)
+	  - Code de la route. - art. R244-1 (V)
 	  - Code de la route. - art. R245-1 (V)
 	  - Code pénal - art. R131-4-1 (V)
 
@@ -17551,7 +17563,7 @@ Le paiement de ces frais a lieu conformément à la réglementation en vigueur �
 
 Les articles R. 234-1, R. 234-2, R. 234-4 et R. 234-5 sont applicables en Nouvelle-Calédonie dans la rédaction suivante : 
 
-" Art. R. 234-1-I.-Même en l'absence de tout signe d'ivresse manifeste, est puni de l'amende prévue pour les contraventions
+" Art. R. 234-1-I. - Même en l'absence de tout signe d'ivresse manifeste, est puni de l'amende prévue pour les contraventions
 de la quatrième classe le fait de conduire un véhicule sous l'empire d'un état alcoolique caractérisé par : 
 
 1° Une concentration d'alcool dans le sang égale ou supérieure à 0,20 gramme par litre ou par une concentration d'alcool dans
@@ -17563,9 +17575,9 @@ délai probatoire défini à l'article L. 223-1 ou en situation d'apprentissage 
 l'air expiré égale ou supérieure à 0,25 milligramme par litre et inférieure aux seuils fixés à l'article L. 234-1, chez les
 autres conducteurs. 
 
-II.-L'immobilisation peut être prescrite dans les conditions prévues aux articles L. 325-1 à L. 325-3. 
+II. - L'immobilisation peut être prescrite dans les conditions prévues aux articles L. 325-1 à L. 325-3. 
 
-III.-Toute personne coupable de l'une des infractions mentionnées au I encourt également la peine complémentaire de
+III. - Toute personne coupable de l'une des infractions mentionnées au I encourt également la peine complémentaire de
 suspension du permis de conduire pour une durée de trois ans au plus, cette suspension pouvant être limitée à la conduite en
 dehors de l'activité professionnelle. 
 
@@ -17594,15 +17606,20 @@ par construction d'un dispositif homologué d'antidémarrage par éthylotest él
 tel dispositif soit après que celui-ci a été utilisé par un tiers pour permettre le démarrage, soit après l'avoir neutralisé
 ou détérioré ou l'avoir utilisé dans des conditions empêchant la mesure exacte de son état d'imprégnation alcoolique. 
 
-Les dispositions de l'alinéa qui précède sont également applicables lorsque les faits ont été commis par une personne ayant
-accepté d'exécuter à titre de composition pénale la mesure prévue au 
-4° bis de l'article 41-2 du code de procédure pénale 
-dès lors que la composition pénale a été validée dans les conditions prévues par cet article. 
+Les dispositions du précédent alinéa sont également applicables lorsque les faits ont été commis :
 
-II.-Le fait, par toute personne, de faciliter sciemment, par aide ou assistance, la préparation ou la consommation de la
+- par une personne ayant accepté d'exécuter à titre de composition pénale la mesure prévue au 4° bis de l'article 41-2 du
+code de procédure pénale, dès lors que la composition pénale a été validée dans les conditions prévues par cet article ;
+
+- par  une personne soumise à une interdiction de conduire un véhicule qui ne  soit pas équipé, par un professionnel agréé ou
+par construction, d'un  dispositif homologué d'antidémarrage par éthylotest électronique  prononcée en application du 8° de
+l'article 138 du code de procédure pénale, dans le cadre d'un contrôle judiciaire ou d'une assignation à résidence sous
+surveillance électronique.
+
+II. - Le fait, par toute personne, de faciliter sciemment, par aide ou assistance, la préparation ou la consommation de la
 contravention prévue au I est puni de la même peine. 
 
-III.-Les personnes coupables des contraventions prévues au présent article encourent également les peines complémentaires
+III. - Les personnes coupables des contraventions prévues au présent article encourent également les peines complémentaires
 suivantes : 
 
 1° La suspension du permis de conduire pour une durée de trois ans au plus, cette suspension ne pouvant pas être limitée à la
@@ -17615,11 +17632,9 @@ conduire n'est pas exigé, pour une durée de trois ans au plus ;
 
 4° La confiscation du véhicule dont le prévenu s'est servi pour commettre l'infraction, s'il en est propriétaire. 
 
-IV.-La récidive des contraventions prévues au présent article est réprimée conformément à l'
-article 132-11 du code pénal
-. 
+IV. - La récidive des contraventions prévues au présent article est réprimée conformément à l'article 132-11 du code pénal. 
 
-V.-L'immobilisation du véhicule peut être prescrite dans les conditions prévues aux articles L. 325-1 à L. 325-3. "
+V. - L'immobilisation du véhicule peut être prescrite dans les conditions prévues aux articles L. 325-1 à L. 325-3. "
 
 **Liens relatifs à cet article**
 
@@ -17635,12 +17650,10 @@ V.-L'immobilisation du véhicule peut être prescrite dans les conditions prévu
 
 	**Modifié par**:
 
-	  - Décret n°2015-743 du 24 juin 2015 - art. 1
+	  - Décret n°2017-198 du 16 février 2017 - art. 1
 
 	**Cite**:
 
-	  - Code pénal - art. 132-11
-	  - Code de procédure pénale - art. 41-2
 	  - Code de la route. - art. R234-1
 	  - Code de la route. - art. R234-2
 	  - Code de la route. - art. R234-4
@@ -17803,7 +17816,7 @@ Le paiement de ces frais a lieu conformément aux dispositions du titre X du liv
 
 Les articles R. 234-1, R. 234-2, R. 234-4 et R. 234-5 sont applicables en Polynésie française dans la rédaction suivante : 
 
-" Art. R. 234-1-I.-Même en l'absence de tout signe d'ivresse manifeste, est puni de l'amende prévue pour les contraventions
+" Art. R. 234-1-I. - Même en l'absence de tout signe d'ivresse manifeste, est puni de l'amende prévue pour les contraventions
 de la quatrième classe le fait de conduire un véhicule sous l'empire d'un état alcoolique caractérisé par : 
 
 1° Une concentration d'alcool dans le sang égale ou supérieure à 0,20 gramme par litre ou par une concentration d'alcool dans
@@ -17815,9 +17828,9 @@ délai probatoire défini à l'article L. 223-1 ou en situation d'apprentissage 
 l'air expiré égale ou supérieure à 0,25 milligramme par litre et inférieure aux seuils fixés à l'article L. 234-1, chez les
 autres conducteurs. 
 
-II.-L'immobilisation peut être prescrite dans les conditions prévues aux articles L. 325-1 à L. 325-3. 
+II. - L'immobilisation peut être prescrite dans les conditions prévues aux articles L. 325-1 à L. 325-3. 
 
-III.-Toute personne coupable de l'une des infractions mentionnées au I encourt également la peine complémentaire de
+III. - Toute personne coupable de l'une des infractions mentionnées au I encourt également la peine complémentaire de
 suspension du permis de conduire pour une durée de trois ans au plus, cette suspension pouvant être limitée à la conduite en
 dehors de l'activité professionnelle. 
 
@@ -17846,14 +17859,20 @@ par construction d'un dispositif homologué d'antidémarrage par éthylotest él
 tel dispositif soit après que celui-ci a été utilisé par un tiers pour permettre le démarrage, soit après l'avoir neutralisé
 ou détérioré ou l'avoir utilisé dans des conditions empêchant la mesure exacte de son état d'imprégnation alcoolique. 
 
-Les dispositions de l'alinéa qui précède sont également applicables lorsque les faits ont été commis par une personne ayant
-accepté d'exécuter à titre de composition pénale la mesure prévue au 4° bis de l'article 41-2 du code de procédure pénale dès
-lors que la composition pénale a été validée dans les conditions prévues par cet article. 
+Les dispositions du précédent alinéa sont également applicables lorsque les faits ont été commis :
 
-II.-Le fait, par toute personne, de faciliter sciemment, par aide ou assistance, la préparation ou la consommation de la
+- par une personne ayant accepté d'exécuter à titre de composition pénale la mesure prévue au 4° bis de l'article 41-2 du
+code de procédure pénale, dès lors que la composition pénale a été validée dans les conditions prévues par cet article ;
+
+- par  une personne soumise à une interdiction de conduire un véhicule qui ne  soit pas équipé, par un professionnel agréé ou
+par construction, d'un  dispositif homologué d'antidémarrage par éthylotest électronique  prononcée en application du 8° de
+l'article 138 du code de procédure pénale, dans le cadre d'un contrôle judiciaire ou d'une assignation à résidence sous
+surveillance électronique.
+
+II. - Le fait, par toute personne, de faciliter sciemment, par aide ou assistance, la préparation ou la consommation de la
 contravention prévue au I est puni de la même peine. 
 
-III.-Les personnes coupables des contraventions prévues au présent article encourent également les peines complémentaires
+III. - Les personnes coupables des contraventions prévues au présent article encourent également les peines complémentaires
 suivantes : 
 
 1° La suspension du permis de conduire pour une durée de trois ans au plus, cette suspension ne pouvant pas être limitée à la
@@ -17866,9 +17885,9 @@ conduire n'est pas exigé, pour une durée de trois ans au plus ;
 
 4° La confiscation du véhicule dont le prévenu s'est servi pour commettre l'infraction, s'il en est propriétaire. 
 
-IV.-La récidive des contraventions prévues au présent article est réprimée conformément à l'article 132-11 du code pénal. 
+IV. - La récidive des contraventions prévues au présent article est réprimée conformément à l'article 132-11 du code pénal. 
 
-V.-L'immobilisation du véhicule peut être prescrite dans les conditions prévues aux articles L. 325-1 à L. 325-3. "
+V. - L'immobilisation du véhicule peut être prescrite dans les conditions prévues aux articles L. 325-1 à L. 325-3. "
 
 **Liens relatifs à cet article**
 
@@ -17878,16 +17897,14 @@ V.-L'immobilisation du véhicule peut être prescrite dans les conditions prévu
 
 	**Modifié par**:
 
-	  - Décret n°2015-743 du 24 juin 2015 - art. 1
+	  - Décret n°2017-198 du 16 février 2017 - art. 1
 
 	**Cite**:
 
-	  - Code pénal - art. 132-11
-	  - Code de procédure pénale - art. 41-2
 	  - Code de la route. - art. R234-1
 	  - Code de la route. - art. R234-2
 	  - Code de la route. - art. R234-4
-	  - Code de la route. - art. R234-5
+	  - Code de la route. - art. R234-5 (V)
 
 
 ###### Article R244-2
@@ -18029,7 +18046,7 @@ Le paiement de ces frais a lieu conformément aux dispositions du titre X du liv
 Les articles R. 234-1, R. 234-2, R. 234-4 et R. 234-5 sont applicables au territoire des Iles Wallis-et-Futuna dans la
 rédaction suivante : 
 
-" Art. R. 234-1-I.-Même en l'absence de tout signe d'ivresse manifeste, est puni de l'amende prévue pour les contraventions
+" Art. R. 234-1-I. - Même en l'absence de tout signe d'ivresse manifeste, est puni de l'amende prévue pour les contraventions
 de la quatrième classe le fait de conduire un véhicule sous l'empire d'un état alcoolique caractérisé par : 
 
 1° Une concentration d'alcool dans le sang égale ou supérieure à 0,20 gramme par litre ou par une concentration d'alcool dans
@@ -18041,9 +18058,9 @@ délai probatoire défini à l'article L. 223-1 ou en situation d'apprentissage 
 l'air expiré égale ou supérieure à 0,25 milligramme par litre et inférieure aux seuils fixés à l'article L. 234-1, chez les
 autres conducteurs. 
 
-II.-L'immobilisation peut être prescrite dans les conditions prévues aux articles L. 325-1 à L. 325-3. 
+II. - L'immobilisation peut être prescrite dans les conditions prévues aux articles L. 325-1 à L. 325-3. 
 
-III.-Toute personne coupable de l'une des infractions mentionnées au I encourt également la peine complémentaire de
+III. - Toute personne coupable de l'une des infractions mentionnées au I encourt également la peine complémentaire de
 suspension du permis de conduire pour une durée de trois ans au plus, cette suspension pouvant être limitée à la conduite en
 dehors de l'activité professionnelle. 
 
@@ -18072,14 +18089,20 @@ par construction d'un dispositif homologué d'antidémarrage par éthylotest él
 tel dispositif soit après que celui-ci a été utilisé par un tiers pour permettre le démarrage, soit après l'avoir neutralisé
 ou détérioré ou l'avoir utilisé dans des conditions empêchant la mesure exacte de son état d'imprégnation alcoolique. 
 
-Les dispositions de l'alinéa qui précède sont également applicables lorsque les faits ont été commis par une personne ayant
-accepté d'exécuter à titre de composition pénale la mesure prévue au 4° bis de l'article 41-2 du code de procédure pénale dès
-lors que la composition pénale a été validée dans les conditions prévues par cet article. 
+Les dispositions du précédent alinéa sont également applicables lorsque les faits ont été commis :
 
-II.-Le fait, par toute personne, de faciliter sciemment, par aide ou assistance, la préparation ou la consommation de la
+- par une personne ayant accepté d'exécuter à titre de composition pénale la mesure prévue au 4° bis de l'article 41-2 du
+code de procédure pénale, dès lors que la composition pénale a été validée dans les conditions prévues par cet article ;
+
+- par  une personne soumise à une interdiction de conduire un véhicule qui ne  soit pas équipé, par un professionnel agréé ou
+par construction, d'un  dispositif homologué d'antidémarrage par éthylotest électronique  prononcée en application du 8° de
+l'article 138 du code de procédure pénale, dans le cadre d'un contrôle judiciaire ou d'une assignation à résidence sous
+surveillance électronique.
+
+II. - Le fait, par toute personne, de faciliter sciemment, par aide ou assistance, la préparation ou la consommation de la
 contravention prévue au I est puni de la même peine. 
 
-III.-Les personnes coupables des contraventions prévues au présent article encourent également les peines complémentaires
+III. - Les personnes coupables des contraventions prévues au présent article encourent également les peines complémentaires
 suivantes : 
 
 1° La suspension du permis de conduire pour une durée de trois ans au plus, cette suspension ne pouvant pas être limitée à la
@@ -18092,9 +18115,9 @@ conduire n'est pas exigé, pour une durée de trois ans au plus ;
 
 4° La confiscation du véhicule dont le prévenu s'est servi pour commettre l'infraction, s'il en est propriétaire. 
 
-IV.-La récidive des contraventions prévues au présent article est réprimée conformément à l'article 132-11 du code pénal. 
+IV. - La récidive des contraventions prévues au présent article est réprimée conformément à l'article 132-11 du code pénal. 
 
-V.-L'immobilisation du véhicule peut être prescrite dans les conditions prévues aux articles L. 325-1 à L. 325-3. "
+V. - L'immobilisation du véhicule peut être prescrite dans les conditions prévues aux articles L. 325-1 à L. 325-3. "
 
 **Liens relatifs à cet article**
 
@@ -18114,20 +18137,18 @@ V.-L'immobilisation du véhicule peut être prescrite dans les conditions prévu
 
 	**Modifié par**:
 
-	  - Décret n°2015-743 du 24 juin 2015 - art. 1
-
-	**Cite**:
-
-	  - Code pénal - art. 132-11
-	  - Code de procédure pénale - art. 41-2
-	  - Code de la route. - art. R234-1 (V)
-	  - Code de la route. - art. R234-2
-	  - Code de la route. - art. R234-4
-	  - Code de la route. - art. R234-5
+	  - Décret n°2017-198 du 16 février 2017 - art. 1
 
 	**Nouveaux textes**:
 
 	  - Code de la route. - art. R213-2 (V)
+
+	**Cite**:
+
+	  - Code de la route. - art. R234-1
+	  - Code de la route. - art. R234-2
+	  - Code de la route. - art. R234-4
+	  - Code de la route. - art. R234-5
 
 
 ###### Article R245-2
