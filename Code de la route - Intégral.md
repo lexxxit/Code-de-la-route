@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2017-03-01
+Version Consolidée au 2017-03-02
 
 # Partie législative
 
@@ -1058,6 +1058,23 @@ son permis de conduire ou " sont supprimés.
 	**Cite**:
 
 	  - Code de la route. - art. L130-9
+
+
+###### Article L143-2
+
+Sans préjudice de la compétence générale des officiers et des agents de police judiciaire, les agents des communes de la
+Nouvelle-Calédonie chargés de la surveillance de la voie publique ont compétence pour constater par procès-verbal les
+contraventions prévues par la réglementation applicable localement relatives : 
+
+1° A l'arrêt pour le stationnement des véhicules, excepté l'arrêt ou le stationnement dangereux ; 
+
+2° A l'apposition du certificat d'assurance sur le véhicule.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2017-256 du 28 février 2017 - art. 94
 
 
 ## Livre 2 : Le conducteur
@@ -4297,8 +4314,8 @@ de la moitié du nombre maximal de points du permis de conduire.
 ###### Article L233-1
 
 I.-Le fait pour tout conducteur d'omettre d'obtempérer à une sommation de s'arrêter émanant d'un fonctionnaire ou agent
-chargé de constater les infractions et muni des insignes extérieurs et apparents de sa qualité est puni de trois mois
-d'emprisonnement et de 3 750 euros d'amende. 
+chargé de constater les infractions et muni des insignes extérieurs et apparents de sa qualité est puni d'un an
+d'emprisonnement et de 7 500 euros d'amende. 
 
 II.-Toute personne coupable de ce délit encourt également les peines complémentaires suivantes : 
 
@@ -4309,7 +4326,14 @@ conduite en dehors de l'activité professionnelle ;
 prévues aux articles 131-22 à 131-24 du même code et à l'article 20-5 de l'ordonnance n° 45-174 du 2 février 1945 relative à
 l'enfance délinquante ; 
 
-3° La peine de jours-amende dans les conditions fixées aux articles 131-5 et 131-25 du code pénal. 
+3° La peine de jours-amende dans les conditions fixées aux articles 131-5 et 131-25 du code pénal ;
+
+4° L'annulation du permis de conduire avec interdiction de solliciter la délivrance d'un nouveau permis pendant trois ans au
+plus ; 
+
+5° La confiscation d'un ou de plusieurs véhicules appartenant au condamné ; 
+
+6° L'obligation d'accomplir, à ses frais, un stage de sensibilisation à la sécurité routière. 
 
 III.-Ce délit donne lieu de plein droit à la réduction de la moitié du nombre maximal de points du permis de conduire.
 
@@ -4317,18 +4341,18 @@ III.-Ce délit donne lieu de plein droit à la réduction de la moitié du nombr
 
 	**Cite**:
 
-	  - Ordonnance n°45-174 du 2 février 1945 - art. 20-5 (V)
-	  - Code pénal - art. 131-24 (V)
-	  - Code pénal - art. 131-25 (V)
-	  - Code pénal - art. 131-5 (V)
-	  - Code pénal - art. 131-8 (V)
+	  - Ordonnance n°45-174 du 2 février 1945 - art. 20-5
+	  - Code pénal - art. 131-24
+	  - Code pénal - art. 131-25
+	  - Code pénal - art. 131-5
+	  - Code pénal - art. 131-8
 
 	**Cité par**:
 
 	  - Décret n°85-891 du 16 août 1985 - art. 6 (VT)
 	  - Décret n°90-200 du 5 mars 1990 - art. 6 (Ab)
 	  - Décret n°99-752 du 30 août 1999 - art. 2 (VT)
-	  - Code de la route. - art. L233-1-1 (M)
+	  - Code de la route. - art. L233-1-1 (V)
 	  - Code de la route. - art. L233-1-2 (V)
 	  - Code de la route. - art. L243-2 (V)
 	  - Code de la route. - art. L244-2 (V)
@@ -4344,12 +4368,12 @@ III.-Ce délit donne lieu de plein droit à la réduction de la moitié du nombr
 
 	**Codifié par**:
 
-	  - Ordonnance 2000-930 2000-09-22 JORF 24 septembre 2000
-	  - Loi n°2003-495 2003-06-12 art. 38 JORF 13 juin 2003
+	  - Ordonnance n°2000-930 du 22 septembre 2000
+	  - Loi n°2003-495 du 12 juin 2003
 
 	**Modifié par**:
 
-	  - Loi n°2003-495 du 12 juin 2003 - art. 11 (V) JORF 13 juin 2003
+	  - Loi n°2017-258 du 28 février 2017 - art. 26
 
 	**Anciens textes**:
 
@@ -4359,12 +4383,6 @@ III.-Ce délit donne lieu de plein droit à la réduction de la moitié du nombr
 	  - Code de la route - art. L11-2 (Ab)
 	  - Code de la route - art. L14 (Ab)
 	  - Code de la route - art. L4 (Ab)
-	  - Code de la route L1-1 (al. 2), L1-2, L4, L11-1 (al. 1 et 2), L11-2 (al. 1), L14 (al. 1 et 2)
-
-	**Liens**:
-
-	  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
-	  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
 
 
 ###### Article L233-1-1
@@ -4374,7 +4392,7 @@ risque de mort ou de blessures de nature à entraîner une mutilation ou une inf
 d'emprisonnement et de 75 000 € d'amende. 
 
 II.-Les personnes coupables du délit prévu au présent article encourent également les peines complémentaires suivantes, outre
-celles prévues par les 2° et 3° du II de l'article L. 233-1 : 
+celles prévues par les 2°, 3°, 5° et 6° du II de l'article L. 233-1 : 
 
 1° La suspension, pour une durée de cinq ans au plus, du permis de conduire ; cette suspension ne peut être assortie du
 sursis ni être limitée à la conduite en dehors de l'activité professionnelle ; 
@@ -4382,7 +4400,7 @@ sursis ni être limitée à la conduite en dehors de l'activité professionnelle
 2° L'annulation du permis de conduire avec interdiction de solliciter la délivrance d'un nouveau permis pendant cinq ans au
 plus ; 
 
-3° La confiscation d'un ou de plusieurs véhicules appartenant au condamné ; 
+3° (Abrogé) ; 
 
 4° L'interdiction de détenir ou de porter, pour une durée de cinq ans au plus, une arme soumise à autorisation ; 
 
@@ -4394,12 +4412,12 @@ III.-Ce délit donne lieu de plein droit à la réduction de la moitié du nombr
 
 	**Codifié par**:
 
-	  - Ordonnance 2000-930 2000-09-22 JORF 24 septembre 2000
-	  - Loi n°2003-495 2003-06-12 art. 38 JORF 13 juin 2003
+	  - Ordonnance n°2000-930 du 22 septembre 2000
+	  - Loi n°2003-495 du 12 juin 2003
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2004-204 du 9 mars 2004 - art. 58 () JORF 10 mars 2004
+	  - Loi n°2017-258 du 28 février 2017 - art. 26
 
 	**Cite**:
 
@@ -4411,6 +4429,24 @@ III.-Ce délit donne lieu de plein droit à la réduction de la moitié du nombr
 	  - Code de la route. - art. L244-2 (V)
 	  - Code de la route. - art. L245-2 (V)
 	  - Code de la route. - art. R212-4 (V)
+
+
+###### Article L233-1-2
+
+Toute personne coupable, en état de récidive au sens de l'article 132-10 du code pénal, de l'infraction prévue à l'article L.
+233-1 du présent code encourt également la peine complémentaire d'annulation du permis de conduire avec interdiction de
+solliciter la délivrance d'un nouveau permis pendant cinq ans au plus.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2017-258 du 28 février 2017 - art. 26
+
+	**Cite**:
+
+	  - Code pénal - art. 132-10
+	  - Code de la route. - art. L233-1 (V)
 
 
 ###### Article L233-2
@@ -5584,10 +5620,11 @@ professionnel agréé ou par construction, d'un dispositif homologué d'anti-dé
 cette interdiction est prononcée en même temps que la peine d'annulation ou de suspension du permis de conduire, elle
 s'applique, pour la durée fixée par la juridiction, à l'issue de l'exécution de cette peine. 
 
-Art. L. 234-3.-Les officiers ou agents de police judiciaire soumettent à des épreuves de dépistage de l'imprégnation
-alcoolique par l'air expiré l'auteur présumé de l'une des infractions prévues par les dispositions applicables localement
-susceptibles d'entraîner une suspension du permis de conduire, ou le conducteur impliqué dans un accident de la circulation
-ayant occasionné un dommage corporel. 
+Art. L. 234-3.-Les officiers ou agents de police judiciaire et, sur l'ordre et sous la responsabilité des officiers de police
+judiciaire, les agents de police judiciaire adjoints soumettent à des épreuves de dépistage de l'imprégnation alcoolique par
+l'air expiré l'auteur présumé de l'une des infractions prévues par les dispositions applicables localement susceptibles
+d'entraîner une suspension du permis de conduire, ou le conducteur impliqué dans un accident de la circulation ayant
+occasionné un dommage corporel. 
 
 Ils peuvent soumettre aux mêmes épreuves tout conducteur impliqué dans un quelconque accident de la circulation ou l'auteur
 présumé de l'une des infractions aux prescriptions applicables localement relatives à la vitesse des véhicules et au port de
@@ -5597,9 +5634,14 @@ Art. L. 234-4.-Lorsque les épreuves de dépistage permettent de présumer l'exi
 conducteur refuse de les subir, les officiers ou agents de police judiciaire font procéder aux vérifications destinées à
 établir la preuve de l'état alcoolique. 
 
-Ces vérifications sont faites soit au moyen d'analyses et examens médicaux, cliniques et biologiques, soit au moyen d'un
-appareil permettant de déterminer la concentration d'alcool par l'analyse de l'air expiré, à la condition que cet appareil
-soit conforme à un type homologué. 
+Lorsque la constatation est faite par un agent de police judiciaire adjoint mentionné au 2° de l'article 21 du code de
+procédure pénale, il rend compte immédiatement de la présomption de l'existence d'un état alcoolique ou du refus du
+conducteur ou de l'accompagnateur de l'élève conducteur de subir les épreuves de dépistage à tout officier de police
+judiciaire, qui peut alors lui ordonner sans délai de lui présenter sur-le-champ la personne concernée. 
+
+Les vérifications prévues au premier alinéa sont faites soit au moyen d'analyses et examens médicaux, cliniques et
+biologiques, soit au moyen d'un appareil permettant de déterminer la concentration d'alcool par l'analyse de l'air expiré, à
+la condition que cet appareil soit conforme à un type homologué. 
 
 Art. L. 234-5.-Lorsque les vérifications sont faites au moyen d'analyses et examens médicaux, cliniques et biologiques, un
 échantillon est conservé. 
@@ -5626,9 +5668,9 @@ l'enfance délinquante ;
 2° La peine de jours-amende dans les conditions fixées aux articles 131-5 et 131-25 du code pénal. 
 
 Art. L. 234-9.-Les officiers de police judiciaire, soit sur instruction du procureur de la République, soit à leur
-initiative, et, sur l'ordre et sous la responsabilité des officiers de police judiciaire, les agents de police judiciaire
-peuvent, même en l'absence d'infraction préalable ou d'accident, soumettre toute personne qui conduit un véhicule à des
-épreuves de dépistage de l'imprégnation alcoolique par l'air expiré. 
+initiative, et, sur l'ordre et sous la responsabilité des officiers de police judiciaire, les agents de police judiciaire et
+les agents de police judiciaire adjoints peuvent, même en l'absence d'infraction préalable ou d'accident, soumettre toute
+personne qui conduit un véhicule à des épreuves de dépistage de l'imprégnation alcoolique par l'air expiré. 
 
 Lorsque les épreuves de dépistage permettent de présumer l'existence d'un état alcoolique, les officiers ou agents de police
 judiciaire font procéder aux vérifications destinées à établir la preuve de l'état alcoolique au moyen de l'appareil
@@ -5642,18 +5684,6 @@ L. 234-5.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Ordonnance n°45-174 du 2 février 1945 - art. 20-5 (V)
-	  - Code pénal - art. 131-22 (V)
-	  - Code pénal - art. 131-25 (V)
-	  - Code pénal - art. 131-5 (V)
-	  - Code pénal - art. 131-8 (V)
-	  - Code de la route. - art. L225-4
-	  - Code de la route. - art. L234-1
-	  - Code de la route. - art. L234-3 (V)
-	  - Code de la route. - art. L234-4 (V)
-
 	**Anciens textes**:
 
 	  - Loi n°95-97 du 1 février 1995 - art. 1 (Ab)
@@ -5663,13 +5693,20 @@ L. 234-5.
 
 	**Modifié par**:
 
-	  - Loi n°2011-267 du 14 mars 2011 - art. 137
+	  - Loi n°2017-256 du 28 février 2017 - art. 95
+
+	**Cite**:
+
+	  - Code de la route. - art. L225-4
+	  - Code de la route. - art. L234-1
 
 
 ###### Article L243-2
 
-Les articles L. 234-16 et L. 234-17, le I, les 3° et 4° du II et le III de l'article L. 235-1, l'article L. 235-2, le I, les
-3° et 4° du II de l'article L. 235-3 et le I de l'article L. 235-4 sont applicables en Nouvelle-Calédonie.
+Les 2°, 3° et 6° de l'article L. 231-2, le I et les 2°, 3° et 5° du II de l'article L. 233-1, le I et les 4° et 5° du II de
+l'article L. 233-1-1, le I et les 2° et 3° du II de l'article L. 233-2, les articles L. 234-16 et L. 234-17, le I, les 3° et
+4° du II et le III de l'article L. 235-1, l'article L. 235-2, le I, les 3° et 4° du II de l'article L. 235-3 et le I de
+l'article L. 235-4 sont applicables en Nouvelle-Calédonie.
 
 **Liens relatifs à cet article**
 
@@ -5680,15 +5717,19 @@ Les articles L. 234-16 et L. 234-17, le I, les 3° et 4° du II et le III de l'a
 
 	**Modifié par**:
 
-	  - Loi n°2011-267 du 14 mars 2011 - art. 137
+	  - Loi n°2017-258 du 28 février 2017 - art. 40
 
 	**Cite**:
 
-	  - Code de la route. - art. L234-16 (V)
-	  - Code de la route. - art. L235-1 (V)
-	  - Code de la route. - art. L235-2 (V)
-	  - Code de la route. - art. L235-3 (V)
-	  - Code de la route. - art. L235-4 (V)
+	  - Code de la route. - art. L231-2 (V)
+	  - Code de la route. - art. L233-1 (V)
+	  - Code de la route. - art. L233-1-1 (V)
+	  - Code de la route. - art. L233-2 (V)
+	  - Code de la route. - art. L234-16
+	  - Code de la route. - art. L235-1
+	  - Code de la route. - art. L235-2
+	  - Code de la route. - art. L235-3
+	  - Code de la route. - art. L235-4
 
 
 #### Chapitre 4 : Dispositions applicables à la Polynésie française.
@@ -5802,7 +5843,9 @@ L. 234-5. "
 
 ###### Article L244-2
 
-Les articles L. 234-16 et L. 234-17, le I, les 3° et 4° du II et le III de l'article L. 235-1, 
+Les 2°, 3° et 6° de l'article L. 231-2, le I et les 2°, 3° et 5° du II de l'article L. 233-1, le I et les 4° et 5° du II de
+l'article L. 233-1-1, le I et les 2° et 3° du II de l'article L. 233-2, les articles L. 234-16 et L. 234-17, le I, les 3° et
+4° du II et le III de l'article L. 235-1, 
 l'article L. 235-2, le I, les 3° et 4° du II de l'article L. 235-3 et le I de l'article L. 235-4 sont applicables en
 Polynésie française.
 
@@ -5815,15 +5858,19 @@ Polynésie française.
 
 	**Modifié par**:
 
-	  - Loi n°2011-267 du 14 mars 2011 - art. 137
+	  - Loi n°2017-258 du 28 février 2017 - art. 40
 
 	**Cite**:
 
-	  - Code de la route. - art. L234-16 (V)
-	  - Code de la route. - art. L235-1 (V)
-	  - Code de la route. - art. L235-2 (V)
-	  - Code de la route. - art. L235-3 (V)
-	  - Code de la route. - art. L235-4 (V)
+	  - Code de la route. - art. L231-2 (V)
+	  - Code de la route. - art. L233-1 (V)
+	  - Code de la route. - art. L233-1-1 (V)
+	  - Code de la route. - art. L233-2 (V)
+	  - Code de la route. - art. L234-16
+	  - Code de la route. - art. L235-1
+	  - Code de la route. - art. L235-2
+	  - Code de la route. - art. L235-3
+	  - Code de la route. - art. L235-4
 
 
 #### Chapitre 5 : Dispositions applicables au territoire des îles Wallis-et-Futuna.
@@ -5937,8 +5984,10 @@ au moyen d'analyses et examens médicaux, cliniques et biologiques, dans les con
 
 ###### Article L245-2
 
-Les articles L. 234-16 et L. 234-17, le I, les 3° et 4° du II et le III de l'article L. 235-1, l'article L. 235-2, le I, les
-3° et 4° du II de l'article L. 235-3 et le I de l'article L. 235-4 sont applicables dans les îles Wallis et Futuna.
+Les 2°, 3° et 6° de l'article L. 231-2, le I et les 2°, 3° et 5° du II de l'article L. 233-1, le I et les 4° et 5° du II de
+l'article L. 233-1-1, le I et les 2° et 3° du II de l'article L. 233-2, les articles L. 234-16 et L. 234-17, le I, les 3° et
+4° du II et le III de l'article L. 235-1, l'article L. 235-2, le I, les 3° et 4° du II de l'article L. 235-3 et le I de
+l'article L. 235-4 sont applicables dans les îles Wallis et Futuna.
 
 **Liens relatifs à cet article**
 
@@ -5949,15 +5998,19 @@ Les articles L. 234-16 et L. 234-17, le I, les 3° et 4° du II et le III de l'a
 
 	**Modifié par**:
 
-	  - Loi n°2011-267 du 14 mars 2011 - art. 137
+	  - Loi n°2017-258 du 28 février 2017 - art. 40
 
 	**Cite**:
 
-	  - Code de la route. - art. L234-16 (V)
-	  - Code de la route. - art. L235-1 (V)
-	  - Code de la route. - art. L235-2 (V)
-	  - Code de la route. - art. L235-3 (V)
-	  - Code de la route. - art. L235-4 (V)
+	  - Code de la route. - art. L231-2 (V)
+	  - Code de la route. - art. L233-1 (V)
+	  - Code de la route. - art. L233-1-1 (V)
+	  - Code de la route. - art. L233-2 (V)
+	  - Code de la route. - art. L234-16
+	  - Code de la route. - art. L235-1
+	  - Code de la route. - art. L235-2
+	  - Code de la route. - art. L235-3
+	  - Code de la route. - art. L235-4
 
 
 ## Livre 3 : Le véhicule
