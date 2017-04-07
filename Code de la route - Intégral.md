@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2017-03-23
+Version Consolidée au 2017-04-08
 
 # Partie législative
 
@@ -5627,8 +5627,8 @@ d'entraîner une suspension du permis de conduire, ou le conducteur impliqué da
 occasionné un dommage corporel. 
 
 Ils peuvent soumettre aux mêmes épreuves tout conducteur impliqué dans un quelconque accident de la circulation ou l'auteur
-présumé de l'une des infractions aux prescriptions applicables localement relatives à la vitesse des véhicules et au port de
-la ceinture de sécurité ou du casque. 
+présumé de l'une des infractions aux prescriptions applicables localement                autres que celles mentionnées au
+premier alinéa. 
 
 Art. L. 234-4.-Lorsque les épreuves de dépistage permettent de présumer l'existence d'un état alcoolique ou lorsque le
 conducteur refuse de les subir, les officiers ou agents de police judiciaire font procéder aux vérifications destinées à
@@ -5693,7 +5693,7 @@ L. 234-5.
 
 	**Modifié par**:
 
-	  - Loi n°2017-256 du 28 février 2017 - art. 95
+	  - Ordonnance n°2017-496 du 6 avril 2017 - art. 1
 
 	**Cite**:
 
@@ -5706,7 +5706,10 @@ L. 234-5.
 Les 2°, 3° et 6° de l'article L. 231-2, le I et les 2°, 3° et 5° du II de l'article L. 233-1, le I et les 4° et 5° du II de
 l'article L. 233-1-1, le I et les 2° et 3° du II de l'article L. 233-2, les articles L. 234-16 et L. 234-17, le I, les 3° et
 4° du II et le III de l'article L. 235-1, l'article L. 235-2, le I, les 3° et 4° du II de l'article L. 235-3 et le I de
-l'article L. 235-4 sont applicables en Nouvelle-Calédonie.
+l'article L. 235-4 sont applicables en Nouvelle-Calédonie. 
+
+Le I de l'article L. 235-1 et l'article L. 235-2 sont applicables dans leur rédaction résultant de la loi n° 2016-41 du 26
+janvier 2016 de modernisation de notre système de santé.
 
 **Liens relatifs à cet article**
 
@@ -5715,21 +5718,22 @@ l'article L. 235-4 sont applicables en Nouvelle-Calédonie.
 	  - Ordonnance n°2000-930 du 22 septembre 2000
 	  - Loi n°2003-495 du 12 juin 2003
 
-	**Modifié par**:
-
-	  - Loi n°2017-258 du 28 février 2017 - art. 40
-
 	**Cite**:
 
-	  - Code de la route. - art. L231-2 (V)
-	  - Code de la route. - art. L233-1 (V)
-	  - Code de la route. - art. L233-1-1 (V)
-	  - Code de la route. - art. L233-2 (V)
+	  - Loi n°2016-41 du 26 janvier 2016
+	  - Code de la route. - art. L231-2
+	  - Code de la route. - art. L233-1
+	  - Code de la route. - art. L233-1-1
+	  - Code de la route. - art. L233-2
 	  - Code de la route. - art. L234-16
 	  - Code de la route. - art. L235-1
 	  - Code de la route. - art. L235-2
 	  - Code de la route. - art. L235-3
 	  - Code de la route. - art. L235-4
+
+	**Modifié par**:
+
+	  - Ordonnance n°2017-496 du 6 avril 2017 - art. 1
 
 
 #### Chapitre 4 : Dispositions applicables à la Polynésie française.
@@ -5768,8 +5772,8 @@ susceptibles d'entraîner une suspension du permis de conduire, ou le conducteur
 ayant occasionné un dommage corporel. 
 
 Ils peuvent soumettre aux mêmes épreuves tout conducteur impliqué dans un quelconque accident de la circulation ou l'auteur
-présumé de l'une des infractions aux prescriptions applicables localement relatives à la vitesse des véhicules et au port de
-la ceinture de sécurité ou du casque. " 
+présumé de l'une des infractions aux prescriptions applicables localement                autres que celles mentionnées au
+premier alinéa. " 
 
 " Art. L. 234-4.-Lorsque les épreuves de dépistage permettent de présumer l'existence d'un état alcoolique ou lorsque le
 conducteur refuse de les subir, les officiers ou agents de police judiciaire font procéder aux vérifications destinées à
@@ -5822,11 +5826,11 @@ L. 234-5. "
 
 	**Cite**:
 
-	  - Ordonnance n°45-174 du 2 février 1945 - art. 20-5 (V)
-	  - Code pénal - art. 131-22 (V)
-	  - Code pénal - art. 131-25 (V)
-	  - Code pénal - art. 131-5 (V)
-	  - Code pénal - art. 131-8 (V)
+	  - Ordonnance n°45-174 du 2 février 1945 - art. 20-5
+	  - Code pénal - art. 131-22
+	  - Code pénal - art. 131-25
+	  - Code pénal - art. 131-5
+	  - Code pénal - art. 131-8
 	  - Code de la route. - art. L225-4
 
 	**Anciens textes**:
@@ -5838,7 +5842,19 @@ L. 234-5. "
 
 	**Modifié par**:
 
-	  - Loi n°2011-267 du 14 mars 2011 - art. 137
+	  - Ordonnance n°2017-496 du 6 avril 2017 - art. 1
+
+	**Liens**:
+
+	  - PILOTE_SUIVEUR: Code de la route. - art. L234-1
+	  - PILOTE_SUIVEUR: Code de la route. - art. L234-2
+	  - PILOTE_SUIVEUR: Code de la route. - art. L234-3
+	  - PILOTE_SUIVEUR: Code de la route. - art. L234-4
+	  - PILOTE_SUIVEUR: Code de la route. - art. L234-5
+	  - PILOTE_SUIVEUR: Code de la route. - art. L234-6
+	  - PILOTE_SUIVEUR: Code de la route. - art. L234-7
+	  - PILOTE_SUIVEUR: Code de la route. - art. L234-8
+	  - PILOTE_SUIVEUR: Code de la route. - art. L234-9
 
 
 ###### Article L244-2
@@ -5847,7 +5863,10 @@ Les 2°, 3° et 6° de l'article L. 231-2, le I et les 2°, 3° et 5° du II de 
 l'article L. 233-1-1, le I et les 2° et 3° du II de l'article L. 233-2, les articles L. 234-16 et L. 234-17, le I, les 3° et
 4° du II et le III de l'article L. 235-1, 
 l'article L. 235-2, le I, les 3° et 4° du II de l'article L. 235-3 et le I de l'article L. 235-4 sont applicables en
-Polynésie française.
+Polynésie française. 
+
+Le I de l'article L. 235-1 et l'article L. 235-2 sont applicables dans leur rédaction résultant de la loi n° 2016-41 du 26
+janvier 2016 de modernisation de notre système de santé.
 
 **Liens relatifs à cet article**
 
@@ -5856,21 +5875,22 @@ Polynésie française.
 	  - Ordonnance n°2000-930 du 22 septembre 2000
 	  - Loi n°2003-495 du 12 juin 2003
 
-	**Modifié par**:
-
-	  - Loi n°2017-258 du 28 février 2017 - art. 40
-
 	**Cite**:
 
-	  - Code de la route. - art. L231-2 (V)
-	  - Code de la route. - art. L233-1 (V)
-	  - Code de la route. - art. L233-1-1 (V)
-	  - Code de la route. - art. L233-2 (V)
+	  - Loi n°2016-41 du 26 janvier 2016
+	  - Code de la route. - art. L231-2
+	  - Code de la route. - art. L233-1
+	  - Code de la route. - art. L233-1-1
+	  - Code de la route. - art. L233-2
 	  - Code de la route. - art. L234-16
 	  - Code de la route. - art. L235-1
 	  - Code de la route. - art. L235-2
 	  - Code de la route. - art. L235-3
 	  - Code de la route. - art. L235-4
+
+	**Modifié par**:
+
+	  - Ordonnance n°2017-496 du 6 avril 2017 - art. 1
 
 
 #### Chapitre 5 : Dispositions applicables au territoire des îles Wallis-et-Futuna.
@@ -5909,8 +5929,8 @@ susceptibles d'entraîner une suspension du permis de conduire, ou le conducteur
 ayant occasionné un dommage corporel. 
 
 Ils peuvent soumettre aux mêmes épreuves tout conducteur impliqué dans un quelconque accident de la circulation ou l'auteur
-présumé de l'une des infractions aux prescriptions applicables localement relatives à la vitesse des véhicules et au port de
-la ceinture de sécurité ou du casque. " 
+présumé de l'une des infractions aux prescriptions applicables localement                autres que celles mentionnées au
+premier alinéa. " 
 
 " Art. L. 234-4.-Lorsque les épreuves de dépistage permettent de présumer l'existence d'un état alcoolique ou lorsque le
 conducteur refuse de les subir, les officiers ou agents de police judiciaire font procéder aux vérifications destinées à
@@ -5963,11 +5983,11 @@ au moyen d'analyses et examens médicaux, cliniques et biologiques, dans les con
 
 	**Cite**:
 
-	  - Ordonnance n°45-174 du 2 février 1945 - art. 20-5 (V)
-	  - Code pénal - art. 131-22 (V)
-	  - Code pénal - art. 131-25 (V)
-	  - Code pénal - art. 131-5 (V)
-	  - Code pénal - art. 131-8 (V)
+	  - Ordonnance n°45-174 du 2 février 1945 - art. 20-5
+	  - Code pénal - art. 131-22
+	  - Code pénal - art. 131-25
+	  - Code pénal - art. 131-5
+	  - Code pénal - art. 131-8
 	  - Code de la route. - art. L225-4
 
 	**Anciens textes**:
@@ -5979,7 +5999,19 @@ au moyen d'analyses et examens médicaux, cliniques et biologiques, dans les con
 
 	**Modifié par**:
 
-	  - Loi n°2011-267 du 14 mars 2011 - art. 137
+	  - Ordonnance n°2017-496 du 6 avril 2017 - art. 1
+
+	**Liens**:
+
+	  - PILOTE_SUIVEUR: Code de la route. - art. L234-1
+	  - PILOTE_SUIVEUR: Code de la route. - art. L234-2
+	  - PILOTE_SUIVEUR: Code de la route. - art. L234-3
+	  - PILOTE_SUIVEUR: Code de la route. - art. L234-4
+	  - PILOTE_SUIVEUR: Code de la route. - art. L234-5
+	  - PILOTE_SUIVEUR: Code de la route. - art. L234-6
+	  - PILOTE_SUIVEUR: Code de la route. - art. L234-7
+	  - PILOTE_SUIVEUR: Code de la route. - art. L234-8
+	  - PILOTE_SUIVEUR: Code de la route. - art. L234-9
 
 
 ###### Article L245-2
@@ -5987,7 +6019,10 @@ au moyen d'analyses et examens médicaux, cliniques et biologiques, dans les con
 Les 2°, 3° et 6° de l'article L. 231-2, le I et les 2°, 3° et 5° du II de l'article L. 233-1, le I et les 4° et 5° du II de
 l'article L. 233-1-1, le I et les 2° et 3° du II de l'article L. 233-2, les articles L. 234-16 et L. 234-17, le I, les 3° et
 4° du II et le III de l'article L. 235-1, l'article L. 235-2, le I, les 3° et 4° du II de l'article L. 235-3 et le I de
-l'article L. 235-4 sont applicables dans les îles Wallis et Futuna.
+l'article L. 235-4 sont applicables dans les îles Wallis et Futuna. 
+
+Le I de l'article L. 235-1 et l'article L. 235-2 sont applicables dans leur rédaction résultant de la loi n° 2016-41 du 26
+janvier 2016 de modernisation de notre système de santé.
 
 **Liens relatifs à cet article**
 
@@ -5996,21 +6031,22 @@ l'article L. 235-4 sont applicables dans les îles Wallis et Futuna.
 	  - Ordonnance n°2000-930 du 22 septembre 2000
 	  - Loi n°2003-495 du 12 juin 2003
 
-	**Modifié par**:
-
-	  - Loi n°2017-258 du 28 février 2017 - art. 40
-
 	**Cite**:
 
-	  - Code de la route. - art. L231-2 (V)
-	  - Code de la route. - art. L233-1 (V)
-	  - Code de la route. - art. L233-1-1 (V)
-	  - Code de la route. - art. L233-2 (V)
+	  - Loi n°2016-41 du 26 janvier 2016
+	  - Code de la route. - art. L231-2
+	  - Code de la route. - art. L233-1
+	  - Code de la route. - art. L233-1-1
+	  - Code de la route. - art. L233-2
 	  - Code de la route. - art. L234-16
 	  - Code de la route. - art. L235-1
 	  - Code de la route. - art. L235-2
 	  - Code de la route. - art. L235-3
 	  - Code de la route. - art. L235-4
+
+	**Modifié par**:
+
+	  - Ordonnance n°2017-496 du 6 avril 2017 - art. 1
 
 
 ## Livre 3 : Le véhicule
