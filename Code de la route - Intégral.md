@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2017-04-08
+Version Consolidée au 2017-04-23
 
 # Partie législative
 
@@ -18411,6 +18411,30 @@ police.
 ### Titre Ier : Dispositions techniques.
 
 #### Chapitre Ier : Dispositions générales et définitions.
+
+###### Article D311-4
+
+A l'occasion des contrôles des véhicules et de leurs conducteurs, sont seuls compétents pour procéder, en application de
+l'article L. 311-2, aux opérations permettant d'accéder aux informations et aux données numériques embarquées relatives à
+l'identification et à la conformité du véhicule et de ses composants les officiers ou agents de police judiciaire de la
+gendarmerie ou de la police nationales territorialement compétents ainsi que les fonctionnaires ou agents de l'Etat chargés
+du contrôle des transports terrestres placés sous l'autorité du ministre chargé des transports et détenteurs d'un dispositif
+technique permettant la lecture de ces informations et données. 
+
+Lorsqu'elles sont de nature physique, les informations et données relatives à l'identification et à la conformité du véhicule
+et de ses composants peuvent être relevées par l'ensemble des agents habilités à procéder à ces contrôles conformément aux
+dispositions du code de procédure pénale ou du présent code.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-589 du 20 avril 2017 - art. 1
+
+	**Cite**:
+
+	  - Code de la route. - art. L311-2
+
 
 ###### Article R311-1
 
