@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2017-07-01
+Version Consolidée au 2017-09-30
 
 # Partie législative
 
@@ -17299,11 +17299,17 @@ R. 235-6 que des dispositions des articles R. 3354-7 à R. 3354-11 du code de la
 indemnité de déplacement et des honoraires que pour un seul acte. 
 
 Les frais afférents aux examens de laboratoire mentionnés aux articles R. 235-10 et R. 235-11 relatifs à la recherche de
-produits stupéfiants et, le cas échéant, les frais afférents à la recherche de médicaments psychoactifs sont fixés par
-référence aux 10° et 11° de l'article R. 118 du code de procédure pénale. 
+produits stupéfiants et, le cas échéant, les frais afférents à la recherche de médicaments psychoactifs sont fixés
+conformément aux dispositions de l'article R. 118 du code de procédure pénale. 
 
 Les frais afférents à l'acquisition des matériels de recueil et de dépistage prévus par l'article R. 235-3 sont fixés par
 arrêté conjoint du ministre de la justice et du ministre chargé du budget.
+
+**Nota:**
+
+Conformément aux dispositions du I de l'article 9 du décret n° 2017-248 du 27 février 2017, ces dispositions entrent en
+vigueur à une date fixée par l'arrêté auquel renvoient les dispositions de l'article R. 118 du code de procédure pénale, et
+au plus tard le 30 septembre 2017, et s'appliquent aux actes prescrits à compter de cette date.
 
 **Liens relatifs à cet article**
 
@@ -17851,7 +17857,7 @@ Lorsqu'il est procédé à un examen clinique et à un prélèvement biologique 
 
 Les frais afférents aux examens de laboratoire prévus par les articles R. 235-10 et R. 235-11 relatifs à la recherche et au
 dosage des produits stupéfiants et, le cas échéant, les frais afférents à la recherche des médicaments psychoactifs sont
-fixés par référence aux 10° et 11° de l'article R. 118 du code de procédure pénale.
+fixés conformément aux dispositions de l'article R. 118 du code de procédure pénale.
 
 Les frais afférents à l'acquisition des matériels de recueil et de dépistage prévus par l'article R. 235-3 sont fixés par
 arrêté conjoint du ministre de la justice et du ministre chargé du budget.
@@ -17862,6 +17868,12 @@ Les dispositions du présent article ne sont pas applicables aux recueils saliva
 de police.
 
 Le paiement de ces frais a lieu conformément aux dispositions du titre X du livre V du code de procédure pénale."
+
+**Nota:**
+
+Conformément aux dispositions du I de l'article 9 du décret n° 2017-248 du 27 février 2017, ces dispositions entrent en
+vigueur à une date fixée par l'arrêté auquel renvoient les dispositions de l'article R. 118 du code de procédure pénale, et
+au plus tard le 30 septembre 2017, et s'appliquent aux actes prescrits à compter de cette date.
 
 **Liens relatifs à cet article**
 
@@ -17878,10 +17890,6 @@ Le paiement de ces frais a lieu conformément aux dispositions du titre X du liv
 	  - Arrêté du 5 septembre 2001 - art. 16-1 (Ab)
 	  - Code de la route - art. R244 (M)
 	  - Code de la route - art. R245-1 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2001-251 du 22 mars 2001
 
 	**Modifié par**:
 
@@ -18088,7 +18096,7 @@ Lorsqu'il est procédé à un examen clinique et à un prélèvement biologique 
 
 Les frais afférents aux examens de laboratoire prévus par les articles R. 235-10 et R. 235-11 relatifs à la recherche et au
 dosage des produits stupéfiants et, le cas échéant, les frais afférents à la recherche des médicaments psychoactifs sont
-fixés par référence aux 10° et 11° de l'article R. 118 du code de procédure pénale. 
+fixés conformément aux dispositions de l'article R. 118 du code de procédure pénale. 
 
 Les frais afférents à l'acquisition des matériels de recueil et de dépistage prévus par l'article R. 235-3 sont fixés par
 arrêté conjoint du ministre de la justice et du ministre chargé du budget.
@@ -18100,11 +18108,13 @@ de police.
 
 Le paiement de ces frais a lieu conformément aux dispositions du titre X du livre V du code de procédure pénale. "
 
+**Nota:**
+
+Conformément aux dispositions du I de l'article 9 du décret n° 2017-248 du 27 février 2017, ces dispositions entrent en
+vigueur à une date fixée par l'arrêté auquel renvoient les dispositions de l'article R. 118 du code de procédure pénale, et
+au plus tard le 30 septembre 2017, et s'appliquent aux actes prescrits à compter de cette date.
+
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2001-251 du 22 mars 2001
 
 	**Cité par**:
 
@@ -18309,7 +18319,7 @@ l'article R. 235-4. Ces fiches sont ensuite transmises à l'officier ou à l'age
 prélèvement biologique. 
 
 " Art. R. 235-11-Le conducteur peut demander au procureur de la République, au juge d'instruction ou à la juridiction de
-jugement qu'il soit procédé à un examen technique ou à une expertise en application des articles 60,77-1 et 156 du code de
+jugement qu'il soit procédé à un examen technique ou à une expertise en application des articles 60, 77-1 et 156 du code de
 procédure pénale. 
 
 " De même, le conducteur peut demander qu'il soit procédé, dans les mêmes conditions, à la recherche de l'usage des
@@ -18330,7 +18340,7 @@ R. 117 du code de procédure pénale.
 
 " Les frais afférents aux examens de laboratoire prévus par les articles R. 235-10 et R. 235-11 relatifs à la recherche et au
 dosage des produits stupéfiants et, le cas échéant, les frais afférents à la recherche des médicaments psychoactifs sont
-fixés par référence aux 10° et 11° de l'article R. 118 du code de procédure pénale. 
+fixés conformément aux dispositions de l'article R. 118 du code de procédure pénale. 
 
 " Les frais afférents à l'acquisition des matériels de recueil et de dépistage prévus par l'article R. 235-3 sont fixés par
 arrêté conjoint du ministre de la justice et du ministre chargé du budget. 
@@ -18342,16 +18352,18 @@ police.
 
 " Le paiement de ces frais a lieu conformément aux dispositions du titre X du livre V du code de procédure pénale. "
 
+**Nota:**
+
+Conformément aux dispositions du I de l'article 9 du décret n° 2017-248 du 27 février 2017, ces dispositions entrent en
+vigueur à une date fixée par l'arrêté auquel renvoient les dispositions de l'article R. 118 du code de procédure pénale, et
+au plus tard le 30 septembre 2017, et s'appliquent aux actes prescrits à compter de cette date.
+
 **Liens relatifs à cet article**
 
 	**Cité par**:
 
 	  - Arrêté du 8 janvier 2001 - art. 13 (V)
 	  - Arrêté du 5 septembre 2001 - art. 16-1 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2001-251 du 22 mars 2001
 
 	**Modifié par**:
 
