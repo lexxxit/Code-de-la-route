@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2017-09-30
+Version Consolidée au 2017-11-18
 
 # Partie législative
 
@@ -2852,6 +2852,71 @@ conduire n'est pas exigé, pour une durée de cinq ans au plus ;
 	  - Loi n°2011-267 du 14 mars 2011 - art. 77
 
 
+#### Chapitre 3 bis : Points affectés au conducteur titulaire d'un permis de conduire délivré par une autorité étrangère
+
+###### Article L223-10
+
+I.-Tout conducteur titulaire d'un permis de conduire délivré par une autorité étrangère circulant sur le territoire national
+se voit affecter un nombre de points. Ce nombre de points est réduit de plein droit si ce conducteur a commis sur le
+territoire national une infraction pour laquelle cette réduction est prévue. 
+
+II.-La réalité d'une infraction entraînant un retrait de points, conformément au I du présent article, est établie dans les
+conditions prévues à l'avant-dernier alinéa de l'article L. 223-1. 
+
+Le retrait de points est réalisé dans les conditions prévues à l'article L. 223-2 et aux deux premiers alinéas de l'article
+L. 223-3. Il est porté à la connaissance de l'intéressé dans les conditions prévues au dernier alinéa du même article L.
+223-3. 
+
+En cas de retrait de la totalité des points affectés au conducteur mentionné au I du présent article, l'intéressé se voit
+notifier par l'autorité administrative l'interdiction de circuler sur le territoire national pendant une durée d'un an. Au
+terme de cette durée, l'intéressé se voit affecter un nombre de points dans les conditions prévues au même I. 
+
+III.-Le fait de conduire un véhicule sur le territoire national malgré la notification de l'interdiction prévue au dernier
+alinéa du II du présent article est puni des peines prévues aux III et IV de l'article L. 223-5. 
+
+L'immobilisation du véhicule peut être prescrite dans les conditions prévues aux articles L. 325-1 à L. 325-3. 
+
+IV.-Le conducteur mentionné au I du présent article peut se voir affecter le nombre maximal de points ou réattribuer des
+points dans les conditions prévues aux premier à troisième et dernier alinéas de l'article L. 223-6. 
+
+Il peut obtenir une récupération de points s'il suit un stage de sensibilisation à la sécurité routière dans les conditions
+prévues à la première phrase de l'avant-dernier alinéa de l'article L. 223-6. 
+
+V.-Les informations relatives au nombre de points dont dispose le conducteur mentionné au I du présent article ne peuvent
+être collectées que dans les conditions prévues à l'article L. 223-7. 
+
+VI.-Un décret en Conseil d'Etat fixe les modalités d'application du présent article.
+
+**Nota:**
+
+Conformément à l'article 37 II de la loi n° 2016-1547 du 18 novembre 2016, les présentes dispositions entrent en vigueur à
+une date fixée par décret en Conseil d'Etat, et au plus tard un an après la promulgation de ladite loi.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 37 (V)
+
+
+###### Article L223-11
+
+Sans préjudice du deuxième alinéa de l'article L. 223-1, le permis de conduire national délivré par l'autorité administrative
+à un conducteur mentionné au I de l'article L. 223-10 ayant sa résidence normale en France est affecté d'un nombre de points
+équivalent à celui dont dispose ce conducteur à la date d'obtention du permis de conduire.
+
+**Nota:**
+
+Conformément à l'article 37 II de la loi n° 2016-1547 du 18 novembre 2016, les présentes dispositions entrent en vigueur à
+une date fixée par décret en Conseil d'Etat, et au plus tard un an après la promulgation de ladite loi.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 37 (V)
+
+
 #### Chapitre  4 : Interdiction de délivrance, rétention, suspension et annulation.
 
 ###### Article L224-1
@@ -3542,22 +3607,31 @@ de conduire ainsi que de l'exécution d'une composition pénale ;
 7° De toute modification du nombre de points affectant un permis de conduire dans les conditions définies aux articles L.
 223-1 à L. 223-8. 
 
+8° Du nombre de points affectés au conducteur mentionné au I de l'article L. 223-10 lorsque ce conducteur a commis une
+infraction entraînant un retrait de points, de toute modification de ce nombre et des décisions administratives dûment
+notifiées portant interdiction de conduire sur le territoire national.
+
 II.-Ces informations peuvent faire l'objet de traitements automatisés, soumis aux dispositions de la loi n° 78-17 du 6
 janvier 1978 relative à l'informatique, aux fichiers et aux libertés.
+
+**Nota:**
+
+Conformément à l'article 37 II de la loi n° 2016-1547 du 18 novembre 2016, les présentes dispositions entrent en vigueur à
+une date fixée par décret en Conseil d'Etat, et au plus tard un an après la promulgation de ladite loi.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Loi n°78-17 du 6 janvier 1978 (V)
-	  - Code de la route. - art. L223-1 (V)
+	  - Loi n°78-17 du 6 janvier 1978
+	  - Code de la route. - art. L223-1
 
 	**Cité par**:
 
 	  - Arrêté du 29 juin 1992 - art. 8 (V)
 	  - Code de la route. - art. L223-3 (V)
 	  - Code de la route. - art. L225-2 (V)
-	  - Code de la route. - art. L225-4 (V)
+	  - Code de la route. - art. L225-4 (VD)
 	  - Code de la route. - art. L225-7 (V)
 	  - Code de la route. - art. L225-8 (V)
 	  - Code de la route. - art. L225-9 (V)
@@ -3566,14 +3640,17 @@ janvier 1978 relative à l'informatique, aux fichiers et aux libertés.
 
 	**Codifié par**:
 
-	  - Ordonnance 2000-930 2000-09-22 JORF 24 septembre 2000
-	  - Loi n°2003-495 2003-06-12 art. 38 JORF 13 juin 2003
+	  - Ordonnance n°2000-930 du 22 septembre 2000
+	  - Loi n°2003-495 du 12 juin 2003
+
+	**Modifié par**:
+
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 37 (V)
 
 	**Anciens textes**:
 
 	  - Code de la route - art. L30 (Ab)
 	  - Code de la route - art. L31 (Ab)
-	  - Code de la route L30 (al. 1, 2, 4 à 9), L31
 
 
 ###### Article L225-2
@@ -3630,9 +3707,14 @@ conduire dont la délivrance est sollicitée.
 
 ###### Article L225-3
 
-Le titulaire du permis de conduire a droit à la communication du relevé intégral des mentions le concernant. Cette
-communication s'exerce dans les conditions prévues par le livre III du code des relations entre le public et
-l'administration.
+Le titulaire du permis de conduire et le conducteur mentionné au I de l'article L. 223-10 ont droit à la communication du
+relevé intégral des mentions le concernant. Cette communication s'exerce dans les conditions prévues par le livre III du code
+des relations entre le public et l'administration.
+
+**Nota:**
+
+Conformément à l'article 37 II de la loi n° 2016-1547 du 18 novembre 2016, les présentes dispositions entrent en vigueur à
+une date fixée par décret en Conseil d'Etat, et au plus tard un an après la promulgation de ladite loi.
 
 **Liens relatifs à cet article**
 
@@ -3648,7 +3730,7 @@ l'administration.
 
 	**Modifié par**:
 
-	  - ORDONNANCE n°2015-1341 du 23 octobre 2015 - art. 3 (V)
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 37 (V)
 
 	**Anciens textes**:
 
@@ -3656,7 +3738,7 @@ l'administration.
 
 	**Cite**:
 
-	  - Code des relations entre le public et l'adminis... - art. L300-1 (V)
+	  - Code des relations entre le public et l'administration - art. L300-1
 
 
 ###### Article L225-4
@@ -3665,10 +3747,17 @@ Les autorités judiciaires, les magistrats de l'ordre administratif dans le cadr
 retrait de point du permis de conduire, les officiers de police judiciaire chargés de l'exécution d'une ordonnance
 juridictionnelle ou agissant dans le cadre d'une enquête de flagrance, le représentant de l'Etat dans le département dans
 l'exercice de ses compétences en matière de permis de conduire, les militaires de la gendarmerie et les fonctionnaires de la
-police nationale habilités à effectuer des contrôles routiers en application du présent code ainsi que les fonctionnaires ou
-agents de l'Etat chargés du contrôle des transports terrestres placés sous l'autorité du ministre chargé des transports pour
-l'exercice des compétences en matière de contrôle du transport routier prévues au présent code, sont autorisés à accéder aux
-informations enregistrées en application de l'article L. 225-1.
+police nationale habilités à effectuer des contrôles routiers en application du présent code, les agents spécialement
+habilités des observatoires et des établissements publics chargés de réaliser des études statistiques sur les accidents de la
+route pour le compte du ministre chargé de la sécurité routière ainsi que les fonctionnaires ou agents de l'Etat chargés du
+contrôle des transports terrestres placés sous l'autorité du ministre chargé des transports pour l'exercice des compétences
+en matière de contrôle du transport routier prévues au présent code, sont autorisés à accéder aux informations enregistrées
+en application de l'article L. 225-1.
+
+**Nota:**
+
+Conformément à l'article 37 II de la loi n° 2016-1547 du 18 novembre 2016, les présentes dispositions entrent en vigueur à
+une date fixée par décret en Conseil d'Etat, et au plus tard un an après la promulgation de ladite loi.
 
 **Liens relatifs à cet article**
 
@@ -3686,7 +3775,7 @@ informations enregistrées en application de l'article L. 225-1.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2016-460 du 14 avril 2016 - art. 1
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 37 (V)
 
 	**Anciens textes**:
 
@@ -3694,14 +3783,14 @@ informations enregistrées en application de l'article L. 225-1.
 
 	**Cite**:
 
-	  - Code de la route. - art. L225-1
+	  - Code de la route. - art. L225-1 (VD)
 
 
 ###### Article L225-5
 
 Les informations relatives à l'existence, la catégorie et la validité du permis de conduire sont communiquées :
 
-1° Au titulaire du permis, à son avocat ou à son mandataire ;
+1° Au titulaire du permis ou au conducteur mentionné au I de l'article L. 223-10, à son avocat ou à son mandataire ;
 
 2° Aux autorités compétentes des territoires et collectivités territoriales d'outre-mer, aux fins d'authentification du
 permis de conduire ;
@@ -3736,6 +3825,15 @@ chargé des transports pour l'exercice des compétences en matière de contrôle
 11° Aux entreprises exerçant une activité de transport public routier de voyageurs ou de marchandises, pour les personnes
 qu'elles emploient comme conducteur de véhicule à moteur.
 
+Pour le conducteur mentionné au I de l'article L. 223-10, les informations mentionnées au premier alinéa du présent article
+comprennent celles relatives aux décisions dûment notifiées portant interdiction de conduire sur le territoire national
+enregistrées en application du 8° du I de l'article L. 225-1.
+
+**Nota:**
+
+Conformément à l'article 37 II de la loi n° 2016-1547 du 18 novembre 2016, les présentes dispositions entrent en vigueur à
+une date fixée par décret en Conseil d'Etat, et au plus tard un an après la promulgation de la présente loi.
+
 **Liens relatifs à cet article**
 
 	**Cité par**:
@@ -3751,7 +3849,7 @@ qu'elles emploient comme conducteur de véhicule à moteur.
 
 	**Modifié par**:
 
-	  - Loi n°2016-339 du 22 mars 2016 - art. 7
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 37 (V)
 
 	**Anciens textes**:
 
