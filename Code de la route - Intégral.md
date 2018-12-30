@@ -1,5 +1,5 @@
 # Code de la route  
-Version Consolidée au 2018-01-01
+Version Consolidée au 2018-12-31
 
 # Partie législative
 
@@ -8510,6 +8510,9 @@ ces entreprises dès lors que ces informations ont pour seul but d'identifier le
 accident de la circulation à condition qu'au moins un des véhicules soit assuré par le demandeur ou que ce dernier ait en
 charge l'indemnisation d'une des victimes ; 
 
+8° bis Aux personnels habilités du fonds de garantie des assurances obligatoires de dommages mentionné à l'article L. 421-1
+du code des assurances en vue de mener les missions fixées au V du même article ; 
+
 9° Aux autorités étrangères avec lesquelles existe un accord d'échange d'informations relatives à l'identification du
 titulaire du certificat d'immatriculation ; 
 
@@ -8554,9 +8557,8 @@ paiement du péage.
 
 **Nota:**
 
-Conformément au V de l'article 63 de la loi n° 2014-58 du 27 janvier 2014, modifié par l'article 77 de la loi n° 2015-991 du
-7 août 2015 et par l'article 45 de la loi n° 2015-1785 du 29 décembre 2015, ces dispositions entrent en vigueur à compter du
-1er janvier 2018.
+Conformément à l'article 35 V de la loi n° 2016-1547 du 18 novembre 2016, un décret en Conseil d'Etat fixe les modalités
+d'application et la date de l'entrée en vigueur des présentes dispositions qui intervient au plus tard le 31 décembre 2018.
 
 **Liens relatifs à cet article**
 
@@ -8581,17 +8583,18 @@ Conformément au V de l'article 63 de la loi n° 2014-58 du 27 janvier 2014, mod
 
 	**Modifié par**:
 
-	  - Loi n°2014-58 du 27 janvier 2014 - art. 63 (M)
-	  - ORDONNANCE n°2015-401 du 9 avril 2015 - art. 6
-	  - Loi n°2015-993 du 17 août 2015 - art. 35 (V)
-	  - Loi n°2016-339 du 22 mars 2016 - art. 7
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 35 (V)
+
+	**Anciens textes**:
+
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 35 (V)
 
 	**Cite**:
 
 	  - Code général de la propriété des personnes publiques. - art. L2132-21
 	  - Code général de la propriété des personnes publiques. - art. L2132-23
 	  - Code de procédure pénale - art. 14
-	  - Code de l'environnement - art. L541-21-3 (V)
+	  - Code de l'environnement - art. L541-21-3
 	  - Code de la route. - art. L130-4
 	  - Code de la route. - art. L130-7
 	  - Code des transports - art. L2241-1
@@ -8600,10 +8603,6 @@ Conformément au V de l'article 63 de la loi n° 2014-58 du 27 janvier 2014, mod
 	  - Code des transports - art. L4321-3
 	  - Code des transports - art. L5243-1
 	  - Code des transports - art. L5337-2
-
-	**Anciens textes**:
-
-	  - Code de la route - art. L36 (Ab)
 
 
 ###### Article L330-3
